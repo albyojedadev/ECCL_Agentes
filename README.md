@@ -6,19 +6,27 @@
 
 ## ⚡ Instalación Rápida en 1 Comando
 
-Para instalar toda la suite en tu equipo, abre tu terminal y ejecuta la instrucción correspondiente a tu sistema operativo:
+Para clonar e instalar toda la suite en tu equipo, abre tu terminal y ejecuta:
 
-### En Windows (PowerShell):
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/albyojedadev/ECCL_Agentes.git
+cd ECCL_Agentes
+```
+
+### 2. Ejecutar el instalador
+**En Windows (PowerShell):**
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
 ```
 
-### En Linux / macOS (Bash):
+**En Linux / macOS (Bash):**
 ```bash
 chmod +x ./scripts/install.sh && ./scripts/install.sh
 ```
 
 El instalador vinculará automáticamente el paquete en tu directorio de plugins (`~/.gemini/config/plugins/eccl-agent-suite`) y ejecutará las pruebas de salud y linters pre-vuelo asegurando que todo esté al 100% operativo.
+
 
 ---
 
