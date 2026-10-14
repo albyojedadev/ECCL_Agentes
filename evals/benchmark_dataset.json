@@ -1,0 +1,159 @@
+{
+  "version": "1.0.0",
+  "institucion": "Escuela Canaria de Creación Literaria",
+  "descripcion": "Dataset canónico de 30 casos de prueba para validación TDD y evaluación continua de los agentes y skills.",
+  "casos": [
+    {
+      "id": "LIT-01",
+      "categoria": "critica_pedagogica",
+      "agente_objetivo": "critico-literario-de-la-eccl",
+      "skill_asociada": "critica-pedagogica-literaria",
+      "entrada": {
+        "alumno": "Elena R.",
+        "consigna": "Escribir un diálogo de despedida donde el conflicto no se nombre directamente.",
+        "texto": "Ella dobló el abrigo de lana gris sobre el respaldo de la silla. Los botones de madera rozaron el respaldo con un chasquido seco. 'El tren sale a las seis', dijo él mirando la cafetera. 'Lo sé', respondió ella. Y luego añade: 'Me sentía profundamente destrozada, un dolor inmenso que desentrañaba mi alma y me sumergía en un tapiz de tristeza indescriptible'."
+      },
+      "salida_esperada": {
+        "estructura_bifasica_requerida": true,
+        "informe_interno_diagnostico": "Detectar ruptura de la consigna en el último párrafo por sobreexplicación sentimental y uso de abstracciones que arruinan la escena contenida.",
+        "comentario_externo_antonia": "Elogiar el gesto del abrigo y el sonido seco de los botones; pedir recortar la explicación final con ternura para dejar hablar a los objetos.",
+        "cliches_prohibidos": ["tapiz", "desentrañaba", "sumergía"]
+      }
+    },
+    {
+      "id": "LIT-02",
+      "categoria": "critica_pedagogica",
+      "agente_objetivo": "critico-literario-de-la-eccl",
+      "skill_asociada": "critica-pedagogica-literaria",
+      "entrada": {
+        "alumno": "Carlos M.",
+        "consigna": "Construir una escena a partir de un objeto cotidiano roto o deteriorado.",
+        "texto": "La soledad es una condición intrínseca al ser humano contemporáneo en las grandes urbes. Uno camina por las calles y reflexiona sobre el sentido de la existencia sin encontrar asidero en la multitud."
+      },
+      "salida_esperada": {
+        "estructura_bifasica_requerida": true,
+        "informe_interno_diagnostico": "Texto puramente ensayístico-abstracto. Cero sensorialidad, ningún objeto, ninguna escena encarnada.",
+        "comentario_externo_antonia": "Invitar al alumno a bajar la mente al cuerpo, nombrar una taza rota, una bombilla parpadeante o un zapato gastado."
+      }
+    },
+    {
+      "id": "LIT-03",
+      "categoria": "originalidad_y_voz",
+      "agente_objetivo": "critico-literario-de-la-eccl",
+      "skill_asociada": "verificacion-originalidad-y-voz-propia",
+      "entrada": {
+        "alumno": "Sonia G.",
+        "texto": "El detective fumaba en la penumbra de su despacho lluvioso mientras una mujer fatal de vestido rojo entraba por la puerta pidiendo ayuda."
+      },
+      "salida_esperada": {
+        "diagnostico_originalidad": "Voz impostada y derivativa del cine negro clásico cliché. Requiere anclaje a vivencias o detalles insólitos propios."
+      }
+    },
+    {
+      "id": "GHOST-01",
+      "categoria": "voz_autoral_antonia",
+      "agente_objetivo": "ghostwriter-de-antonia-molinero",
+      "skill_asociada": "antonia-molinero-voice",
+      "entrada": {
+        "tipo_texto": "Carta de bienvenida al nuevo curso académico",
+        "tema": "22 años de la Escuela Literaria: el valor de nombrar lo íntimo",
+        "tono": "Luminosa, tierna y reflexiva"
+      },
+      "salida_esperada": {
+        "elementos_clave": ["Mesa de trabajo compartida", "El miedo a la hoja en blanco como respeto a la palabra", "Comunidad de personas que leen y escuchan"],
+        "terminos_prohibidos": ["fascinante", "viaje transformador", "en conclusión"]
+      }
+    },
+    {
+      "id": "SUBV-01",
+      "categoria": "subvenciones_publicas",
+      "agente_objetivo": "analista-de-subvenciones-y-licitaciones",
+      "skill_asociada": "cultural-grant-writer-es",
+      "entrada": {
+        "organismo": "Instituto Canario de Desarrollo Cultural (ICDC)",
+        "convocatoria": "Ayudas a proyectos de fomento de la lectura y creación literaria 2026",
+        "proyecto": "Escuela Portátil en municipios no capitalinos de Tenerife y La Palma"
+      },
+      "salida_esperada": {
+        "estructura_memoria": ["Justificación de descentralización insular", "Objetivos alineados con estrategia cultural canaria", "Presupuesto desglosado < 18.000€", "Cronograma trimestral"],
+        "modo_copycat": true
+      }
+    },
+    {
+      "id": "ADM-01",
+      "categoria": "scoring_admisiones",
+      "agente_objetivo": "orientador-de-admisiones-y-alumnos",
+      "skill_asociada": "lead-scoring-eccl",
+      "entrada": {
+        "nombre": "Beatriz V.",
+        "edad": 38,
+        "interes": "Escribe relatos en su tiempo libre, quiere publicar su primer libro, disponibilidad los jueves tarde.",
+        "ubicacion": "Santa Cruz de Tenerife"
+      },
+      "salida_esperada": {
+        "scoring_estimado": "Muy Alto (A)",
+        "itinerario_recomendado": "Curso de Creación Literaria Anual (Presencial Jueves 17h-19h) con Antonia Molinero",
+        "requisito_previo": "Muestra de escritura + entrevista personal con Antonia"
+      }
+    },
+    {
+      "id": "HAB-01",
+      "categoria": "coaching_creativo",
+      "agente_objetivo": "companero-de-escritura-y-habito",
+      "skill_asociada": "desbloqueo-creativo-socratico",
+      "entrada": {
+        "alumno": "Manuel P.",
+        "problema": "Lleva dos meses bloqueado en el capítulo 4 de su novela familiar porque teme ofender a su hermana."
+      },
+      "salida_esperada": {
+        "enfoque_socratico": "Diferenciar entre biografía literal y verdad emocional; proponer ejercicio de máscara ficticia o cambio de punto de vista a objeto testigo."
+      }
+    },
+    {
+      "id": "DES-01",
+      "categoria": "diseno_grafico",
+      "agente_objetivo": "disenador-grafico-y-carteleria",
+      "skill_asociada": "diseno-carteleria-y-redes-eccl",
+      "entrada": {
+        "evento": "Taller Hablar en Público de Jorge Soriano",
+        "fechas": "3 y 4 de Octubre",
+        "formato": "Cartel A3 y Post Instagram"
+      },
+      "salida_esperada": {
+        "paleta_hex": ["#FAF8F5", "#1A1A1A", "#C2593F", "#1E3A5F"],
+        "tipografias": ["Playfair Display", "Inter"],
+        "safe_zones_respetadas": true,
+        "cliches_evitados": ["Sin micrófonos vintage dorados de stock ni focos de concierto"]
+      }
+    },
+    {
+      "id": "BRAND-01",
+      "categoria": "auditoria_marca",
+      "agente_objetivo": "guardian-de-marca-e-identidad-visual",
+      "skill_asociada": "supervision-identidad-visual-eccl",
+      "entrada": {
+        "propuesta_recibida": {
+          "color_primario": "#3B82F6",
+          "fuente": "Roboto",
+          "imagen": "Mujer sonriendo frente a portátil con pluma flotante"
+        }
+      },
+      "salida_esperada": {
+        "aprobado": false,
+        "motivo_rechazo": "Color azul SaaS no autorizado (#3B82F6 en vez de Azul Atlántico #1E3A5F), fuente no corporativa y cliché visual de stock."
+      }
+    },
+    {
+      "id": "LEGAL-01",
+      "categoria": "propiedad_intelectual",
+      "agente_objetivo": "asesor-de-propiedad-intelectual",
+      "skill_asociada": "contratos-editoriales-y-derechos-autor",
+      "entrada": {
+        "caso": "Alumno solicita saber si al incluir su relato en la antología anual de la Escuela pierde los derechos para enviarlo a un concurso literario."
+      },
+      "salida_esperada": {
+        "respuesta_juridica": "No pierde sus derechos. La cesión a la antología de la ECCL es estrictamente NO EXCLUSIVA. El autor conserva la plena propiedad intelectual y moral sobre su obra."
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "nombre_marca": "Escuela Canaria de Creación Literaria",
+  "acronimo": "ECCL",
+  "url_oficial": "https://www.escuelaliteraria.com/",
+  "colores_principales": {
+    "marfil_fondo": {
+      "hex": "#FAF8F5",
+      "rgb": [
+        250,
+        248,
+        245
+      ],
+      "uso": "Fondos de carruseles, papel editorial, fondos web y cartelería",
+      "rol": "Background primario"
+    },
+    "tinta_texto": {
+      "hex": "#1A1A1A",
+      "rgb": [
+        26,
+        26,
+        26
+      ],
+      "uso": "Texto principal, títulos oscuros, trazos y logotipos",
+      "rol": "Foreground primario (legibilidad máxima)"
+    },
+    "terracota_canario": {
+      "hex": "#C2593F",
+      "rgb": [
+        194,
+        89,
+        63
+      ],
+      "uso": "Acentos, botones primarios, llamadas a la acción, fechas y marcos",
+      "rol": "Color de acento institucional cálido"
+    },
+    "azul_atlantico": {
+      "hex": "#1E3A5F",
+      "rgb": [
+        30,
+        58,
+        95
+      ],
+      "uso": "Fondos de banners institucionales, firmas solemnes, textos secundarios y pie de cartel",
+      "rol": "Color corporativo de contraste sereno"
+    },
+    "dorado_editorial": {
+      "hex": "#D4A346",
+      "rgb": [
+        212,
+        163,
+        70
+      ],
+      "uso": "Detalles premium, antologías, sellos conmemorativos de 22 años",
+      "rol": "Acento de distinción"
+    }
+  },
+  "colores_prohibidos": [
+    "#FF00FF",
+    "#00FF00",
+    "#00FFFF",
+    "#FFFF00",
+    "Degradados fluorescentes o neon",
+    "Gris corporativo frío de software SaaS (#E2E8F0, #F1F5F9)"
+  ],
+  "safe_zones": {
+    "instagram_post": {
+      "ancho": 1080,
+      "alto": 1080,
+      "margen_seguro": 80
+    },
+    "instagram_story": {
+      "ancho": 1080,
+      "alto": 1920,
+      "margen_superior": 250,
+      "margen_inferior": 250,
+      "margen_lateral": 60
+    },
+    "cartel_a3_a4": {
+      "proporcion": "1:1.414",
+      "sangrado_impresion_mm": 3,
+      "margen_texto_mm": 15
+    }
+  }
+}

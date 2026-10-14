@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs & Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Antigravity & Claude Code locales
+.gemini/
+.claude/
+.system_generated/
+
+# Archivos de entorno y credenciales
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Borradores temporales y datos efímeros de alumnos
+scratch/
+tmp/
+temp/
+*.tmp
+*.log
