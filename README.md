@@ -2,18 +2,17 @@
 
 17 agentes y 24 skills para la Escuela Canaria de Creación Literaria, con manuales, ejemplos y conocimiento histórico recuperado de los GPTs originales. Seis protocolos organizan el trabajo y un cargador local prepara contexto con trazabilidad.
 
-## Empezar
+## Entrega para el cliente · sin dependencias técnicas
 
-Requiere Python 3.10 o posterior; las herramientas incluidas usan solo biblioteca estándar.
+El cliente **no necesita instalar Python, Node.js ni ninguna otra tecnología**. El paquete preparado para ChatGPT contiene únicamente instrucciones, fichas de configuración y archivos de conocimiento:
 
-~~~text
-python -B scripts/verify_installation.py
-python -B evals/run_evals.py
-python -B scripts/eccl.py list
-python -B scripts/eccl.py context --agent coordinador-de-agentes-de-la-eccl --question "Quiero diseñar y validar un curso"
-~~~
+1. Descargar [ECCL_ChatGPT_Pack.zip](dist/ECCL_ChatGPT_Pack.zip).
+2. Descomprimirlo.
+3. Seguir la [guía paso a paso](chatgpt_ready/GUIA_INSTALACION_CHATGPT.md) desde la interfaz de ChatGPT.
 
-El último comando prepara un contexto JSON; **no genera por sí solo una respuesta de modelo**. Consulte [instalación y carga](docs/INSTALACION.md), el [manual de uso](docs/MANUAL_DE_USO.md) y el [informe de entrega y reevaluación](docs/INFORME_ENTREGA.md).
+El ZIP no contiene scripts ni ejecutables. Los archivos de `scripts/` y `evals/` que aparecen en este repositorio son herramientas internas de construcción, auditoría y mantenimiento; no forman parte del paquete que recibe o utiliza el cliente.
+
+Consulte también el [manual de uso](docs/MANUAL_DE_USO.md) y el [informe de entrega y reevaluación](docs/INFORME_ENTREGA.md).
 
 ## Qué incluye
 
@@ -37,6 +36,17 @@ La carga portable permite usar los documentos en una conversación local con acc
 El catálogo es un snapshot histórico no verificado en la web: no confirma plazas, tarifas o fechas actuales. Los 18 perfiles son simulaciones cualitativas y no miden demanda real. Marca, modelos de contratos y políticas propuestas no se presentan como aprobaciones del cliente. Las especificaciones de APIs originales están conservadas, sin afirmar conexiones activas.
 
 La voz y pedagogía requieren revisión humana de muestras nuevas. No se garantizan resultados de subvenciones, publicación editorial ni conformidad jurídica por un prompt o un filtro.
+
+## Mantenimiento técnico opcional
+
+Este apartado es solo para el equipo que mantiene el repositorio. Las comprobaciones reproducibles usan Python 3.10 o posterior y únicamente su biblioteca estándar:
+
+~~~text
+python -B scripts/verify_installation.py
+python -B evals/run_evals.py
+~~~
+
+Estas órdenes no son necesarias para instalar o utilizar los asistentes en ChatGPT.
 
 ## Mantenimiento y licencia
 

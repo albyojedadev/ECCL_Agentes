@@ -237,8 +237,9 @@
     "protocols/P06_creacion_y_supervision_carteleria.md"
   ],
   "runtime": {
+    "chatgpt_client": "sin dependencias locales; usar dist/ECCL_ChatGPT_Pack.zip y la interfaz de ChatGPT",
     "claude_code": "plugin nativo .claude-plugin/plugin.json; validar con la versión instalada",
-    "portable": "scripts/eccl.py prepara contexto trazable sin llamar modelos",
+    "portable_maintenance": "scripts/eccl.py prepara contexto trazable sin llamar modelos; herramienta opcional del mantenedor",
     "codex": "carga explícita en conversación local; no promete registro nativo de subagentes",
     "antigravity": "adaptación no validada; no se instala en rutas inventadas"
   },

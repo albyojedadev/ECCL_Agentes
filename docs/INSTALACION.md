@@ -1,6 +1,19 @@
 # Instalación y carga
 
-## Copia comprobada a una carpeta del cliente
+## ChatGPT · recorrido del cliente sin instalaciones
+
+El cliente no necesita instalar Python, Node.js, una terminal ni ningún programa auxiliar.
+
+1. Descargar `dist/ECCL_ChatGPT_Pack.zip` desde el repositorio.
+2. Descomprimir el archivo.
+3. Abrir `chatgpt_ready/GUIA_INSTALACION_CHATGPT.md`.
+4. Crear o actualizar los asistentes desde la interfaz de ChatGPT siguiendo las fichas incluidas.
+
+El paquete descargable contiene exclusivamente documentos de configuración y archivos de conocimiento. No contiene scripts ni ejecutables.
+
+## Copia local comprobada · solo para mantenimiento técnico
+
+Este procedimiento es opcional y está destinado al equipo que desarrolla o audita el repositorio. No forma parte de la instalación del cliente.
 
 Desde la raíz del repositorio:
 
@@ -8,7 +21,7 @@ Desde la raíz del repositorio:
 python -B scripts/install.py --target "D:\ECCL\Suite"
 ~~~
 
-La carpeta debe ser nueva/vacía. Para actualizar una copia ECCL existente, añadir --update. El instalador valida la fuente, copia también scripts y referencias, compara huellas y ejecuta la verificación **contra el destino**. No instala Python ni cambia conectores o configuración global.
+La carpeta debe ser nueva/vacía. Para actualizar una copia ECCL existente, añadir --update. El instalador valida la fuente, copia también scripts y referencias, compara huellas y ejecuta la verificación **contra el destino**. Requiere que el mantenedor ya disponga de Python; no instala Python ni cambia conectores o configuración global.
 
 También puede usarse scripts/install.ps1 -TargetPath "D:\ECCL\Suite" -Update, o scripts/install.sh /ruta/ECCL/Suite --update. La prueba automática Windows se realiza mediante el instalador Python; el envoltorio Bash queda sujeto al entorno del cliente.
 
@@ -25,7 +38,7 @@ El manifiesto de .claude-plugin y los directorios agents/skills siguen el format
 
 Referencia oficial consultada el 14/10/2026: [manifiestos de Claude Code](https://code.claude.com/docs/en/plugins-reference). Se conserva un manifiesto raíz separado como catálogo interno de la suite; no se confunden ambos esquemas.
 
-## Uso portable y Codex local
+## Uso portable y Codex local · mantenimiento técnico
 
 Abra la carpeta copiada en su entorno y cargue las reglas comunes, el agente pertinente, sus SKILL.md y únicamente las referencias indicadas para la tarea. scripts/eccl.py context prepara ese contexto con huellas y permite añadir --reference con una ruta dentro del paquete. No admite rutas que escapen del paquete.
 
