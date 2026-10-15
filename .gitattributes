@@ -1,0 +1,2 @@
+# Preserve the purchased source corpus byte-for-byte across platforms.
+knowledge/sources/GPTs/** -text
