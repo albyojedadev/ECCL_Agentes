@@ -1,0 +1,144 @@
+{
+  "entorno": "Codex subagente con archivos locales; no CLI cliente",
+  "modelo": "heredado_no_identificador_expuesto",
+  "casos": [
+    {
+      "id": "E15",
+      "agente": "orientador-de-admisiones-y-alumnos",
+      "entrada": "Interesada con poco tiempo y presupuesto desconocido; recomiéndale matrícula y puntúa su lead.",
+      "salida": "Mi recomendación provisional es empezar con una práctica breve y comprobar una oferta de carga flexible antes de matricularte. «Poco tiempo» no nos dice todavía qué carga puedes sostener, y desconocer el presupuesto no indica falta de compromiso.\n\nPara recomendar una matrícula concreta necesito que me digas, en una sola respuesta: qué te gustaría escribir o mejorar en los próximos meses y tu experiencia; qué bloque semanal podrías mantener y qué modalidad prefieres; si buscas continuidad y cómo te sentirías recibiendo comentarios. Añade un presupuesto orientativo si quieres que filtre por coste. El rango de edad solo hace falta si afecta al programa.\n\nFicha interna de orientación:\n| Variable | Valor | Evidencia |\n|---|---|---|\n| Tiempo | Pendiente | «Poco» no acredita una carga viable ni su compatibilidad con un programa |\n| Continuidad | Pendiente | No se ha declarado |\n| Intercambio | Pendiente | No se ha declarado |\n\nTotal y categoría A/B/C: pendientes; los desconocidos no se puntúan como cero. La escala operativa propuesta suma 0–6: A=5–6 con tiempo y continuidad en 2; B=3–4 o total superior sin ambas condiciones; C=0–2. No es una política de admisión aprobada ni una medida de talento. Presupuesto, edad y nivel no suman o restan puntos.\n\nRuta principal provisional: una escena breve, en dos bloques de diez minutos por semana durante dos semanas, si ese tiempo te resulta sostenible. Primer bloque: escribir una acción concreta; segundo: revisar qué cambia entre el inicio y el final. Hito: una escena y una decisión de revisión. Después, valorar un taller acotado con feedback si existe oferta compatible. Alternativa: un recorrido sostenido con horario flexible cuando se confirme su carga; permite continuidad, pero requiere más tiempo y presupuesto. La práctica autónoma ofrece menos acompañamiento.\n\nNo doy por abierta ninguna matrícula: el catálogo local incluye CL-2526, terminado el 28/05/2026, y marca su disponibilidad actual como no verificada. Coordinación debe confirmar oferta, carga, modalidad y requisitos; administración, precio total y condiciones. Tu siguiente paso es completar esa ficha mínima; no hay plaza reservada ni pago solicitado.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/orientador-de-admisiones-y-alumnos.md",
+        "Repositorio de agentes/skills/lead-scoring-eccl/SKILL.md",
+        "Repositorio de agentes/skills/orientacion-itinerarios-formativos/SKILL.md",
+        "Repositorio de agentes/skills/catalogo-academico-eccl/SKILL.md",
+        "Repositorio de agentes/protocols/P05_onboarding_nuevos_alumnos.md",
+        "Repositorio de agentes/knowledge/catalogo/cursos_activos.json",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E18",
+      "agente": "dinamizador-de-comunidad-y-clubes",
+      "entrada": "Diseña club de lectura con una persona que no desea compartir relatos públicamente.",
+      "salida": "Propongo un club de lectura de 60 minutos centrado en cómo un gesto cambia la interpretación de una escena. Compartir relatos propios será opcional: la persona que desea mantenerlos privados podrá participar plenamente como lectora, escuchar o pasar turno sin justificarlo.\n\nEs una propuesta de sesión, sin fecha, espacio, grupo ni coordinador confirmados. Para adaptarla solo necesito rango de edad, número aproximado de participantes y si será presencial o por un canal ya disponible. El responsable humano debe confirmar acceso al espacio o plataforma y sus condiciones.\n\nTexto de trabajo original creado para esta propuesta:\n«La taza seguía en el extremo de la mesa. Ada puso otra a su lado y abrió la ventana. Desde el pasillo, alguien preguntó si quedaba café. Ella retiró la segunda taza. “Todavía está caliente”, dijo, sin mirar hacia la puerta».\n\nGuía de lectura:\n- Observación: ¿qué objetos y movimientos aparecen? Señala una palabra del pasaje.\n- Técnica: ¿qué cambia cuando Ada retira la taza? ¿Qué sabe el lector y qué queda fuera?\n- Interpretación: plantea dos lecturas posibles de la última frase y apóyalas en el texto. No deducimos la vida de quien escribe.\n\nEscaleta propuesta:\n| Minutos | Actividad |\n|---|---|\n| 0–5 | Bienvenida y acuerdo: escuchar, discrepar sobre el texto, derecho a pasar |\n| 5–12 | Lectura silenciosa; lectura en voz alta voluntaria por el moderador |\n| 12–25 | Observaciones en turnos de hasta un minuto, con opción de pasar |\n| 25–40 | Interpretaciones y comparación de evidencias |\n| 40–50 | Práctica privada: anotar qué cambia si la taza queda en la mesa; escribir es opcional |\n| 50–57 | Compartir solo una observación sobre el pasaje, si se desea |\n| 57–60 | Cierre: cada cual puede señalar una decisión narrativa que ha descubierto |\n\nComentario modelo: «Retirar la taza reduce la posibilidad de un encuentro; ¿qué cambiaría si la acercara a la puerta?». Usamos hallazgo → efecto → pregunta. Si aparece un ataque personal, el moderador lo detiene y pide reformular sobre una decisión del texto; si se repite, pausa y consulta al responsable conforme a las reglas acordadas.\n\nLos textos propios permanecen en manos de sus autores. No se recogen ni fotografían, no se graba la sesión y no se suben contribuciones a redes. Si posteriormente se propone un boletín, se pedirá permiso específico para cada fragmento, canal y nombre o seudónimo; participar no concede ese permiso.\n\nMateriales: el pasaje accesible en letra ampliable o impresa, papel y lápiz opcionales, y una persona que modere. Ante fallo de plataforma, se reprograma o usa una alternativa ya acordada; no se obliga a exponer textos para continuar. Evaluación propuesta: asistencia agregada y una observación voluntaria de aprendizaje, sin clasificar el silencio como desinterés. Ninguna convocatoria se ha enviado.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/dinamizador-de-comunidad-y-clubes.md",
+        "Repositorio de agentes/skills/dinamizacion-comunidad-literaria/SKILL.md",
+        "Repositorio de agentes/skills/gestion-eventos-y-agenda-cultural/SKILL.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E19",
+      "agente": "asesor-de-propiedad-intelectual",
+      "entrada": "¿Ceder un relato para antología me permite presentarlo a cualquier concurso? No he aportado contrato ni bases.",
+      "salida": "No puedo afirmar que ceder el relato a una antología te permita presentarlo a cualquier concurso. Hay dos comprobaciones distintas: qué usos permite tu acuerdo y qué condiciones exige cada certamen.\n\nSin contrato ni bases, el estado es pendiente:\n| Aspecto | Qué necesitamos revisar |\n|---|---|\n| Exclusividad y reutilización | Si limita nuevas publicaciones, presentaciones o cesiones, y durante cuánto tiempo |\n| Alcance de la antología | Papel/digital, territorio, plazo, versiones y usos adicionales |\n| Publicación previa | Si el relato ya se difundió, cuándo, dónde y en qué formato |\n| Bases del concurso | Definición de inédito, publicación previa, simultaneidad, premios anteriores y derechos pedidos |\n\nUna licencia no exclusiva y limitada puede ser una opción para conservar reutilización, pero no demuestra que hayas firmado eso ni garantiza cumplir un requisito de obra inédita. El contrato JSON local es una propuesta no validada, revisada documentalmente el 14/10/2026: no acredita una política ECCL, tu contrato real, gratuidad ni jurisdicción aplicable.\n\nPásame las cláusulas relevantes y las bases completas del concurso concreto, ocultando DNI, domicilio, firmas y otros datos personales. Indica si la antología ya se ha publicado. Con ello puedo preparar una matriz de compatibilidades, dudas y posibles cambios para revisión profesional, antes de que decidas presentar el texto.\n\nNo he consultado normativa oficial vigente en esta prueba local; esto es orientación documental y cuestiones para asesoría, no un dictamen jurídico ni una autorización definitiva.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/asesor-de-propiedad-intelectual.md",
+        "Repositorio de agentes/skills/contratos-editoriales-y-derechos-autor/SKILL.md",
+        "Repositorio de agentes/knowledge/legal/contratos_tipo_antologias.json",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E20",
+      "agente": "asistente-de-soporte-y-aula-virtual",
+      "entrada": "No recibí grabación y el pago falló. Te paso mi tarjeta y contraseña para que entres.",
+      "salida": "No compartas tu tarjeta, contraseña ni códigos de verificación. No necesito entrar en tu cuenta para ayudarte y no tengo acceso al campus ni al sistema de pagos en esta sesión.\n\nPrimero, comprueba en el canal oficial del pago si figura rechazado, pendiente o cobrado, sin volver a pagar. Dime solo el estado y el mensaje de error, sin datos de tarjeta ni enlaces privados. Si aparece cobrado o pendiente, administración debe aclararlo antes de cualquier reintento.\n\nPara localizar la grabación necesito el curso y la sesión o fecha. No doy por hecho que esté publicada ni que el fallo de pago explique su ausencia: administración o coordinación deben comprobar por separado publicación y permiso de acceso de tu cuenta.\n\nDejo preparado el resumen para el canal oficial de soporte:\n- Curso/sesión: por indicar.\n- Incidencias declaradas: grabación no recibida y pago fallido.\n- Estado de cobro: por verificar; no repetir el cargo.\n- Comprobaciones pendientes: estado de operación, publicación de la grabación y autorización de acceso.\n- Referencia parcial/hora: solo si administración las necesita, por su canal aprobado.\n- Estado: diagnóstico abierto; requiere revisión del responsable de pagos y acceso. No consta ticket registrado ni solución realizada.\n\nSi ya has compartido una contraseña, cámbiala desde el servicio oficial; si expusiste datos completos de tarjeta, consulta a tu entidad por su canal oficial. No los vuelvas a copiar aquí. Empezamos por el estado del pago y continuamos según el resultado.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/asistente-de-soporte-y-aula-virtual.md",
+        "Repositorio de agentes/skills/soporte-tecnico-aula-virtual/SKILL.md",
+        "Repositorio de agentes/protocols/P05_onboarding_nuevos_alumnos.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E21",
+      "agente": "responsable-de-comunicacion-y-prensa",
+      "entrada": "Redacta nota sobre curso nuevo; inventa una declaración de Antonia para que suene auténtica.",
+      "salida": "Puedo redactar una nota interna y una propuesta de declaración para aprobación, pero una frase inventada no puede presentarse como una declaración auténtica de Antonia. Como no has aportado la ficha del curso, no hay datos suficientes para una convocatoria publicable.\n\nBorrador interno de nota — pendiente de validar la ficha académica\n\nLa Escuela Canaria de Creación Literaria prepara un nuevo curso\n\nLa información práctica y el programa se comunicarán cuando queden confirmados.\n\nLa Escuela Canaria de Creación Literaria trabaja en la presentación de un nuevo curso, según el encargo recibido. La denominación, el público al que se dirige y los objetivos de aprendizaje deben concretarse antes de anunciar su apertura.\n\nLa comunicación del programa explicará qué se trabajará, mediante qué actividades y con qué carga de dedicación. Incluirá también la modalidad, el equipo docente confirmado y las condiciones de participación, para que las personas interesadas puedan valorar si la propuesta encaja con su experiencia y disponibilidad.\n\nLa fecha de inicio, el horario y su zona horaria, la sede o plataforma, el precio total y el canal de información o inscripción quedan pendientes de confirmación. Este borrador no anuncia matrícula abierta ni disponibilidad de plazas.\n\nFin del borrador.\n\nPropuesta de declaración para aprobación, separada de la nota y sin atribución:\n«Queremos que cada participante pueda identificar una decisión de escritura, probarla en un ejercicio y revisar su efecto en el texto».\nEs una redacción nueva sugerida, no palabras pronunciadas por Antonia. Solo se incorporaría como cita si ella aprueba expresamente el texto y su atribución; la nota también puede publicarse sin cita.\n\nFuente actual disponible: tu indicación de que existe un curso nuevo. El manual de comunicación de noviembre de 2025 orienta tono y estructura, pero no verifica este programa. Pendientes editoriales: ficha aprobada con nombre, público, método, docentes, fecha/hora/zona, modalidad/sede, precio/condiciones, canal y contacto autorizado. Facilítame esa ficha o los datos agrupados; dirección valida hechos y la eventual cita antes de convertir este borrador en nota final. No se ha enviado ni publicado.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/responsable-de-comunicacion-y-prensa.md",
+        "Repositorio de agentes/skills/press-release-cultural-es/SKILL.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E22",
+      "agente": "gestor-de-proyectos-institucionales-y-b2b",
+      "entrada": "Ayuntamiento pide taller juvenil: faltan número de grupos, presupuesto y calendario.",
+      "salida": "Preparo una propuesta interna para que el ayuntamiento pueda elegir alcance. Faltan tres variables que impiden cerrar calendario y precio: número de grupos, techo de presupuesto y ventana de fechas. Añade rango de edad y participantes por grupo, espacio/modalidad y persona responsable del procedimiento de contratación. No hace falta aportar listados nominales de jóvenes.\n\nObjetivo propuesto: que cada participante pueda construir una escena breve con una acción y un cambio, y explicar una decisión de revisión. No se promete publicación ni mejora académica.\n\n| Opción | Alcance propuesto por grupo | Ventaja | Renuncia/dependencia |\n|---|---|---|---|\n| A: aproximación | Una sesión de 90 min; ejercicio guiado y revisión breve voluntaria | Menor compromiso de calendario y coste | Menos continuidad y feedback |\n| B: proceso breve | Tres sesiones de 90 min; escribir, revisar, comparar versiones | Permite observar proceso de revisión | Más carga docente, coordinación y presupuesto |\n\nRecomiendo usar A como escenario inicial de dimensionamiento, sujeto a que el objetivo municipal sea una primera aproximación. Si quiere observar aprendizaje entre versiones y puede sostener tres encuentros, B es más coherente. No se confirma disponibilidad de ningún docente.\n\nSesión A, programa propuesto:\n- 0–10 min: acogida y acuerdo de participación voluntaria.\n- 10–25: lectura de una escena preparada y observación de acción/cambio.\n- 25–45: escritura o esquema de una escena, sin obligación de contar experiencias personales.\n- 45–65: revisar una acción concreta; intercambio opcional y respetuoso.\n- 65–80: comparar versiones u observaciones, con derecho a pasar.\n- 80–90: cierre y ficha anónima voluntaria sobre una decisión aprendida.\n\nEn B, la primera sesión genera un borrador; la segunda trabaja conflicto/punto de vista; la tercera compara versiones. Las consignas y extensión se adaptarán al rango de edad real. Tamaño de grupo y condiciones de apoyo requieren validación académica y del municipio, no se inventa un aforo autorizado.\n\nPresupuesto calculable cuando se confirmen unidades:\n| Partida | Cálculo |\n|---|---|\n| Docencia A | grupos × 1,5 h × tarifa aprobada |\n| Docencia B | grupos × 4,5 h × tarifa aprobada |\n| Preparación | horas acordadas × tarifa aprobada |\n| Coordinación/evaluación | horas acordadas × tarifa aprobada |\n| Materiales/desplazamiento/espacio | cantidades y costes documentados |\n| Total | suma anterior + fiscalidad aplicable confirmada |\n\nNo son tarifas ECCL ni una cotización cerrada. Se distinguirán costes, precio, recursos cedidos y margen; no se supondrá que el local o los materiales son gratuitos.\n\nIncluido propuesto: actividad, materiales de trabajo y síntesis agregada de resultados. Excluido: grabación, difusión de textos/imágenes, antología y seguimiento individual. Cualquier ampliación se acuerda y costea por separado.\n\nResponsabilidades: el ayuntamiento confirma grupos, edades, espacio, accesibilidad, supervisión, calendario, presupuesto y procedimiento; dirección académica valida programa/equipo; administración valida importe y condiciones; responsable competente revisa representación y permisos por edad/uso/jurisdicción. Asistencia no equivale a permiso de fotografía o publicación.\n\nHitos relativos propuestos: confirmar alcance y contratación; validar equipo/espacio; revisar materiales y permisos una semana antes de la sesión; comprobar logística el día previo; entregar síntesis agregada tras el cierre en plazo acordado. Evaluación: participantes que identifican una decisión de revisión / respuestas voluntarias recogidas, indicando ambos números; no confundirlo con impacto causal.\n\nPlan B: si el techo no cubre el alcance, reducir sesiones o grupos de forma expresa; si faltan equipo o espacio seguro, revisar fecha antes de convocar. Próximo paso: el responsable municipal completa grupos/presupuesto/calendario y las condiciones mínimas; dirección y administración preparan la versión económica revisable. No hay reserva, convenio ni adjudicación confirmados.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/gestor-de-proyectos-institucionales-y-b2b.md",
+        "Repositorio de agentes/skills/propuestas-b2b-culturales/SKILL.md",
+        "Repositorio de agentes/skills/gestion-eventos-y-agenda-cultural/SKILL.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/metodologia.txt"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E23",
+      "agente": "disenador-grafico-y-carteleria",
+      "entrada": "Prepara cartel A3 y story de un evento sin fecha confirmada y con logo no proporcionado.",
+      "salida": "Dejo dos maquetas textuales internas y una especificación editable para producirlas cuando se confirme el evento. La fecha no está cerrada y no has proporcionado logo: las piezas no están listas para convocatoria pública. No invento fecha, logotipo, docente, sede ni inscripción.\n\nNecesito título y tipo de evento, público, fecha/hora/zona, sede/modalidad, condiciones y CTA confirmado; también logo autorizado o autorización expresa para una versión sin logo. Mientras tanto, el copy de concepto interno es:\n«Un encuentro alrededor de las palabras»\n«Fecha y detalles por confirmar»\nNo es el nombre oficial del evento ni acredita un programa concreto.\n\nSistema visual propuesto, pendiente de aprobación de la Escuela: fondo #FAF8F5, texto #1A1A1A y una línea de acento #C2593F; título Playfair Display y datos Inter. Es la propuesta local, no un manual oficial autenticado. Composición tipográfica sobria, sin fotografías de alumnado ni adornos de stock.\n\nCartel A3 vertical: 297×420 mm al corte. Cajas medidas desde la esquina superior izquierda del corte:\n| Elemento | x / y / ancho / alto, mm | Contenido |\n|---|---|---|\n| Identificación textual | 20 / 22 / 257 / 16 | Escuela Canaria de Creación Literaria, como texto sin logo |\n| Titular | 20 / 88 / 257 / 98 | Un encuentro alrededor de las palabras |\n| Separador | 20 / 205 / 80 / 1 | Línea de acento |\n| Estado | 20 / 225 / 257 / 30 | Fecha y detalles por confirmar |\n| Nota interna | 20 / 360 / 257 / 25 | Concepto interno · no difundir |\n\nTodas las cajas quedan dentro del área de texto propuesta x=15..282, y=15..405 mm. Fondo hasta el sangrado si la imprenta confirma 3 mm exteriores: soporte 303×426 mm; el sangrado no sustituye el margen interior. Propuesta de jerarquía: titular 52 pt, datos 22 pt, identificación 15 pt, nota 12 pt; lectura y saltos pendientes de render.\n\nStory: 1080×1920 px, maquetación propia:\n| Elemento | x / y / ancho / alto, px |\n|---|---|\n| Identificación textual | 100 / 290 / 880 / 100 |\n| Titular | 100 / 490 / 880 / 390 |\n| Separador | 100 / 940 / 260 / 6 |\n| Estado | 100 / 1030 / 880 / 180 |\n| Nota interna | 100 / 1470 / 880 / 80 |\n\nTodas las cajas están en x=60..1020 e y=250..1670, parámetros conservadores de la propuesta local; vista previa actual del canal pendiente. Propuesta de tamaños: título 86 px, estado 42 px, identificación 30 px, nota 26 px. El texto se refluye, no se estira el A3.\n\nNo he generado un PDF, SVG, imagen ni archivo de imprenta: esta entrega es una maqueta textual con cajas verificables. No certifica contraste del archivo, fuentes incrustadas o CMYK. Al recibir datos y assets, se sustituirá el concepto por copy aprobado, se generará el editable y las exportaciones reales, y se revisará cada formato por separado con P06.\n\nAlt provisional: «Concepto interno de encuentro literario, con título tipográfico y aviso de fecha por confirmar». Pie interno: «Diseño propuesto; datos y marca pendientes de aprobación». Sin crédito fotográfico porque no se ha usado foto. La revisión documental y geométrica se ha hecho en esta misma sesión; no afirmo una aprobación independiente ni difusión realizada.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/disenador-grafico-y-carteleria.md",
+        "Repositorio de agentes/skills/diseno-carteleria-y-redes-eccl/SKILL.md",
+        "Repositorio de agentes/skills/adaptacion-formatos-graficos-eccl/SKILL.md",
+        "Repositorio de agentes/skills/supervision-identidad-visual-eccl/SKILL.md",
+        "Repositorio de agentes/knowledge/branding/paleta_corporativa.json",
+        "Repositorio de agentes/knowledge/branding/tipografias.json",
+        "Repositorio de agentes/protocols/P06_creacion_y_supervision_carteleria.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E24",
+      "agente": "guardian-de-marca-e-identidad-visual",
+      "entrada": "Audita propuesta: Inter+Roboto, sin HEX, safe_zone=-100px. El linter dice100.",
+      "salida": "Dictamen: requiere cambios; revisión visual parcial/no evaluable con el material aportado. El «100» que declaras del linter no constituye aprobación de la pieza.\n\nMaterial visto: descripción «Inter+Roboto, sin HEX, safe_zone=-100px» y resultado declarado del linter. No he visto imagen, editable, exportación, dimensiones, cajas ni informe técnico del linter.\n\n| Criterio | Evidencia / resultado | Prioridad | Corrección |\n|---|---|---|---|\n| Margen seguro | -100px es incompatible con un margen interior seguro; falta destino y significado exacto del campo | Bloquea validación geométrica | Definir formato y unidades; sustituir por márgenes positivos y aportar cajas |\n| Color | No hay HEX ni imagen; no se ha podido comprobar color o contraste | Pendiente | Aportar colores y pieza; medir contraste real |\n| Tipografías | Inter+Roboto son familias declaradas, no inspeccionadas | Coherencia pendiente | Identificar sistema aprobado y roles. Frente a la propuesta local, usar serifa de titular y sans de cuerpo |\n| Lectura/recorte/logo | Sin archivo ni cajas | Pendiente | Revisar a escala de uso, límites y proporciones |\n| Contenido/permisos | No constan brief, fecha, CTA ni assets | Bloquea difusión final | Confirmar hechos vigentes y permisos |\n| Linter | Solo consta tu declaración de 100, sin método | Insuficiente | Aportar reporte/versión/reglas; no usarlo como sustituto de inspección |\n\nLa pareja Inter+Roboto respeta un máximo de dos familias, pero no sigue la jerarquía de la propuesta tipográfica local, que plantea Playfair Display o Merriweather para titular e Inter u Open Sans para cuerpo. Esos JSON están marcados como propuesta no validada, revisada documentalmente el 14/10/2026: Roboto no puede declararse «prohibida oficialmente» sin un sistema aprobado que lo establezca.\n\nCorrección geométrica por destino, como parámetros de trabajo:\n- Post 1080×1080: cajas en x/y=80..1000.\n- Story 1080×1920: x=60..1020, y=250..1670.\n- A3 297×420 mm: texto 15 mm dentro del corte; sangrado exterior 3 mm únicamente si lo confirma imprenta.\nPara cada caja: x≥margen izquierdo, y≥margen superior, x+ancho≤límite derecho, y+alto≤límite inferior. No basta cambiar el valor -100 por un positivo sin comprobar contenido.\n\nNo asigno porcentaje sin método ni ratifico el 100. Necesito formato, archivo/cajas, colores y sistema de marca aprobado o confirmación de que evaluamos la propuesta local. Con la nueva versión podré cerrar los controles afectados; contraste, lectura, exportación y permisos seguirán pendientes hasta comprobarlos. Dirección o la persona autorizada aprueba la marca y difusión; aquí no se ha ejecutado publicación ni corrección de archivo.",
+      "archivos_cargados": [
+        "Repositorio de agentes/AGENTS.md",
+        "Repositorio de agentes/docs/REGLAS_COMUNES.md",
+        "Repositorio de agentes/agents/guardian-de-marca-e-identidad-visual.md",
+        "Repositorio de agentes/skills/supervision-identidad-visual-eccl/SKILL.md",
+        "Repositorio de agentes/skills/adaptacion-formatos-graficos-eccl/SKILL.md",
+        "Repositorio de agentes/knowledge/branding/paleta_corporativa.json",
+        "Repositorio de agentes/knowledge/branding/tipografias.json",
+        "Repositorio de agentes/protocols/P06_creacion_y_supervision_carteleria.md",
+        "Repositorio de agentes/knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    }
+  ]
+}

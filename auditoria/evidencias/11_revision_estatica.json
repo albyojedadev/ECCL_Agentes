@@ -1,0 +1,172 @@
+{
+  "python_sintaxis": [
+    {
+      "ruta": "evals\\run_evals.py",
+      "valida": true
+    },
+    {
+      "ruta": "evals\\test_brand_linter.py",
+      "valida": true
+    },
+    {
+      "ruta": "evals\\test_style_linter.py",
+      "valida": true
+    },
+    {
+      "ruta": "scripts\\generate_skills.py",
+      "valida": true
+    },
+    {
+      "ruta": "scripts\\ingest_knowledge.py",
+      "valida": true
+    },
+    {
+      "ruta": "scripts\\verify_installation.py",
+      "valida": true
+    }
+  ],
+  "skills_en_agentes": [
+    {
+      "agente": "analista-de-datos-culturales-y-educativos.md",
+      "skills": [
+        "business-intelligence-cultural",
+        "catalogo-academico-eccl"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "analista-de-subvenciones-y-licitaciones.md",
+      "skills": [
+        "cultural-grant-writer-es",
+        "subvenciones-canarias-sync",
+        "propuestas-b2b-culturales"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "asesor-de-propiedad-intelectual.md",
+      "skills": [
+        "contratos-editoriales-y-derechos-autor"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "asistente-de-soporte-y-aula-virtual.md",
+      "skills": [
+        "soporte-tecnico-aula-virtual"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "companero-de-escritura-y-habito.md",
+      "skills": [
+        "desbloqueo-creativo-socratico",
+        "seguimiento-habito-escritura"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "consejo-de-alumnos-sinteticos.md",
+      "skills": [
+        "synthetic-audience-panel-eccl",
+        "lead-scoring-eccl"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "coordinador-de-agentes-de-la-eccl.md",
+      "skills": [
+        "catalogo-academico-eccl",
+        "synthetic-audience-panel-eccl",
+        "business-intelligence-cultural"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "critico-literario-de-la-eccl.md",
+      "skills": [
+        "critica-pedagogica-literaria",
+        "verificacion-originalidad-y-voz-propia",
+        "antonia-molinero-voice"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "dinamizador-de-comunidad-y-clubes.md",
+      "skills": [
+        "dinamizacion-comunidad-literaria",
+        "gestion-eventos-y-agenda-cultural"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "disenador-grafico-y-carteleria.md",
+      "skills": [
+        "diseno-carteleria-y-redes-eccl",
+        "adaptacion-formatos-graficos-eccl",
+        "supervision-identidad-visual-eccl"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "editor-de-libros-y-antologias.md",
+      "skills": [
+        "curaduria-antologias-eccl",
+        "verificacion-originalidad-y-voz-propia",
+        "contratos-editoriales-y-derechos-autor"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "experto-en-la-eccl.md",
+      "skills": [
+        "catalogo-academico-eccl",
+        "gestion-eventos-y-agenda-cultural"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "gestor-de-proyectos-institucionales-y-b2b.md",
+      "skills": [
+        "propuestas-b2b-culturales",
+        "gestion-eventos-y-agenda-cultural"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "ghostwriter-de-antonia-molinero.md",
+      "skills": [
+        "antonia-molinero-voice",
+        "verificacion-originalidad-y-voz-propia"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "guardian-de-marca-e-identidad-visual.md",
+      "skills": [
+        "supervision-identidad-visual-eccl",
+        "adaptacion-formatos-graficos-eccl"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "orientador-de-admisiones-y-alumnos.md",
+      "skills": [
+        "lead-scoring-eccl",
+        "orientacion-itinerarios-formativos",
+        "catalogo-academico-eccl"
+      ],
+      "inexistentes": []
+    },
+    {
+      "agente": "responsable-de-comunicacion-y-prensa.md",
+      "skills": [
+        "press-release-cultural-es",
+        "dossier-cultural-generator",
+        "guion-reels-y-pildoras-literarias"
+      ],
+      "inexistentes": []
+    }
+  ],
+  "links_markdown_locales_rotos": []
+}

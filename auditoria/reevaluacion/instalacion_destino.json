@@ -1,0 +1,14 @@
+{
+  "prueba": "instalacion_destino",
+  "argumentos": [
+    "C:\\Users\\albyn\\AppData\\Local\\hermes\\hermes-agent\\venv\\Scripts\\python.exe",
+    "-B",
+    "[workspace]/Repositorio de agentes\\scripts\\install.py",
+    "--target",
+    "[workspace]/auditoria\\reevaluacion\\instalacion_prueba",
+    "--update"
+  ],
+  "exit_code": 0,
+  "stdout": "{\n  \"estado\": \"integridad_estructural_superada\",\n  \"agentes\": 17,\n  \"skills\": 24,\n  \"protocolos\": 6,\n  \"fuentes_conservadas\": 98,\n  \"casos_diseno\": 26,\n  \"calidad_modelo\": \"no_inferida_de_esta_prueba\"\n}\n{\n  \"estado\": \"integridad_estructural_superada\",\n  \"agentes\": 17,\n  \"skills\": 24,\n  \"protocolos\": 6,\n  \"fuentes_conservadas\": 98,\n  \"casos_diseno\": 26,\n  \"calidad_modelo\": \"no_inferida_de_esta_prueba\"\n}\n{\n  \"source\": \"D:\\\\PROYECTOS\\\\Escuela Canaria de Creación Literaria\\\\Repositorio de agentes\",\n  \"target\": \"D:\\\\PROYECTOS\\\\Escuela Canaria de Creación Literaria\\\\auditoria\\\\reevaluacion\\\\instalacion_prueba\",\n  \"version\": \"2.0.0\",\n  \"archivos_verificados\": 190,\n  \"alcance\": \"copia/carga_contexto; no inferencia de modelo\"\n}\n",
+  "stderr": ""
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "marca_sin_colores_ni_margenes",
+    "entrada": {
+      "fuente": "Inter"
+    },
+    "criterio": "No certificar diseño sin especificación de color, formato ni márgenes.",
+    "resultado": {
+      "passed": true,
+      "score": 100,
+      "color_audit": {
+        "total_hex_found": 0,
+        "unique_hex": [],
+        "invalid_hex": [],
+        "forbidden_matches": [],
+        "is_valid": true
+      },
+      "typography_audit": {
+        "declared_authorized_fonts": [
+          "inter"
+        ],
+        "has_banned_fonts": false,
+        "is_valid": true
+      },
+      "stock_cliches_detected": []
+    }
+  },
+  {
+    "id": "marca_fuente_no_autorizada_mezclada",
+    "entrada": {
+      "colores": [
+        "#FAF8F5"
+      ],
+      "tipografias": [
+        "Inter",
+        "Roboto"
+      ]
+    },
+    "criterio": "Detectar fuente fuera del listado autorizado.",
+    "resultado": {
+      "passed": true,
+      "score": 100,
+      "color_audit": {
+        "total_hex_found": 1,
+        "unique_hex": [
+          "#FAF8F5"
+        ],
+        "invalid_hex": [],
+        "forbidden_matches": [],
+        "is_valid": true
+      },
+      "typography_audit": {
+        "declared_authorized_fonts": [
+          "inter"
+        ],
+        "has_banned_fonts": false,
+        "is_valid": true
+      },
+      "stock_cliches_detected": []
+    }
+  },
+  {
+    "id": "marca_margen_negativo",
+    "entrada": {
+      "colores": [
+        "#FAF8F5"
+      ],
+      "fuente": "Inter",
+      "safe_zone": "margen -100 px; texto fuera del lienzo"
+    },
+    "criterio": "Detectar margen inválido.",
+    "resultado": {
+      "passed": true,
+      "score": 100,
+      "color_audit": {
+        "total_hex_found": 1,
+        "unique_hex": [
+          "#FAF8F5"
+        ],
+        "invalid_hex": [],
+        "forbidden_matches": [],
+        "is_valid": true
+      },
+      "typography_audit": {
+        "declared_authorized_fonts": [
+          "inter"
+        ],
+        "has_banned_fonts": false,
+        "is_valid": true
+      },
+      "stock_cliches_detected": []
+    }
+  },
+  {
+    "id": "estilo_agresivo_y_fuga_interna",
+    "entrada": "Informe Interno\nEl texto tiene una escena concreta con un gesto y una puerta cerrada.\nComentario Externo\nElena, no tienes talento y deberías abandonar este curso porque nunca aprenderás a escribir.\nEl informe confidencial dice que tu trabajo carece de valor y no merece nuestra atención.",
+    "criterio": "Rechazar juicio personal descalificador y fuga de informe interno al comentario.",
+    "resultado": {
+      "passed": true,
+      "score": 100,
+      "forbidden_cliches_detected": [],
+      "biphasic_structure": {
+        "has_internal_report": true,
+        "has_external_comment": true,
+        "is_biphasic": true
+      },
+      "affectionate_opening": true,
+      "sentence_metrics": {
+        "total_sentences": 3,
+        "avg_words_per_sentence": 15.33
+      }
+    }
+  }
+]

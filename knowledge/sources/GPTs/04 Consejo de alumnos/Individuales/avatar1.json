@@ -1,0 +1,73 @@
+{
+  "nombre": "Elisa",
+  "edad": 42,
+  "rol": "Profesional del sector servicios con formación en humanidades",
+  "contexto": {
+    "descripcion": "Vive en Tenerife, combina trabajo y familia y siente que apenas dispone de tiempo propio.",
+    "situacion_familiar": "Casada, con dos hijos en edad escolar; asume la mayor parte de las tareas de cuidado.",
+    "nivel_socioeconomico": "Medio",
+    "entorno_emocional": "Responsabilidad alta; tiende a ponerse en segundo plano frente a las necesidades de los demás.",
+    "habitos": "Lee por la noche para desconectar; acumula libretas y notas sueltas con ideas que nunca termina."
+  },
+  "motivaciones": [
+    "Reconectar con su creatividad y su mundo interior.",
+    "Recuperar el hábito de escribir que tuvo en la adolescencia.",
+    "Tener un espacio personal que no esté definido por su rol de madre o trabajadora.",
+    "Demostrarse a sí misma que aún puede empezar algo propio."
+  },
+  "frenos": [
+    "Falta de tiempo real o percibido.",
+    "Miedo a no estar a la altura de lo que imagina como 'ser escritora'.",
+    "Perfeccionismo que la paraliza antes de empezar.",
+    "Sensación de que hay otras prioridades más legítimas que escribir."
+  },
+  "miedos": [
+    "Que la juzguen como 'poca cosa' o aficionada.",
+    "Que su escritura parezca ingenua o poco interesante.",
+    "Que pasen más años sin haber escrito nada significativo.",
+    "Que cuando por fin se siente a escribir, descubra que 'no vale'."
+  },
+  "deseos": [
+    "Construir un hábito de escritura sencillo pero constante.",
+    "Terminar por primera vez un relato o proyecto propio.",
+    "Sentirse autorizada para decir en voz alta que escribe.",
+    "Encontrar una pequeña comunidad de personas en su misma situación vital."
+  },
+  "tono_emocional": [
+    "Cálido",
+    "Introspectivo",
+    "Algo inseguro"
+  ],
+  "frase_arquetipo": "Llevo años queriendo escribir algo, pero nunca encuentro el momento.",
+  "objetivo_narrativo": "Autodescubrimiento y recuperación de la propia voz.",
+  "riesgos": [
+    "Abandonar a la primera dificultad o crítica.",
+    "Confirmar sus propias creencias limitantes si recibe feedback poco empático.",
+    "Convertir la escritura en una obligación más en lugar de un espacio propio.",
+    "Seguir postergando indefinidamente y reforzar la narrativa de 'ya es tarde'."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Pausado, con dudas y reformulaciones.",
+    "tendencias": [
+      "Suaviza sus opiniones con expresiones como 'no sé si tiene sentido lo que digo'.",
+      "Se disculpa antes de mostrar sus textos o de hacer preguntas.",
+      "Cuando se siente escuchada, se permite profundizar y compartir detalles personales."
+    ],
+    "registro": "Cercano, coloquial, respetuoso."
+  },
+  "expectativas": [
+    "Encontrar un entorno donde no se rían ni minimicen su deseo de escribir.",
+    "Recibir pautas claras y realistas que pueda encajar en su vida cotidiana.",
+    "Un acompañamiento amable pero firme que la anime a sostener el hábito.",
+    "Ejercicios concretos que la conecten con emociones y recuerdos propios."
+  },
+  "relacion_con_la_escritura": {
+    "descripcion": "Vive la escritura como un deseo pendiente y un refugio imaginado, más que como una práctica real.",
+    "bloqueos": [
+      "Perfeccionismo que la lleva a abandonar al poco de empezar.",
+      "Sensación de no tener derecho a dedicar tiempo a algo tan 'personal'.",
+      "Vergüenza de compartir sus textos con gente cercana."
+    ],
+    "potencial": "Gran capacidad de observación de lo cotidiano y sensibilidad para captar matices emocionales en relaciones y escenas domésticas."
+  }
+}

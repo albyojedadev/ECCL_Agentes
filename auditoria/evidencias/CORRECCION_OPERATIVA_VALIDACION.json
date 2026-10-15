@@ -1,0 +1,598 @@
+{
+  "files": [
+    {
+      "path": "skills\\lead-scoring-eccl\\SKILL.md",
+      "words": 481,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/AnalisisPublico.md",
+          "exists": true
+        },
+        {
+          "target": "../orientacion-itinerarios-formativos/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../../protocols/P05_onboarding_nuevos_alumnos.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\orientacion-itinerarios-formativos\\SKILL.md",
+      "words": 467,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/inventario_cursos.csv",
+          "exists": true
+        },
+        {
+          "target": "../catalogo-academico-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../lead-scoring-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../../protocols/P05_onboarding_nuevos_alumnos.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\dinamizacion-comunidad-literaria\\SKILL.md",
+      "words": 479,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/AnalisisPublico.md",
+          "exists": true
+        },
+        {
+          "target": "../gestion-eventos-y-agenda-cultural/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../critica-pedagogica-literaria/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\contratos-editoriales-y-derechos-autor\\SKILL.md",
+      "words": 478,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/legal/contratos_tipo_antologias.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/legal/rgpd_juveniles.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/publicaciones.csv",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\soporte-tecnico-aula-virtual\\SKILL.md",
+      "words": 478,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/00%20INDEX%20GPTs/manual.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../protocols/P05_onboarding_nuevos_alumnos.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\supervision-identidad-visual-eccl\\SKILL.md",
+      "words": 417,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/branding/tipografias.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../adaptacion-formatos-graficos-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../../protocols/P06_creacion_y_supervision_carteleria.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\diseno-carteleria-y-redes-eccl\\SKILL.md",
+      "words": 416,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/branding/tipografias.json",
+          "exists": true
+        },
+        {
+          "target": "../adaptacion-formatos-graficos-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../supervision-identidad-visual-eccl/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\adaptacion-formatos-graficos-eccl\\SKILL.md",
+      "words": 531,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../supervision-identidad-visual-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../../protocols/P06_creacion_y_supervision_carteleria.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\guion-reels-y-pildoras-literarias\\SKILL.md",
+      "words": 565,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../adaptacion-formatos-graficos-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../supervision-identidad-visual-eccl/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\gestion-eventos-y-agenda-cultural\\SKILL.md",
+      "words": 487,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/proyectos.csv",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/partners.csv",
+          "exists": true
+        },
+        {
+          "target": "../press-release-cultural-es/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../diseno-carteleria-y-redes-eccl/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\press-release-cultural-es\\SKILL.md",
+      "words": 554,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/publicaciones.csv",
+          "exists": true
+        },
+        {
+          "target": "../dossier-cultural-generator/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../gestion-eventos-y-agenda-cultural/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\dossier-cultural-generator\\SKILL.md",
+      "words": 518,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/proyectos.csv",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/partners.csv",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/docentes.csv",
+          "exists": true
+        },
+        {
+          "target": "../propuestas-b2b-culturales/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../diseno-carteleria-y-redes-eccl/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "skills\\propuestas-b2b-culturales\\SKILL.md",
+      "words": 520,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/funcion.txt",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/metodologia.txt",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/partners.csv",
+          "exists": true
+        },
+        {
+          "target": "../../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/Oportunidades_2025.md",
+          "exists": true
+        },
+        {
+          "target": "../dossier-cultural-generator/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../gestion-eventos-y-agenda-cultural/SKILL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\orientador-de-admisiones-y-alumnos.md",
+      "words": 410,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../protocols/P05_onboarding_nuevos_alumnos.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/AnalisisPublico.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\dinamizador-de-comunidad-y-clubes.md",
+      "words": 390,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/AnalisisPublico.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\asesor-de-propiedad-intelectual.md",
+      "words": 423,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../knowledge/legal/contratos_tipo_antologias.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/legal/rgpd_juveniles.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\asistente-de-soporte-y-aula-virtual.md",
+      "words": 385,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../protocols/P05_onboarding_nuevos_alumnos.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\disenador-grafico-y-carteleria.md",
+      "words": 381,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../protocols/P06_creacion_y_supervision_carteleria.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/tipografias.json",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\guardian-de-marca-e-identidad-visual.md",
+      "words": 387,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/tipografias.json",
+          "exists": true
+        },
+        {
+          "target": "../protocols/P06_creacion_y_supervision_carteleria.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\responsable-de-comunicacion-y-prensa.md",
+      "words": 426,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/funcion.txt",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/AnalisisPublico.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "agents\\gestor-de-proyectos-institucionales-y-b2b.md",
+      "words": 403,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/funcion.txt",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/metodologia.txt",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/proyectos.csv",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/partners.csv",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/Oportunidades_2025.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "protocols\\P05_onboarding_nuevos_alumnos.md",
+      "words": 554,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../agents/orientador-de-admisiones-y-alumnos.md",
+          "exists": true
+        },
+        {
+          "target": "../agents/asistente-de-soporte-y-aula-virtual.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/lead-scoring-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/orientacion-itinerarios-formativos/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/catalogo-academico-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/soporte-tecnico-aula-virtual/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/legal/rgpd_juveniles.json",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "protocols\\P06_creacion_y_supervision_carteleria.md",
+      "words": 553,
+      "worked_example": true,
+      "exception": true,
+      "links": [
+        {
+          "target": "../agents/disenador-grafico-y-carteleria.md",
+          "exists": true
+        },
+        {
+          "target": "../agents/guardian-de-marca-e-identidad-visual.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/diseno-carteleria-y-redes-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/adaptacion-formatos-graficos-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../skills/supervision-identidad-visual-eccl/SKILL.md",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/paleta_corporativa.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/branding/tipografias.json",
+          "exists": true
+        },
+        {
+          "target": "../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+          "exists": true
+        }
+      ]
+    }
+  ],
+  "voice_words": 48,
+  "short_voice_words": 38
+}

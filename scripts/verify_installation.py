@@ -1,109 +1,82 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Script de Chequeo Pre-Vuelo y Verificación de Salud de la Suite ECCL (verify_installation.py).
-Valida:
-1. Manifiesto del Plugin (plugin.json).
-2. Existencia y formato de los 17 Asistentes (.md).
-3. Existencia y formato de las 24 Skills (SKILL.md).
-4. Integridad de los 6 Protocolos SOPs (protocols/).
-5. Integridad del Corpus Canónico (knowledge/).
-6. Ejecución en verde de la Suite de Evaluación y Linters (evals/run_evals.py).
-"""
-
-import os
-import sys
-import json
-import glob
-
-if sys.platform == "win32":
-    import io
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
-
-REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if REPO_DIR not in sys.path:
-    sys.path.insert(0, REPO_DIR)
-
-def check_plugin_manifest():
-    print("1. Verificando plugin.json...")
-    p_path = os.path.join(REPO_DIR, "plugin.json")
-    assert os.path.exists(p_path), "No se encuentra plugin.json"
-    with open(p_path, "r", encoding="utf-8") as f:
-        manifest = json.load(f)
-    assert manifest.get("name") == "eccl-agent-suite", "Nombre de plugin incorrecto"
-    agents_count = len(manifest.get("agents", []))
-    skills_count = len(manifest.get("skills", []))
-    protocols_count = len(manifest.get("protocols", []))
-    print(f"   [OK] plugin.json válido ({agents_count} agentes, {skills_count} skills, {protocols_count} protocolos)")
-    return manifest
-
-def check_agents(manifest):
-    print("\n2. Verificando 17 Asistentes en agents/...")
-    missing = []
-    for ag in manifest.get("agents", []):
-        fpath = os.path.join(REPO_DIR, ag["file"])
-        if not os.path.exists(fpath):
-            missing.append(ag["file"])
-    assert len(missing) == 0, f"Faltan agentes: {missing}"
-    print(f"   [OK] Todos los {len(manifest.get('agents', []))} agentes existen y están accesibles.")
-
-def check_skills(manifest):
-    print("\n3. Verificando 24 Skills en skills/...")
-    missing = []
-    for sk in manifest.get("skills", []):
-        fpath = os.path.join(REPO_DIR, sk["path"], "SKILL.md")
-        if not os.path.exists(fpath):
-            missing.append(sk["path"])
-    assert len(missing) == 0, f"Faltan skills: {missing}"
-    print(f"   [OK] Todas las {len(manifest.get('skills', []))} skills tienen su SKILL.md válido.")
-
-def check_protocols(manifest):
-    print("\n4. Verificando 6 Protocolos SOPs en protocols/...")
-    missing = []
-    for pr in manifest.get("protocols", []):
-        fpath = os.path.join(REPO_DIR, pr)
-        if not os.path.exists(fpath):
-            missing.append(pr)
-    assert len(missing) == 0, f"Faltan protocolos: {missing}"
-    print(f"   [OK] Todos los {len(manifest.get('protocols', []))} protocolos SOPs están disponibles.")
-
-def check_knowledge():
-    print("\n5. Verificando Corpus Canónico en knowledge/...")
-    k_files = glob.glob(os.path.join(REPO_DIR, "knowledge", "**", "*.json"), recursive=True)
-    assert len(k_files) >= 8, f"Se esperaban al menos 8 archivos canónicos, encontrados {len(k_files)}"
-    for kf in k_files:
-        with open(kf, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            assert data, f"Archivo vacío: {kf}"
-    print(f"   [OK] {len(k_files)} archivos de datos canónicos verificados e íntegros.")
-
-def check_evals():
-    print("\n6. Ejecutando suite de evaluación de calidad...")
-    import subprocess
-    evals_script = os.path.join(REPO_DIR, "evals", "run_evals.py")
-    res = subprocess.run([sys.executable, evals_script], capture_output=True, text=True, encoding="utf-8")
-    if res.returncode != 0:
-        print(res.stdout)
-        print(res.stderr)
-        raise RuntimeError("La suite de evaluación falló con Exit Code != 0")
-    print("   [OK] Suite de evaluación de calidad (run_evals.py) superada al 100%.")
-
+"""Comprobaciones estructurales y de integridad; no certifica calidad del modelo."""
+from pathlib import Path
+import hashlib,json,re,sys
+from urllib.parse import unquote
+REPO_DIR=Path(__file__).resolve().parents[1]
+def load(p):return json.loads(p.read_text(encoding='utf-8-sig'))
+def fail(message):raise ValueError(message)
+def require(condition,message):
+    if not condition:fail(message)
+def within(repo,relative):
+    p=(repo/relative).resolve();require(p.is_relative_to(repo.resolve()) and p.is_file(),f'Archivo fuera del paquete/inexistente: {relative}');return p
+def frontmatter(path):
+    text=path.read_text(encoding='utf-8-sig');require(text.startswith('---\n'),f'Sin frontmatter: {path}')
+    parts=text.split('---',2);require(len(parts)==3,f'Frontmatter sin cerrar: {path}')
+    fields=dict(re.findall(r'^([a-z_-]+):\s*(.+)$',parts[1],re.M))
+    require(fields.get('name') and fields.get('description'),f'Falta name/description: {path}')
+    require(bool(parts[2].strip()) and len(parts[2].strip())>100,f'Cuerpo vacío/incompleto: {path}')
+    return fields,text
+def verify(repo=REPO_DIR):
+    repo=Path(repo).resolve();m=load(repo/'plugin.json')
+    require(m.get('name')=='eccl-agent-suite' and m.get('version'), 'Manifiesto incorrecto')
+    require(len(m.get('agents',[]))==17 and len(m.get('skills',[]))==24 and len(m.get('protocols',[]))==6,'Inventario esperado17/24/6')
+    ids={a['id'] for a in m['agents']};skills={s['id'] for s in m['skills']}
+    require(len(ids)==17 and len(skills)==24,'IDs duplicados')
+    active=[]
+    for kind in ['agents','skills']:
+        for entry in m[kind]:
+            rel=entry['file'] if kind=='agents' else entry['path']+'/SKILL.md'
+            p=within(repo,rel);fields,text=frontmatter(p)
+            require(fields['name']==entry['id'],f'Nombre inconsistente: {rel}')
+            if kind=='agents':
+                refs=re.findall(r'^  - ([-a-z0-9]+)\s*$',text.split('---',2)[1],re.M)
+                require(refs and set(refs)<=skills,f'Dependencias skills inválidas: {rel}')
+            active.append(p)
+    for rel in m['protocols']:active.append(within(repo,rel))
+    for p in active:
+        for ref in re.findall(r'\]\(([^)]+)\)',p.read_text(encoding='utf-8-sig')):
+            ref=ref.strip('<>').split('#')[0]
+            if not ref or '://' in ref or ref.startswith('mailto:'):continue
+            target=(p.parent/unquote(ref)).resolve()
+            require(target.is_relative_to(repo) and target.is_file(),f'Link roto: {p.relative_to(repo)} -> {ref}')
+    sm=load(repo/'knowledge/sources/source_manifest.json')
+    entries=sm.get('archivos',[]);require(len(entries)==99,'Inventario fuentes incompleto')
+    for e in entries:
+        if e['destino'] is None:
+            require(e['estado']=='excluido_bloqueo_ofimatica','Exclusión no justificada');continue
+        p=within(repo,e['destino']);require(hashlib.sha256(p.read_bytes()).hexdigest()==e['sha256'],f'Fuente alterada: {e["origen"]}')
+    base=repo/'knowledge/sources/GPTs'
+    for rel,key,total in [('catalogo/cursos_activos.json','cursos',73),('catalogo/claustro_docente.json','docentes',58)]:
+        data=load(repo/'knowledge'/rel);require(isinstance(data.get(key),list) and len(data[key])==total,f'Corpus incompleto: {rel}')
+    courses=load(repo/'knowledge/catalogo/cursos_activos.json')['cursos']
+    require(len({r['id_registro'] for r in courses})==73,'Registros de curso duplicados')
+    require(load(repo/'knowledge/catalogo/cursos_activos.json').get('ids_curso_distintos')==71,'Duplicados históricos no documentados')
+    for row in courses:
+        require(row.get('url_canonica','').startswith('https://') and row.get('disponibilidad_actual')=='no_verificada',f'Curso sin dominio/vigencia: {row["id_curso"]}')
+        require(row.get('publico_objetivo') is not None and row.get('fila_origen'),f'Curso sin procedencia: {row["id_curso"]}')
+    teachers=load(repo/'knowledge/catalogo/claustro_docente.json')['docentes'];require(all('tarifa_estimada' in t for t in teachers),'Tarifas pendientes perdidas')
+    panel=load(repo/'knowledge/avatares/panel_18_alumnos.json')['avatares']
+    required={'contexto','motivaciones','frenos','miedos','deseos','tono_emocional','frase_arquetipo','objetivo_narrativo','riesgos','modo_de_hablar','expectativas','relacion_con_la_escritura'}
+    require(len(panel)==18 and len({a['id_avatar'] for a in panel})==18,'Panel incompleto/duplicado')
+    for avatar in panel:require(required<=set(avatar) and 'procedencia' in avatar,f'Perfil incompleto: {avatar.get("nombre")}')
+    style=load(repo/'knowledge/estilos/corpus_antonia.json')
+    require(style.get('manual_estilo_completo')==(base/'05 Ghostwriter/manual_de_estilo.md').read_text(encoding='utf-8-sig'),'Manual autoral truncado/modificado')
+    require(style.get('modulo_deteccion')==load(base/'06 Critico Literario/modulo_deteccion_antoniamolinero.json')['modulo_deteccion_antoniamolinero'],'Diagnóstico alterado')
+    require(style.get('variantes_emocionales')==load(base/'05 Ghostwriter/variante_estilo_emocional.json'),'Variantes alteradas')
+    require(sum(len(next(iter(load(base/f'06 Critico Literario/ejemplo_correccion_{i}.json').values()))) for i in range(1,5))==20,'Bancos de corrección incompletos')
+    for folder in ['branding','legal']:
+        for p in (repo/'knowledge'/folder).glob('*.json'):
+            require(load(p).get('_procedencia',{}).get('estado')=='propuesta_pendiente_de_validacion_institucional',f'Propuesta sin estado: {p}')
+    b=load(repo/'evals/benchmark_dataset.json');cases=b.get('casos')
+    require(isinstance(cases,list) and len(cases)>=17,'Benchmark sin cobertura mínima')
+    require(len({c.get('id') for c in cases})==len(cases),'Caso duplicado')
+    for case in cases:require(case.get('agente') in ids and case.get('entrada') and isinstance(case.get('debe'),list) and case['debe'] and case.get('fuente_local'),f'Caso inválido: {case.get("id")}')
+    require({c['agente'] for c in cases}==ids,'Benchmark no cubre17agentes')
+    native=load(repo/'.claude-plugin/plugin.json');require(native['name']==m['name'] and native['version']==m['version'],'Manifiesto nativo distinto')
+    require(set(native['agents'])=={'./'+a['file'] for a in m['agents']},'Agentes nativos incompletos')
+    return {'estado':'integridad_estructural_superada','agentes':17,'skills':24,'protocolos':6,'fuentes_conservadas':sum(bool(e['destino']) for e in entries),'casos_diseno':len(cases),'calidad_modelo':'no_inferida_de_esta_prueba'}
 def main():
-    print("======================================================================")
-    print("  DIAGNÓSTICO DE SALUD Y VERIFICACIÓN PRE-VUELO SUITE ECCL")
-    print("======================================================================")
-    
-    manifest = check_plugin_manifest()
-    check_agents(manifest)
-    check_skills(manifest)
-    check_protocols(manifest)
-    check_knowledge()
-    check_evals()
-    
-    print("\n======================================================================")
-    print("  [VEREDICTO FINAL] LA SUITE ECCL ESTÁ 100% OPERATIVA Y LISTA PARA USO")
-    print("======================================================================")
-    sys.exit(0)
-
-if __name__ == "__main__":
-    main()
+    try:print(json.dumps(verify(),ensure_ascii=False,indent=2))
+    except (ValueError,OSError,KeyError,TypeError) as e:print('FALLO DE INTEGRIDAD: '+str(e),file=sys.stderr);return 1
+    return 0
+if __name__=='__main__':sys.exit(main())

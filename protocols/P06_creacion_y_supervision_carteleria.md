@@ -1,39 +1,37 @@
-# 📜 Protocolo P06: Creación y Supervisión de Cartelería y Redes
-### Procedimiento Operativo Estándar para Maquetación y Auditoría Visual
+# P06 · Creación, revisión y entrega de piezas gráficas
 
----
+## Alcance y responsables
+El [diseñador](../agents/disenador-grafico-y-carteleria.md) produce brief/maqueta/archivo real si hay herramienta; el [guardián](../agents/guardian-de-marca-e-identidad-visual.md) revisa evidencia/lectura/coherencia. Dirección valida datos/claims/marca; responsable de derechos confirma permisos; operador autorizado publica si existe encargo/canal. No se simula independencia: si una misma sesión asume ambos roles, decláralo; revisión delegada solo si ocurrió.
 
-## 🎯 1. Propósito y Alcance
-Garantizar que todo material gráfico publicitario (carteles impresos, publicaciones en redes sociales, Stories y banners web) cumpla estrictamente los estándares estéticos y el manual de marca de la ECCL.
+Skills: [diseño](../skills/diseno-carteleria-y-redes-eccl/SKILL.md), [adaptación](../skills/adaptacion-formatos-graficos-eccl/SKILL.md), [supervisión](../skills/supervision-identidad-visual-eccl/SKILL.md). [Paleta](../knowledge/branding/paleta_corporativa.json)/[tipografías](../knowledge/branding/tipografias.json) son **propuesta no validada**, no identidad oficial del cliente. Referencia histórica: [manual, §§5–8,10–11,15](../knowledge/sources/GPTs/03%20Experto%20de%20la%20escuela/manual_de_comunicacion_escuela_literaria_ecl.md).
 
----
+## Fase 1 · Brief y evidencia
+Recoge objetivo/audiencia/destino/tamaño, título/docente/fecha/zona/sede/precio/CTA, fuentes con fecha y permisos de texto/fotos/logo. Aclara qué está confirmado/propuesto/histórico. Sin esenciales, concepto interno sin convocatoria pública ni marcadores ficticios de datos. No usar 22 años, última plaza o tarifa 2025 como actuales.
 
-## 👥 2. Roles Intervinientes
-- **Creador Gráfico:** [`disenador-grafico-y-carteleria`](../agents/disenador-grafico-y-carteleria.md)
-- **Auditor de Marca:** [`guardian-de-marca-e-identidad-visual`](../agents/guardian-de-marca-e-identidad-visual.md)
-- **Skills Involucradas:** [`diseno-carteleria-y-redes-eccl`](../skills/diseno-carteleria-y-redes-eccl/SKILL.md), [`supervision-identidad-visual-eccl`](../skills/supervision-identidad-visual-eccl/SKILL.md), [`adaptacion-formatos-graficos-eccl`](../skills/adaptacion-formatos-graficos-eccl/SKILL.md)
-- **Fuentes de Conocimiento:** `knowledge/branding/paleta_corporativa.json`, `knowledge/branding/tipografias.json`
+**Gate:** hechos y assets autorizados, o pendientes visibles y material interno. Publicación garantizada/testimonios sintéticos quedan excluidos por regla editorial histórica.
 
----
+## Fase 2 · Diseño y adaptación
+Diseña jerarquía título→datos→acción y prueba de método. Usa sistema aprobado; a falta de él etiqueta propuesta. Dos familias máximo según propuesta, lectura/contraste a verificar. Prefiere documento/foto real autorizada o ejercicio sintético explícito, sin clichés vacíos.
 
-## 🔄 3. Fases del Flujo de Trabajo
+Refluye por formato y registra cajas. Cuadrado 1080: área de trabajo 80..1000. Story 1080×1920: x 60..1020, y 250..1670. Son márgenes conservadores, no garantía de interfaz actual. A4/A3: texto 15 mm dentro del corte y sangrado 3 mm exterior solo si imprenta confirma. No estirar logos ni transferir aprobación entre formatos.
 
-### Fase 1: Briefing y Maquetación
-1. Recoger datos clave: título del taller, docente, fechas, aforo, lugar (La Laguna / Online) y precio.
-2. Definir formato de salida (Cartel A3/A4, Post Instagram 1:1, Story 9:16 o Banner web).
-3. Maquetar jerarquía visual:
-   - Titular literario (Playfair Display / Merriweather).
-   - Bloque docente y fechas (Inter / Open Sans).
-   - Fondo marfil `#FAF8F5`, acentos en terracota `#C2593F` o azul atlántico `#1E3A5F`.
+**Gate:** copy conservado, geometría comprobable, editable/exportación realmente existente o especificación etiquetada, alt/pie/créditos asociados. Una descripción no equivale a render ni PDF a CMYK verificado.
 
-### Fase 2: Auditoría Determinista de Marca
-1. Someter la propuesta a la auditoría del Guardián de Marca (`python evals/test_brand_linter.py`).
-2. Validar que:
-   - Los colores HEX pertenecen exclusivamente a la paleta oficial autorizada.
-   - No hay tipografías no autorizadas ni cursivas informales.
-   - Las safe zones perimetrales respetan los márgenes para no solapar textos.
-   - Cero clichés de stock (sin plumas doradas mágicas ni pergaminos quemados).
+## Fase 3 · Revisión y corrección
+Guardián registra material visto y controles posibles. Revisa primero datos/permisos, después recorte/lectura/contraste, después coherencia visual. En foto multicolor no rechaza todo HEX externo; revisa elementos de diseño y armonía. Si solo hay texto, declara pendientes visuales.
 
-### Fase 3: Publicación y Archivo
-1. Tras obtener el dictamen `🟢 APROBADO`, exportar a formato final (PDF para imprenta en CMYK / PNG alta resolución para redes en RGB).
-2. Publicar en canales oficiales y archivar en el repositorio corporativo.
+Linter textual puede apoyar detección de términos/colores, pero no prueba píxeles, márgenes, fuentes o lectura; no sustituye revisión de archivo. Dictamen: listo para revisión humana / requiere cambios / no evaluable. Cada hallazgo lleva evidencia, severidad y corrección. No porcentaje sin rúbrica/método.
+
+El diseñador entrega nueva versión; revisor comprueba cambios y regresiones. Dirección valida hechos/marca y responsable confirma derechos. Si falta aprobación visual, no llama oficial a propuesta coherente.
+
+**Gate:** bloqueos resueltos, controles medidos o pendientes explícitos, aprobador identificado y archivo final visto. Sin archivo no hay aprobación final de exportación.
+
+## Fase 4 · Entrega, eventual publicación y archivo
+Entrega editable/formatos finales, especificaciones, alt/pie/créditos, fuentes/permisos y dictamen/versiones. Imprenta valida perfil/sangrado/PDF; canal valida vista previa. Publicar solo con encargo explícito y herramienta real; si autorizado, registrar enlace/fecha/resultado verificado. Si no se ejecuta, estado «entregado para publicación», no «publicado».
+
+Archivo conserva versión final y trazabilidad sin datos personales sensibles. Si cambia fecha/precio/formatos, reabre criterios afectados. No configura monitorización automática por redactar calendario.
+
+## Ejemplo trabajado nuevo, sintético
+Story descrita sitúa fecha en y 1740..1800. Revisión geométrica: fuera del límite propuesto 1670; mover a 1500..1560. Imagen, contraste y permiso de logo no aportados: pendientes; paleta es propuesta. Nueva descripción corrige caja, pero no permite aprobar archivo final. Siguiente paso: render real, vista móvil, aprobación de datos/derechos y entrega. Solo después puede publicarse con encargo/canal.
+
+**Excepción:** linter pasa y cartel muestra fecha antigua. Bloquear difusión por contenido y corregir, aunque el color sea coherente. **Antipatrón:** «aprobado 100%» por cinco HEX. **Corrección:** dictamen por evidencia y límites de material.

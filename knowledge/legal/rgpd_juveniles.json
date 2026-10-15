@@ -1,11 +1,24 @@
 {
   "tipo_documento": "Protocolo RGPD y Autorización Expresa de Menores de Edad",
   "normativa_aplicable": "Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD - España)",
-  "requisitos_obligatorios": [
+  "responsable_tratamiento": "Escuela Canaria de Creación Literaria (info@escuelaliteraria.com)",
+  "_procedencia": {
+    "estado": "propuesta_pendiente_de_validacion_institucional",
+    "origen": "elaboracion_del_generador_v1_no_documento_aprobado",
+    "fecha_revision": "2026-10-14",
+    "uso": "borrador_de_trabajo; no imponer como contrato, norma ni identidad oficial",
+    "validacion_juridica_actual": false
+  },
+  "afirmaciones_heredadas_no_validadas": [
     "Para menores de 14 años, consentimiento firmado obligatorio de ambos progenitores o tutor legal.",
     "Para jóvenes entre 14 y 17 años (Taller de Jóvenes Escritores), consentimiento del alumno avalado por el tutor.",
     "Finalidad exclusiva: gestión docente, aula virtual Zoom, envío de materiales didácticos y avisos de horarios.",
     "Derecho a la propia imagen: autorización separada e independiente para fotos grupales en redes o publicaciones."
   ],
-  "responsable_tratamiento": "Escuela Canaria de Creación Literaria (info@escuelaliteraria.com)"
+  "checklist_de_revision": [
+    "Precisar finalidad y tratamiento",
+    "Identificar base, representación y autorizaciones aplicables con documentación vigente",
+    "Separar autorización de imagen y uso docente",
+    "Revisar contrato/política real antes de decidir; no usar rangos de edad heredados como norma"
+  ]
 }

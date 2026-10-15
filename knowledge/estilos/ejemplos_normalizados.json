@@ -1,0 +1,771 @@
+{
+  "version": "2.0.0",
+  "bancos": [
+    {
+      "genero": "ensayo",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_ensayo.json",
+      "sha256_fuente": "7197d79294ad1c917a0d770659cf1c737285bbb6ab2d51aeee5da8b4e0ec6ea1",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "ensayo_01",
+            "texto": "Hay días en los que la memoria decide empujar las puertas que habíamos cerrado con tanto cuidado. No avisa, no toca: entra sin permiso, como un vecino que se cree con derecho a atravesar nuestra cocina. Y lo peor es que tiene razón. La memoria siempre tiene razón, aunque nos hunda. Recuerdo a mi madre doblando las toallas con la precisión de quien quiere reparar algo que no se dice. Ese gesto, tan simple, era una forma de inteligencia, una pedagogía secreta. Porque el modo en que se doblan las toallas dice mucho más del carácter que cualquier título universitario. Uno aprende ahí que la vida se sostiene en repeticiones pequeñas, casi invisibles, que nadie aplaude y que, sin embargo, mantienen la casa en pie. Y a veces me pregunto cuántas cosas se habrían roto si ella hubiera dejado de doblar. Tal vez demasiadas. Tal vez todas. El pensamiento nace de esos pliegues: de lo que se ordena para que no se derrumbe. Pensar es, al final, enderezar lo que se ha torcido sin que nadie lo note."
+          },
+          "linea_fuente": 3,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_02",
+            "texto": "Siempre he creído que el verdadero aprendizaje empieza cuando aceptamos que el mundo no encaja como debería. Puedes pasar media vida tratando de colocar las piezas, convencido de que existe un orden secreto, casi matemático, capaz de explicar por qué unas cosas ocurren y otras no. Pero luego abres un cajón, encuentras una carta que ni recordabas, y toda la geometría se venga abajo. Me ocurrió hace unos años: una frase escrita a mano me tumbó más que cualquier libro de filosofía. ¿Cómo puede una frase tan breve derribar una teoría completa sobre la vida? Ahí comprendí que el pensamiento no avanza por argumentos, sino por fisuras. Por pequeñas grietas que te obligan a inclinar la cabeza y mirar desde otro ángulo. La verdad no entra por la puerta principal: se cuela por las rendijas de la experiencia. Y en esas rendijas, en ese polvo flotando al contraluz, es donde uno entiende que la realidad —como la casa en la que crecimos— siempre tiene habitaciones que desconoce."
+          },
+          "linea_fuente": 7,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_03",
+            "texto": "La imaginación es la primera forma de desobediencia. Antes incluso de aprender a hablar, ya estamos inventando la versión posible de lo que vemos. Un niño no mira una escalera: mira la montaña que podría ser; no mira una cuchara: mira un barco. Esa manera de transformar el mundo es peligrosa porque no se puede controlar. Por eso la adultez insiste tanto en domesticarla. Nos enseñan a dejar de ver montañas y barcos, a resignarnos con la escalera y la cuchara. Pero en cuanto una emoción fuerte cruza el pasillo de la casa, la imaginación despierta. Yo la siento volver como un animal que reconoce su territorio: olfatea, rodea, empuja. Y una sabe que tendrá que atenderla. Imaginar es abrir ventanas que habíamos clausurado. Y cada vez que se abre una, entra algo que no esperábamos: una verdad torcida, una duda necesaria, una historia que pide nacer. La imaginación es, en el fondo, la forma más honesta de decir que no estamos del todo de acuerdo."
+          },
+          "linea_fuente": 11,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_04",
+            "texto": "El lenguaje tiene una capacidad sorprendente para traicionarnos. Queremos decir una cosa y acabamos diciendo otra, como si las palabras tuvieran un plan propio. Recuerdo haber intentado explicar un dolor concreto y terminar contando una anécdota absurda sobre un mantel. Pero ahí estaba el secreto: el mantel era el dolor. La textura áspera, la mancha imposible, la costura torcida. En lugar de hablar de lo que me hería, hablé de lo que podía soportar. Esa es la función doméstica del lenguaje: maquillar lo insoportable. Sin embargo, a veces aparece una frase que no admite maquillaje. Una frase que se planta en medio del salón como un mueble nuevo que nadie pidió. Y entonces ya no hay vuelta atrás. El lenguaje decide por ti. Te obliga a reconocer lo que evitabas. Tal vez por eso escribir sea siempre un riesgo. No porque se publique o no, sino porque uno nunca sabe qué palabra va a rebelarse y contar algo que queríamos dejar en silencio."
+          },
+          "linea_fuente": 15,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_05",
+            "texto": "La casa donde crecimos no desaparece nunca, aunque la vendan, la derriben o la conviertan en un despacho frío. Sigue dentro, vibrando como un órgano antiguo. Y lo más curioso es que no recordamos la casa entera: recordamos fragmentos. El ruido de una ventana, la forma en que una baldosa cedía, el olor de un pasillo húmedo. Esos fragmentos son la verdadera patria. Pero la patria no siempre consuela. A veces exige explicaciones. ¿Por qué guardamos rencor a un objeto? ¿Por qué una esquina puede doler tanto como una persona? Ahí es donde la memoria revela su trampa: no recordamos hechos, sino la emoción que los tiñó. Y esa emoción, como una gotera insistente, no se deja ignorar. Pensamos que crecimos y nos alejamos, pero basta tocar un interruptor para que volvamos a ser quienes éramos. La casa no se va porque sigue preguntando, cada vez que la evocamos, si estamos diciendo la verdad sobre nosotros mismos."
+          },
+          "linea_fuente": 19,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_06",
+            "texto": "Hay objetos que funcionan como cápsulas de tiempo. No tienen valor real, pero contienen un ruido, una herida o una alegría que no ha terminado de resolverse. Hace poco encontré un colador oxidado en una caja que pensaba vacía. Podría haberlo tirado, pero lo sostuve un minuto largo, sintiendo que ese utensilio humilde guardaba conversaciones antiguas, discusiones ridículas, cenas que nunca volvieron a ocurrir. ¿Por qué un colador puede doler más que una fotografía? Porque la fotografía elige el instante, pero el colador estuvo ahí para todos los que no se fotografiaron. Los cotidianos, los vergonzosos, los hermosos. Los objetos son testigos silenciosos que no mienten. Y cuando uno de ellos aparece, nos recuerda que la vida está hecha de esos residuos invisibles. Pensar es, a veces, aceptar que los objetos saben más de nosotros de lo que queremos admitir. Y que su presencia es una forma de justicia."
+          },
+          "linea_fuente": 23,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_07",
+            "texto": "Tengo la impresión de que caminamos para entender mejor lo que no sabemos decir. Hay decisiones que solo se revelan cuando se ha andado lo suficiente, cuando el cuerpo encuentra un ritmo que la cabeza no logra por sí sola. En mis paseos he tomado decisiones que llevaba años aplazando. No porque el paisaje me iluminara, sino porque el movimiento libera algo que el pensamiento está empeñado en amarrar. ¿Cuántas verdades nos hemos negado por estar demasiados quietos? El caminar organiza el desorden, como si cada paso fuera un gesto de humildad. Y cuando uno regresa, no vuelve igual. Lleva consigo un hilo de comprensión, una frase que no existía antes de salir, un equilibrio nuevo. Quizá por eso a la gente que sufre se le recomienda caminar. No por salud, sino porque andar hace que la vida se abra un poco más. Caminar es pensar sin ruido."
+          },
+          "linea_fuente": 27,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_08",
+            "texto": "Escribir es una forma de insumisión. No contra nadie en concreto, sino contra la versión oficial que damos de nosotros mismos. Esa versión pulida, exacta, falsa, que repetimos para no complicarnos la vida. Pero basta sentarse frente a un papel para que el barniz se cuartee. La mano escribe lo que la boca no se atreve a decir. Escribir es desafiar al personaje que hemos construido. ¿Quién habla cuando escribo? ¿La que soy o la que intento proteger? A veces se confunden. A veces se odian. Pero en ese conflicto nace el texto. Por eso es tan difícil escribir con honestidad: porque exige renunciar a la comodidad de ser coherente. La coherencia es una cárcel amable. La escritura, en cambio, es una fuga constante. Y cada vez que escapamos, dejamos atrás una versión nuestra que ya no sirve."
+          },
+          "linea_fuente": 31,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_09",
+            "texto": "Hay temores que no se resuelven con explicaciones, sino con compañía. No hablo de afecto, sino de presencia. Saber que alguien está sentado al otro lado de la mesa, incluso en silencio, cambia la manera en que entendemos lo que nos pasa. El miedo se achica un poco cuando tiene testigos. Pero a veces no hay nadie. A veces la única presencia posible es la propia memoria, que no siempre es amable. Entonces uno aprende a hacerse compañía. A preparar un café lento, a hablar en voz baja, a ordenar una estantería como quien negocia con un animal asustado. Y ese gesto de autoacompañarse es más valiente que cualquier discurso. Pensar es, en esos casos, sostenerse sin desmoronarse del todo. Y eso ya es un triunfo."
+          },
+          "linea_fuente": 35,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "ensayo_10",
+            "texto": "La verdad rara vez llega con estrépito. No suele entrar dando portazos. Más bien se filtra, como el olor del sofrito que sube por las escaleras sin que nadie se dé cuenta. Y de pronto está ahí, impregnándolo todo, obligándote a reconocer algo que llevabas semanas evitando. La verdad es una insistencia discreta. Por eso tiene tanto poder. Se cuela en los huecos de la rutina, en el modo en que enciendes la luz, en la manera en que apartas un plato. Y cuando por fin la aceptas, no trae alivio inmediato. Trae claridad. Y la claridad, aunque duela, siempre es una forma de descanso."
+          },
+          "linea_fuente": 39,
+          "uso": "calibracion_sintetica"
+        }
+      ],
+      "fragmentos_no_parseables": [],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    },
+    {
+      "genero": "narrativa",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_narrativa.json",
+      "sha256_fuente": "cf41bc607ede8ef47b9032284377ab7fcb7267ea429be9204d464dccefc025cb",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "narrativa_01",
+            "texto": "Mi abuela tenía una forma curiosa de pelar las naranjas: no separaba los gajos, los arrancaba de un tirón, como si quisiera acelerar la verdad que escondían. Yo la observaba desde la mesa, con la barbilla apoyada en las manos, esperando a que dijera algo. No hablaba mucho, pero cuando lo hacía siempre dejaba una frase que pesaba más que la fruta. “No te fíes de lo que brilla”, me dijo una vez, mientras dejaba la piel sobre el plato. Años más tarde entendería que hablaba de personas, no de naranjas. Aquella mañana, sin embargo, lo único que supe es que había en su voz una advertencia que no quería sonar a advertencia. Vivíamos en una casa pequeña, con ventanas que daban a un patio donde las vecinas tendían los secretos igual que tendían la ropa. Mi abuela miraba ese patio como quien repasa una herida antigua, una que no supura pero no cierra. Crecí pensando que la vida se parecía a esas naranjas: que uno debe arrancar lo que duele de un tirón, aunque quede marca. Y todavía hoy, cuando una verdad incómoda se asoma, veo sus manos trabajando rápido, como si el tiempo fuera una promesa que nadie piensa cumplir."
+          },
+          "linea_fuente": 3,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_02",
+            "texto": "La casa de mi infancia tenía un pasillo tan estrecho que dos personas no podían cruzarse sin rozarse el hombro. Mi madre decía que eso nos obligaba a pedir permiso, pero yo sabía que era una excusa para que aprendiéramos a leer el estado de ánimo del otro. En aquel pasillo escuché discusiones que no entendía y risas que no se repetían al día siguiente. Había una baldosa suelta que hacía un ruido hueco cuando la pisabas; mi hermano la evitaba como si fuera una trampa. Yo, en cambio, la buscaba: me gustaba sentir ese sonido que parecía un latido fuera de lugar. Con los años descubrí que esa baldosa había sobrevivido a tres reformas y que mi padre se negaba a cambiarla. “Las casas también necesitan recordatorios”, dijo una vez, sin mirarme. No supe qué quería decir hasta que me fui. Entonces entendí que cada vez que uno regresa a la infancia, pisa sin querer esa baldosa suelta. Y el ruido, inevitable, nos devuelve a la versión de nosotros mismos que intentamos abandonar."
+          },
+          "linea_fuente": 7,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_03",
+            "texto": "La primera vez que acompañé a mi tía al mercado pensé que el mundo era un lugar demasiado ruidoso para la gente sensible. Ella caminaba con una determinación que no le había visto nunca en casa. Entre los puestos de pescado parecía otra persona: una que sabía negociar, medir, rechazar. Me dio miedo descubrir que existían versiones desconocidas de quienes creíamos conocer. Y aun así, me aferré a su abrigo para no perderla entre aquella multitud que olía a sal y a madrugadas. Recuerdo el momento en que se detuvo frente a unas sardinas y suspiró, como si aquellas escamas brillantes le hubieran dicho algo que yo no escuché. Luego me miró y dijo: “No siempre podemos elegir, pero sí podemos decidir cómo miramos lo que nos toca”. Yo no entendí nada, pero asentí. Años después, cuando tuve que enfrentar una pérdida que no había pedido, aquella frase regresó, nítida como el olor del mercado. Comprendí que el mundo no era ruidoso: era sincero. Y la sinceridad duele más que el ruido."
+          },
+          "linea_fuente": 11,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_04",
+            "texto": "Mi hermana mayor tenía la costumbre de cerrar la puerta de su habitación con demasiada fuerza, como si el mundo entero estuviera empujando desde el otro lado. Yo escuchaba ese portazo desde el salón y pensaba que algún día aquella bisagra iba a romperse. No se rompió, pero sí lo hizo ella. Y nadie en casa supo qué hacer con los pedazos. Éramos una familia experta en evitar preguntas. El silencio era el pegamento con el que pretendíamos arreglar las cosas. Pero el silencio no pega nada, solo oculta la fractura. Una noche la encontré sentada en el suelo, con las rodillas recogidas y las manos temblando. No lloraba, pero la habitación estaba llena de un llanto que no hacía falta oír. Me dijo: “No pasa nada”, que en nuestra casa significaba exactamente lo contrario. Desde entonces he aprendido a desconfiar de las puertas que se cierran fuerte. No son un gesto de rabia: son un mensaje que nadie quiere interpretar."
+          },
+          "linea_fuente": 15,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_05",
+            "texto": "En mi calle vivía un hombre que siempre regaba las plantas a la misma hora. Los niños decían que estaba loco, pero a mí me parecía alguien que había encontrado una manera de sostenerse. Había algo en su rutina que imponía respeto: ese cuidado constante, ese diálogo silencioso con las hojas. Un día me acerqué a mirar de cerca y vi que algunas plantas estaban secas, demasiado secas para recuperarse. Pero él las regaba igual, como si insistir fuera una forma de cariño. Años más tarde, cuando tuve que cuidar a mi madre enferma, me acordé de él. Entendí que regar lo que no va a revivir no es locura: es lealtad. Es decir: 'Estoy aquí, aunque la vida ya no responda'. Desde entonces miro las plantas con otra paciencia. Y cuando riego las mías, pienso en todo lo que uno cuida aun sabiendo que no puede salvarlo."
+          },
+          "linea_fuente": 19,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_06",
+            "texto": "Mi padre tenía un modo de afilar los cuchillos que me inquietaba. No por el gesto en sí, sino por la concentración con la que lo hacía. Era como si durante esos minutos no existiera nada más en el mundo. Yo lo observaba desde el quicio de la puerta, tratando de adivinar en qué pensaba. Nunca lo supe. Pero con el tiempo entendí que afilar cuchillos era su manera de ordenar el caos. Cada movimiento preciso, cada roce metálico, le devolvía un fragmento de control. Cuando crecí, adopté mis propias versiones de ese ritual: doblar la ropa, limpiar meticulosamente una mesa, colocar libros por tamaño. Y un día comprendí que todos heredamos formas secretas de sobrevivir. Mi padre afilaba cuchillos; yo afilo palabras. Ninguna de las dos cosas evita el dolor, pero ambas permiten respirar un poco mejor."
+          },
+          "linea_fuente": 23,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "narrativa_08",
+            "texto": "El olor a cebolla frita me acompaña desde que tengo memoria. No sé cuántas decisiones importantes se tomaron en mi familia alrededor de una sartén. Había algo en ese olor que obligaba a decir la verdad, quizá porque nadie puede mentir mientras llora por una cebolla. Recuerdo una tarde en la que mi tío anunció que se iba. Lo dijo sin levantar la vista, como si la sartén pudiera absolverlo. Nadie respondió. El aceite seguía chisporroteando, indiferente. Yo tenía nueve años y pensé que la cebolla era la culpable de todo. Con el tiempo entendí que las casas tienen rituales propios, y que en la nuestra las despedidas siempre sabían a sofrito. A veces, cuando estoy sola, frío cebolla aunque no vaya a cocinar nada. Lo hago para convocar esa franqueza antigua, ese temblor. Porque hay olores que abren puertas que creíamos cerradas, y uno vuelve a ser quien era, aunque sea por un instante. El olor de la cebolla me ha dicho más verdades que muchas personas."
+          },
+          "linea_fuente": 27,
+          "uso": "calibracion_sintetica"
+        }
+      ],
+      "fragmentos_no_parseables": [
+        {
+          "linea_fuente": 31,
+          "estado": "registro_truncado_no_completado",
+          "detalle": "Invalid control character at: line 3 column 761 (char 790)"
+        }
+      ],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    },
+    {
+      "genero": "notadeprensa",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_notadeprensa.json",
+      "sha256_fuente": "e8bf88a698884844458a554ec95f996620c9c0045face79cafbb1679fe9fb640",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "np_01",
+            "texto": "El nuevo libro de la autora se presenta como una indagación sobria pero profundamente humana sobre aquello que dejamos atrás sin darnos cuenta. A través de una historia que transcurre entre cocinas, pasillos y objetos heredados, la obra invita al lector a mirar de frente las pequeñas decisiones que terminan moldeando una vida entera. La novela no busca deslumbrar: busca decir la verdad sin exageraciones, apoyándose en escenas que cualquiera ha vivido, pero que casi nadie se detiene a nombrar. La autora escribe con una claridad que no simplifica y con una delicadeza que no protege, revelando que existe una forma de valentía en reconocer lo cotidiano como territorio emocional. El libro propone una pregunta sencilla, casi doméstica: ¿qué hacemos con aquello que ya no encaja en nuestra memoria, pero tampoco sabemos soltar? Entre diálogos precisos y silencios que pesan, la obra construye un relato que acompaña más de lo que explica. Una lectura que deja una estela de calma inquietante, como la luz de una cocina encendida en mitad de la noche."
+          },
+          "linea_fuente": 3,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_02",
+            "texto": "En esta nueva propuesta literaria, la autora explora con sobriedad el territorio íntimo de la culpa y la reparación. El libro sigue a una mujer que intenta recomponer su vida enfrentándose a los objetos que ha ido acumulando sin querer. Cada capítulo se abre como una caja que guarda un eco incómodo, y la novela avanza recogiendo esas resonancias sin caer en sentimentalismos. El estilo se mantiene firme, preciso, sin adorno superfluo, dejando que los gestos cotidianos revelen lo que las palabras no alcanzan a decir. La autora demuestra que es posible narrar el dolor sin dramatizarlo, y que existe una belleza discreta en la forma en que nombramos lo que nos da vergüenza. La obra funciona como un espejo honesto: devuelve una imagen que no siempre es amable, pero sí necesaria. Una lectura que invita a detenerse en los detalles que solemos ignorar y que, sin embargo, deciden el rumbo de nuestra vida. Un libro que acompaña sin consolar, y que ilumina sin estridencias."
+          },
+          "linea_fuente": 7,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_03",
+            "texto": "La nueva novela introduce al lector en una casa donde los silencios pesan más que las conversaciones. La protagonista vuelve al hogar familiar después de años de distancia y descubre que cada habitación conserva una versión distinta de ella misma. El relato, construido con precisión emocional, convierte los recuerdos en espacios físicos que deben atravesarse con cuidado. La autora escribe desde una voz que observa sin indulgencia, pero también sin crueldad, y consigue que los objetos domésticos —una taza, una manta, una puerta que no cierra bien— revelen la historia que nadie había contado. Con un estilo que combina sobriedad y profundidad, la obra se mueve entre la nostalgia y la lucidez, evitando cualquier gesto melodramático. El libro es, en el fondo, una reflexión sobre la identidad y el peso de los vínculos que creemos superados. Una novela que no pretende impresionar, sino acompañar al lector en un viaje íntimo hacia esos lugares que todos evitamos recorrer."
+          },
+          "linea_fuente": 11,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_04",
+            "texto": "Este libro ofrece una mirada contenida, pero no fría, sobre los momentos en los que la vida se estrecha y obliga a tomar decisiones que preferiríamos aplazar. A través de una escritura transparente, la autora presenta una historia centrada en un personaje que debe reordenar su mundo tras una pérdida inesperada. Sin artificios ni grandes revelaciones, la novela permite que las emociones se filtren a través de gestos humildes: preparar una comida sencilla, abrir una ventana, mover una silla. La autora demuestra un talento especial para mostrar lo que no se dice, y para encontrar significado en lo que aparentemente carece de importancia. El relato habla de duelo, de familia y de la extraña capacidad que tenemos para seguir adelante incluso cuando nada parece sostenernos. Una obra que no promete alivio, pero ofrece un tipo de claridad que el lector agradecerá al cerrar la última página."
+          },
+          "linea_fuente": 15,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_05",
+            "texto": "Con un tono cercano y una estructura precisa, esta novela se adentra en la complejidad emocional de quienes intentan sostener una vida mientras todo a su alrededor se mueve. La autora sigue a una mujer que trabaja en silencio para mantener un equilibrio frágil, sin heroísmos ni grandes discursos. A través de una prosa que no elude la vulnerabilidad, la narración muestra cómo un gesto sencillo —como limpiar una mesa o tender la ropa— puede contener más verdad que una confesión explícita. La historia avanza con una serenidad que no oculta la tensión subterránea, y cada capítulo revela un matiz nuevo del personaje principal. La autora consigue que la novela respire humanidad en cada línea, sin caer en sentimentalismo. Un libro que invita a mirar con calma las pequeñas decisiones que conforman una existencia, y que recuerda que la fortaleza no siempre se reconoce a primera vista."
+          },
+          "linea_fuente": 19,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_06",
+            "texto": "La autora regresa con una obra que indaga en las fracturas silenciosas de las relaciones humanas. El libro sigue el reencuentro entre dos personas que comparten un pasado cargado de malentendidos y heridas antiguas. Lo notable no es la historia en sí, sino la forma en que está contada: sin estridencias, sin impostación, apoyándose en escenas que parecen simples pero revelan capas profundas de significado. Los diálogos se presentan con una naturalidad que no necesita adornos, y los silencios están trabajados con la misma atención que las palabras. La autora muestra un talento singular para transformar lo cotidiano en algo revelador, y para captar la fragilidad con la que nos relacionamos incluso con quienes más queremos. El libro propone una reflexión sobre la distancia emocional, la reconciliación posible y la que nunca llega. Una lectura serena, honesta, que deja un eco duradero."
+          },
+          "linea_fuente": 23,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_07",
+            "texto": "En esta novela, la autora examina las decisiones que uno toma sin darse cuenta y que, sin embargo, determinan su destino. El relato sigue a un personaje que, tras cambiar de ciudad, descubre que una mudanza no transforma nada si uno no se atreve a mirar lo que arrastra consigo. La historia está contada con una prosa limpia, sensible y profundamente observadora. Los espacios domésticos funcionan como escenarios emocionales donde cada gesto adquiere un peso inesperado: colocar un cuadro, abrir una caja antigua, tirar un papel que conservaba más memoria que utilidad. La autora no necesita grandes giros para sostener la narración; le basta con señalar una grieta en la pared o un objeto fuera de su sitio para abrir un mundo interior. La novela aborda temas como el desarraigo, la identidad y la extraña persistencia del pasado. Una obra delicada que acompaña en lugar de juzgar."
+          },
+          "linea_fuente": 27,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_08",
+            "texto": "La nueva obra de la autora ofrece una reflexión sutil sobre la vida en común y las pequeñas negociaciones que exige. Siguiendo a una familia que atraviesa una crisis discreta, la novela se enfoca en cómo las rutinas cambian cuando el equilibrio se rompe. A través de escenas domésticas que no buscan espectacularidad, el libro muestra la manera en que los vínculos se tensan y se recomponen en silencio. La autora maneja con maestría los matices emocionales, evitando cualquier gesto dramático. Su estilo, sobrio y luminoso, permite que el lector avance sin prisa, observando cómo un detalle mínimo —un cambio en el tono de voz, un plato dejado en el fregadero— puede revelar la historia completa. La obra habla del desgaste, pero también de la resistencia tranquila que sostiene a las familias. Una novela que ilumina la fragilidad sin convertirla en tragedia."
+          },
+          "linea_fuente": 31,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_09",
+            "texto": "Este libro propone una mirada honesta sobre la relación entre responsabilidad y deseo. La protagonista intenta conciliar sus aspiraciones personales con las demandas de un trabajo que consume más energía de la que admite. La autora construye un retrato matizado y realista, lejos de idealizaciones y de discursos motivacionales. A través de escenas cotidianas —la prisa matutina, un café que se enfría, un correo que no debería haber abierto— el relato muestra cómo la vida moderna empuja, distorsiona y a veces asfixia. Sin embargo, la novela no se instala en el pesimismo: reconoce la dureza, pero ofrece un horizonte donde la honestidad consigo misma se convierte en un punto de partida. La autora demuestra un oído fino para los pequeños detalles y un respeto profundo por la complejidad de la existencia adulta. Una obra que invita a detenerse y mirar con más atención lo que damos por inevitable."
+          },
+          "linea_fuente": 35,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "np_10",
+            "texto": "En su última novela, la autora plantea una historia aparentemente sencilla: una mujer regresa a su pueblo después de la muerte de un familiar. Sin embargo, la narrativa muestra que ningún regreso es simple. Cada calle, cada tienda, cada rostro conocido activa un archivo emocional que la protagonista creía cerrado. Con una escritura contenida y un ritmo sereno, la autora permite que los recuerdos entren como un olor antiguo que se reconoce sin esfuerzo. La novela destaca por su habilidad para sugerir más de lo que afirma, y para construir personajes que respiran verdad sin necesidad de grandes gestos. El libro explora el duelo, la identidad y las segundas oportunidades desde una perspectiva cercana y sin artificios. Una obra que ofrece una claridad que no tranquiliza, pero que ayuda a comprender la lógica silenciosa de la vida."
+          },
+          "linea_fuente": 39,
+          "uso": "calibracion_sintetica"
+        }
+      ],
+      "fragmentos_no_parseables": [],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    },
+    {
+      "genero": "microresena",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_microresena.json",
+      "sha256_fuente": "14248d6dbd82aaa1c7e04c7c89f3fc8778a928823eb6d01ccdade0122d4fa8de",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "micro_01",
+            "texto": "Este libro observa la fragilidad humana sin convertirla en espectáculo. Cada página contiene una verdad pequeña, afilada, que se reconoce antes de comprenderse. No busca consolar; acompaña desde la honestidad más incómoda. Un texto que deja una luz encendida en la memoria."
+          },
+          "linea_fuente": 3,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_02",
+            "texto": "La película desmonta la idea del héroe y se adentra en un territorio más áspero: el de la responsabilidad que duele. La dirección apuesta por una sobriedad que revela más de lo que oculta. Una historia que no exige aplausos, sino atención."
+          },
+          "linea_fuente": 7,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_03",
+            "texto": "La novela avanza con un ritmo lento y preciso, como quien camina para pensar mejor. No hay adornos ni urgencias. Solo una verdad que se despliega desde una cocina, un gesto, una duda. Una obra que transforma lo cotidiano en un espejo necesario."
+          },
+          "linea_fuente": 11,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_04",
+            "texto": "Este poemario trabaja con imágenes domésticas que sostienen una emoción contenida. Nada sobra, nada brilla de más. Los versos se leen como si fueran respiraciones hondas, de esas que uno se concede antes de decir algo importante. Poesía que acompaña sin imponer."
+          },
+          "linea_fuente": 15,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_05",
+            "texto": "La autora firma un relato breve en el que cada frase funciona como una grieta que deja entrar luz. No hay drama, pero sí una claridad que pesa. Es una historia que demuestra que lo pequeño puede ser devastador cuando se nombra sin miedo."
+          },
+          "linea_fuente": 19,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_06",
+            "texto": "La pieza teatral trabaja con silencios más que con parlamentos. Los gestos, casi imperceptibles, sostienen el conflicto verdadero. Una obra que confía en la inteligencia del espectador y evita cualquier subrayado. Su fuerza está en lo que no se dice."
+          },
+          "linea_fuente": 23,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_07",
+            "texto": "El documental propone una mirada honesta sobre la vida cotidiana, sin artificios ni conclusiones forzadas. Las imágenes acompañan a las personas en su fragilidad, sin invadirlas. Un trabajo que entiende que la realidad no necesita maquillaje para tener peso."
+          },
+          "linea_fuente": 27,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_08",
+            "texto": "La autora presenta una historia breve que se sostiene en un solo gesto: abrir una caja antigua y enfrentarse a lo que contiene. La escritura es sobria, el impacto, profundo. Una lectura que demuestra que la memoria nunca cierra del todo."
+          },
+          "linea_fuente": 31,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_09",
+            "texto": "El libro recorre la distancia entre lo que decimos y lo que realmente pensamos. No ofrece certezas, sino preguntas que se quedan latiendo. Una obra que observa sin juzgar y comprende sin idealizar. Ideal para quienes buscan honestidad antes que consuelo."
+          },
+          "linea_fuente": 35,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "micro_10",
+            "texto": "La película se sostiene en una actuación que respira verdad. No necesita grandes gestos para conmover; le basta una mirada bien sostenida. Una historia que recuerda que las decisiones pequeñas son las que definen la vida. Cine que permanece."
+          },
+          "linea_fuente": 39,
+          "uso": "calibracion_sintetica"
+        }
+      ],
+      "fragmentos_no_parseables": [],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    },
+    {
+      "genero": "critica",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_critica.json",
+      "sha256_fuente": "870b76b2c3924b2e38f79717d948bbcb569067b202e23045e84e1fa0ffb904f5",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "critica_01",
+            "texto": "La novela se abre con una escena tan silenciosa que casi obliga al lector a contener la respiración. Una mujer frente a una ventana, un gesto mínimo, una luz que no termina de decidir si entra o retrocede. A partir de ese instante, el libro construye un ritmo pausado pero firme, donde cada movimiento del personaje se convierte en una forma de resistencia. La autora demuestra una sensibilidad extraordinaria para captar los matices de la soledad, evitando el sentimentalismo y confiando en que el lector sabrá leer el temblor detrás de las palabras. No hay grandes giros argumentales, pero tampoco los necesita: su fuerza reside en el detalle que pasa desapercibido, en la frase que parece sencilla pero arrastra un eco más profundo. La novela no pretende ofrecer soluciones ni consuelos; se dedica, con paciencia, a mostrar cómo la vida se filtra por los objetos y los hábitos. El resultado es un relato que no exige prisa, pero recompensa a quien esté dispuesto a escuchar su respiración lenta. Un libro que demuestra que lo pequeño también es frontera."
+          },
+          "linea_fuente": 3,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_02",
+            "texto": "Esta obra plantea un desafío interesante: trabajar con un material emocionalmente denso sin caer en el exceso. La autora lo consigue a través de una escritura que desprende una honestidad casi incómoda. La narración gira en torno a un reencuentro familiar, pero evita el dramatismo fácil y apuesta por la contención. Lo verdaderamente notable es cómo organiza el relato a partir de los silencios, de las palabras que no se dicen, de los gestos que sostienen la tensión. La estructura combina escenas íntimas con pasajes reflexivos que iluminan el núcleo del conflicto. La autora no se posiciona como juez; observa, registra, permite que las contradicciones convivan sin apresurar lecturas morales. Esta capacidad para mostrar la fragilidad humana sin ornamentos convierte la novela en una experiencia envolvente. Una obra que se lee sin urgencia, pero que deja un rastro que incomoda y acompaña a la vez. Pocas veces la sobriedad ha resultado tan expresiva."
+          },
+          "linea_fuente": 7,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_03",
+            "texto": "La película se sostiene sobre un equilibrio delicado entre realismo y sugerencia. El director propone una historia sencilla: una mujer que regresa a su casa de la infancia y se enfrenta a un pasado que nunca terminó de ordenar. Sin embargo, lo notable es cómo utiliza el espacio doméstico como un organismo vivo que observa, exige y recuerda. Las habitaciones hablan con la luz, los pasillos con el sonido, y las sombras funcionan casi como personajes secundarios. La protagonista se mueve con una mezcla de determinación y vulnerabilidad que la actriz interpreta con precisión quirúrgica. Lo más interesante es la forma en que el director evita la nostalgia fácil y apuesta por una verdad más áspera. No se trata de reconstruir una memoria, sino de asumir sus huecos. La película presenta una estética contenida, sin música invasiva, confiando en que la historia encontrará su propio ritmo. Un trabajo maduro y elegante que entiende que la emoción no necesita estridencias para dejar huella."
+          },
+          "linea_fuente": 11,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_04",
+            "texto": "El poemario propone una mirada frontal hacia esas palabras que solemos evitar porque no sabemos manejarlas. La autora escribe desde un lugar donde el dolor no pide explicaciones, pero tampoco se impone. Su estilo combina imágenes domésticas con una precisión casi quirúrgica, logrando versos que parecen aforismos fatigados por la vida. La estructura del libro, lejos de presentarse como un conjunto disperso, funciona como un recorrido emocional que va de la resistencia a la aceptación. Lo más admirable es la capacidad para transformar objetos cotidianos —una ventana empañada, una taza, una camisa arrugada— en señales que orientan al lector hacia un territorio que reconoce sin esfuerzo. No hay sentimentalismo ni dramatización; hay lucidez. El poemario no levanta la voz, pero obliga a detenerse. Es una obra que, pese a su aparente sobriedad, sostiene una intensidad que se filtra a través de la experiencia de quien la lee. Un libro que demuestra que la poesía, cuando no pretende deslumbrar, puede ser una forma de compañía."
+          },
+          "linea_fuente": 15,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_05",
+            "texto": "La autora vuelve a demostrar que el verdadero peso de una novela no reside en su argumento, sino en la forma en que observa el mundo. En esta obra, los personajes se mueven por la ciudad como si atravesaran una casa demasiado grande, llena de habitaciones que no recuerdan haber habitado. El relato avanza gracias a una sucesión de escenas aparentemente pequeñas, pero cargadas de una tensión subterránea que se reconoce enseguida. La autora maneja con maestría la mezcla entre introspección y acción mínima, provocando que el lector perciba la emoción en los huecos que dejan las frases. El ritmo, deliberadamente lento, acompaña un proceso de revelación que no estalla, sino que se asienta. El libro habla de identidad, de cansancio, de la torpeza con la que a veces nos acercamos a quienes queremos. Una obra que pide tiempo, pero devuelve profundidad."
+          },
+          "linea_fuente": 19,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_06",
+            "texto": "Nos encontramos ante una obra que desafía la idea de que la claridad depende de la simplicidad. Aquí, la autora escribe con una transparencia que no elimina la complejidad emocional, sino que la hace más visible. La novela sigue a un personaje atrapado entre el deseo de marcharse y la responsabilidad de quedarse. La tensión se construye desde escenas muy precisas: un desayuno silencioso, una llamada no contestada, una puerta entreabierta. Lo admirable es la capacidad para situar el conflicto en lo cotidiano sin que parezca forzado. La autora evita el subrayado emocional y confía en que el lector sabrá reconocer en esos gestos la densidad del vínculo. La escritura nunca se eleva en exceso, pero tampoco se esconde en la neutralidad. Es un libro honesto, que respira verdad sin pretender enseñarla. La lucidez con la que presenta la contradicción humana merece una lectura atenta."
+          },
+          "linea_fuente": 23,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_07",
+            "texto": "Este ensayo ficcionado propone una reflexión sobre la memoria desde un enfoque íntimo pero no indulgente. La autora utiliza episodios fragmentarios, casi escenas sueltas, para construir un discurso emocional donde cada recuerdo es una pregunta que no encuentra respuesta inmediata. La escritura es austera, pero no por falta de sensibilidad, sino por respeto. Lo que más sorprende es la habilidad para sostener la tensión ética del texto sin recurrir a grandes afirmaciones. La autora observa con una calma que inquieta: nada parece excesivo, pero nada es inocente. El libro recuerda que la memoria no es un archivo, sino un territorio en disputa. A través de un estilo que combina precisión y vulnerabilidad, la obra invita a mirar nuestras certezas con cierta desconfianza. Una lectura que ilumina zonas que preferiríamos ignorar."
+          },
+          "linea_fuente": 27,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_08",
+            "texto": "La autora firma un libro que explora el desencanto sin convertirlo en espectáculo. La protagonista atraviesa una serie de situaciones que la obligan a revisar sus expectativas, pero la narración se mantiene lejos de la grandilocuencia. La fuerza de la obra está en su capacidad para mostrar cómo lo cotidiano se convierte en campo de batalla emocional. Las escenas son breves, casi susurros, pero la acumulación produce un efecto profundo. La autora demuestra una comprensión fina del ritmo: sabe cuándo detenerse, cuándo insistir, cuándo dejar una frase abierta. No ofrece consuelo ni moralejas; ofrece claridad. Y esa claridad, cuando se alcanza desde la sobriedad, tiene un valor literario enorme. Una lectura que se queda dentro mucho después de haber cerrado el libro."
+          },
+          "linea_fuente": 31,
+          "uso": "calibracion_sintetica"
+        },
+        {
+          "registro_original": {
+            "id": "critica_09",
+            "texto": "Esta obra cinematográfica destaca por su decisión de no buscar la lágrima fácil. El director construye una película donde el paisaje urbano se convierte en un reflejo emocional de los personajes. Lo notable es cómo la cámara se detiene en detalles que suelen pasar desapercibidos: un gesto en el ascensor, un bolso apoyado en el suelo, una luz que parpadea. La protagonista sostiene la historia con una actuación contenida, plenamente consciente de que la fuerza del relato está en lo que intenta ocultar. El guion respeta la inteligencia del espectador, evitando explicaciones innecesarias y dejando espacio para la interpretación. Es una película que entiende que el drama no necesita alzar la voz para ser devastador. Un trabajo sutil, honesto y profundamente humano."
+          },
+          "linea_fuente": 35,
+          "uso": "calibracion_sintetica"
+        }
+      ],
+      "fragmentos_no_parseables": [
+        {
+          "linea_fuente": 39,
+          "estado": "registro_truncado_no_completado",
+          "detalle": "Invalid control character at: line 3 column 457 (char 484)"
+        }
+      ],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    },
+    {
+      "genero": "novela",
+      "fuente": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_novela.json",
+      "sha256_fuente": "72d12e4cfe9091252686243bf9d18b1c8277c06f4f74340c79ea555ee8f7350c",
+      "registros_completos": [
+        {
+          "registro_original": {
+            "id": "novela_01_sintetico",
+            "origen": "sintetico",
+            "titulo": "La vida buena en última fila",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "melancolica_domestica",
+              "critica_civil",
+              "oral_veloz"
+            ],
+            "temas": [
+              "instituto",
+              "identidad",
+              "clase_social",
+              "ansiedad"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Escena inicial en el instituto con observación crítica del entorno.",
+              "escena": "Clase de filosofía, interacción con el profesor, observación del aula VIP.",
+              "reflexion": "Qué significa vivir bien, presión social, sentirse fuera de lugar.",
+              "memoria": "Referencias implícitas a pérdidas y cansancio emocional.",
+              "cierre": "Gesto simbólico del profesor que actúa como permiso emocional."
+            },
+            "texto": "Hay días..."
+          },
+          "linea_fuente": 8,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "novela_02_sintetico",
+            "origen": "sintetico",
+            "titulo": "La sangre que no pide permiso",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "juguetona",
+              "melancolica_domestica",
+              "oral_veloz"
+            ],
+            "temas": [
+              "cuerpo",
+              "menstruacion",
+              "madurez",
+              "vergüenza"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Inicio abrupto con un conflicto corporal en clase.",
+              "escena": "Baño del instituto, espejo, compresa, incomodidad social.",
+              "reflexion": "El cuerpo femenino como territorio político.",
+              "memoria": "Recuerdo de la abuela dando marco simbólico a la regla.",
+              "cierre": "Regreso al aula con una 'guerra silenciosa'."
+            },
+            "texto": "Mi madre dice..."
+          },
+          "linea_fuente": 24,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "novela_03_sintetico",
+            "origen": "sintetico",
+            "titulo": "Casa en otra pestaña",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "melancolica_domestica",
+              "luminosa_tierna"
+            ],
+            "temas": [
+              "memoria",
+              "duelo",
+              "familia",
+              "objetos_domesticos"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Invocación inmediata de la casa de la abuela.",
+              "escena": "Exploración de la cocina, tazas antiguas.",
+              "reflexion": "El hogar como archivo emocional.",
+              "memoria": "Recuerdos de cuidados en la infancia.",
+              "cierre": "La taza rescatada como prueba física del pasado."
+            },
+            "texto": "A veces pienso..."
+          },
+          "linea_fuente": 40,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "novela_04_sintetico",
+            "origen": "sintetico",
+            "titulo": "La órbita del patio",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "furia_contenida",
+              "critica_civil",
+              "oral_veloz"
+            ],
+            "temas": [
+              "bullying",
+              "racismo",
+              "vergüenza_publica"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Norma tácita del patio establecida como jerarquía social.",
+              "escena": "Hostigamiento en recreo, insultos y grabaciones.",
+              "reflexion": "Humillación como espectáculo social.",
+              "memoria": "Estado anímico debilitado por sueños y duelo.",
+              "cierre": "Acto mínimo de solidaridad: caminar con otra chica."
+            },
+            "texto": "En el recreo..."
+          },
+          "linea_fuente": 56,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "novela_05_sintetico",
+            "origen": "sintetico",
+            "titulo": "Enamorarse un martes",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "luminosa_tierna",
+              "juguetona",
+              "melancolica_domestica"
+            ],
+            "temas": [
+              "amor_adolescente",
+              "vulnerabilidad",
+              "instituto"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Presentación del enamoramiento en un día anodino.",
+              "escena": "Clase de lengua, intercambio mínimo de miradas y gestos.",
+              "reflexion": "Las pequeñas señales que sostienen emociones.",
+              "memoria": "Confesión interna de cansancio compartido.",
+              "cierre": "Interpretación íntima del mensaje 'yo también estoy cansado'."
+            },
+            "texto": "Me enamoré un martes..."
+          },
+          "linea_fuente": 72,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "novela_06_sintetico",
+            "origen": "sintetico",
+            "titulo": "Azotea sin planos",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "melancolica_domestica",
+              "furia_contenida"
+            ],
+            "temas": [
+              "duelo",
+              "escape_emocional",
+              "familia"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Presentación de la azotea como refugio no oficial.",
+              "escena": "Primer acceso tras un entierro complicado.",
+              "reflexion": "Crítica a los discursos sobre fuerza y resiliencia.",
+              "memoria": "Entierro reciente y carga emocional.",
+              "cierre": "Microalivio: 'tengo un milímetro más de aire'."
+            },
+            "texto": "Hay una azotea..."
+          },
+          "linea_fuente": 88,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "cochinita_cap_01",
+            "origen": "analisis_estructural",
+            "titulo_original": "TÍTULO REAL DEL CAPÍTULO (no reproducido si es literal)",
+            "funcion_capitulo": "Presentación de la voz y del pacto autobiográfico.",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "oral_veloz",
+              "juguetona",
+              "furia_contenida"
+            ],
+            "temas": [
+              "identidad",
+              "confusión_adolescente",
+              "cuerpo",
+              "autopercepción"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Entrada abrupta en el pensamiento de la narradora.",
+              "escena": "Situación cotidiana que expone vulnerabilidad.",
+              "reflexion": "El yo adolescente como entidad en construcción.",
+              "memoria": "Primeras referencias a figuras familiares y heridas previas.",
+              "cierre": "Declaración emocional que marca tono general de la obra."
+            },
+            "recursos_estilisticos": [
+              "metaforas_domesticas",
+              "autocorreccion_en_caliente",
+              "ironía_autobiográfica",
+              "humor_como_defensa"
+            ],
+            "arco_emocional": "Inseguridad inicial → afirmación de voz propia."
+          },
+          "linea_fuente": 110,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "cochinita_cap_02",
+            "origen": "analisis_estructural",
+            "funcion_capitulo": "Introducción de la dimensión corporal de la novela.",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "juguetona",
+              "furia_contenida"
+            ],
+            "temas": [
+              "cuerpo",
+              "sexualidad",
+              "vergüenza",
+              "autonomía"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Impacto corporal que saca a la protagonista de su eje.",
+              "escena": "Momento íntimo o cotidiano que detona reflexión.",
+              "reflexion": "Relación conflictiva con el propio cuerpo.",
+              "memoria": "Comentarios familiares que refuerzan inseguridad.",
+              "cierre": "Ironía o comentario final que desactiva solemnidad."
+            },
+            "recursos_estilisticos": [
+              "lenguaje_explicito_controlado",
+              "metaforas_corporales",
+              "humor_autoprotector"
+            ],
+            "arco_emocional": "Vergüenza → apropiación del propio cuerpo."
+          },
+          "linea_fuente": 134,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "cochinita_cap_03",
+            "origen": "analisis_estructural",
+            "funcion_capitulo": "Presentación del entorno escolar como sistema opresivo.",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "critica_civil",
+              "oral_veloz"
+            ],
+            "temas": [
+              "clase_social",
+              "instituto",
+              "violencia_simbolica"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Descripción irónica del espacio escolar.",
+              "escena": "Interacciones con compañeros VIP.",
+              "reflexion": "Clase y exclusión dentro del sistema educativo.",
+              "memoria": "Comparaciones con etapas previas más precarias.",
+              "cierre": "Comentario incisivo que revela desigualdad."
+            },
+            "recursos_estilisticos": [
+              "sarcasmo_politico",
+              "observacion_social_mordaz"
+            ],
+            "arco_emocional": "Desconcierto → lucidez crítica."
+          },
+          "linea_fuente": 156,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "cochinita_cap_04",
+            "origen": "analisis_estructural",
+            "funcion_capitulo": "Introducción del mentor o figura adulta positiva.",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "luminosa_tierna",
+              "melancolica_domestica"
+            ],
+            "temas": [
+              "aprendizaje",
+              "paternidad_figurada",
+              "intelecto"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Presentación del docente con atributos contradictorios.",
+              "escena": "Escena de aula significativa.",
+              "reflexion": "La educación como refugio emocional.",
+              "memoria": "Comparación con figuras adultas fallidas.",
+              "cierre": "Gesto o frase que abre confianza."
+            },
+            "recursos_estilisticos": [
+              "detalle_minimo_cargado_de_significado",
+              "construccion_de_figura_simbolica"
+            ],
+            "arco_emocional": "Desconfianza → apertura afectiva."
+          },
+          "linea_fuente": 177,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        },
+        {
+          "registro_original": {
+            "id": "cochinita_cap_05",
+            "origen": "analisis_estructural",
+            "funcion_capitulo": "Exploración del duelo y la ausencia.",
+            "voz": "primera_persona_adolescente",
+            "variantes": [
+              "melancolica_domestica",
+              "furia_contenida"
+            ],
+            "temas": [
+              "duelo",
+              "familia",
+              "muerte",
+              "memoria"
+            ],
+            "estructura_capitulo": {
+              "arranque": "Pensamiento o imagen asociada al ser querido perdido.",
+              "escena": "Acción cotidiana transformada por la ausencia.",
+              "reflexion": "Cómo el duelo se filtra en todo.",
+              "memoria": "Escenas clave del pasado.",
+              "cierre": "Frase ambigua que mezcla dolor y ternura."
+            },
+            "recursos_estilisticos": [
+              "superposicion_tiempo_presente_y_pasado",
+              "imagen_domestica_como_metafora_del_duelo"
+            ],
+            "arco_emocional": "Dolor crudo → dolor integrado."
+          },
+          "linea_fuente": 198,
+          "uso": "ficha_estructural_o_analisis_historico_no_capitulo_completo"
+        }
+      ],
+      "fragmentos_no_parseables": [],
+      "regla": "No se añadió contenido. JSON estricto de objetos completos; fragmentos íntegros en fuente archivada."
+    }
+  ]
+}

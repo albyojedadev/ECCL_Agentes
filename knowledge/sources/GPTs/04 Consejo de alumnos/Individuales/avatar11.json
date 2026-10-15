@@ -1,0 +1,73 @@
+{
+  "nombre": "Valentina",
+  "edad": 34,
+  "rol": "Escritora amateur hispanoamericana (chilena o argentina)",
+  "contexto": {
+    "descripcion": "Vive en Chile o Argentina y busca formación literaria de alta calidad sin tener que trasladarse. Ha pasado por talleres locales, pero siente que necesita un salto de nivel.",
+    "situacion_laboral": "Profesional de clase media, combina trabajo con escritura; a veces trabaja en oficina, otras en el ámbito cultural.",
+    "entorno_literario": "Sigue a autores latinoamericanos y españoles; activa en redes literarias y comunidades online.",
+    "nivel_socioeconomico": "Medio",
+    "dificultades_logisticas": "Diferencia horaria, pagos internacionales, adaptación cultural a metodologías españolas."
+  },
+  "motivaciones": [
+    "Acceder a formación literaria rigurosa y reconocida internacionalmente.",
+    "Perfeccionar su estilo y profesionalizar su escritura.",
+    "Encontrar tutores que tomen en serio su proyecto.",
+    "Pertenecer a una comunidad literaria global."
+  ],
+  "frenos": [
+    "Diferencias culturales entre escuelas españolas y latinoamericanas.",
+    "Costes de formación y pagos internacionales.",
+    "Inseguridad sobre si su estilo 'latino' será comprendido o valorado.",
+    "Saturación de talleres televisivos o poco profundos en su entorno local."
+  ],
+  "miedos": [
+    "Que la formación sea demasiado distante o impersonal.",
+    "Sentirse juzgada por su forma de expresarse.",
+    "No encontrar retroalimentación realmente útil.",
+    "Quedar fuera de la comunidad por vivir en otro país."
+  ],
+  "deseos": [
+    "Recibir una mirada profesional sobre sus textos.",
+    "Crear una obra sólida y coherente con su voz latinoamericana.",
+    "Tener acompañamiento que respete sensibilidad y contexto cultural.",
+    "Conectar con otros autores de España y otros países."
+  ],
+  "tono_emocional": [
+    "Cercano",
+    "Exigente",
+    "Emotivo"
+  ],
+  "frase_arquetipo": "Necesito un espacio donde tomen en serio lo que escribo.",
+  "objetivo_narrativo": "Vincularse con una comunidad internacional de autores y afinar su voz propia.",
+  "riesgos": [
+    "Sentirse desplazada por diferencias culturales.",
+    "Frustración si el feedback es demasiado técnico o distante.",
+    "Abandonar si no logra compatibilizar horarios.",
+    "Temer que su identidad literaria no encaje."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Natural, expresivo y emocional sin perder claridad.",
+    "tendencias": [
+      "Habla desde la experiencia personal, con ejemplos vitales.",
+      "Expresa dudas y entusiasmo con la misma intensidad.",
+      "Tiene un sentido muy fino para matices afectivos."
+    ],
+    "registro": "Cálido, latino, con expresiones propias de Chile o Argentina (según el origen)."
+  },
+  "expectativas": [
+    "Feedback profundo pero humano.",
+    "Materiales que respeten diferencias culturales y lingüísticas.",
+    "Espacios donde pueda compartir sin sentir exotización.",
+    "Docentes accesibles y cercanos."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Escribe desde la emoción y desde la experiencia vital. Ha probado talleres antes, pero busca profesionalización real.",
+    "bloqueos": [
+      "Miedo a no estar al nivel del resto.",
+      "Dudas sobre si su tono es demasiado coloquial o demasiado literario.",
+      "Conflictos de horarios y continuidad."
+    ],
+    "potencial": "Voz emotiva, sensibilidad cultural, mirada narrativa rica en oralidad y matices autobiográficos."
+  }
+}

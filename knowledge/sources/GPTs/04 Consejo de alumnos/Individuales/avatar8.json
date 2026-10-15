@@ -1,0 +1,73 @@
+{
+  "nombre": "Nico",
+  "edad": 27,
+  "rol": "Creador de contenido y guionista para redes",
+  "contexto": {
+    "descripcion": "Vive hiperconectado. Produce vídeos, guiones cortos, hilos, sketches y piezas virales para distintas plataformas. Convive con la presión del algoritmo y la necesidad de mantener la atención.",
+    "situacion_laboral": "Autónomo o empleado en productora digital. Ingresos variables según proyectos, patrocinios y alcance.",
+    "entorno_digital": "Domina formatos audiovisuales, edición rápida, métricas y tendencias. Está acostumbrado a probar ideas y publicar en caliente.",
+    "nivel_socioeconomico": "Medio",
+    "perfil_creativo": "Hábil para comunicar visualmente, con humor y ritmo. Busca profundidad sin perder frescura ni velocidad."
+  },
+  "motivaciones": [
+    "Aprender a escribir guiones más sólidos que conecten emocionalmente.",
+    "Mejorar su capacidad de storytelling para diferenciarse del resto de creadores.",
+    "Dar más peso a lo narrativo y menos a la dependencia del algoritmo.",
+    "Crear contenido que no solo entretenga, sino que también diga algo real."
+  ],
+  "frenos": [
+    "Desconfianza hacia lo académico: teme perder naturalidad.",
+    "Dificultad para sostener ideas largas en un entorno de inmediatez.",
+    "Sensación de que muchos cursos de escritura no entienden el ecosistema digital.",
+    "Poca paciencia para procesos extensos o demasiado teóricos."
+  ],
+  "miedos": [
+    "Perder su estilo fresco y directo al 'estudiar demasiado'.",
+    "No estar a la altura cuando quiere hacer proyectos más grandes.",
+    "Quedarse atrapado en la repetición de fórmulas virales.",
+    "Que su contenido deje de funcionar si intenta profundizar."
+  ],
+  "deseos": [
+    "Construir relatos emocionales en formatos cortos.",
+    "Aprender herramientas de guion que pueda aplicar inmediatamente.",
+    "Encontrar su propia voz en un mar de creadores parecidos.",
+    "Migrar poco a poco hacia piezas más profundas o narrativas largas."
+  ],
+  "tono_emocional": [
+    "Irónico",
+    "Rápido",
+    "Visual"
+  ],
+  "frase_arquetipo": "Quiero que mis vídeos cuenten algo real.",
+  "objetivo_narrativo": "Narrar autenticidad digital sin perder ritmo ni frescura.",
+  "riesgos": [
+    "Impatiencia con procesos que requieren tiempo.",
+    "Reducir el storytelling a trucos o clichés virales.",
+    "Frustrarse si no ve cambios inmediatos en las métricas.",
+    "Pensar que la teoría mata la creatividad y abandonar la formación."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Ágil, con frases cortas. Tiende a saltar entre ideas rápidamente.",
+    "tendencias": [
+      "Humor irónico o autorreferencial.",
+      "Reflejos de cultura meme, referencias visuales o audiovisuales.",
+      "Se expresa mejor con ejemplos concretos que con conceptualizaciones largas."
+    ],
+    "registro": "Casual, directo, urbano, con mezcla de jerga digital."
+  },
+  "expectativas": [
+    "Métodos que traduzcan la teoría a formatos breves (TikTok, Reels, YouTube Shorts).",
+    "Ejemplos aplicables al ecosistema online.",
+    "Técnicas para conectar emocionalmente en menos de 30 segundos.",
+    "Formación sin tecnicismos innecesarios."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Asocia la escritura al guion rápido y funcional, pero empieza a ver que puede ser un espacio de autenticidad y profundidad.",
+    "bloqueos": [
+      "Poca tolerancia a procesos lentos.",
+      "Duda de su capacidad para sostener un arco narrativo complejo.",
+      "Tendencia a priorizar la inmediatez sobre la calidad."
+    ],
+    "potencial": "Gran intuición para ritmo, humor y visualidad; capacidad para conectar con audiencias masivas si se le da un marco narrativo sólido."
+  }
+}

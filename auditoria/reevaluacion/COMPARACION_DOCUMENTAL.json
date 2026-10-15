@@ -1,0 +1,175 @@
+{
+  "fuentes_y_planificacion_originales_sin_cambios": true,
+  "archivos_originales_comprobados": 114,
+  "modificados": [],
+  "skills": [
+    {
+      "skill": "adaptacion-formatos-graficos-eccl",
+      "palabras": 531,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 4
+    },
+    {
+      "skill": "antonia-molinero-voice",
+      "palabras": 1297,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 12
+    },
+    {
+      "skill": "business-intelligence-cultural",
+      "palabras": 1520,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 6
+    },
+    {
+      "skill": "catalogo-academico-eccl",
+      "palabras": 1204,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 15
+    },
+    {
+      "skill": "contratos-editoriales-y-derechos-autor",
+      "palabras": 478,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 4
+    },
+    {
+      "skill": "critica-pedagogica-literaria",
+      "palabras": 1211,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 9
+    },
+    {
+      "skill": "cultural-grant-writer-es",
+      "palabras": 1352,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 7
+    },
+    {
+      "skill": "curaduria-antologias-eccl",
+      "palabras": 917,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 3
+    },
+    {
+      "skill": "desbloqueo-creativo-socratico",
+      "palabras": 795,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 2
+    },
+    {
+      "skill": "dinamizacion-comunidad-literaria",
+      "palabras": 479,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 4
+    },
+    {
+      "skill": "diseno-carteleria-y-redes-eccl",
+      "palabras": 416,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "dossier-cultural-generator",
+      "palabras": 518,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 6
+    },
+    {
+      "skill": "gestion-eventos-y-agenda-cultural",
+      "palabras": 487,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "guion-reels-y-pildoras-literarias",
+      "palabras": 565,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 3
+    },
+    {
+      "skill": "lead-scoring-eccl",
+      "palabras": 481,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 4
+    },
+    {
+      "skill": "orientacion-itinerarios-formativos",
+      "palabras": 467,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "press-release-cultural-es",
+      "palabras": 554,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 4
+    },
+    {
+      "skill": "propuestas-b2b-culturales",
+      "palabras": 520,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 7
+    },
+    {
+      "skill": "seguimiento-habito-escritura",
+      "palabras": 787,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 1
+    },
+    {
+      "skill": "soporte-tecnico-aula-virtual",
+      "palabras": 478,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 3
+    },
+    {
+      "skill": "subvenciones-canarias-sync",
+      "palabras": 860,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "supervision-identidad-visual-eccl",
+      "palabras": 417,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "synthetic-audience-panel-eccl",
+      "palabras": 1107,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 5
+    },
+    {
+      "skill": "verificacion-originalidad-y-voz-propia",
+      "palabras": 866,
+      "ejemplo_identificado": true,
+      "excepcion_identificada": true,
+      "referencias_locales": 3
+    }
+  ]
+}

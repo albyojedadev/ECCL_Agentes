@@ -1,0 +1,497 @@
+[
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\.~lock.Manual de uso de los asistentes.doc#",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\Direccion asistentes.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\Manual de uso de los asistentes.doc",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\Manual de uso de los asistentes.pdf",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\manual.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\00 INDEX GPTs\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\API Ayudas Canarias.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\API Ayudas Europeas.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\API Ayudas Nacionales.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\ejemplo_memoria_base_escuela.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\ejemplos_memorias.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\manual_estilo_copycat.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\metodologia.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\personalidad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\plantillas_preguntas_copycat.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\01 Ayudas y licitaciones\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\02 Analista de datos\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\02 Analista de datos\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\02 Analista de datos\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\02 Analista de datos\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\02 Analista de datos\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\AnalisisPublico.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\Benchmark_Analisis_Competidores.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\Benchmark_Competidores_Escuela_Literaria.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\docentes.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\grupos.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\index.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\Informe_Estrategico_ECCL.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\inventario_cursos.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\manual_de_comunicacion_escuela_literaria_ecl.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\Oportunidades_2025.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\partners.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\proyectos.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\publicaciones.csv",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\03 Experto de la escuela\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\AnalisisPublico.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\avatares_maestro.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar1.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar10.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar11.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar12.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar13.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar14.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar15.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar16.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar17.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar18.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar2.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar3.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar4.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar5.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar6.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar7.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar8.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar9.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\Individuales\\Informe GPT.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\04 Consejo de alumnos\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_critica.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_ensayo.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_microresena.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_narrativa.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_notadeprensa.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\ejemplo_novela.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\guia_ejemplos_sinteticos.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\manual_de_estilo.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\variante_estilo_emocional.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\05 Ghostwriter\\variantes_estilo.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\config.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\ejemplo_correccion_1.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\ejemplo_correccion_2.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\ejemplo_correccion_3.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\ejemplo_correccion_4.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\funcion.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\manual_comentarios_antonia.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\manual_estilo_correccion_antonia.md",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\metodologia.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\modulo_deteccion_antoniamolinero.json",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\persona.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\06 Critico Literario\\seguridad.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  },
+  {
+    "fuente": "GPTs\\SecureInstructionsv3.txt",
+    "copias_exactas": [],
+    "nota": "Sin copia exacta NO demuestra pérdida semántica; contrastar informes."
+  }
+]

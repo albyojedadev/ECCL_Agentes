@@ -1,0 +1,6 @@
+{
+  "origen": "[workspace]/GPTs\\00 INDEX GPTs\\Manual de uso de los asistentes.pdf",
+  "paginas": 24,
+  "caracteres": 31956,
+  "metodo": "pypdf.extract_text; sin OCR ni examen visual; .doc binario no extraido"
+}

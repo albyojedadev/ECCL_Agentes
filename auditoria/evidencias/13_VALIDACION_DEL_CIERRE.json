@@ -1,0 +1,21 @@
+{
+  "archivos_fuente_sin_cambios": true,
+  "modificados": [],
+  "faltantes": [],
+  "nuevos_en_fuentes": [],
+  "documentos_markdown": [
+    "00_DICTAMEN_EJECUTIVO.md",
+    "01_ALCANCE_Y_METODOLOGIA.md",
+    "02_REVISION_LITERARIA_Y_AUTORAL.md",
+    "03_REVISION_FINANCIACION_DATOS_Y_CATALOGO.md",
+    "04_REVISION_PANEL_Y_PROFUNDIDAD.md",
+    "05_REVISION_HERRAMIENTAS_Y_EVALUACIONES.md",
+    "06_PLAN_DE_SUBSANACION_Y_ACEPTACION.md",
+    "08_CONCILIACION_Y_SEGUNDA_REVISION.md"
+  ],
+  "enlaces_resumen_rotos": [],
+  "casos_propuestos": 26,
+  "agentes_cubiertos": 17,
+  "agentes_sin_casos": [],
+  "casos_ejecutados": 0
+}

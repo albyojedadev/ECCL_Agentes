@@ -1,0 +1,73 @@
+{
+  "nombre": "Clara",
+  "edad": 15,
+  "rol": "Estudiante de secundaria; lectora de fantasía y fanfiction",
+  "contexto": {
+    "descripcion": "Vive en Tenerife, en un entorno familiar estable que apoya su interés por la lectura y la creatividad.",
+    "situacion_familiar": "Padres presentes, atentos a su educación y a sus intereses culturales.",
+    "entorno_escolar": "Instituto público; buen rendimiento, tímida a la hora de intervenir en clase.",
+    "nivel_socioeconomico": "Medio",
+    "vida_digital": "Muy activa en redes lectoras y comunidades de fanfiction; consume contenido en español e inglés."
+  },
+  "motivaciones": [
+    "Encontrar una comunidad donde compartir sus historias sin sentir vergüenza.",
+    "Mejorar sus fanfics y empezar a crear sus propios mundos originales.",
+    "Sentirse validada en su identidad de 'alguien que escribe'.",
+    "Participar en actividades que se sientan diferentes al instituto."
+  ],
+  "frenos": [
+    "Miedo al juicio de compañeros, docentes e incluso familiares.",
+    "Falta de referentes jóvenes que escriban de forma visible.",
+    "Sensación de que lo que hace es un juego, 'no algo serio'.",
+    "Inseguridad general de la edad, que colorea también la escritura."
+  ],
+  "miedos": [
+    "Hacer el ridículo si alguien lee sus textos en voz alta.",
+    "Recibir burlas o comentarios despectivos.",
+    "Descubrir que 'no es tan buena' como creía.",
+    "Defraudar a sus padres si sus notas bajan por dedicar tiempo a escribir."
+  },
+  "deseos": [
+    "Ser leída por personas que entiendan el género y la cultura fan.",
+    "Aprender trucos y técnicas de narrativa de manera divertida.",
+    "Subir sus historias sin sentir que se expone demasiado.",
+    "Ver su nombre o sus textos formales en algún tipo de publicación juvenil."
+  },
+  "tono_emocional": [
+    "Entusiasta",
+    "Curiosa",
+    "Sensible"
+  ],
+  "frase_arquetipo": "Escribo en secreto, pero me encantaría compartirlo.",
+  "objetivo_narrativo": "Experimentar sin miedo y construir una identidad creativa propia.",
+  "riesgos": [
+    "Abandonar al primer comentario negativo o mal gestionado.",
+    "Ocultar su talento por vergüenza o miedo al juicio.",
+    "Quedar atrapada en la idea de que solo vale lo que se viraliza.",
+    "Asociar su valía personal a los likes o al reconocimiento externo."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Rápido cuando se siente cómoda; dubitativo cuando teme ser juzgada.",
+    "tendencias": [
+      "Usa referencias a sagas, fandoms y universos de ficción.",
+      "Alterna expresiones coloquiales con términos muy concretos del género.",
+      "Se disculpa cuando siente que 'se enrolla demasiado'."
+    ],
+    "registro": "Informal, juvenil, con mezcla ocasional de anglicismos (ship, fandom, spoiler, etc.)."
+  },
+  "expectativas": [
+    "Un entorno percibido como seguro y libre de burlas.",
+    "Ejercicios dinámicos, vinculados a mundos y referentes que ya le gustan.",
+    "Una figura adulta que no infantilice su pasión ni la trate como 'una fase'.",
+    "Posibilidad de compartir textos voluntariamente, sin exposición forzada."
+  },
+  "relacion_con_la_escritura": {
+    "descripcion": "La escritura es su refugio íntimo y un espacio de juego creativo, más libre que el contexto escolar.",
+    "bloqueos": [
+      "Vergüenza y miedo a la mirada externa.",
+      "Tendencia a comparar sus textos con obras publicadas profesionalmente.",
+      "Dudas sobre si lo que hace cuenta como 'escribir de verdad'."
+    ],
+    "potencial": "Gran imaginación, capacidad de absorber estructuras narrativas complejas a través de la lectura intensiva y sensibilidad para el drama y la emoción."
+  }
+}

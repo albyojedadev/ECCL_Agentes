@@ -1,0 +1,317 @@
+{
+  "fecha": "2026-10-14",
+  "tipo": "verificacion_local_documental_no_prueba_de_agentes",
+  "archivos": [
+    {
+      "archivo": "Repositorio de agentes\\agents\\coordinador-de-agentes-de-la-eccl.md",
+      "palabras": 952,
+      "lineas": 73,
+      "enlaces_locales": 21,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\agents\\experto-en-la-eccl.md",
+      "palabras": 692,
+      "lineas": 50,
+      "enlaces_locales": 2,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\agents\\analista-de-datos-culturales-y-educativos.md",
+      "palabras": 549,
+      "lineas": 46,
+      "enlaces_locales": 5,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\agents\\analista-de-subvenciones-y-licitaciones.md",
+      "palabras": 496,
+      "lineas": 35,
+      "enlaces_locales": 3,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\agents\\consejo-de-alumnos-sinteticos.md",
+      "palabras": 475,
+      "lineas": 35,
+      "enlaces_locales": 6,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\skills\\catalogo-academico-eccl\\SKILL.md",
+      "palabras": 1204,
+      "lineas": 70,
+      "enlaces_locales": 15,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\skills\\synthetic-audience-panel-eccl\\SKILL.md",
+      "palabras": 1107,
+      "lineas": 66,
+      "enlaces_locales": 5,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\skills\\cultural-grant-writer-es\\SKILL.md",
+      "palabras": 1352,
+      "lineas": 78,
+      "enlaces_locales": 7,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\skills\\subvenciones-canarias-sync\\SKILL.md",
+      "palabras": 860,
+      "lineas": 58,
+      "enlaces_locales": 5,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\skills\\business-intelligence-cultural\\SKILL.md",
+      "palabras": 1520,
+      "lineas": 85,
+      "enlaces_locales": 6,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\protocols\\P02_solicitud_subvencion_publica.md",
+      "palabras": 649,
+      "lineas": 33,
+      "enlaces_locales": 4,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    },
+    {
+      "archivo": "Repositorio de agentes\\protocols\\P03_test_ab_oferta_formativa.md",
+      "palabras": 716,
+      "lineas": 38,
+      "enlaces_locales": 5,
+      "enlaces_rotos": [],
+      "ejemplo": true,
+      "caracteres_sustitucion": 0
+    }
+  ],
+  "total_archivos": 12,
+  "total_enlaces_rotos": 0,
+  "copias_originales_enlazadas": {
+    "00 INDEX GPTs\\manual.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "00 INDEX GPTs\\metodologia.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\index.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "02 Analista de datos\\funcion.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "02 Analista de datos\\metodologia.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "02 Analista de datos\\seguridad.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\Benchmark_Analisis_Competidores.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "04 Consejo de alumnos\\metodologia.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "04 Consejo de alumnos\\funcion.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "04 Consejo de alumnos\\AnalisisPublico.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\inventario_cursos.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\docentes.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\grupos.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\proyectos.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\partners.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\publicaciones.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\AnalisisPublico.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\Informe_Estrategico_ECCL.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\manual_de_comunicacion_escuela_literaria_ecl.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\Benchmark_Competidores_Escuela_Literaria.csv": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\Oportunidades_2025.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\funcion.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "03 Experto de la escuela\\metodologia.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "04 Consejo de alumnos\\Individuales\\avatar1.json": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\manual_estilo_copycat.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\plantillas_preguntas_copycat.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\ejemplo_memoria_base_escuela.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\ejemplos_memorias.json": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\metodologia.md": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\funcion.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\API Ayudas Canarias.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\API Ayudas Nacionales.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    },
+    "01 Ayudas y licitaciones\\API Ayudas Europeas.txt": {
+      "original_existe": true,
+      "copia_existe": true,
+      "sha256_igual": true
+    }
+  },
+  "total_fuentes_originales_enlazadas": 33,
+  "fuentes_distintas_o_ausentes": [],
+  "ocho_comandos_documentados": {
+    "/diagnóstico": true,
+    "/decidir": true,
+    "/oferta": true,
+    "/operaciones": true,
+    "/comercial": true,
+    "/proyectos": true,
+    "/finanzas": true,
+    "/plantillas": true
+  },
+  "contraste_aritmetico_didactico": {
+    "E06": {
+      "fijo": 600,
+      "precio": 120,
+      "variable": 20,
+      "capacidad": 5,
+      "equilibrio": 6,
+      "resultado_aforo_completo": -100,
+      "aforo_insuficiente": true
+    },
+    "ejemplo_caja": {
+      "fijo": 900,
+      "precio": 120,
+      "variable": 20,
+      "n": 9,
+      "resultado": 0,
+      "saldo_inicial": 500,
+      "pago_dia1": 900,
+      "saldo_dia1": -400
+    }
+  },
+  "total_enlaces_locales": 84
+}

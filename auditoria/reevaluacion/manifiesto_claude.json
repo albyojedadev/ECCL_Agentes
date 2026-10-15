@@ -1,0 +1,12 @@
+{
+  "prueba": "manifiesto_claude",
+  "argumentos": [
+    "C:\\Users\\albyn\\.local\\bin\\claude.EXE",
+    "plugin",
+    "validate",
+    "[workspace]/Repositorio de agentes"
+  ],
+  "exit_code": 0,
+  "stdout": "Validating plugin manifest: [workspace]/Repositorio de agentes\\.claude-plugin\\plugin.json\n\n√ Validation passed\n",
+  "stderr": ""
+}

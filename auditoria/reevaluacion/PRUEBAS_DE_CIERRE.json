@@ -1,0 +1,34 @@
+{
+  "pruebas": [
+    {
+      "prueba": "integridad_final",
+      "exit_code": 0
+    },
+    {
+      "prueba": "regresiones_finales",
+      "exit_code": 0
+    },
+    {
+      "prueba": "manifiesto_claude",
+      "exit_code": 0
+    },
+    {
+      "prueba": "instalacion_destino",
+      "exit_code": 0
+    },
+    {
+      "prueba": "carga_desde_instalacion",
+      "exit_code": 0
+    },
+    {
+      "prueba": "reconstruccion_portable",
+      "exit_code": 0
+    }
+  ],
+  "reconstruccion": {
+    "mismos_archivos": true,
+    "cambios": [],
+    "hashes_iguales": true
+  },
+  "inferencia_cliente": "no_probada_por_estos_scripts"
+}

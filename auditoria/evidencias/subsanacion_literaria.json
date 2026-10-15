@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-14",
+  "validation_kind": "STATIC_DOCUMENTARY_NOT_DEPLOYED_RUNTIME",
+  "scope_files": [
+    {
+      "file": "Repositorio de agentes\\agents\\ghostwriter-de-antonia-molinero.md",
+      "chars": 6350,
+      "lines": 42
+    },
+    {
+      "file": "Repositorio de agentes\\agents\\critico-literario-de-la-eccl.md",
+      "chars": 5676,
+      "lines": 38
+    },
+    {
+      "file": "Repositorio de agentes\\agents\\companero-de-escritura-y-habito.md",
+      "chars": 3713,
+      "lines": 30
+    },
+    {
+      "file": "Repositorio de agentes\\agents\\editor-de-libros-y-antologias.md",
+      "chars": 4728,
+      "lines": 35
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\antonia-molinero-voice\\SKILL.md",
+      "chars": 9602,
+      "lines": 67
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\critica-pedagogica-literaria\\SKILL.md",
+      "chars": 9328,
+      "lines": 65
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\verificacion-originalidad-y-voz-propia\\SKILL.md",
+      "chars": 6415,
+      "lines": 49
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\desbloqueo-creativo-socratico\\SKILL.md",
+      "chars": 5316,
+      "lines": 49
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\seguimiento-habito-escritura\\SKILL.md",
+      "chars": 5486,
+      "lines": 50
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\curaduria-antologias-eccl\\SKILL.md",
+      "chars": 6792,
+      "lines": 57
+    },
+    {
+      "file": "Repositorio de agentes\\protocols\\P01_correccion_pedagogica_bifasica.md",
+      "chars": 6087,
+      "lines": 44
+    },
+    {
+      "file": "Repositorio de agentes\\protocols\\P04_redaccion_autoral_antonia.md",
+      "chars": 6016,
+      "lines": 39
+    },
+    {
+      "file": "Repositorio de agentes\\skills\\critica-pedagogica-literaria\\references\\indice-calibracion.md",
+      "chars": 3622,
+      "lines": 41
+    }
+  ],
+  "relative_links_checked": 59,
+  "missing_links": [],
+  "source_copy_checks": [
+    {
+      "source": "GPTs\\05 Ghostwriter\\config.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\config.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_critica.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_critica.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_ensayo.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_ensayo.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_microresena.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_microresena.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_narrativa.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_narrativa.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_notadeprensa.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_notadeprensa.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\ejemplo_novela.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\ejemplo_novela.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\funcion.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\funcion.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\guia_ejemplos_sinteticos.md",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\guia_ejemplos_sinteticos.md",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\manual_de_estilo.md",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\manual_de_estilo.md",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\metodologia.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\metodologia.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\persona.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\persona.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\seguridad.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\seguridad.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\variante_estilo_emocional.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\variante_estilo_emocional.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\05 Ghostwriter\\variantes_estilo.md",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\05 Ghostwriter\\variantes_estilo.md",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\config.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\config.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\ejemplo_correccion_1.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\ejemplo_correccion_1.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\ejemplo_correccion_2.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\ejemplo_correccion_2.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\ejemplo_correccion_3.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\ejemplo_correccion_3.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\ejemplo_correccion_4.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\ejemplo_correccion_4.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\funcion.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\funcion.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\manual_comentarios_antonia.md",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\manual_comentarios_antonia.md",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\manual_estilo_correccion_antonia.md",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\manual_estilo_correccion_antonia.md",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\metodologia.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\metodologia.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\modulo_deteccion_antoniamolinero.json",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\modulo_deteccion_antoniamolinero.json",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\persona.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\persona.txt",
+      "byte_equal": true
+    },
+    {
+      "source": "GPTs\\06 Critico Literario\\seguridad.txt",
+      "destination": "Repositorio de agentes\\knowledge\\sources\\GPTs\\06 Critico Literario\\seguridad.txt",
+      "byte_equal": true
+    }
+  ],
+  "critical_banks": [
+    {
+      "file": "ejemplo_correccion_1.json",
+      "complete_pairs": 5
+    },
+    {
+      "file": "ejemplo_correccion_2.json",
+      "complete_pairs": 5
+    },
+    {
+      "file": "ejemplo_correccion_3.json",
+      "complete_pairs": 5
+    },
+    {
+      "file": "ejemplo_correccion_4.json",
+      "complete_pairs": 5
+    }
+  ],
+  "critical_total_complete_pairs": 20,
+  "original_manual_chars": 17982,
+  "all_source_copies_byte_equal": true,
+  "claims": {
+    "agent_runtime_executed": false,
+    "human_antonia_validation": false,
+    "production_privacy_verified": false
+  }
+}

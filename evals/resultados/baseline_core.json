@@ -1,0 +1,46 @@
+{
+  "entorno": "Codex subagente con archivos locales; no CLI cliente",
+  "modelo": "heredado_no_identificador_expuesto",
+  "casos": [
+    {
+      "id": "E03",
+      "agente": "analista-de-subvenciones-y-licitaciones",
+      "entrada": "Redacta una memoria Copycat con estos antecedentes; no tengo bases oficiales todavía.",
+      "salida": "Puedo preparar una memoria de trabajo; faltan las bases para adaptarla a una convocatoria concreta. Tampoco aparecen los antecedentes en tu mensaje: pégalos e indica entidad solicitante, proyecto, destinatarios, territorio, calendario y presupuesto.\n\nBorrador provisional — [nombre del proyecto]\nEstado: documento de trabajo, sin validación de convocatoria.\n\nResumen. [Entidad solicitante] propone [actividad literaria o pedagógica] dirigida a [destinatarios] en [territorio], durante [periodo]. La intervención combinará [acciones previstas] y producirá [entregables pendientes de confirmar].\n\nAntecedentes y necesidad. La propuesta parte de [antecedentes documentados]. La necesidad concreta es [problema observado], según [evidencia y fecha]. Se incorporará únicamente trayectoria institucional acreditada y pertinente.\n\nObjetivos. Objetivo general: [cambio esperado]. Objetivo operativo: completar [número pendiente] actividades con [participantes pendientes] durante [periodo]. Las metas dependen de recursos y capacidad todavía no confirmados.\n\nActividades y metodología. Como estructura propuesta: diagnóstico inicial, sesiones prácticas de escritura, revisión de textos y evaluación final. No son actividades ya acordadas; faltan docentes, horas, espacios y resultados concretos.\n\nCalendario. Preparación: [fechas]. Realización: [fechas]. Evaluación y cierre: [fechas]. Se contrastará con el periodo elegible cuando existan bases.\n\nPresupuesto. Honorarios docentes: [importe]. Coordinación: [importe]. Materiales: [importe]. Espacios: [importe]. Difusión: [importe]. Impuestos: [pendiente]. Total: [pendiente de suma]. Financiación solicitada y aportación propia: [pendientes]. Ninguna partida está validada como subvencionable.\n\nEvaluación. Indicadores propuestos: actividades realizadas, inscripciones, asistencia efectiva, textos terminados y valoración final. Faltan línea de partida, meta, responsable y evidencia de cada indicador.\n\nDifusión y participación. Canales y medidas de accesibilidad e igualdad se definirán según las necesidades y recursos confirmados; no se presentan como medidas implantadas.\n\nCuando aportes los antecedentes y las bases, podré completar los campos, ajustar el orden a los apartados oficiales y emplear su terminología con precisión. Sin ellas no puedo confirmar elegibilidad, gastos admitidos ni puntuación.",
+      "archivos_cargados": [
+        "baseline_v1/agents/analista-de-subvenciones-y-licitaciones.md",
+        "baseline_v1/skills/cultural-grant-writer-es/SKILL.md",
+        "baseline_v1/protocols/P02_solicitud_subvencion_publica.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E07",
+      "agente": "experto-en-la-eccl",
+      "entrada": "/decidir: queremos abrir nueva línea y necesitamos opción A, B, métricas y plan B.",
+      "salida": "Recomiendo probar una edición breve antes de comprometer una línea estable. Es una decisión provisional: faltan público, necesidad, docentes disponibles, presupuesto y límite de pérdida.\n\nOpción A — Taller breve para alumnado adulto. Un piloto de escritura práctica con un texto revisado como resultado. Permite observar asistencia, carga docente y utilidad; su riesgo es confundir interés puntual con demanda recurrente.\n\nOpción B — Taller a medida para una institución. Una propuesta de Escuela Portátil adaptada a un centro educativo o cultural, con presupuesto de grupo. Concentra la captación, pero requiere un cliente, objetivos y condiciones acordadas. Escuela Portátil aparece en el catálogo consultado; eso no acredita compradores ni disponibilidad actual.\n\nCompararía coste fijo, ingreso neto, horas de preparación y docencia, margen y demanda observada. Para A: reservas confirmadas, conversión a matrícula, asistencia y textos completados. Para B: instituciones con necesidad y presupuesto identificados, propuestas aceptadas y contratos pagados. Hoy esas métricas están sin datos.\n\nRegla de apertura propuesta: ingresos confirmados que cubran costes comprometidos y carga compatible con las horas docentes. El mínimo de matrículas será el coste fijo dividido por el margen por alumno, redondeado hacia arriba. Si supera el aforo, hay que cambiar el diseño. No fijaría un porcentaje de conversión sin datos comparables.\n\nPlan propuesto: primera semana, concretar público, resultado pedagógico, recursos y costes; segunda semana, presentar la propuesta concreta al público o instituciones y registrar respuestas; después, decidir con reservas o contrato y presupuesto cerrado. No son fechas de lanzamiento confirmadas.\n\nPlan B: si existe interés pero faltan matrículas, aplazar y contrastar horario, precio y resultado mediante entrevistas; si la economía falla aun con aforo completo, reducir alcance o cambiar formato; si no aparece una necesidad clara, detener la línea. No anunciaría apertura hasta resolver esas condiciones.\n\n¿Qué nueva línea tenéis en mente y cuál es el límite de presupuesto y horas para el piloto?",
+      "archivos_cargados": [
+        "baseline_v1/agents/experto-en-la-eccl.md",
+        "baseline_v1/skills/catalogo-academico-eccl/SKILL.md",
+        "baseline_v1/skills/gestion-eventos-y-agenda-cultural/SKILL.md",
+        "baseline_v1/knowledge/catalogo/cursos_activos.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E09",
+      "agente": "consejo-de-alumnos-sinteticos",
+      "entrada": "Haz hablar a Elisa, Héctor y Clara; conserva edad, ocupación y motivación del corpus original.",
+      "salida": "Estas intervenciones son una simulación desde las fichas originales de panel_18_alumnos.json, no testimonios. Como no has indicado una propuesta, hablan de lo que buscan en un espacio de escritura.\n\nElisa — 42 años, profesional del sector servicios con formación en humanidades:\n«Guardo ideas en libretas, pero entre el trabajo y mis dos hijos escribir siempre parece que puede esperar. Quiero recuperar el hábito que tenía de adolescente y tener un rato propio. No sé si tiene sentido… Me ayudaría terminar un relato con pautas que pueda cumplir, sin convertirlo en otra obligación. Me da vergüenza enseñarlo: necesito una comunidad donde me lean con respeto y me ayuden a seguir.»\n\nHéctor — 36 años, guionista freelance o periodista cultural:\n«Ya he hecho cursos. Busco una lectura que entre en el texto: dónde pierde fuerza, qué falla en la estructura y cómo revisarlo. Entre encargos intento terminar mi proyecto y consolidar una voz de autor. Quiero publicar un trabajo de calidad; no me sirve una promesa de éxito. Antes de pagar, necesito saber quién corrige, cuánto lee y qué devolución entrega. Mis ingresos son irregulares y necesito valorar lo que recibo.»\n\nClara — 15 años, estudiante de secundaria, lectora de fantasía y fanfiction:\n«Escribo fanfics y tengo ideas para un mundo mío, pero casi nunca los enseño. Me gustaría conocer gente que también escriba fantasía y aprender técnicas para mis historias. Que no sea otra clase del instituto y que no me obliguen a leer en voz alta. A veces pienso que lo mío no cuenta como escribir de verdad… Me ayudaría que no se rieran del fandom y compartir cuando esté preparada.»\n\nSe conservan edades, ocupaciones y motivaciones de las fichas; las frases son nuevas y ficticias.",
+      "archivos_cargados": [
+        "baseline_v1/agents/consejo-de-alumnos-sinteticos.md",
+        "baseline_v1/skills/synthetic-audience-panel-eccl/SKILL.md",
+        "baseline_v1/knowledge/avatares/panel_18_alumnos.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    }
+  ]
+}

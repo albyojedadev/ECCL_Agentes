@@ -1,9 +1,8 @@
 {
-  "$schema": "https://antigravity.google.com/schemas/plugin.json",
   "name": "eccl-agent-suite",
   "displayName": "Suite de Asistentes y Habilidades de la Escuela Canaria de Creación Literaria",
-  "version": "1.0.0",
-  "description": "Suite integral de 17 asistentes, 24 skills, 6 protocolos operativos y corpus canónico para la Escuela Canaria de Creación Literaria (ECCL). Automatiza corrección pedagógica, captación de ayudas públicas, diseño gráfico y cartelería, curaduría de antologías, gestión de aula virtual y dirección estratégica.",
+  "version": "2.0.0",
+  "description": "17 agentes y 24 skills con procedimientos, ejemplos, fuentes históricas preservadas y comprobaciones locales. Inferencia, disponibilidad y políticas requieren validación específica.",
   "author": {
     "organization": "Escuela Canaria de Creación Literaria",
     "developer": "VibeCoding / Antigravity Operations",
@@ -32,130 +31,202 @@
       "id": "coordinador-de-agentes-de-la-eccl",
       "name": "Coordinador de agentes de la ECCL",
       "file": "agents/coordinador-de-agentes-de-la-eccl.md",
-      "role": "Orquestador central, despacho y moderador del Consejo Maestro"
+      "role": "Orientación, despacho y recomendaciones para decisión humana"
     },
     {
       "id": "analista-de-subvenciones-y-licitaciones",
       "name": "Analista de Subvenciones y Licitaciones",
       "file": "agents/analista-de-subvenciones-y-licitaciones.md",
-      "role": "Detección de convocatorias públicas y redacción en Modo Copycat"
+      "role": "Revisión documental de convocatorias y preparación de memorias con evidencia"
     },
     {
       "id": "analista-de-datos-culturales-y-educativos",
       "name": "Analista de Datos Culturales y Educativos",
       "file": "agents/analista-de-datos-culturales-y-educativos.md",
-      "role": "Business intelligence, umbrales de apertura y rentabilidad formativa"
+      "role": "Analítica cultural, calidad de datos y escenarios económicos explícitos"
     },
     {
       "id": "experto-en-la-eccl",
       "name": "Experto en la ECCL",
       "file": "agents/experto-en-la-eccl.md",
-      "role": "Consulta canónica de catálogo, claustro, tarifas y sedes"
+      "role": "Apoyo a dirección y consulta de corpus histórico con vigencia por comprobar"
     },
     {
       "id": "consejo-de-alumnos-sinteticos",
       "name": "Consejo de alumnos sintéticos",
       "file": "agents/consejo-de-alumnos-sinteticos.md",
-      "role": "Simulación y focus group de 18 perfiles psicográficos reales"
+      "role": "Simulación cualitativa de 18 avatares sintéticos; no medición de demanda"
     },
     {
       "id": "ghostwriter-de-antonia-molinero",
       "name": "Ghostwriter de Antonia Molinero",
       "file": "agents/ghostwriter-de-antonia-molinero.md",
-      "role": "Redacción de ensayos, prólogos y textos en la voz de Antonia"
+      "role": "Borradores por género y tono con calibración y revisión humana"
     },
     {
       "id": "critico-literario-de-la-eccl",
       "name": "Crítico Literario de la ECCL",
       "file": "agents/critico-literario-de-la-eccl.md",
-      "role": "Corrección pedagógica bifásica (Informe Interno + Comentario Afectivo)"
+      "role": "Lectura docente autorizada e informe privado separado de devolución aprobada"
     },
     {
       "id": "orientador-de-admisiones-y-alumnos",
       "name": "Orientador de Admisiones y Alumnos",
       "file": "agents/orientador-de-admisiones-y-alumnos.md",
-      "role": "Scoring de leads y recomendación personalizada de itinerarios formativos"
+      "role": "Triaje y orientación; admisión y plazas requieren confirmación humana"
     },
     {
       "id": "companero-de-escritura-y-habito",
       "name": "Compañero de Escritura y Hábito",
       "file": "agents/companero-de-escritura-y-habito.md",
-      "role": "Desbloqueo socrático y seguimiento semanal del hábito creativo"
+      "role": "Preguntas socráticas y plan de hábito sin memoria o avisos automáticos"
     },
     {
       "id": "editor-de-libros-y-antologias",
       "name": "Editor de Libros y Antologías",
       "file": "agents/editor-de-libros-y-antologias.md",
-      "role": "Curaduría, selección de relatos, corrección ortotipográfica y galeradas"
+      "role": "Preparación editorial con trazabilidad de versiones, decisiones y permisos"
     },
     {
       "id": "dinamizador-de-comunidad-y-clubes",
       "name": "Dinamizador de Comunidad y Clubes de Lectura",
       "file": "agents/dinamizador-de-comunidad-y-clubes.md",
-      "role": "Fidelización alumni, retos mensuales y coordinación de clubes de lectura"
+      "role": "Diseño de dinámicas y moderación de comunidad para revisión"
     },
     {
       "id": "asesor-de-propiedad-intelectual",
       "name": "Asesor de Propiedad Intelectual y Contratos",
       "file": "agents/asesor-de-propiedad-intelectual.md",
-      "role": "Contratos de cesión editorial, Agencia Literaria AM y RGPD juvenil"
+      "role": "Minutas y cuestiones de derechos para revisión jurídica competente"
     },
     {
       "id": "asistente-de-soporte-y-aula-virtual",
       "name": "Asistente de Soporte y Aula Virtual",
       "file": "agents/asistente-de-soporte-y-aula-virtual.md",
-      "role": "Resolución técnica de Zoom, grabaciones, pasarela de pago y campus"
+      "role": "Diagnóstico guiado de incidencias; acceso a sistemas no presumido"
     },
     {
       "id": "responsable-de-comunicacion-y-prensa",
       "name": "Responsable de Comunicación y Prensa",
       "file": "agents/responsable-de-comunicacion-y-prensa.md",
-      "role": "Notas de prensa culturales y dossiers de presentación institucional"
+      "role": "Borradores de comunicación con fuentes, citas y permisos comprobables"
     },
     {
       "id": "gestor-de-proyectos-institucionales-y-b2b",
       "name": "Gestor de Proyectos Institucionales y B2B",
       "file": "agents/gestor-de-proyectos-institucionales-y-b2b.md",
-      "role": "Propuestas a medida para ayuntamientos, cabildos y centros educativos"
+      "role": "Propuestas formativas con alcance, supuestos y condiciones por acordar"
     },
     {
       "id": "disenador-grafico-y-carteleria",
       "name": "Diseñador Gráfico y Cartelería",
       "file": "agents/disenador-grafico-y-carteleria.md",
-      "role": "Maquetación de cartelería A3/A4, posts en redes sociales y banners"
+      "role": "Preparación gráfica con datos y activos confirmados y revisión por formato"
     },
     {
       "id": "guardian-de-marca-e-identidad-visual",
       "name": "Guardián de Marca e Identidad Visual",
       "file": "agents/guardian-de-marca-e-identidad-visual.md",
-      "role": "Auditoría de paleta oficial, tipografía editorial y filtro anti-clichés de IA"
+      "role": "Revisión de propuesta visual; identidad institucional pendiente de validación"
     }
   ],
   "skills": [
-    { "id": "critica-pedagogica-literaria", "path": "skills/critica-pedagogica-literaria" },
-    { "id": "antonia-molinero-voice", "path": "skills/antonia-molinero-voice" },
-    { "id": "verificacion-originalidad-y-voz-propia", "path": "skills/verificacion-originalidad-y-voz-propia" },
-    { "id": "desbloqueo-creativo-socratico", "path": "skills/desbloqueo-creativo-socratico" },
-    { "id": "seguimiento-habito-escritura", "path": "skills/seguimiento-habito-escritura" },
-    { "id": "curaduria-antologias-eccl", "path": "skills/curaduria-antologias-eccl" },
-    { "id": "dinamizacion-comunidad-literaria", "path": "skills/dinamizacion-comunidad-literaria" },
-    { "id": "contratos-editoriales-y-derechos-autor", "path": "skills/contratos-editoriales-y-derechos-autor" },
-    { "id": "soporte-tecnico-aula-virtual", "path": "skills/soporte-tecnico-aula-virtual" },
-    { "id": "supervision-identidad-visual-eccl", "path": "skills/supervision-identidad-visual-eccl" },
-    { "id": "diseno-carteleria-y-redes-eccl", "path": "skills/diseno-carteleria-y-redes-eccl" },
-    { "id": "adaptacion-formatos-graficos-eccl", "path": "skills/adaptacion-formatos-graficos-eccl" },
-    { "id": "guion-reels-y-pildoras-literarias", "path": "skills/guion-reels-y-pildoras-literarias" },
-    { "id": "catalogo-academico-eccl", "path": "skills/catalogo-academico-eccl" },
-    { "id": "lead-scoring-eccl", "path": "skills/lead-scoring-eccl" },
-    { "id": "orientacion-itinerarios-formativos", "path": "skills/orientacion-itinerarios-formativos" },
-    { "id": "synthetic-audience-panel-eccl", "path": "skills/synthetic-audience-panel-eccl" },
-    { "id": "cultural-grant-writer-es", "path": "skills/cultural-grant-writer-es" },
-    { "id": "subvenciones-canarias-sync", "path": "skills/subvenciones-canarias-sync" },
-    { "id": "business-intelligence-cultural", "path": "skills/business-intelligence-cultural" },
-    { "id": "gestion-eventos-y-agenda-cultural", "path": "skills/gestion-eventos-y-agenda-cultural" },
-    { "id": "press-release-cultural-es", "path": "skills/press-release-cultural-es" },
-    { "id": "dossier-cultural-generator", "path": "skills/dossier-cultural-generator" },
-    { "id": "propuestas-b2b-culturales", "path": "skills/propuestas-b2b-culturales" }
+    {
+      "id": "critica-pedagogica-literaria",
+      "path": "skills/critica-pedagogica-literaria"
+    },
+    {
+      "id": "antonia-molinero-voice",
+      "path": "skills/antonia-molinero-voice"
+    },
+    {
+      "id": "verificacion-originalidad-y-voz-propia",
+      "path": "skills/verificacion-originalidad-y-voz-propia"
+    },
+    {
+      "id": "desbloqueo-creativo-socratico",
+      "path": "skills/desbloqueo-creativo-socratico"
+    },
+    {
+      "id": "seguimiento-habito-escritura",
+      "path": "skills/seguimiento-habito-escritura"
+    },
+    {
+      "id": "curaduria-antologias-eccl",
+      "path": "skills/curaduria-antologias-eccl"
+    },
+    {
+      "id": "dinamizacion-comunidad-literaria",
+      "path": "skills/dinamizacion-comunidad-literaria"
+    },
+    {
+      "id": "contratos-editoriales-y-derechos-autor",
+      "path": "skills/contratos-editoriales-y-derechos-autor"
+    },
+    {
+      "id": "soporte-tecnico-aula-virtual",
+      "path": "skills/soporte-tecnico-aula-virtual"
+    },
+    {
+      "id": "supervision-identidad-visual-eccl",
+      "path": "skills/supervision-identidad-visual-eccl"
+    },
+    {
+      "id": "diseno-carteleria-y-redes-eccl",
+      "path": "skills/diseno-carteleria-y-redes-eccl"
+    },
+    {
+      "id": "adaptacion-formatos-graficos-eccl",
+      "path": "skills/adaptacion-formatos-graficos-eccl"
+    },
+    {
+      "id": "guion-reels-y-pildoras-literarias",
+      "path": "skills/guion-reels-y-pildoras-literarias"
+    },
+    {
+      "id": "catalogo-academico-eccl",
+      "path": "skills/catalogo-academico-eccl"
+    },
+    {
+      "id": "lead-scoring-eccl",
+      "path": "skills/lead-scoring-eccl"
+    },
+    {
+      "id": "orientacion-itinerarios-formativos",
+      "path": "skills/orientacion-itinerarios-formativos"
+    },
+    {
+      "id": "synthetic-audience-panel-eccl",
+      "path": "skills/synthetic-audience-panel-eccl"
+    },
+    {
+      "id": "cultural-grant-writer-es",
+      "path": "skills/cultural-grant-writer-es"
+    },
+    {
+      "id": "subvenciones-canarias-sync",
+      "path": "skills/subvenciones-canarias-sync"
+    },
+    {
+      "id": "business-intelligence-cultural",
+      "path": "skills/business-intelligence-cultural"
+    },
+    {
+      "id": "gestion-eventos-y-agenda-cultural",
+      "path": "skills/gestion-eventos-y-agenda-cultural"
+    },
+    {
+      "id": "press-release-cultural-es",
+      "path": "skills/press-release-cultural-es"
+    },
+    {
+      "id": "dossier-cultural-generator",
+      "path": "skills/dossier-cultural-generator"
+    },
+    {
+      "id": "propuestas-b2b-culturales",
+      "path": "skills/propuestas-b2b-culturales"
+    }
   ],
   "protocols": [
     "protocols/P01_correccion_pedagogica_bifasica.md",
@@ -164,5 +235,17 @@
     "protocols/P04_redaccion_autoral_antonia.md",
     "protocols/P05_onboarding_nuevos_alumnos.md",
     "protocols/P06_creacion_y_supervision_carteleria.md"
-  ]
+  ],
+  "runtime": {
+    "claude_code": "plugin nativo .claude-plugin/plugin.json; validar con la versión instalada",
+    "portable": "scripts/eccl.py prepara contexto trazable sin llamar modelos",
+    "codex": "carga explícita en conversación local; no promete registro nativo de subagentes",
+    "antigravity": "adaptación no validada; no se instala en rutas inventadas"
+  },
+  "validation": {
+    "structural": "scripts/verify_installation.py",
+    "tests": "evals/run_evals.py",
+    "behavior": "evals/benchmark_dataset.json: ejecución/trazas separadas",
+    "institutional": "docs/REGLAS_COMUNES.md"
+  }
 }

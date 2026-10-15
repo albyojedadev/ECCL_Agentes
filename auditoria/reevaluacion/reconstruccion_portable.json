@@ -1,0 +1,11 @@
+{
+  "prueba": "reconstruccion_portable",
+  "argumentos": [
+    "C:\\Users\\albyn\\AppData\\Local\\hermes\\hermes-agent\\venv\\Scripts\\python.exe",
+    "-B",
+    "[workspace]/auditoria\\reevaluacion\\instalacion_prueba\\scripts\\ingest_knowledge.py"
+  ],
+  "exit_code": 0,
+  "stdout": "{\"registros_cursos\": 73, \"ids_curso_distintos\": 71, \"docentes\": 58, \"avatares\": 18, \"recibos\": 13, \"salida\": \"D:\\\\PROYECTOS\\\\Escuela Canaria de Creación Literaria\\\\auditoria\\\\reevaluacion\\\\instalacion_prueba\"}\n",
+  "stderr": ""
+}

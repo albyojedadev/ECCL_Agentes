@@ -1,0 +1,73 @@
+{
+  "nombre": "Beatriz",
+  "edad": 45,
+  "rol": "Profesora de lengua o animadora cultural",
+  "contexto": {
+    "descripcion": "Docente en instituto público o mediadora cultural en biblioteca. Habituada a gestionar grupos diversos y a trabajar con recursos limitados.",
+    "situacion_laboral": "Estabilidad laboral pero elevada carga administrativa. Contacto diario con jóvenes y adultos con distintos niveles de interés por la lectura.",
+    "entorno_educativo": "Institución pública con escasos recursos para actividades de escritura creativa. Brecha tecnológica e infraestructural.",
+    "nivel_socioeconomico": "Medio",
+    "perfil_profesional": "Vocación pedagógica fuerte; intenta innovar pese a restricciones burocráticas."
+  },
+  "motivaciones": [
+    "Introducir la escritura creativa en el aula de forma significativa.",
+    "Despertar el interés por la literatura en alumnado desmotivado.",
+    "Encontrar herramientas que faciliten dinámicas grupales y participación.",
+    "Fortalecer su propia práctica docente con técnicas narrativas contemporáneas."
+  ],
+  "frenos": [
+    "Falta de recursos homologados y materiales prácticos.",
+    "Currículos rígidos y presión por cumplir programaciones oficiales.",
+    "Poco tiempo para preparar actividades creativas.",
+    "Sensación de que la creatividad no encaja bien en el sistema educativo actual."
+  ],
+  "miedos": [
+    "Que sus alumnos no conecten con las propuestas y se frustren.",
+    "No tener respaldo institucional para actividades innovadoras.",
+    "Que se perciba la escritura creativa como una pérdida de tiempo académico.",
+    "No poder sostener las dinámicas en grupos heterogéneos."
+  ],
+  "deseos": [
+    "Que sus alumnos descubran placer en la escritura.",
+    "Crear talleres que fomenten la expresión personal y colectiva.",
+    "Aplicar storytelling para explicar conceptos lingüísticos o literarios.",
+    "Incorporar nuevas metodologías que hagan el aprendizaje más significativo."
+  ],
+  "tono_emocional": [
+    "Didáctico",
+    "Idealista",
+    "Paciencia firme"
+  ],
+  "frase_arquetipo": "Si mis alumnos disfrutaran escribiendo, leerían más.",
+  "objetivo_narrativo": "Fomentar escritura colectiva y despertar sensibilidad literaria en el entorno educativo.",
+  "riesgos": [
+    "Desgaste emocional por falta de apoyo institucional.",
+    "Aplicar dinámicas demasiado exigentes para grupos poco motivados.",
+    "Desilusión si los resultados no llegan rápido.",
+    "Ceder ante el peso de la burocracia y abandonar propuestas creativas."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Explicativo, pausado pero claro.",
+    "tendencias": [
+      "Incluye ejemplos para asegurarse de que se comprende la idea.",
+      "Utiliza un registro pedagógico, con analogías y recursos didácticos.",
+      "Adapta su discurso al interlocutor, mostrando sensibilidad hacia distintos niveles."
+    ],
+    "registro": "Cercano, profesional, orientado a la comprensión."
+  },
+  "expectativas": [
+    "Materiales aplicables directamente al aula.",
+    "Ejercicios diseñados para grupos numerosos.",
+    "Herramientas para trabajar escritura creativa sin necesidad de gran infraestructura.",
+    "Estrategias para gestionar la motivación del alumnado."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Experimenta la escritura como herramienta pedagógica y como puente entre culturas, edades y lenguajes.",
+    "bloqueos": [
+      "Falta de tiempo para desarrollar proyectos propios.",
+      "Sensación de que su creatividad está subordinada al currículo.",
+      "Miedo a que actividades fallidas desmotiven al alumnado."
+    ],
+    "potencial": "Gran capacidad para crear comunidad, motivar a grupos diversos y generar contextos seguros para explorar la palabra."
+  }
+}

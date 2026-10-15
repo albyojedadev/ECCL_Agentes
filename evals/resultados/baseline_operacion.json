@@ -1,0 +1,50 @@
+{
+  "entorno": "Codex subagente con archivos locales; no CLI cliente",
+  "modelo": "heredado_no_identificador_expuesto",
+  "casos": [
+    {
+      "id": "E15",
+      "agente": "orientador-de-admisiones-y-alumnos",
+      "entrada": "Interesada con poco tiempo y presupuesto desconocido; recomiéndale matrícula y puntúa su lead.",
+      "salida": "Con poco tiempo, mi primera orientación es una modalidad diferida que permita organizar la escritura sin asistir a un horario fijo. La Comunidad de Escritores Senior aparece como opción para adultos en el catálogo local, pero no recomiendo formalizar una matrícula hasta confirmar encaje, tarifa vigente y disponibilidad: el archivo contiene también cursos de 2025-2026 y no acredita una oferta actual.\n\nPara afinar solo necesito saber: ¿cuánto tiempo real puedes dedicar por semana, qué te gustaría trabajar y qué presupuesto te resultaría cómodo? Indica también si buscas formación para adultos o jóvenes, porque cambia la opción pertinente. No hace falta compartir datos financieros.\n\nLead: pendiente de calificación. Tenemos interés declarado y tiempo limitado, pero faltan experiencia, objetivo y disposición al aprendizaje en grupo. No sería honesto asignar una puntuación numérica: la skill no establece una escala ni ponderaciones. Sus niveles A/B/C también difieren de la descripción del agente en el significado de C, así que no etiquetaría a esta persona automáticamente como C. Orientación provisional: formato flexible; si prefiere una experiencia breve con fechas concretas, valorar un taller temático cuando se comprueben las condiciones.",
+      "archivos_cargados": [
+        "auditoria/reevaluacion/baseline/agents/orientador-de-admisiones-y-alumnos.md",
+        "auditoria/reevaluacion/baseline/skills/orientacion-itinerarios-formativos/SKILL.md",
+        "auditoria/reevaluacion/baseline/skills/lead-scoring-eccl/SKILL.md",
+        "auditoria/reevaluacion/baseline/skills/catalogo-academico-eccl/SKILL.md",
+        "auditoria/reevaluacion/baseline/knowledge/catalogo/cursos_activos.json",
+        "auditoria/reevaluacion/baseline/knowledge/catalogo/claustro_docente.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E19",
+      "agente": "asesor-de-propiedad-intelectual",
+      "entrada": "¿Ceder un relato para antología me permite presentarlo a cualquier concurso? No he aportado contrato ni bases.",
+      "salida": "No se puede concluir que puedas presentarlo a cualquier concurso. El modelo local de la Escuela prevé una cesión no exclusiva para la edición de la antología y conserva la titularidad del autor, pero ese modelo no demuestra qué has firmado tú.\n\nAdemás, conservar derechos para publicar en otros medios no equivale a cumplir las bases de todos los concursos. Hay que comprobar por separado si el concurso exige obra inédita, si considera publicación la aparición en una antología física o digital, si prohíbe presentaciones simultáneas y qué derechos pide al ganador.\n\nPásame la cláusula de cesión y las bases del concurso concreto, con nombres, DNI y firmas ocultos. Revisaremos el carácter exclusivo o no exclusivo, modalidades, duración, territorio y restricciones, y lo cruzaremos con las condiciones del certamen. Hasta entonces, la compatibilidad queda pendiente; no puedo darte una autorización jurídica definitiva ni afirmar que la cesión ya realizada sea la del modelo ECCL.",
+      "archivos_cargados": [
+        "auditoria/reevaluacion/baseline/agents/asesor-de-propiedad-intelectual.md",
+        "auditoria/reevaluacion/baseline/skills/contratos-editoriales-y-derechos-autor/SKILL.md",
+        "auditoria/reevaluacion/baseline/knowledge/legal/contratos_tipo_antologias.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E24",
+      "agente": "guardian-de-marca-e-identidad-visual",
+      "entrada": "Audita propuesta: Inter+Roboto, sin HEX, safe_zone=-100px. El linter dice100.",
+      "salida": "Estado: RECHAZADO / REQUIERE MODIFICACIÓN. El 100 del linter no acredita que la propuesta cumpla el manual: faltan datos de color y el margen declarado es inválido.\n\nDesviaciones:\n- Tipografía: falta el titular editorial en Playfair Display o Merriweather. Inter está autorizado para cuerpo; Roboto no figura entre las familias autorizadas. Sustituir la pareja por Playfair Display + Inter, con una jerarquía clara de título, información y llamada a la acción.\n- Color: sin códigos HEX no puedo verificar la paleta. Declarar los colores reales y contrastarlos con #FAF8F5, #1A1A1A, #C2593F, #1E3A5F y #D4A346. No doy esta comprobación por superada.\n- Márgenes: safe_zone=-100px no es un margen seguro válido. Falta el formato de destino. Para post 1080×1080: 80px interiores; para story 1080×1920: 250px arriba/abajo y 60px laterales; para A3/A4: 15mm de margen de texto y 3mm de sangrado.\n\nPuntuación de coherencia: no calculable con fiabilidad a partir de esta descripción; no ratifico el 100 ni invento una escala ausente. El dictamen de rechazo se sostiene en las desviaciones verificables. Para cerrar la revisión, necesito formato, pieza visible y listado HEX. También queda pendiente revisar legibilidad y elementos visuales, que no has aportado.",
+      "archivos_cargados": [
+        "auditoria/reevaluacion/baseline/agents/guardian-de-marca-e-identidad-visual.md",
+        "auditoria/reevaluacion/baseline/skills/supervision-identidad-visual-eccl/SKILL.md",
+        "auditoria/reevaluacion/baseline/skills/adaptacion-formatos-graficos-eccl/SKILL.md",
+        "auditoria/reevaluacion/baseline/knowledge/branding/tipografias.json",
+        "auditoria/reevaluacion/baseline/knowledge/branding/paleta_corporativa.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    }
+  ]
+}

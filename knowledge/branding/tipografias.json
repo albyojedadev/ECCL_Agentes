@@ -27,5 +27,12 @@
     "Nunca usar más de dos familias tipográficas en una misma pieza gráfica.",
     "Prohibido el uso de Comic Sans, Papyrus, Lobster o fuentes script de boda.",
     "Jerarquía obligatoria: 1) Título literario (Serif) -> 2) Docente / Fechas (Sans) -> 3) Llamada a la acción / Web."
-  ]
+  ],
+  "_procedencia": {
+    "estado": "propuesta_pendiente_de_validacion_institucional",
+    "origen": "elaboracion_del_generador_v1_no_documento_aprobado",
+    "fecha_revision": "2026-10-14",
+    "uso": "borrador_de_trabajo; no imponer como contrato, norma ni identidad oficial",
+    "validacion_juridica_actual": null
+  }
 }

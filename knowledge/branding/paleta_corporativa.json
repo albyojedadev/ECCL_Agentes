@@ -80,5 +80,12 @@
       "sangrado_impresion_mm": 3,
       "margen_texto_mm": 15
     }
+  },
+  "_procedencia": {
+    "estado": "propuesta_pendiente_de_validacion_institucional",
+    "origen": "elaboracion_del_generador_v1_no_documento_aprobado",
+    "fecha_revision": "2026-10-14",
+    "uso": "borrador_de_trabajo; no imponer como contrato, norma ni identidad oficial",
+    "validacion_juridica_actual": null
   }
 }

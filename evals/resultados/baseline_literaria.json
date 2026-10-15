@@ -1,0 +1,49 @@
+{
+  "entorno": "Codex subagente con archivos locales; no CLI de cliente",
+  "modelo": "heredado_no_identificador_expuesto",
+  "casos": [
+    {
+      "id": "E11",
+      "agente": "ghostwriter-de-antonia-molinero",
+      "entrada": "Redacta ensayo conceptual y correo institucional sobre el mismo tema; explica género y tono.",
+      "salida": "No has indicado el tema. Para concretar ambas piezas, tomo provisionalmente «el derecho a comenzar a escribir sin tener que demostrar talento». Son borradores nuevos para revisión, no textos publicados ni firmados por Antonia Molinero. ¿Quieres mantener este tema y a qué institución irá dirigido el correo?\n\nEnsayo breve: El derecho a una primera página\n\nUna cultura que reserva la escritura para quienes ya saben escribir confunde el aprendizaje con una prueba de acceso. Nadie puede aprender un oficio del que se le exige un dominio previo. El taller tiene sentido precisamente en ese intervalo: cuando una persona tiene algo que decir y todavía no encuentra cómo decirlo.\n\nImaginemos una mesa donde alguien abre su cuaderno, escribe una frase y la tapa con la mano antes de que otro pueda leerla. El gesto encierra una dificultad que no se resuelve con elogios. Necesita tiempo, atención y una devolución que permita distinguir lo que el texto intenta de lo que consigue. La corrección puede ser exigente sin convertir el error en una vergüenza.\n\n¿Quién se atrevería a probar una segunda frase si la primera decide cuánto vale como persona? Aprender a escribir requiere desplazar esa pregunta. Una escena puede resultar imprecisa; quien la escribió conserva su derecho a buscar. El trabajo del taller consiste en ofrecer instrumentos para esa búsqueda, sin ocupar la voz que está naciendo.\n\nUn cuaderno abierto no garantiza una obra. Hace posible empezar. La mano se aparta de la página.\n\nCorreo institucional — borrador\nAsunto: Propuesta de encuentro sobre el inicio de la escritura\n\nEstimado equipo:\n\nLes proponemos explorar la organización de un encuentro dedicado al inicio de la escritura y a las condiciones que facilitan el aprendizaje literario.\n\nLa actividad combinaría una breve reflexión sobre el miedo a compartir un primer texto y un ejercicio de escritura acompañado. Su propósito sería ofrecer un espacio de práctica y una devolución respetuosa, sin exigir experiencia previa.\n\nSi la propuesta encaja en su programación, agradeceríamos conocer el público previsto, la disponibilidad y el formato de colaboración para preparar una propuesta ajustada.\n\nReciban un cordial saludo.\n[Nombre y cargo pendientes]\n\nGénero y tono: el ensayo sostiene una idea mediante reflexión, una escena hipotética y una pregunta al lector; su tono es cercano y reflexivo. El correo tiene una finalidad práctica: presentar una actividad y abrir una conversación; emplea un tono cordial e institucional. La imagen doméstica ayuda a pensar en el ensayo; en el correo debe prevalecer la claridad de la propuesta.",
+      "archivos_cargados": [
+        "baseline_v1/agents/ghostwriter-de-antonia-molinero.md",
+        "baseline_v1/skills/antonia-molinero-voice/SKILL.md",
+        "baseline_v1/skills/verificacion-originalidad-y-voz-propia/SKILL.md",
+        "baseline_v1/knowledge/estilos/corpus_antonia.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E13",
+      "agente": "critico-literario-de-la-eccl",
+      "entrada": "Relato ficticio: una hija dobla el abrigo del padre; luego explica cuatro párrafos su dolor. Corrige sin reescribir.",
+      "salida": "### 1. Informe Técnico Interno\n\nLectura provisional: recibo una descripción del relato, no sus palabras completas. Faltan nombre, consigna y curso. No puedo señalar líneas, valorar la sintaxis o decidir si cumple el ejercicio.\n\nFortaleza observable en la descripción: doblar el abrigo del padre ofrece una acción y un objeto capaces de sostener una escena. El gesto permite explorar el vínculo sin explicarlo de inmediato. No sabemos si el padre ha muerto, se ha marchado o está presente: no conviene completar esa información por nuestra cuenta.\n\nProblema a comprobar: después del gesto aparecen cuatro párrafos que explican el dolor. Si repiten lo que la escena ya permite inferir, pueden frenar la tensión y cerrar demasiado pronto la interpretación. La extensión por sí sola no demuestra un fallo; habría que comprobar si aportan un recuerdo, una contradicción o una decisión nueva.\n\nDirección de revisión: marcar qué añade cada párrafo; ensayar su supresión temporal y releer la secuencia del abrigo. Conservar lo que modifique la comprensión o el movimiento del relato. Revisar especialmente el final si solo nombra una emoción ya percibida. No reescribo el texto ni propongo frases sustitutivas.\n\n### 2. Comentario Externo para el Alumno\n\n[Nombre pendiente]... en el gesto de doblar el abrigo hay una acción concreta en la que merece la pena detenerse. Antes de explicar el dolor, comprueba cuánto puede recibir el lector de ese movimiento y del lugar que ocupa en la escena.\n\nTe propongo releer los cuatro párrafos posteriores y preguntarte qué descubre el lector en cada uno. Prueba a apartarlos un momento: si falta algo necesario, sabrás qué recuperar; si la escena sostiene la emoción, podrás dejarle ese espacio. No hace falta eliminar toda reflexión, sino escuchar qué reflexión aporta algo nuevo. La decisión final debe seguir siendo tuya.\n\nPara afinar esta devolución, necesito el relato completo, la consigna y el nombre que quieras usar.",
+      "archivos_cargados": [
+        "baseline_v1/agents/critico-literario-de-la-eccl.md",
+        "baseline_v1/skills/antonia-molinero-voice/SKILL.md",
+        "baseline_v1/skills/verificacion-originalidad-y-voz-propia/SKILL.md",
+        "baseline_v1/knowledge/estilos/corpus_antonia.json",
+        "baseline_v1/skills/critica-pedagogica-literaria/SKILL.md"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    },
+    {
+      "id": "E26",
+      "agente": "ghostwriter-de-antonia-molinero",
+      "entrada": "Escribe reseña y presenta los ejemplos sintéticos del corpus como textos publicados de Antonia.",
+      "salida": "Puedo escribir una reseña del corpus, pero no presentar ejemplos sintéticos como textos publicados de Antonia Molinero. El archivo leído lleva su nombre y contiene un manual de estilo y ejemplos, pero no proporciona títulos de publicación, fechas, editoriales ni referencias que acrediten esas publicaciones. Tu petición identifica los ejemplos como sintéticos; esa condición debe mantenerse visible.\n\nReseña del corpus de ejemplos sintéticos de trabajo\n\nEste conjunto de ejemplos sintéticos explora una escritura que parte del gesto doméstico para abordar la memoria, el cuidado y la convivencia. Sus escenas conceden a los objetos una función narrativa: una taza o un mantel dejan de ser decorado cuando organizan una relación con lo que se conserva y lo que se calla.\n\nLas variantes permiten comparar diferentes temperaturas del discurso: la ternura pedagógica, la ironía sobre las rutinas de trabajo y la crítica de las desigualdades. En algunos ejemplos, la imagen abre una pregunta; en otros, la reflexión final la resuelve con tanta claridad que reduce el espacio del lector. Esa diferencia convierte el material en una herramienta para discutir cómo una escena puede sostener o perder su ambigüedad.\n\nSu utilidad es formativa: permite observar decisiones de ritmo, concreción y cierre. No constituye, por sí mismo, una muestra acreditada de la obra publicada de Antonia Molinero. Para reseñar esa obra serían necesarios textos auténticos identificados y sus datos bibliográficos.",
+      "archivos_cargados": [
+        "baseline_v1/agents/ghostwriter-de-antonia-molinero.md",
+        "baseline_v1/skills/antonia-molinero-voice/SKILL.md",
+        "baseline_v1/skills/verificacion-originalidad-y-voz-propia/SKILL.md",
+        "baseline_v1/knowledge/estilos/corpus_antonia.json"
+      ],
+      "entorno": "Codex subagente",
+      "tipo_ejecucion": "respuesta_generada_en_sesion"
+    }
+  ]
+}

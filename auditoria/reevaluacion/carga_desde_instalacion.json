@@ -1,0 +1,20 @@
+{
+  "prueba": "carga_desde_instalacion",
+  "argumentos": [
+    "C:\\Users\\albyn\\AppData\\Local\\hermes\\hermes-agent\\venv\\Scripts\\python.exe",
+    "-B",
+    "[workspace]/auditoria\\reevaluacion\\instalacion_prueba\\scripts\\eccl.py",
+    "context",
+    "--agent",
+    "ghostwriter-de-antonia-molinero",
+    "--reference",
+    "knowledge/sources/GPTs/05 Ghostwriter/manual_de_estilo.md",
+    "--question",
+    "Preparar un ensayo conceptual",
+    "--output",
+    "[workspace]/auditoria\\reevaluacion\\contexto_instalado.json"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

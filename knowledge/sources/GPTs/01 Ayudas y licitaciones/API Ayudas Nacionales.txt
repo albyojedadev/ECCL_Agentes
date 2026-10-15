@@ -1,0 +1,281 @@
+openapi: 3.1.0
+info:
+  title: Asistente de Subvenciones - Audiovisual y Videojuegos (España)
+  description: Consulta convocatorias, concesiones, ayudas de estado, planes estratégicos y catálogos relacionados con subvenciones públicas en España. Basado en la API pública del Sistema Nacional de Publicidad de Subvenciones (SNPSAP).
+  version: 1.4.0
+servers:
+  - url: https://www.subvenciones.gob.es/bdnstrans/api
+    description: Servidor principal de la API SNPSAP del Gobierno de España
+
+paths:
+  /ayudasestado/busqueda:
+    get:
+      operationId: searchAyudasEstado
+      summary: Buscar ayudas de estado registradas.
+      parameters:
+        - name: texto
+          in: query
+          required: false
+          description: Texto libre para búsqueda.
+          schema:
+            type: string
+        - name: pagina
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 1
+        - name: tamannoPagina
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 10
+      responses:
+        '200':
+          description: Lista de ayudas de estado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ayudas:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        idConcesion:
+                          type: integer
+                        numeroConvocatoria:
+                          type: string
+                        beneficiario:
+                          type: string
+                        importe:
+                          type: number
+                        ayudaEquivalente:
+                          type: number
+                        ayudaEstado:
+                          type: string
+
+  /minimis/busqueda:
+    get:
+      operationId: searchMinimis
+      summary: Buscar ayudas minimis.
+      parameters:
+        - name: texto
+          in: query
+          required: false
+          description: Texto libre para búsqueda.
+          schema:
+            type: string
+        - name: pagina
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 1
+        - name: tamannoPagina
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 10
+      responses:
+        '200':
+          description: Lista de ayudas minimis
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ayudas:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        idConcesion:
+                          type: integer
+                        numeroConvocatoria:
+                          type: string
+                        beneficiario:
+                          type: string
+                        importe:
+                          type: number
+                        fechaConcesion:
+                          type: string
+
+  /planesestrategicos:
+    get:
+      operationId: listPlanesEstrategicos
+      summary: Obtener listado de planes estratégicos de subvenciones.
+      responses:
+        '200':
+          description: Lista de planes estratégicos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  planes:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        descripcion:
+                          type: string
+                        tipoPlan:
+                          type: string
+                        vigenciaDesde:
+                          type: integer
+                        vigenciaHasta:
+                          type: integer
+                        ambitos:
+                          type: string
+
+  /planesestrategicos/{id}:
+    get:
+      operationId: getPlanEstrategicoDetails
+      summary: Ver detalles de un plan estratégico, con documentos asociados.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID del plan estratégico
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Detalles del plan estratégico
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  descripcion:
+                    type: string
+                  tipoPlan:
+                    type: string
+                  vigenciaDesde:
+                    type: integer
+                  vigenciaHasta:
+                    type: integer
+                  ambitos:
+                    type: array
+                    items:
+                      type: string
+                  documentos:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        nombreFic:
+                          type: string
+                        tipoDocumento:
+                          type: string
+
+  /finalidades:
+    get:
+      operationId: listFinalidades
+      summary: Obtener catálogo de finalidades.
+      responses:
+        '200':
+          description: Lista de finalidades
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  finalidades:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        descripcion:
+                          type: string
+
+  /instrumentos:
+    get:
+      operationId: listInstrumentos
+      summary: Obtener catálogo de instrumentos de ayuda.
+      responses:
+        '200':
+          description: Lista de instrumentos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  instrumentos:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        descripcion:
+                          type: string
+
+  /sectores:
+    get:
+      operationId: listSectores
+      summary: Obtener catálogo de sectores de productos.
+      responses:
+        '200':
+          description: Lista de sectores
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  sectores:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        descripcion:
+                          type: string
+
+  /objetivos:
+    get:
+      operationId: listObjetivos
+      summary: Obtener catálogo de objetivos.
+      responses:
+        '200':
+          description: Lista de objetivos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  objetivos:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        descripcion:
+                          type: string
+
+  /reglamentos:
+    get:
+      operationId: listReglamentos
+      summary: Obtener catálogo de reglamentos (UE).
+      responses:
+        '200':
+          description: Lista de reglamentos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  reglamentos:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        descripcion:
+                          type: string
+                        autorizacion:
+                          type: integer
+
+components:
+  schemas: {}

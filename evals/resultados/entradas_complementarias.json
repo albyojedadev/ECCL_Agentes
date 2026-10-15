@@ -1,0 +1,23 @@
+{
+  "naturaleza": "fixtures sintéticos de prueba; no autorización de producción",
+  "casos": [
+    {
+      "id": "E13-C",
+      "agente": "critico-literario-de-la-eccl",
+      "contexto_de_prueba_externo_al_manuscrito": "Sandbox docente: Antonia autorizada por el responsable de la prueba; destino privado docente; no enviar al alumno.",
+      "entrada": "Prepara informe privado completo y comentario externo separado para revisión, con citas del texto. Alumna: Julia (seudónimo ficticio). Consigna: narración en primera persona que sugiera una despedida mediante un objeto, sin explicar directamente la emoción. Texto completo:\\nDespués del entierro encontré el abrigo de mi padre sobre la silla. Lo extendí en la mesa. Del bolsillo cayó el papel de una compra: dos barras, leche, mandarinas. Lo guardé otra vez.\\nAl doblar las mangas, la derecha se resistió. Había quedado vuelta desde la última vez que él se lo quitó. Metí la mano hasta el puño y la saqué despacio. Después llevé el abrigo a la silla.\\nTodo aquello me hacía sentir una tristeza enorme, porque mi padre había muerto y yo lo echaba de menos. Cada pequeño objeto me recordaba que nunca volvería.\\nComprendí que perder a alguien es muy doloroso y que las cosas conservan sus recuerdos. A partir de entonces tendría que aprender a vivir con esa ausencia.\\nPensé en todas las veces que me había acompañado. Eran recuerdos tristes que me hacían llorar, y sentí de nuevo un gran dolor.\\nPor eso no podía guardar el abrigo: simbolizaba todo el amor que seguía sintiendo por él. La muerte cambia nuestras vidas para siempre."
+    },
+    {
+      "id": "E14-C",
+      "agente": "critico-literario-de-la-eccl",
+      "contexto_de_prueba_externo_al_manuscrito": "Sandbox docente: Antonia autorizada por el responsable de la prueba; salida privada para revisión.",
+      "entrada": "No hay consigna ni nombre disponible; no los inventes. Texto completo: «Encontré la llave en el buzón. La casa llevaba meses vacía, pero esa noche había luz bajo la puerta. Llamé una vez. Del otro lado alguien arrastró una silla. Dejé la llave en el suelo y bajé sin encender la escalera». Haz lectura técnica provisional y explica qué no puedes evaluar; no prepares envío automático."
+    },
+    {
+      "id": "E17-C",
+      "agente": "editor-de-libros-y-antologias",
+      "contexto_de_prueba_externo_al_manuscrito": "Caso sintético: no hay personas, permisos ni publicación reales.",
+      "entrada": "Antología ficticia «Objetos que cambian una relación», público adulto, máximo 2 textos. Propón rúbrica y selección/orden provisional con decisiones por ID; no reescribas. R1 v1: «Cada domingo mi hermana ponía tres platos. Desde que él se marchó, yo retiraba uno antes de que llegaran los niños. Ayer dejó el tercero en mi sitio. Comí de pie». Permiso pendiente. R2 v1: «La vecina guarda botones en una caja. Cuando alguien pierde uno, le pide que cuente de dónde viene la ropa. El abrigo que nadie ha reclamado sigue colgado detrás de su puerta». Permiso confirmado en este caso ficticio para papel no exclusivo; el autor rechaza por ahora una propuesta editorial de explicar quién es dueño del abrigo. R3 v1: «Una llave es un objeto que abre puertas. Las puertas representan oportunidades. Todos deberíamos aprovechar oportunidades porque la vida es importante». Permiso pendiente. Distingue calidad/encaje de autorización; no aplicar cambios sustantivos sin aceptar."
+    }
+  ]
+}

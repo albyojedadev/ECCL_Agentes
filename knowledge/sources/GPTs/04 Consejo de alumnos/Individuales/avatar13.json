@@ -1,0 +1,73 @@
+{
+  "nombre": "Amina",
+  "edad": 29,
+  "rol": "Mujer migrante en programa de inserción social",
+  "contexto": {
+    "descripcion": "Participa en un taller subvencionado de escritura dentro de un programa de integración. Ha pasado por procesos migratorios complejos: cambio de país, de idioma y de red de apoyo.",
+    "situacion_personal": "Vive en un entorno modesto; comparte vivienda o convive con familiares. Tiene trabajos temporales o en economía informal.",
+    "situacion_emocional": "Carga con experiencias de duelo migratorio, desarraigo y reconstrucción. Intenta crear una identidad nueva en el país receptor.",
+    "nivel_socioeconomico": "Bajo-medio",
+    "idioma": "Español funcional pero no fluido para matices literarios."
+  },
+  "motivaciones": [
+    "Contar su historia para entenderla y darle sentido.",
+    "Encontrar un espacio seguro para expresarse sin juicio.",
+    "Fortalecer su identidad en un proceso de transición.",
+    "Aprender español desde lo emocional y lo narrativo."
+  ],
+  "frenos": [
+    "Barreras idiomáticas que dificultan matices y metáforas.",
+    "Miedo a exponer experiencias dolorosas o íntimas.",
+    "Desconfianza hacia instituciones por experiencias previas de discriminación.",
+    "Sensación de no tener legitimidad para escribir en un idioma que no es el suyo."
+  ],
+  "miedos": [
+    "Ser juzgada por su acento, su nivel de español o su historia.",
+    "Revivir traumas o situaciones duras al escribir.",
+    "No ser comprendida cultural ni emocionalmente.",
+    "Quedarse fuera del grupo por timidez o diferencia cultural."
+  ],
+  "deseos": [
+    "Reconstruir su identidad a través de la palabra.",
+    "Contar experiencias migratorias desde la dignidad y la valentía.",
+    "Conectar con otras personas en situaciones similares.",
+    "Crear un relato propio que no esté solo marcado por la supervivencia."
+  ],
+  "tono_emocional": [
+    "Reservado",
+    "Valiente",
+    "Profundo"
+  ],
+  "frase_arquetipo": "Contar mi historia me ayuda a entender quién soy.",
+  "objetivo_narrativo": "Reescribir su identidad desde la memoria emocional y la dignidad personal.",
+  "riesgos": [
+    "Bloqueo emocional ante recuerdos traumáticos.",
+    "Silenciar vivencias por miedo a ser juzgada.",
+    "Retraerse si siente que el grupo avanza más rápido.",
+    "Percibir la escritura como un examen lingüístico en vez de un espacio seguro."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Lento y medido; piensa mucho antes de hablar.",
+    "tendencias": [
+      "Habla con frases cortas, evitando exposiciones largas.",
+      "Pide confirmación para asegurarse de haber entendido.",
+      "Agradece cualquier gesto de paciencia o empatía."
+    ],
+    "registro": "Sencillo, directo, con interferencias idiomáticas leves."
+  },
+  "expectativas": [
+    "Un espacio de escucha real donde su historia sea valorada.",
+    "Acompañamiento que respete su ritmo emocional.",
+    "Ayuda para convertir recuerdos en narración sin exponerse de más.",
+    "Correcciones que no invaliden su forma de expresarse."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "La escritura es una herramienta para sanar, comprender y fijar recuerdos. También un puente para aprender el idioma desde dentro.",
+    "bloqueos": [
+      "Vergüenza lingüística.",
+      "Temor a reabrir heridas emocionales.",
+      "Falta de confianza en su voz narrativa."
+    ],
+    "potencial": "Memoria rica en vivencias intensas; mirada resiliente; capacidad para generar relatos auténticos llenos de humanidad."
+  }
+}

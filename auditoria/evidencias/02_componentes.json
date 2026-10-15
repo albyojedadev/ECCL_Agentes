@@ -1,0 +1,78 @@
+{
+  "recuento": {
+    "agents": 17,
+    "skills": 24,
+    "protocols": 6,
+    "knowledge": 8
+  },
+  "manifiesto": {
+    "agents": 17,
+    "skills": 24,
+    "protocols": 6
+  },
+  "ficheros": {
+    "agents": [
+      "agents\\analista-de-datos-culturales-y-educativos.md",
+      "agents\\analista-de-subvenciones-y-licitaciones.md",
+      "agents\\asesor-de-propiedad-intelectual.md",
+      "agents\\asistente-de-soporte-y-aula-virtual.md",
+      "agents\\companero-de-escritura-y-habito.md",
+      "agents\\consejo-de-alumnos-sinteticos.md",
+      "agents\\coordinador-de-agentes-de-la-eccl.md",
+      "agents\\critico-literario-de-la-eccl.md",
+      "agents\\dinamizador-de-comunidad-y-clubes.md",
+      "agents\\disenador-grafico-y-carteleria.md",
+      "agents\\editor-de-libros-y-antologias.md",
+      "agents\\experto-en-la-eccl.md",
+      "agents\\gestor-de-proyectos-institucionales-y-b2b.md",
+      "agents\\ghostwriter-de-antonia-molinero.md",
+      "agents\\guardian-de-marca-e-identidad-visual.md",
+      "agents\\orientador-de-admisiones-y-alumnos.md",
+      "agents\\responsable-de-comunicacion-y-prensa.md"
+    ],
+    "skills": [
+      "skills\\adaptacion-formatos-graficos-eccl\\SKILL.md",
+      "skills\\antonia-molinero-voice\\SKILL.md",
+      "skills\\business-intelligence-cultural\\SKILL.md",
+      "skills\\catalogo-academico-eccl\\SKILL.md",
+      "skills\\contratos-editoriales-y-derechos-autor\\SKILL.md",
+      "skills\\critica-pedagogica-literaria\\SKILL.md",
+      "skills\\cultural-grant-writer-es\\SKILL.md",
+      "skills\\curaduria-antologias-eccl\\SKILL.md",
+      "skills\\desbloqueo-creativo-socratico\\SKILL.md",
+      "skills\\dinamizacion-comunidad-literaria\\SKILL.md",
+      "skills\\diseno-carteleria-y-redes-eccl\\SKILL.md",
+      "skills\\dossier-cultural-generator\\SKILL.md",
+      "skills\\gestion-eventos-y-agenda-cultural\\SKILL.md",
+      "skills\\guion-reels-y-pildoras-literarias\\SKILL.md",
+      "skills\\lead-scoring-eccl\\SKILL.md",
+      "skills\\orientacion-itinerarios-formativos\\SKILL.md",
+      "skills\\press-release-cultural-es\\SKILL.md",
+      "skills\\propuestas-b2b-culturales\\SKILL.md",
+      "skills\\seguimiento-habito-escritura\\SKILL.md",
+      "skills\\soporte-tecnico-aula-virtual\\SKILL.md",
+      "skills\\subvenciones-canarias-sync\\SKILL.md",
+      "skills\\supervision-identidad-visual-eccl\\SKILL.md",
+      "skills\\synthetic-audience-panel-eccl\\SKILL.md",
+      "skills\\verificacion-originalidad-y-voz-propia\\SKILL.md"
+    ],
+    "protocols": [
+      "protocols\\P01_correccion_pedagogica_bifasica.md",
+      "protocols\\P02_solicitud_subvencion_publica.md",
+      "protocols\\P03_test_ab_oferta_formativa.md",
+      "protocols\\P04_redaccion_autoral_antonia.md",
+      "protocols\\P05_onboarding_nuevos_alumnos.md",
+      "protocols\\P06_creacion_y_supervision_carteleria.md"
+    ],
+    "knowledge": [
+      "knowledge\\avatares\\panel_18_alumnos.json",
+      "knowledge\\branding\\paleta_corporativa.json",
+      "knowledge\\branding\\tipografias.json",
+      "knowledge\\catalogo\\claustro_docente.json",
+      "knowledge\\catalogo\\cursos_activos.json",
+      "knowledge\\estilos\\corpus_antonia.json",
+      "knowledge\\legal\\contratos_tipo_antologias.json",
+      "knowledge\\legal\\rgpd_juveniles.json"
+    ]
+  }
+}

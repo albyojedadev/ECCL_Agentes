@@ -1,0 +1,7 @@
+{
+  "destino": "albyojedadev/ECCL_Agentes",
+  "visibilidad_observada": "public",
+  "autorizacion": "solicitud directa del usuario de corregir, reevaluar y subir este repositorio",
+  "archivos_con_patrones_secretos": [],
+  "alcance": "Detección de patrones conocidos; no garantía absoluta ni cambio de permisos/licencia."
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "agente_vacio",
+    "archivo_mutado_solo_en_copia": "agents/critico-literario-de-la-eccl.md",
+    "contenido_prueba": "",
+    "resultado": {
+      "script": "scripts/verify_installation.py",
+      "exit_code": 0,
+      "stdout": "======================================================================\n  DIAGNÓSTICO DE SALUD Y VERIFICACIÓN PRE-VUELO SUITE ECCL\n======================================================================\n1. Verificando plugin.json...\n   [OK] plugin.json válido (17 agentes, 24 skills, 6 protocolos)\n\n2. Verificando 17 Asistentes en agents/...\n   [OK] Todos los 17 agentes existen y están accesibles.\n\n3. Verificando 24 Skills en skills/...\n   [OK] Todas las 24 skills tienen su SKILL.md válido.\n\n4. Verificando 6 Protocolos SOPs en protocols/...\n   [OK] Todos los 6 protocolos SOPs están disponibles.\n\n5. Verificando Corpus Canónico en knowledge/...\n   [OK] 8 archivos de datos canónicos verificados e íntegros.\n\n6. Ejecutando suite de evaluación de calidad...\n   [OK] Suite de evaluación de calidad (run_evals.py) superada al 100%.\n\n======================================================================\n  [VEREDICTO FINAL] LA SUITE ECCL ESTÁ 100% OPERATIVA Y LISTA PARA USO\n======================================================================\n",
+      "stderr": ""
+    }
+  },
+  {
+    "id": "catalogo_sin_cursos",
+    "archivo_mutado_solo_en_copia": "knowledge/catalogo/cursos_activos.json",
+    "contenido_prueba": "{\"auditoria\":\"sin registros de cursos\"}",
+    "resultado": {
+      "script": "scripts/verify_installation.py",
+      "exit_code": 0,
+      "stdout": "======================================================================\n  DIAGNÓSTICO DE SALUD Y VERIFICACIÓN PRE-VUELO SUITE ECCL\n======================================================================\n1. Verificando plugin.json...\n   [OK] plugin.json válido (17 agentes, 24 skills, 6 protocolos)\n\n2. Verificando 17 Asistentes en agents/...\n   [OK] Todos los 17 agentes existen y están accesibles.\n\n3. Verificando 24 Skills en skills/...\n   [OK] Todas las 24 skills tienen su SKILL.md válido.\n\n4. Verificando 6 Protocolos SOPs en protocols/...\n   [OK] Todos los 6 protocolos SOPs están disponibles.\n\n5. Verificando Corpus Canónico en knowledge/...\n   [OK] 8 archivos de datos canónicos verificados e íntegros.\n\n6. Ejecutando suite de evaluación de calidad...\n   [OK] Suite de evaluación de calidad (run_evals.py) superada al 100%.\n\n======================================================================\n  [VEREDICTO FINAL] LA SUITE ECCL ESTÁ 100% OPERATIVA Y LISTA PARA USO\n======================================================================\n",
+      "stderr": ""
+    }
+  },
+  {
+    "id": "benchmark_sin_entrada_ni_salida",
+    "archivo_mutado_solo_en_copia": "evals/benchmark_dataset.json",
+    "contenido_prueba": "{\"casos\":[{\"auditoria\":\"sin entrada ni salida ni agente\"}]}",
+    "resultado": {
+      "script": "evals/run_evals.py",
+      "exit_code": 0,
+      "stdout": "======================================================================\n  SISTEMA DE EVALUACIÓN DE CALIDAD CONTINUA ECCL (GSD + TDD)\n======================================================================\n--- 1. Evaluando Linter de Estilo Literario y Pedagógico ---\n  [PASS] Linter de Estilo: Rechazo de clichés y aprobación de estructura bifásica (100/100)\n\n--- 2. Evaluando Linter de Identidad Visual y Marca ---\n  [PASS] Linter de Marca: Paleta corporativa, tipografía editorial y safe zones (100/100)\n\n--- 3. Verificando Integridad del Corpus Canónico (knowledge/) ---\n  [PASS] Archivos canónicos verificados: 8/8 (100.0%)\n\n--- 4. Verificando Benchmark Dataset y Cobertura de Casos ---\n  [PASS] Casos de prueba cargados y validados: 1 casos\n\n======================================================================\n  PUNTUACIÓN GLOBAL DE CALIDAD: 100.0 / 100\n======================================================================\n  [VEREDICTO] [VERDE] SUITE SUPERADA CON ÉXITO (Exit Code 0) - Cumple los estándares DoD.\n",
+      "stderr": ""
+    }
+  }
+]

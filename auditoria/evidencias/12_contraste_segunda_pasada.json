@@ -1,0 +1,363 @@
+{
+  "manual_caracteres_origen": 17982,
+  "manual_caracteres_destino": 4000,
+  "prefijo_exacto_4000": true,
+  "modulo_diagnostico_igual": true,
+  "variantes_emocionales_iguales": true,
+  "aridad_csv_cursos": {
+    "columnas_cabecera": 17,
+    "filas_desiguales": [
+      {
+        "linea": 11,
+        "id": "IMAG-PUB",
+        "campos": 18
+      },
+      {
+        "linea": 28,
+        "id": "GUION-COMIC",
+        "campos": 18
+      },
+      {
+        "linea": 33,
+        "id": "VIDEOJUEGOS",
+        "campos": 18
+      },
+      {
+        "linea": 37,
+        "id": "ESCRIT-TERAP2",
+        "campos": 18
+      },
+      {
+        "linea": 38,
+        "id": "MITOS",
+        "campos": 18
+      },
+      {
+        "linea": 42,
+        "id": "MICRO-VIAJE",
+        "campos": 18
+      },
+      {
+        "linea": 45,
+        "id": "POESIA-ACT",
+        "campos": 18
+      }
+    ]
+  },
+  "referencias_de_comprobacion": [
+    "ingest_knowledge.py:109",
+    "agents/consejo-de-alumnos-sinteticos.md:20-25",
+    "agents/orientador-de-admisiones-y-alumnos.md:24-27",
+    "skills/lead-scoring-eccl/SKILL.md:20"
+  ],
+  "perfiles_panel": [
+    {
+      "id": "avatar1",
+      "nombre": "Elisa",
+      "edad": 42,
+      "campos": 25,
+      "ausentes_frente_primero": []
+    },
+    {
+      "id": "avatar2",
+      "nombre": "Héctor",
+      "edad": 36,
+      "campos": 25,
+      "ausentes_frente_primero": []
+    },
+    {
+      "id": "avatar3",
+      "nombre": "Clara",
+      "edad": 15,
+      "campos": 25,
+      "ausentes_frente_primero": []
+    },
+    {
+      "id": "avatar4",
+      "nombre": "José",
+      "edad": 68,
+      "campos": 25,
+      "ausentes_frente_primero": []
+    },
+    {
+      "id": "avatar5",
+      "nombre": "Marina",
+      "edad": 33,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar6",
+      "nombre": "Álvaro",
+      "edad": 38,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar7",
+      "nombre": "Beatriz",
+      "edad": 45,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar8",
+      "nombre": "Nico",
+      "edad": 27,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar9",
+      "nombre": "Laura",
+      "edad": 39,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar10",
+      "nombre": "Thomas",
+      "edad": 52,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar11",
+      "nombre": "Valentina",
+      "edad": 34,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar12",
+      "nombre": "Diego",
+      "edad": 21,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar13",
+      "nombre": "Amina",
+      "edad": 29,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar14",
+      "nombre": "Carlos",
+      "edad": 41,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar15",
+      "nombre": "Sofía",
+      "edad": 37,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar16",
+      "nombre": "Lucía",
+      "edad": 46,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar17",
+      "nombre": "Rafa",
+      "edad": 29,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    },
+    {
+      "id": "avatar18",
+      "nombre": "Ana",
+      "edad": 31,
+      "campos": 13,
+      "ausentes_frente_primero": [
+        "contexto",
+        "deseos",
+        "expectativas",
+        "frase_arquetipo",
+        "frenos",
+        "miedos",
+        "modo_de_hablar",
+        "motivaciones",
+        "objetivo_narrativo",
+        "relacion_con_la_escritura",
+        "riesgos",
+        "tono_emocional"
+      ]
+    }
+  ]
+}

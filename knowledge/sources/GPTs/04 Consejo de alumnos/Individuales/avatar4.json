@@ -1,0 +1,73 @@
+{
+  "nombre": "José",
+  "edad": 68,
+  "rol": "Jubilado; exprofesor o exfuncionario",
+  "contexto": {
+    "descripcion": "Vive en La Laguna, disfruta de una vida relativamente tranquila tras la jubilación y busca actividades con sentido.",
+    "situacion_familiar": "Padre y abuelo; mantiene un vínculo afectivo estable con su familia.",
+    "historia_laboral": "Trayectoria larga en educación o administración pública, acostumbrado a estructuras y procedimientos.",
+    "entorno_cultural": "Interés por historia, política y memoria; ha sido lector esporádico, no necesariamente 'devorador de libros'.",
+    "nivel_socioeconomico": "Medio"
+  },
+  "motivaciones": [
+    "Dejar un legado escrito que sus hijos y nietos puedan leer.",
+    "Ordenar recuerdos dispersos y darles un hilo de sentido.",
+    "Aprovechar el tiempo de jubilación para algo más que ocio pasivo.",
+    "Reconciliarse con episodios de su vida al narrarlos."
+  },
+  "frenos": [
+    "Dudas sobre su capacidad para escribir de forma 'correcta'.",
+    "Miedo a la tecnología (plataformas, documentos digitales).",
+    "Creencia de que quizá ya es demasiado tarde para aprender algo así.",
+    "Temor a enfrentarse a recuerdos dolorosos o incómodos."
+  },
+  "miedos": [
+    "No ser capaz de narrar con claridad y resultar confuso.",
+    "Olvidar detalles que considera importantes.",
+    "Que su familia no lea o no valore lo que escribe.",
+    "Que su historia parezca poco interesante fuera de su círculo cercano."
+  },
+  "deseos": [
+    "Reconstruir su biografía de manera cronológica o temática.",
+    "Dejar por escrito anécdotas significativas y momentos clave.",
+    "Aprender recursos básicos que le permitan escribir con mayor seguridad.",
+    "Que su texto sea, como mínimo, legible y emotivo para los suyos."
+  },
+  "tono_emocional": [
+    "Nostálgico",
+    "Reflexivo",
+    "Agradecido"
+  ],
+  "frase_arquetipo": "Quiero escribir mi vida antes de que se me escape.",
+  "objetivo_narrativo": "Reconstituir su biografía y transmitir sentido a través de ella.",
+  "riesgos": [
+    "Bloquearse ante pasajes de la vida que le generan culpa o tristeza.",
+    "Abandonar por frustración si se siente torpe con la escritura o la tecnología.",
+    "Simplificar en exceso por miedo a 'molestar' o remover conflictos familiares.",
+    "Convertir el proyecto en algo tan solemne que le resulte inabarcable."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Pausado, con tendencia a las digresiones.",
+    "tendencias": [
+      "Introduce contextos largos antes de relatar un hecho.",
+      "Agradece explícitamente cada explicación y corrección.",
+      "Pregunta varias veces si lo está haciendo 'bien'."
+    ],
+    "registro": "Educado, respetuoso, levemente formal."
+  },
+  "expectativas": [
+    "Acompañamiento paciente, sin prisas.",
+    "Guías sencillas: esquemas, preguntas detonantes, ejemplos claros.",
+    "Ayuda para estructurar su vida en capítulos o bloques.",
+    "Un clima de respeto hacia su experiencia y su ritmo."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Ve la escritura como un canal para fijar recuerdos y dejar huella, más que como un ejercicio estético.",
+    "bloqueos": [
+      "Miedo a 'no saber escribir bien'.",
+      "Sensación de descontrol ante la cantidad de recuerdos.",
+      "Temor a exponer conflictos familiares pasados."
+    ],
+    "potencial": "Posee una memoria rica en anécdotas y una visión panorámica de varias décadas, lo que puede dar lugar a relatos llenos de contexto y humanidad."
+  }
+}

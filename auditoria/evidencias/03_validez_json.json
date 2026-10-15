@@ -1,0 +1,212 @@
+[
+  {
+    "ruta": "GPTs\\01 Ayudas y licitaciones\\ejemplos_memorias.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\avatares_maestro.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar1.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 17 column 3 (char 934)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar10.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 17 column 3 (char 1123)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar11.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar12.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar13.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar14.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar15.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar16.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar17.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar18.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar2.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 17 column 3 (char 1055)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar3.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 29 column 3 (char 1488)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar4.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 17 column 3 (char 929)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar5.json",
+    "valido": false,
+    "error": "Expecting ',' delimiter: line 63 column 3 (char 3272)"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar6.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar7.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar8.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\04 Consejo de alumnos\\Individuales\\avatar9.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_critica.json",
+    "valido": false,
+    "error": "Invalid control character at: line 41 column 457 (char 9174)"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_ensayo.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_microresena.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_narrativa.json",
+    "valido": false,
+    "error": "Invalid control character at: line 33 column 761 (char 7814)"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_notadeprensa.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\ejemplo_novela.json",
+    "valido": false,
+    "error": "Expecting value: line 4 column 5 (char 21)"
+  },
+  {
+    "ruta": "GPTs\\05 Ghostwriter\\variante_estilo_emocional.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\06 Critico Literario\\ejemplo_correccion_1.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\06 Critico Literario\\ejemplo_correccion_2.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\06 Critico Literario\\ejemplo_correccion_3.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\06 Critico Literario\\ejemplo_correccion_4.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "GPTs\\06 Critico Literario\\modulo_deteccion_antoniamolinero.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\evals\\benchmark_dataset.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\avatares\\panel_18_alumnos.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\branding\\paleta_corporativa.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\branding\\tipografias.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\catalogo\\claustro_docente.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\catalogo\\cursos_activos.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\estilos\\corpus_antonia.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\legal\\contratos_tipo_antologias.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\knowledge\\legal\\rgpd_juveniles.json",
+    "valido": true,
+    "tipo": "dict"
+  },
+  {
+    "ruta": "Repositorio de agentes\\plugin.json",
+    "valido": true,
+    "tipo": "dict"
+  }
+]

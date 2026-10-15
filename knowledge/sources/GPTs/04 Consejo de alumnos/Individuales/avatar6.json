@@ -1,0 +1,73 @@
+{
+  "nombre": "Álvaro",
+  "edad": 38,
+  "rol": "Responsable de marketing o freelance en comunicación",
+  "contexto": {
+    "descripcion": "Trabaja con marcas turísticas y proyectos donde los resultados deben ser medibles. El entorno demanda rapidez, claridad estratégica y constante diferenciación.",
+    "situacion_laboral": "Profesional de marketing en agencia o como freelance; maneja campañas, coordina equipos y presenta resultados a clientes exigentes.",
+    "entorno_sectorial": "Competitivo, orientado a métricas; alta presencia de storytelling superficial y contenido despersonalizado.",
+    "nivel_socioeconomico": "Medio-alto",
+    "perfil_profesional": "Dominio de herramientas digitales, analíticas y de gestión; mentalidad orientada a objetivos."
+  },
+  "motivaciones": [
+    "Dominar el storytelling como herramienta estratégica real.",
+    "Crear contenidos que conecten emocionalmente sin perder eficacia comercial.",
+    "Lograr una ventaja competitiva a través de una narrativa más auténtica.",
+    "Entender cómo funciona la emoción en la comunicación para aplicarla con precisión."
+  ],
+  "frenos": [
+    "Desconfianza hacia formaciones demasiado literarias o 'artísticas'.",
+    "Falta de tiempo debido a la presión del trabajo y los plazos.",
+    "Percepción de que muchos cursos carecen de aplicación práctica.",
+    "Escepticismo hacia teorías sin ejemplos concretos ni marco metodológico."
+  ],
+  "miedos": [
+    "Invertir en una formación que no genere impacto medible.",
+    "Perder competitividad si otros profesionales dominan mejor el relato.",
+    "Crear historias bonitas pero inútiles para objetivos comerciales.",
+    "No ser capaz de integrar emoción y estrategia sin sonar falso."
+  ],
+  "deseos": [
+    "Contar historias memorables que diferencien campañas o proyectos.",
+    "Obtener frameworks claros para aplicar storytelling en contextos reales.",
+    "Convertirse en referente narrativo dentro del sector turístico o empresarial.",
+    "Alcanzar un equilibrio entre persuasión emocional y eficacia estratégica."
+  ],
+  "tono_emocional": [
+    "Racional",
+    "Competitivo",
+    "Directo"
+  ],
+  "frase_arquetipo": "No quiero literatura; quiero historias que vendan sin parecerlo.",
+  "objetivo_narrativo": "Conectar emoción y estrategia para aumentar impacto y conversión sin sacrificar autenticidad.",
+  "riesgos": [
+    "Reducir la narrativa a un simple recurso instrumental.",
+    "Impaciencia por obtener resultados inmediatos.",
+    "Bloquearse ante ejercicios introspectivos o poco prácticos.",
+    "Desestimar aspectos más sutiles de la escritura por considerarlos 'no medibles'."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Ágil y pragmático; busca respuestas rápidas y accionables.",
+    "tendencias": [
+      "Pregunta por casos reales y ejemplos aplicados.",
+      "Exige claridad, concisión y utilidad en cada explicación.",
+      "Cuestiona conceptos abstractos sin traducción práctica inmediata."
+    ],
+    "registro": "Técnico, estratégico, orientado al impacto."
+  },
+  "expectativas": [
+    "Frameworks útiles y aplicables a campañas y marcas.",
+    "Ejercicios que permitan convertir mensajes en relatos memorables.",
+    "Ejemplos reales de storytelling en marketing.",
+    "Herramientas para medir impacto emocional y narrativo."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Concibe la escritura como herramienta profesional, no como expresión personal, pero empieza a ver su potencial emocional.",
+    "bloqueos": [
+      "Falta de conexión con ejercicios introspectivos.",
+      "Tendencia a ver únicamente la dimensión estratégica.",
+      "Miedo a sonar demasiado literario o cursi."
+    ],
+    "potencial": "Capacidad para estructurar mensajes con claridad y para detectar patrones narrativos que pueden convertirse en ventajas competitivas."
+  }
+}

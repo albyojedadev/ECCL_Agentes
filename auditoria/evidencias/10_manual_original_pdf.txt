@@ -1,0 +1,811 @@
+PAGINA 1
+Página inicial · ¿Qué asistente usar según la necesidad?
+Esta guía rápida permite identificar en segundos qué asistente utilizar en cada situación. 
+Todos los GPTs incluyen un botón llamado “¿En qué me puedes ayudar?” que muestra un 
+resumen de sus funciones principales. Úsalo siempre que necesites una orientación 
+inmediata.
+Si necesitas validar una idea, un curso o una campaña
+ →Usa: Consejo de Alumnos Sintéticos
+Empléalo cuando quieras:
+•conocer la reacción de los distintos públicos,
+•ver qué avatares encajan o rechazan una idea,
+•detectar riesgos, frenos y renuncias,
+•testar precios, modalidades, duraciones o claims,
+•comparar versiones de un mismo curso.
+Consejo: si tienes dudas sobre este GPT, pulsa “¿En qué me puedes ayudar?” para ver su 
+alcance exacto.
+Si necesitas diseñar, ajustar o estructurar un curso
+ →Usa: Generador de Propuestas Formativas
+Empléalo cuando quieras:
+•crear una ficha de programa desde cero,
+•ajustar la estructura pedagógica,
+•obtener variantes por público, modalidad o duración,
+•construir la base técnica de proyectos y memorias.
+Si no recuerdas qué parámetros acepta, pulsa “¿En qué me puedes ayudar?” y verás un 
+resumen claro.
+Si necesitas buscar subvenciones o evaluar el encaje de un proyecto
+ →Usa: Investigador de Subvenciones
+Empléalo cuando quieras:
+
+PAGINA 2
+•localizar convocatorias adecuadas,
+•conocer requisitos clave sin leer documentos largos,
+•evaluar si la Escuela cumple los criterios,
+•identificar riesgos antes de redactar la memoria.
+Si no estás segura de qué tipo de convocatorias puede buscar, utiliza el botón “¿En qué 
+me puedes ayudar?”.
+Si necesitas redactar textos literarios o institucionales
+ →Usa: Ghostwriter de Antonia Molinero
+Empléalo cuando quieras:
+•escribir notas de prensa, textos web, campañas o piezas narrativas,
+•generar versiones con distintos tonos (melancólico, luminoso, firme, irónico…),
+•producir descripciones de cursos o materiales de difusión,
+•redactar apartados literarios dentro de memorias.
+Si necesitas recordar qué géneros o tonos admite, pulsa “¿En qué me puedes 
+ayudar?” para ver la lista completa.
+Si necesitas corregir un ejercicio literario de un alumno
+ →Usa: Crítico Literario
+Empléalo cuando quieras:
+•hacer un análisis técnico del texto,
+•generar el informe interno para Antonia,
+•producir el comentario final pedagógico para el alumno,
+•detectar fortalezas, fallos y dirección de crecimiento.
+(Este asistente no se combina con los demás.)
+Si tienes dudas sobre cómo inicia el proceso (análisis  informe  comentario), haz clic → →
+en “¿En qué me puedes ayudar?”.
+Si no sabes qué asistente usar
+Haz esta pregunta directa:
+Tengo esta necesidad: [descripción breve]. ¿Qué asistente debería usar y en qué orden? 
+El sistema te indicará el flujo adecuado.
+
+PAGINA 3
+Resultado
+Esta página sirve como punto de entrada para todo el manual y permite al equipo 
+identificar rápidamente:
+•qué asistente corresponde a cada necesidad,
+•qué esperar de cada uno,
+•y cómo obtener orientación inmediata mediante el botón “¿En qué me puedes 
+ayudar?” disponible en todos los GPTs.
+1. Flujo principal para crear y validar ofertas formativas
+Este flujo explica cómo usar los GPTs cuando la Escuela necesita diseñar, ajustar o validar
+un curso, taller o programa nuevo. El orden importa: cada asistente cubre una fase 
+concreta y evita errores que luego son más costosos de corregir.
+1.1 Fase 1 — Comprender el público y validar la idea
+Asistente utilizado: Consejo de Alumnos Sintéticos
+Para qué sirve en esta fase
+•Evaluar si la idea inicial encaja con los públicos reales de la Escuela.
+•Detectar objeciones, miedos, frenos y oportunidades antes de diseñar el curso.
+•Identificar contradicciones entre segmentos (quién gana y quién pierde con la 
+idea).
+Cómo pedirlo
+•Describe la idea de forma simple: objetivo, modalidad, duración aproximada, precio
+estimado (si lo hay).
+•Pide reacción por avatar o “panel comparativo”.
+•Si no sabes qué avatares usar, dile: “Elige los avatares más relevantes”.
+Qué entrega
+•Reacciones en primera persona o análisis por avatar.
+•Señalamiento de frenos críticos.
+•Aviso de públicos descartados si sigues adelante tal como está.
+•Ajustes iniciales de enfoque.
+Valores prácticos
+•Reduce riesgo de diseñar un curso que no tiene público real.
+•Detecta fallos conceptuales antes de invertir tiempo en estructura o textos.
+
+PAGINA 4
+1.2 Fase 2 — Diseñar o ajustar el programa
+Asistente utilizado: Generador de Propuestas Formativas
+(Nombre provisional hasta que confirmes cómo se llama el GPT exacto.)
+Para qué sirve en esta fase
+•Crear una ficha de curso clara: objetivos, duración, estructura, modalidad, perfiles a
+los que va dirigido.
+•Revisar encaje con segmentos y bloques estratégicos.
+•Proponer variantes de formato (intensivo, trimestral, presencial, online).
+•Estimar coherencia pedagógica y carga real de trabajo.
+Cómo pedirlo
+•“Diseña una ficha de programa para…”
+•“Ajusta la duración y modalidad según lo que dijeron los avatares.”
+•“Propón dos versiones del mismo curso para dos segmentos distintos.”
+Qué entrega
+•Ficha de programa completa.
+•Alternativas de formato cuando hay conflicto de públicos.
+•Recomendaciones de ajustes antes de comunicarlo.
+Valores prácticos
+•Ahorra tiempo a dirección y docentes.
+•Evita incoherencias entre propuesta, público y expectativas.
+•Sienta la base para la comunicación y las campañas.
+1.3 Fase 3 — Test A/B con avatares
+Asistente utilizado: Consejo de Alumnos Sintéticos (segunda ronda)
+Para qué sirve en esta fase
+•Ver cómo reacciona cada avatar a la versión ya estructurada del programa.
+•Detectar ajustes finos de mensaje, duraciones, expectativas o precios.
+•Tomar decisiones claras de priorización: qué público irá primero.
+Cómo pedirlo
+•“Testea esta ficha de programa con un panel de X avatares.”
+•“Compara estas dos versiones y dime qué avatar encaja mejor con cada una.”
+•“Señala contradicciones entre avatares y riesgos de comunicación.”
+Qué entrega
+•Impacto comparado.
+
+PAGINA 5
+•Ajustes concretos según avatar.
+•Renuncias explícitas.
+•Recomendaciones de posicionamiento.
+Valores prácticos
+•Reduce errores de lanzamiento.
+•Permite diseñar campañas más precisas.
+•Evita que un curso se comunique de forma contradictoria.
+1.4 Fase 4 — Textos para comunicar el curso
+Asistente utilizado: Ghostwriter de Antonia Molinero
+Para qué sirve en esta fase
+•Redactar piezas de comunicación con la voz institucional de Antonia.
+•Escribir textos para: web, dossier, nota de prensa, email, redes, presentaciones.
+•Ajustar la voz según tonalidad emocional y estilo narrativo deseado.
+Cómo pedirlo
+•Indica tipo de texto, propósito, emoción principal, extensión y público.
+•Si necesitas varias versiones, especifícalo.
+•Puedes pedir tono melancólico, luminoso, firme, irónico, etc.
+Qué entrega
+•Una primera versión lista para revisión.
+•Alternativas de titulares, aperturas o cierres si el encargo lo requiere.
+•Ajustes de voz según feedback.
+Valores prácticos
+•Reduce drásticamente el tiempo de producción de textos.
+•Garantiza coherencia estética con el estilo de Antonia.
+•Permite iterar rápido entre creatividad y estrategia.
+Resultado global del flujo
+Siguiendo estas cuatro fases, la Escuela obtiene:
+1.Una idea validada por públicos reales.
+2.Un curso diseñado con coherencia pedagógica y estratégica.
+3.Riesgos detectados y renuncias claras antes del lanzamiento.
+4.Textos consistentes que representan fielmente la voz institucional.
+
+PAGINA 6
+Este flujo evita improvisaciones, reduce errores y mejora la efectividad de cada 
+lanzamiento.
+2. Flujo para proyectos y subvenciones
+Este flujo explica cómo usar los GPTs cuando la Escuela necesita identificar 
+oportunidades de financiación, preparar proyectos o redactar memorias para 
+convocatorias públicas o privadas.
+2.1 Fase 1 — Localizar oportunidades de financiación
+Asistente utilizado: Investigador de Subvenciones
+Para qué sirve en esta fase
+•Detectar convocatorias activas o próximas según el tipo de proyecto de la Escuela.
+•Filtrar solo las subvenciones que encajan con educación, cultura, literatura, 
+innovación social o digitalización.
+•Extraer requisitos clave sin tener que leer documentos extensos.
+Cómo pedirlo
+•“Hazme un mapa de subvenciones para un proyecto de X.”
+•“Busca convocatorias relevantes para talleres, residencias o programas en línea.”
+•“Dime qué organismos tienen líneas activas que encajen con este enfoque.”
+Qué entrega
+•Lista de convocatorias con: objetivo, requisitos, plazos, nivel de encaje y riesgos.
+•Comparativa breve entre opciones.
+•Advertencias cuando un enfoque no cumple criterios mínimos.
+Valores prácticos
+•Evita perder tiempo en convocatorias inviables.
+•Permite planificar trabajo y calendarios con más antelación.
+•Da una visión clara de prioridades y oportunidades realistas.
+2.2 Fase 2 — Análisis de encaje de la Escuela
+Asistente utilizado: Investigador de Subvenciones
+Para qué sirve
+•Evaluar si la Escuela realmente cumple los requisitos de la convocatoria.
+•Ver qué líneas formativas, proyectos o públicos son más compatibles.
+
+PAGINA 7
+•Detectar problemas antes de empezar a redactar.
+Cómo pedirlo
+•“Evalúa si este proyecto encaja en esta convocatoria.”
+•“Dime qué tendría que ajustar para mejorar el encaje.”
+•“Señala puntos débiles de esta propuesta para este organismo.”
+Qué entrega
+•Lista de requisitos cumplidos y no cumplidos.
+•Ajustes sugeridos para aumentar puntuación.
+•Señal de riesgo cuando el encaje es demasiado débil.
+Valores prácticos
+•Evita preparar memorias que no pasarán evaluación previa.
+•Aclara desde el principio la forma correcta de plantear el proyecto.
+2.3 Fase 3 — Construcción del proyecto o memoria
+Asistentes utilizados:
+•Generador de Propuestas Formativas
+•Ghostwriter de Antonia Molinero
+Para qué sirve
+•Convertir el concepto validado en un proyecto sólido.
+•Elaborar: objetivos, impacto, metodología, cronograma, públicos, resultados 
+esperados.
+•Redactar versiones literarias o institucionales en voz de Antonia para memorias, 
+dossiers o justificaciones.
+Cómo pedirlo
+•“Genera la estructura completa de la memoria para esta convocatoria.”
+•“Escribe el apartado de impacto social con la voz de Antonia.”
+•“Propón dos versiones del marco metodológico.”
+Qué entrega
+•Documentos completos listos para revisión.
+•Variantes según longitud requerida.
+•Ajustes internos de tono (institucional, técnico, literario).
+Valores prácticos
+•Acelera enormemente la burocracia.
+•Mantiene coherencia entre oferta formativa y memoria.
+
+PAGINA 8
+•Permite preparar varias versiones sin duplicar trabajo.
+2.4 Fase 4 — Validación con públicos (si procede)
+Asistente utilizado: Consejo de Alumnos Sintéticos
+Para qué sirve
+•Testar cómo percibirían los públicos reales el proyecto propuesto.
+•Identificar riesgos de comunicación o impacto social.
+•Ajustar narrativa antes de enviar la memoria.
+Cómo pedirlo
+•“Testea este proyecto con los avatares relevantes.”
+•“Dime qué grupos quedarían fuera del impacto real.”
+•“Señala contradicciones o fragilidades en el diseño.”
+Qué entrega
+•Reacciones por avatar.
+•Riesgos de percepción.
+•Ajustes necesarios para coherencia público–objetivo.
+Valores prácticos
+•Permite anticipar críticas o incoherencias.
+•Fortalece la memoria y mejora probabilidades de evaluación positiva.
+Resultado global del flujo
+Siguiendo estas fases, la Escuela obtiene:
+1.Un mapa de subvenciones realista.
+2.Un análisis honesto de encaje y riesgos.
+3.Una memoria coherente y bien estructurada.
+4.Una narrativa sólida y adaptada al estilo institucional.
+5.Un proyecto validado a nivel de público e impacto.
+Este flujo elimina improvisaciones, reduce errores burocráticos y fortalece las solicitudes 
+ante organismos evaluadores.
+3. Flujo pedagógico: corrección de ejercicios literarios
+Este flujo está pensado exclusivamente para la corrección de textos de alumnos. Se 
+ejecuta con un único asistente: el Crítico Literario. No se mezcla con ningún otro GPT. Su 
+funcionamiento es estrictamente secuencial y no permite saltarse pasos.
+
+PAGINA 9
+3.1 Fase 1 — Recopilar los datos del ejercicio
+Asistente utilizado: Crítico Literario
+Para qué sirve
+•Asegura que la corrección se basa en información completa.
+•Evita errores de interpretación o diagnósticos incompletos.
+Qué debe pedirse (si falta)
+•Nombre del alumno
+•Consigna exacta
+•Género o técnica
+•Extensión aproximada
+•Si es continuación de un texto previo
+Qué entrega
+•Confirmación de que tiene todos los datos.
+•Aviso claro cuando falta algo imprescindible.
+3.2 Fase 2 — Análisis técnico del texto
+Asistente utilizado: Crítico Literario (módulo de detección técnica)
+Para qué sirve
+•Identificar con precisión los componentes técnicos del texto sin intervención 
+emocional.
+•Producir la matriz que sostiene la corrección posterior.
+Cómo pedirlo
+•“Realiza el análisis técnico del texto.”
+•Si hay ambigüedad, repetir consigna en una frase clara.
+Qué analiza obligatoriamente
+En este orden exacto:
+1.Concreción
+2.Conflicto
+3.Voz
+4.Emoción
+5.Estructura
+6.Riesgo
+7.Final
+Y además:
+•Fortalezas del texto
+
+PAGINA 10
+•Falla central
+•Dirección de mejora
+Qué entrega
+•Un diagnóstico técnico detallado.
+•Sin tono emocional ni metáforas.
+•Sin suavizar fallos.
+•Sin dirigirse al alumno.
+3.3 Fase 3 — Informe interno
+Asistente utilizado: Crítico Literario (módulo de informe)
+Para qué sirve
+•Convertir el diagnóstico técnico en un informe profesional para Antonia.
+•Garantizar rigor y coherencia pedagógica.
+•Servir como base de decisión sobre cómo acompañar al alumno.
+Cómo pedirlo
+•“Genera el informe interno siguiendo el manual.”
+•No añadir tono personal ni instrucciones creativas.
+Qué contiene
+•Cumplimiento de consigna
+•Voz del alumno
+•Estructura interna
+•Concreción y conflicto
+•Relación texto–autor
+•Riesgo y decisiones formales
+•Fortalezas específicas
+•Áreas de crecimiento
+•Recomendaciones pedagógicas
+•Potencial del alumno
+Qué entrega
+•Informe completo, exhaustivo y totalmente técnico.
+•No se muestra al alumno.
+3.4 Fase 4 — Comentario final para el alumno
+Asistente utilizado: Crítico Literario (módulo de voz de Antonia)
+
+PAGINA 11
+Para qué sirve
+•Elaborar el mensaje pedagógico que recibirá el alumno.
+•Mantener el tono humano, firme y cálido propio de Antonia.
+•Trasladar el diagnóstico sin tecnicismos ni frialdad.
+Cómo pedirlo
+•“Genera el comentario final para el alumno.”
+•Especificar nombre del alumno si no estaba previamente.
+Qué estructura sigue
+1.Nombre del alumno
+2.Valoración global
+3.Lo que funciona
+4.Lo que falta
+5.Lectura de la persona-escritora
+6.Recomendación concreta
+7.Cierre cálido
+Qué entrega
+•Un comentario claro, humano y concreto.
+•Sin duplicar el informe interno.
+•Sin violencia ni suavización excesiva.
+•Siempre con una recomendación accionable.
+Resultado global del flujo
+Usando este asistente en su secuencia obligatoria, la Escuela obtiene:
+1.Un diagnóstico técnico fiable.
+2.Un informe interno riguroso para la dirección.
+3.Un comentario final adecuado para el alumno, en la voz de Antonia.
+4.Coherencia pedagógica entre todas las correcciones del equipo.
+5.Un proceso que evita errores graves en acompañamiento y evaluación.
+Este flujo mantiene la calidad pedagógica y asegura que cada alumno recibe una guía 
+seria, humana y profesional.
+4. Fichas individuales de cada asistente (referencia rápida)
+Esta sección sirve como guía de consulta inmediata para el equipo. No explica procesos 
+completos; resume qué hace cada asistente, cuándo usarlo y qué NO hace. Es útil para 
+identificar rápidamente qué GPT corresponde a cada necesidad.
+
+PAGINA 12
+4.1 Consejo de Alumnos Sintéticos
+Función principal: Simular la reacción de los distintos públicos de la Escuela ante cursos, 
+campañas, precios o decisiones estratégicas.
+Qué hace
+•Simulación en voz de avatar (primera persona).
+•Comparativa entre múltiples avatares.
+•Análisis de impacto por segmento o bloque estratégico.
+•Identificación de frenos, motivaciones y riesgos.
+•Señalamiento de renuncias: qué público queda dentro y quién queda fuera.
+Cuándo usarlo
+•Al generar una idea de curso.
+•Al ajustar un programa ya definido.
+•Antes de lanzar campañas.
+•Para testear claims o mensajes.
+•Para validar proyectos y memorias.
+Qué NO hace
+•No predice ventas.
+•No hace atención al alumno.
+•No reemplaza entrevistas reales.
+•No inventa segmentos ni avatares nuevos.
+4.2 Generador de Propuestas Formativas
+Función principal: Diseñar, ajustar y estructurar cursos, talleres, itinerarios o programas.
+Qué hace
+•Fichas de curso completas.
+•Variantes del mismo programa según público.
+•Revisión de coherencia pedagógica.
+•Ajustes de duración, modalidad, intensidad y carga.
+•Preparación de estructura para memorias o proyectos.
+Cuándo usarlo
+•Después de validar una idea con avatares.
+•Antes de escribir textos o campañas.
+•Al rediseñar un programa existente.
+•Al preparar una memoria de subvención.
+
+PAGINA 13
+Qué NO hace
+•No simula reacciones de público.
+•No redacta textos literarios o promocionales.
+•No toma decisiones comerciales por sí mismo.
+4.3 Investigador de Subvenciones
+Función principal: Identificar convocatorias relevantes y preparar la base técnica de 
+proyectos financiables.
+Qué hace
+•Mapa de convocatorias con requisitos.
+•Evaluación de encaje.
+•Análisis de riesgos.
+•Resúmenes claros de criterios de valoración.
+•Preparación de esquemas para memorias.
+Cuándo usarlo
+•Cuando se quiere iniciar un proyecto financiado.
+•Cuando hace falta conocer oportunidades activas o futuras.
+•Antes de redactar la memoria o documento final.
+Qué NO hace
+•No garantiza admisiones.
+•No sustituye lectura legal detallada.
+•No redacta textos finales en voz institucional.
+4.4 Ghostwriter de Antonia Molinero
+Función principal: Redactar textos literarios o institucionales con la voz narrativa de 
+Antonia.
+Qué hace
+•Ensayos, notas de prensa, críticas, narrativa autobiográfica, microreseñas.
+•Variantes estilísticas: melancólica, luminosa, firme, irónica, etc.
+•Textos para web, campañas, dossiers o memorias.
+•Reescritura con diferentes tonos y enfoques.
+Cuándo usarlo
+•Después de que el programa o proyecto esté claro.
+•Para preparar materiales de comunicación o difusión.
+•En memorias que requieren texto cuidado.
+
+PAGINA 14
+Qué NO hace
+•No corrige ejercicios de alumnos.
+•No hace análisis técnico.
+•No decide públicos ni formatos.
+4.5 Crítico Literario
+Función principal: Analizar, diagnosticar y comentar ejercicios literarios de alumnos según
+la metodología de Antonia Molinero.
+Qué hace
+•Análisis técnico completo.
+•Informe interno para Antonia.
+•Comentario final para el alumno.
+•Detección de fortalezas, fallos y dirección de crecimiento.
+Cuándo usarlo
+•Al corregir tareas, ejercicios o textos de alumnos.
+•Cuando se necesita una lectura pedagógica estructurada.
+Qué NO hace
+•No reescribe el texto del alumno.
+•No genera contenidos literarios nuevos.
+•No simula reacciones de público.
+•No se usa en procesos comerciales o estratégicos.
+4.6 Otros GPTs (si el ecosistema incluye alguno adicional)
+(Añadir aquí cualquier asistente futuro que la Escuela incorpore.)
+Resultado de la sección
+Esta referencia rápida permite al equipo identificar con precisión qué asistente 
+corresponde a cada necesidad sin tener que releer flujos completos. Reduce errores, evita 
+usos incorrectos y ayuda a encadenarlos en el orden adecuado dentro de cada proceso.
+
+PAGINA 15
+5. Casos de uso completos
+Esta sección muestra cómo se combinan los asistentes en situaciones reales de trabajo. 
+El objetivo es que el equipo pueda reproducir estos flujos sin confusión, sabiendo qué GPT
+utilizar y en qué orden.
+5.1 Crear un curso desde cero
+Objetivo
+Pasar de una idea inicial a un lanzamiento completo listo para comunicación.
+Secuencia
+1.Validar la idea → Consejo de Alumnos Sintéticos
+•“¿Qué opinarían los avatares de un curso de X…?”
+2.Diseñar el curso → Generador de Propuestas Formativas
+•“Genera la ficha de este programa según los ajustes indicados.”
+3.Test A/B de versiones → Consejo de Alumnos Sintéticos
+•“Compara versión intensiva vs trimestral.”
+4.Redactar textos → Ghostwriter
+•Nota de prensa, texto web, email, dossier.
+Resultado esperado
+•Ficha de programa coherente.
+•Riesgos detectados.
+•Textos listos para adaptar a canales.
+5.2 Relanzar un curso existente
+Objetivo
+Ajustar un curso actual para mejorar inscripción o relevancia.
+Secuencia
+1.Diagnóstico por públicos → Consejo de Alumnos
+2.Revisión del programa → Generador de Propuestas
+3.Test de claims y mensajes → Consejo de Alumnos
+4.Textos actualizados → Ghostwriter
+Resultado esperado
+•Reposicionamiento claro.
+
+PAGINA 16
+•Claim afinado.
+•Material listo para marketing.
+5.3 Preparar una memoria de subvención
+Objetivo
+Redactar una solicitud completa para una convocatoria cultural o educativa.
+Secuencia
+1.Buscar convocatorias → Investigador de Subvenciones
+•“Hazme un mapa de opciones para un proyecto de X.”
+2.Evaluar encaje → Investigador
+•“Analiza encaje con esta convocatoria concreta.”
+3.Construir proyecto → Generador de Propuestas
+•Objetivos, metodología, impacto.
+4.Redactar memoria → Ghostwriter
+•Tonos institucional y literario según necesidad.
+5.Testar impacto público (si aplica) → Consejo de Alumnos
+Resultado esperado
+•Memoria completa, coherente y revisada.
+•Menos errores al presentar.
+5.4 Crear una campaña de comunicación para un curso
+Objetivo
+Producir los mensajes clave y las piezas de comunicación.
+Secuencia
+1.Testear claims preliminares → Consejo de Alumnos
+2.Ajustar programa si hay incoherencias → Generador de Propuestas
+3.Redactar campañas, emails y textos web → Ghostwriter
+Resultado esperado
+•Mensajes precisos y adaptados a públicos.
+•Coherencia entre curso, claim y emoción.
+
+PAGINA 17
+5.5 Evaluar cambios de precio o modalidad
+Objetivo
+Saber si un ajuste puede generar rechazo o mejorar captación.
+Secuencia
+1.Simular impacto → Consejo de Alumnos
+2.Reajustar programa si es necesario → Generador de Propuestas
+3.Testar segunda versión → Consejo de Alumnos
+Resultado esperado
+•Diagnóstico claro de riesgos.
+•Argumentos sólidos para decisiones de dirección.
+5.6 Corrección completa de un texto de alumno
+(Flujo exclusivo del Crítico Literario.)
+Secuencia
+1.Solicitud de datos → Crítico
+2.Análisis técnico → Crítico
+3.Informe interno → Crítico
+4.Comentario final → Crítico
+Resultado esperado
+•Corrección pedagógica rigurosa y coherente.
+5.7 Preparar un dosier institucional para un proyecto
+Objetivo
+Un documento que combine estructura técnica y tono literario.
+Secuencia
+1.Esqueleto técnico → Generador de Propuestas
+2.Validación por públicos → Consejo de Alumnos
+3.Redacción final → Ghostwriter
+Resultado esperado
+•Documento listo para presentación externa.
+
+PAGINA 18
+5.8 Diseñar una línea formativa completa
+Objetivo
+Construir un itinerario (ej. narrativa, poesía, profesionalización).
+Secuencia
+1.Validación de enfoque → Consejo de Alumnos
+2.Diseño de módulos → Generador de Propuestas
+3.Test comparativo de itinerarios → Consejo de Alumnos
+4.Textos para web y catálogo → Ghostwriter
+Resultado esperado
+•Línea coherente y alineada con públicos estratégicos.
+Resultado de la sección
+Estos casos de uso permiten reproducir flujos completos sin improvisación. Cada uno 
+muestra cómo encadenar los GPTs en el orden más efectivo y cómo evitar solapamientos 
+o usos erróneos.
+6. Buenas prácticas, límites y errores comunes
+Esta sección recoge lo imprescindible para evitar malentendidos, usos incorrectos y 
+pérdidas de tiempo. El objetivo es que cualquier miembro del equipo sepa cómo sacar el 
+máximo rendimiento a los asistentes sin que interfieran entre sí ni generen ruido.
+6.1 Buenas prácticas generales
+1. Da siempre contexto claro
+Los GPTs funcionan mejor cuando saben:
+•objetivo del encargo,
+•público al que va dirigido,
+•extensión aproximada,
+•si hay fecha, precio, modalidad o tono previsto,
+•si existe una versión anterior.
+Una frase bien formulada evita cinco mensajes posteriores.
+
+PAGINA 19
+2. Mantén cada asistente en su función
+No uses el Ghostwriter para analizar públicos.
+No uses el Consejo de Alumnos para escribir textos.
+No uses el Crítico para diseñar programas.
+Cada asistente está optimizado para una tarea concreta y salirse de ese ámbito reduce 
+calidad.
+3. Pide pasos concretos, no resultados ambiguos
+Ejemplos:
+•“Analiza esta ficha con tres avatares relevantes.”
+•“Genera dos versiones alternativas del programa.”
+•“Escribe una nota de prensa de 300 palabras.”
+Evita:
+•“Dame ideas” sin un marco.
+•“Haz algo con esto” sin especificar qué.
+4. Usa siempre el orden del flujo adecuado
+Los procesos están diseñados para evitar errores típicos:
+•Validar  diseñar  testar  escribir→ → →
+•No escribir  testar  validar.→ →
+5. Guarda versiones importantes
+Cuando un asistente produzca un texto clave (programa, memoria, nota, claim), guarda la 
+versión antes de pedir cambios. Los asistentes pueden rehacer, pero no reconstruyen una 
+versión perdida si no se verbalizó.
+6.2 Límites de cada asistente
+Consejo de Alumnos Sintéticos
+•No es un oráculo ni predice ventas.
+•No sustituye entrevistas reales.
+•No inventa psicologías nuevas.
+•No hace atención al estudiante.
+Generador de Propuestas Formativas
+•No escribe textos literarios.
+•No analiza públicos.
+•No toma decisiones comerciales automáticamente.
+
+PAGINA 20
+Investigador de Subvenciones
+•No garantiza concesiones.
+•No interpreta bases legales complejas.
+•No escribe memorias en voz institucional.
+Ghostwriter de Antonia Molinero
+•No reescribe trabajos de alumnos.
+•No corrige ejercicios.
+•No analiza impacto por públicos.
+Crítico Literario
+•No genera literatura.
+•No escribe campañas.
+•No hace análisis estratégico.
+6.3 Errores comunes y cómo evitarlos
+Error 1: Pedir textos antes de validar la idea
+Solución:
+Usa primero el Consejo de Alumnos. Un claim bonito no corrige un producto mal encajado.
+Error 2: Diseñar cursos sin revisar segmentos
+Solución:
+Pedir siempre un análisis comparativo de avatares cuando el curso pueda atraer a más de 
+un segmento.
+Error 3: Cambiar modalidad o precio sin evaluar impacto
+Solución:
+Simular con al menos 2–4 avatares. Identificar renuncias.
+Error 4: Usar asistentes fuera de orden
+Solución:
+Sigue las fases del flujo. Si saltas pasos, el resultado pierde coherencia o genera 
+retrabajo.
+Error 5: Pedir al Crítico que “mejore” o “reescriba” textos
+Solución:
+Ese asistente no produce literatura. Solo diagnostica y comenta.
+
+PAGINA 21
+Error 6: Confundir texto institucional con texto literario
+Solución:
+Usa Ghostwriter para ambos, pero especifica tono:
+•institucional sobrio,
+•literario emocional,
+•híbrido (para memorias culturales).
+Error 7: No indicar público o propósito
+Solución:
+Incluye siempre el “para quién” y el “para qué”.
+Ejemplo: “Texto para web dirigido a aspirantes profesionales.”
+6.4 Señales de que estás usando un asistente incorrecto
+•Te da respuestas demasiado “creativas” cuando necesitas rigor  no es el Crítico.→
+•Te da respuestas con voz emocional cuando buscabas análisis  no es el Consejo →
+en modo analista, o no es el asistente correcto.
+•Te habla de estructura sin escribir texto  no es el Ghostwriter.→
+•Te ofrece variantes literarias cuando solo querías ficha técnica  no es el →
+Generador adecuado.
+•Te sugiere convocatorias cuando lo que pediste es marketing  asistente →
+equivocado.
+6.5 Señales de que necesitas intervención humana
+•Decisiones con impacto financiero significativo.
+•Proyectos institucionales que requieren validación legal.
+•Situaciones pedagógicas delicadas con alumnos.
+•Contenidos donde la sensibilidad cultural o social es crítica.
+•Conflictos internos entre programas, docentes o calendarios.
+Los GPTs son herramientas potentes, pero no sustituyen criterio humano en situaciones 
+estratégicas o sensibles.
+Resultado de la sección
+Este conjunto de buenas prácticas ayuda a que el equipo use el sistema de GPTs con 
+precisión, claridad y sin perder tiempo. Evita malentendidos, solapamientos y usos 
+inadecuados, garantizando calidad y coherencia en todos los procesos.
+
+PAGINA 22
+7. Apéndices
+Los apéndices sirven como material de consulta rápida para el equipo. No amplían teoría: 
+ofrecen datos operativos, listas de apoyo y ejemplos concretos que facilitan el uso diario 
+de los GPTs.
+7.1 Glosario interno
+Avatar
+Representación sintética de un segmento de público. Cada avatar tiene motivaciones, 
+miedos y expectativas concretas.
+Segmento
+Grupo de alumnos o potenciales alumnos con características comunes (edad, motivación, 
+nivel, disponibilidad, estilo de aprendizaje).
+Bloque estratégico
+Categoría interna de la Escuela que agrupa líneas formativas (narrativa, poesía, 
+profesionalización, creatividad, etc.).
+Encaje
+Grado en el que una idea, curso o proyecto coincide con las necesidades y expectativas de
+un segmento.
+Renuncia
+Público que se pierde cuando se toma una decisión específica (duración, precio, 
+modalidad).
+Ficha de programa
+Documento base que describe todos los elementos del curso: objetivos, estructura, 
+duración, modalidad, público, resultados.
+Memoria
+Documento requerido por una convocatoria donde se explican objetivos, impacto, 
+metodología y evaluación de un proyecto.
+Diagnóstico técnico
+Lectura estructural del texto de un alumno según criterios obligatorios del Crítico Literario.
+7.2 Tabla orientativa de avatares (ejemplo genérico)
+(Ajustar según los avatares definitivos que la Escuela tenga configurados en su Consejo 
+de Alumnos Sintéticos.)
+Avatar Perfil resumido Motivación central Frenos típicos
+Aspirante 
+Profesional
+Persona que quiere 
+publicar o 
+profesionalizarse
+Avance real, rigor, 
+claridad en el camino
+Falta de tiempo, 
+miedo al fracaso
+Explorador 
+Creativo
+Perfil que busca 
+desbloqueo o juego
+Experimentar, probar, 
+expresarse
+Miedo a lo técnico, 
+falta de estructura
+Adulto que vuelve Regreso tardío a la Recuperar una parte de Sensación de no 
+
+PAGINA 23
+Avatar Perfil resumido Motivación central Frenos típicos
+a escribir escritura sí, acompañamiento estar preparado
+Buscadora de 
+Comunidad
+Interés en conexión 
+emocional
+Pertenecer, compartir 
+proceso
+Miedo a sentirse 
+sola o juzgada
+Perfeccionista 
+silencioso
+Alto nivel técnico pero 
+autoexigencia extrema
+Mejorar, comprender 
+procesos finos
+Bloqueo, parálisis 
+analítica
+7.3 Plantillas de prompts recomendados
+Para validar una idea con el Consejo de Alumnos
+Analiza esta idea de curso: [descripción breve].
+Evalúala con los avatares más relevantes y dime:
+• qué avatar encaja mejor,
+• qué avatar la rechaza,
+• qué ajustes harían mejorar el encaje,
+• qué renuncias supone.
+Para diseñar una ficha de programa
+Diseña la ficha completa del curso: [título provisional].
+Incluye objetivos, estructura, duración, modalidad, público objetivo y resultados 
+esperados.
+Ajusta la propuesta según estos criterios: [lista breve]. 
+Para redactar textos con el Ghostwriter
+Escribe un texto de [tipo] con una extensión aproximada de [X palabras].
+Público: [segmento].
+Emoción principal: [emoción].
+Tono estilístico: [variante].
+Propósito: [qué debe provocar]. 
+Para preparar una memoria de subvención
+Usa esta convocatoria: [resumen].
+Evalúa encaje del proyecto: [descripción].
+Luego genera la estructura completa de la memoria y proponme tres mejoras posibles 
+para aumentar puntuación. 
+Para iniciar una corrección pedagógica
+
+PAGINA 24
+Aquí está el texto del alumno.
+Consigna: [resumen].
+Género/técnica: [dato].
+Extensión: [dato].
+Realiza primero el análisis técnico. No sigas hasta que lo confirme. 
+7.4 Ejemplo de encadenamiento correcto entre asistentes
+Caso: Crear y lanzar un curso trimestral de narrativa breve
+1.Consejo de Alumnos  validar idea.→
+2.Generador de Propuestas  diseñar programa.→
+3.Consejo de Alumnos  testar dos versiones.→
+4.Ghostwriter  redactar textos.→
+5.(Opcional) Investigador de Subvenciones  buscar financiación complementaria.→
+7.5 Señales de calidad en los entregables
+Programas formativos
+•Objetivos claros y medibles.
+•Estructura coherente con duración.
+•Modalidad compatible con el público validado.
+Textos institucionales
+•Voz consistente con Antonia.
+•Imagen central clara.
+•Cierre con peso emocional o ético.
+Diagnósticos pedagógicos
+•Una sola falla central.
+•Una sola dirección de crecimiento.
+•Comentario final humano, concreto y sin tecnicismos.
+Cierre de los apéndices
+Este material complementario ofrece herramientas rápidas para trabajar con los GPTs con
+precisión. No sustituye los flujos principales, pero ayuda a mantener consistencia, agilidad
+y claridad en el trabajo diario de la Escuela.

@@ -1,0 +1,220 @@
+{
+  "novela": [
+
+    /* ============================================================
+       SECCIÓN A: EJEMPLOS SINTÉTICOS (ya creados anteriormente)
+       ============================================================ */
+
+    {
+      "id": "novela_01_sintetico",
+      "origen": "sintetico",
+      "titulo": "La vida buena en última fila",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["melancolica_domestica", "critica_civil", "oral_veloz"],
+      "temas": ["instituto", "identidad", "clase_social", "ansiedad"],
+      "estructura_capitulo": {
+        "arranque": "Escena inicial en el instituto con observación crítica del entorno.",
+        "escena": "Clase de filosofía, interacción con el profesor, observación del aula VIP.",
+        "reflexion": "Qué significa vivir bien, presión social, sentirse fuera de lugar.",
+        "memoria": "Referencias implícitas a pérdidas y cansancio emocional.",
+        "cierre": "Gesto simbólico del profesor que actúa como permiso emocional."
+      },
+      "texto": "Hay días..."
+    },
+    {
+      "id": "novela_02_sintetico",
+      "origen": "sintetico",
+      "titulo": "La sangre que no pide permiso",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["juguetona", "melancolica_domestica", "oral_veloz"],
+      "temas": ["cuerpo", "menstruacion", "madurez", "vergüenza"],
+      "estructura_capitulo": {
+        "arranque": "Inicio abrupto con un conflicto corporal en clase.",
+        "escena": "Baño del instituto, espejo, compresa, incomodidad social.",
+        "reflexion": "El cuerpo femenino como territorio político.",
+        "memoria": "Recuerdo de la abuela dando marco simbólico a la regla.",
+        "cierre": "Regreso al aula con una 'guerra silenciosa'."
+      },
+      "texto": "Mi madre dice..."
+    },
+    {
+      "id": "novela_03_sintetico",
+      "origen": "sintetico",
+      "titulo": "Casa en otra pestaña",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["melancolica_domestica", "luminosa_tierna"],
+      "temas": ["memoria", "duelo", "familia", "objetos_domesticos"],
+      "estructura_capitulo": {
+        "arranque": "Invocación inmediata de la casa de la abuela.",
+        "escena": "Exploración de la cocina, tazas antiguas.",
+        "reflexion": "El hogar como archivo emocional.",
+        "memoria": "Recuerdos de cuidados en la infancia.",
+        "cierre": "La taza rescatada como prueba física del pasado."
+      },
+      "texto": "A veces pienso..."
+    },
+    {
+      "id": "novela_04_sintetico",
+      "origen": "sintetico",
+      "titulo": "La órbita del patio",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["furia_contenida", "critica_civil", "oral_veloz"],
+      "temas": ["bullying", "racismo", "vergüenza_publica"],
+      "estructura_capitulo": {
+        "arranque": "Norma tácita del patio establecida como jerarquía social.",
+        "escena": "Hostigamiento en recreo, insultos y grabaciones.",
+        "reflexion": "Humillación como espectáculo social.",
+        "memoria": "Estado anímico debilitado por sueños y duelo.",
+        "cierre": "Acto mínimo de solidaridad: caminar con otra chica."
+      },
+      "texto": "En el recreo..."
+    },
+    {
+      "id": "novela_05_sintetico",
+      "origen": "sintetico",
+      "titulo": "Enamorarse un martes",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["luminosa_tierna", "juguetona", "melancolica_domestica"],
+      "temas": ["amor_adolescente", "vulnerabilidad", "instituto"],
+      "estructura_capitulo": {
+        "arranque": "Presentación del enamoramiento en un día anodino.",
+        "escena": "Clase de lengua, intercambio mínimo de miradas y gestos.",
+        "reflexion": "Las pequeñas señales que sostienen emociones.",
+        "memoria": "Confesión interna de cansancio compartido.",
+        "cierre": "Interpretación íntima del mensaje 'yo también estoy cansado'."
+      },
+      "texto": "Me enamoré un martes..."
+    },
+    {
+      "id": "novela_06_sintetico",
+      "origen": "sintetico",
+      "titulo": "Azotea sin planos",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["melancolica_domestica", "furia_contenida"],
+      "temas": ["duelo", "escape_emocional", "familia"],
+      "estructura_capitulo": {
+        "arranque": "Presentación de la azotea como refugio no oficial.",
+        "escena": "Primer acceso tras un entierro complicado.",
+        "reflexion": "Crítica a los discursos sobre fuerza y resiliencia.",
+        "memoria": "Entierro reciente y carga emocional.",
+        "cierre": "Microalivio: 'tengo un milímetro más de aire'."
+      },
+      "texto": "Hay una azotea..."
+    },
+
+    /* ============================================================
+       SECCIÓN B: ANÁLISIS ESTRUCTURADO DE “COCHINITA”
+       SIN TEXTO LITERAL, PERO CAPÍTULO A CAPÍTULO
+       ============================================================ */
+
+    {
+      "id": "cochinita_cap_01",
+      "origen": "analisis_estructural",
+      "titulo_original": "TÍTULO REAL DEL CAPÍTULO (no reproducido si es literal)",
+      "funcion_capitulo": "Presentación de la voz y del pacto autobiográfico.",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["oral_veloz", "juguetona", "furia_contenida"],
+      "temas": ["identidad", "confusión_adolescente", "cuerpo", "autopercepción"],
+      "estructura_capitulo": {
+        "arranque": "Entrada abrupta en el pensamiento de la narradora.",
+        "escena": "Situación cotidiana que expone vulnerabilidad.",
+        "reflexion": "El yo adolescente como entidad en construcción.",
+        "memoria": "Primeras referencias a figuras familiares y heridas previas.",
+        "cierre": "Declaración emocional que marca tono general de la obra."
+      },
+      "recursos_estilisticos": [
+        "metaforas_domesticas",
+        "autocorreccion_en_caliente",
+        "ironía_autobiográfica",
+        "humor_como_defensa"
+      ],
+      "arco_emocional": "Inseguridad inicial → afirmación de voz propia."
+    },
+
+    {
+      "id": "cochinita_cap_02",
+      "origen": "analisis_estructural",
+      "funcion_capitulo": "Introducción de la dimensión corporal de la novela.",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["juguetona", "furia_contenida"],
+      "temas": ["cuerpo", "sexualidad", "vergüenza", "autonomía"],
+      "estructura_capitulo": {
+        "arranque": "Impacto corporal que saca a la protagonista de su eje.",
+        "escena": "Momento íntimo o cotidiano que detona reflexión.",
+        "reflexion": "Relación conflictiva con el propio cuerpo.",
+        "memoria": "Comentarios familiares que refuerzan inseguridad.",
+        "cierre": "Ironía o comentario final que desactiva solemnidad."
+      },
+      "recursos_estilisticos": [
+        "lenguaje_explicito_controlado",
+        "metaforas_corporales",
+        "humor_autoprotector"
+      ],
+      "arco_emocional": "Vergüenza → apropiación del propio cuerpo."
+    },
+
+    {
+      "id": "cochinita_cap_03",
+      "origen": "analisis_estructural",
+      "funcion_capitulo": "Presentación del entorno escolar como sistema opresivo.",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["critica_civil", "oral_veloz"],
+      "temas": ["clase_social", "instituto", "violencia_simbolica"],
+      "estructura_capitulo": {
+        "arranque": "Descripción irónica del espacio escolar.",
+        "escena": "Interacciones con compañeros VIP.",
+        "reflexion": "Clase y exclusión dentro del sistema educativo.",
+        "memoria": "Comparaciones con etapas previas más precarias.",
+        "cierre": "Comentario incisivo que revela desigualdad."
+      },
+      "recursos_estilisticos": [
+        "sarcasmo_politico",
+        "observacion_social_mordaz"
+      ],
+      "arco_emocional": "Desconcierto → lucidez crítica."
+    },
+
+    {
+      "id": "cochinita_cap_04",
+      "origen": "analisis_estructural",
+      "funcion_capitulo": "Introducción del mentor o figura adulta positiva.",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["luminosa_tierna", "melancolica_domestica"],
+      "temas": ["aprendizaje", "paternidad_figurada", "intelecto"],
+      "estructura_capitulo": {
+        "arranque": "Presentación del docente con atributos contradictorios.",
+        "escena": "Escena de aula significativa.",
+        "reflexion": "La educación como refugio emocional.",
+        "memoria": "Comparación con figuras adultas fallidas.",
+        "cierre": "Gesto o frase que abre confianza."
+      },
+      "recursos_estilisticos": [
+        "detalle_minimo_cargado_de_significado",
+        "construccion_de_figura_simbolica"
+      ],
+      "arco_emocional": "Desconfianza → apertura afectiva."
+    },
+
+    {
+      "id": "cochinita_cap_05",
+      "origen": "analisis_estructural",
+      "funcion_capitulo": "Exploración del duelo y la ausencia.",
+      "voz": "primera_persona_adolescente",
+      "variantes": ["melancolica_domestica", "furia_contenida"],
+      "temas": ["duelo", "familia", "muerte", "memoria"],
+      "estructura_capitulo": {
+        "arranque": "Pensamiento o imagen asociada al ser querido perdido.",
+        "escena": "Acción cotidiana transformada por la ausencia.",
+        "reflexion": "Cómo el duelo se filtra en todo.",
+        "memoria": "Escenas clave del pasado.",
+        "cierre": "Frase ambigua que mezcla dolor y ternura."
+      },
+      "recursos_estilisticos": [
+        "superposicion_tiempo_presente_y_pasado",
+        "imagen_domestica_como_metafora_del_duelo"
+      ],
+      "arco_emocional": "Dolor crudo → dolor integrado."
+    }
+
+  ]
+}

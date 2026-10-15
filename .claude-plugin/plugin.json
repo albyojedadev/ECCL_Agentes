@@ -1,0 +1,28 @@
+{
+  "name": "eccl-agent-suite",
+  "version": "2.0.0",
+  "description": "17 agentes y 24 skills con procedimientos, ejemplos, fuentes históricas preservadas y comprobaciones locales. Inferencia, disponibilidad y políticas requieren validación específica.",
+  "author": {
+    "name": "Equipo ECCL"
+  },
+  "agents": [
+    "./agents/coordinador-de-agentes-de-la-eccl.md",
+    "./agents/analista-de-subvenciones-y-licitaciones.md",
+    "./agents/analista-de-datos-culturales-y-educativos.md",
+    "./agents/experto-en-la-eccl.md",
+    "./agents/consejo-de-alumnos-sinteticos.md",
+    "./agents/ghostwriter-de-antonia-molinero.md",
+    "./agents/critico-literario-de-la-eccl.md",
+    "./agents/orientador-de-admisiones-y-alumnos.md",
+    "./agents/companero-de-escritura-y-habito.md",
+    "./agents/editor-de-libros-y-antologias.md",
+    "./agents/dinamizador-de-comunidad-y-clubes.md",
+    "./agents/asesor-de-propiedad-intelectual.md",
+    "./agents/asistente-de-soporte-y-aula-virtual.md",
+    "./agents/responsable-de-comunicacion-y-prensa.md",
+    "./agents/gestor-de-proyectos-institucionales-y-b2b.md",
+    "./agents/disenador-grafico-y-carteleria.md",
+    "./agents/guardian-de-marca-e-identidad-visual.md"
+  ],
+  "skills": "./skills/"
+}
