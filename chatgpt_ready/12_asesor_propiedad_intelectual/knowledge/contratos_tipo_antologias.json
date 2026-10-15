@@ -1,0 +1,21 @@
+{
+  "tipo_documento": "Contrato de Cesión No Exclusiva de Derechos de Reproducción para Antología Colectiva",
+  "partes": {
+    "editor": "Escuela Canaria de Creación Literaria S.L. / Ediciones Idea / Servicio Editorial Flamboyán",
+    "autor": "Alumno / Autor del relato o poema seleccionado"
+  },
+  "clausulas_clave": [
+    "La cesión de derechos sobre la obra es de carácter NO EXCLUSIVO y limitada exclusivamente a la edición física y/o digital de la antología del curso.",
+    "El autor conserva en todo momento la titularidad moral y patrimonial de su obra y puede publicarla en libros individuales o futuras publicaciones.",
+    "No existe contraprestación económica dineraria; el autor recibe ejemplares de cortesía fijados en la convocatoria.",
+    "La Escuela se compromete a respetar la integridad del texto y consignar el nombre o seudónimo del autor en la portada, índice y página correspondiente."
+  ],
+  "jurisdiccion": "Juzgados y Tribunales de Santa Cruz de Tenerife / San Cristóbal de La Laguna (Canarias, España).",
+  "_procedencia": {
+    "estado": "propuesta_pendiente_de_validacion_institucional",
+    "origen": "elaboracion_del_generador_v1_no_documento_aprobado",
+    "fecha_revision": "2026-10-14",
+    "uso": "borrador_de_trabajo; no imponer como contrato, norma ni identidad oficial",
+    "validacion_juridica_actual": false
+  }
+}

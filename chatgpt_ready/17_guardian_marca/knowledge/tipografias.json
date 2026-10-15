@@ -1,0 +1,38 @@
+{
+  "editorial_titulares": {
+    "familia_primaria": "Playfair Display",
+    "familia_alternativa": "Merriweather",
+    "clasificacion": "Serif clásica con contraste",
+    "pesos_autorizados": [
+      "Bold (700)",
+      "Black (900)",
+      "Italic (400i)"
+    ],
+    "uso": "Titulares de cartel, portadas de antologías, nombres de cursos destacados",
+    "tracking": "-0.02em"
+  },
+  "cuerpo_lectura": {
+    "familia_primaria": "Inter",
+    "familia_alternativa": "Open Sans",
+    "clasificacion": "Sans-serif geométrica humanista",
+    "pesos_autorizados": [
+      "Regular (400)",
+      "Medium (500)",
+      "SemiBold (600)"
+    ],
+    "uso": "Fechas, horarios, descripción de talleres, claustro docente, textos de pie",
+    "interlineado_recomendado": "1.45"
+  },
+  "reglas_inviolables": [
+    "Nunca usar más de dos familias tipográficas en una misma pieza gráfica.",
+    "Prohibido el uso de Comic Sans, Papyrus, Lobster o fuentes script de boda.",
+    "Jerarquía obligatoria: 1) Título literario (Serif) -> 2) Docente / Fechas (Sans) -> 3) Llamada a la acción / Web."
+  ],
+  "_procedencia": {
+    "estado": "propuesta_pendiente_de_validacion_institucional",
+    "origen": "elaboracion_del_generador_v1_no_documento_aprobado",
+    "fecha_revision": "2026-10-14",
+    "uso": "borrador_de_trabajo; no imponer como contrato, norma ni identidad oficial",
+    "validacion_juridica_actual": null
+  }
+}

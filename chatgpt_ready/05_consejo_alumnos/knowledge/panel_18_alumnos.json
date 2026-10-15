@@ -1,0 +1,2380 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "fecha_creacion": "2025-11-12",
+    "descripcion": "Archivo maestro unificado de avatares de clientes potenciales y actuales de la Escuela Canaria de Creación Literaria (ECCL)",
+    "fuente_analisis": "AnalisisPublico.md - Segmentación estratégica 2025",
+    "total_avatares": 18,
+    "actualizacion": "Integra perfiles individuales con segmentación por públicos objetivos según análisis estratégico",
+    "fecha_normalizacion": "2026-10-14",
+    "naturaleza": "simulacion_cualitativa_no_muestra_estadistica"
+  },
+  "segmentacion_estrategica": {
+    "descripcion": "Clasificación de avatares según los 4 segmentos principales identificados en el análisis de públicos ECCL",
+    "segmentos": [
+      {
+        "id_segmento": "SEG-01",
+        "nombre_segmento": "Adultos con inquietud literaria / desarrollo personal",
+        "rango_edad": "25-60 años",
+        "nivel_educativo": "Medio-alto",
+        "motivacion_principal": "Desarrollar creatividad y expresión personal",
+        "oferta_asociada": [
+          "Curso Anual de Creación Literaria",
+          "Talleres monográficos breves",
+          "Modalidad online a tu ritmo"
+        ],
+        "mensaje_clave": "Descubre tu voz narrativa",
+        "avatares_relacionados": [
+          "avatar1",
+          "avatar5",
+          "avatar6",
+          "avatar9",
+          "avatar14"
+        ]
+      },
+      {
+        "id_segmento": "SEG-02",
+        "nombre_segmento": "Escritores en desarrollo / aspirantes profesionales",
+        "rango_edad": "25-50 años",
+        "perfil": "Escritores en activo o semi-profesionales",
+        "motivacion_principal": "Profesionalizar su escritura y conseguir publicación",
+        "oferta_asociada": [
+          "Monográficos avanzados",
+          "Agencia Literaria AM",
+          "Tutorías individuales y mentorías"
+        ],
+        "mensaje_clave": "Profesionaliza tu escritura",
+        "avatares_relacionados": [
+          "avatar2",
+          "avatar8",
+          "avatar11",
+          "avatar17"
+        ]
+      },
+      {
+        "id_segmento": "SEG-03",
+        "nombre_segmento": "Jóvenes escritores (11-17 años)",
+        "rango_edad": "11-17 años",
+        "perfil": "Estudiantes con inquietud creativa",
+        "motivacion_principal": "Potenciar imaginación y redacción, participar en actividades culturales",
+        "oferta_asociada": [
+          "Curso Jóvenes Escritores Verano 2025",
+          "Talleres en institutos - Escuela Portátil"
+        ],
+        "mensaje_clave": "Imagina, escribe, crea",
+        "avatares_relacionados": [
+          "avatar3"
+        ]
+      },
+      {
+        "id_segmento": "SEG-04",
+        "nombre_segmento": "Personas mayores interesadas en escribir memorias",
+        "rango_edad": "50-75 años",
+        "perfil": "Jubilados o personas con tiempo libre",
+        "motivacion_principal": "Dejar testimonio vital y legado familiar",
+        "oferta_asociada": [
+          "Programa Escribe tus memorias",
+          "Talleres presenciales en Santa Cruz",
+          "Colaboraciones con asociaciones culturales"
+        ],
+        "mensaje_clave": "Cuenta tu vida, deja legado",
+        "avatares_relacionados": [
+          "avatar4"
+        ]
+      }
+    ],
+    "bloques_estrategicos_expansion": {
+      "descripcion": "Clasificación avanzada para expansión estratégica 2025 según públicos potenciales identificados",
+      "bloques": [
+        {
+          "bloque": "A - PROFESIONAL",
+          "objetivo": "Monetización directa (B2B / B2G) y posicionamiento en storytelling profesional",
+          "publicos": [
+            "Profesionales creativos",
+            "Comunicación y empresa",
+            "Periodistas y divulgadores",
+            "Instituciones culturales"
+          ],
+          "avatares_relacionados": [
+            "avatar5",
+            "avatar6",
+            "avatar7",
+            "avatar14",
+            "avatar15",
+            "avatar16"
+          ]
+        },
+        {
+          "bloque": "B - EDUCATIVO",
+          "objetivo": "Captar nuevos públicos formativos mediante convenios educativos",
+          "publicos": [
+            "Docentes y mediadores culturales",
+            "Universitarios no literarios",
+            "Jóvenes preuniversitarios"
+          ],
+          "avatares_relacionados": [
+            "avatar3",
+            "avatar7",
+            "avatar12"
+          ]
+        },
+        {
+          "bloque": "C - DIGITAL / INTERNACIONAL",
+          "objetivo": "Escalabilidad global; posicionar ECCL como escuela hispana narrativa digital",
+          "publicos": [
+            "Creadores digitales",
+            "Comunidad hispanoamericana online"
+          ],
+          "avatares_relacionados": [
+            "avatar8",
+            "avatar10",
+            "avatar11"
+          ]
+        },
+        {
+          "bloque": "D - SOCIAL / HUMANISTA",
+          "objetivo": "Legitimidad cultural y acceso a proyectos financiados",
+          "publicos": [
+            "Psicólogos y terapeutas",
+            "Colectivos vulnerables",
+            "Comunidad LGTBIQ+",
+            "Personas con discapacidad"
+          ],
+          "avatares_relacionados": [
+            "avatar9",
+            "avatar13",
+            "avatar17",
+            "avatar18"
+          ]
+        },
+        {
+          "bloque": "E - CULTURAL / EXPERIENCIAL",
+          "objetivo": "Experiencias literarias inmersivas y economía creativa del turismo",
+          "publicos": [
+            "Turistas culturales",
+            "Artistas visuales y fotógrafos"
+          ],
+          "avatares_relacionados": [
+            "avatar10",
+            "avatar15"
+          ]
+        }
+      ]
+    }
+  },
+  "avatares": [
+    {
+      "id_avatar": "avatar1",
+      "nombre": "Elisa",
+      "edad": 42,
+      "rol": "Profesional del sector servicios con formación en humanidades",
+      "segmento_principal": "SEG-01",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Adultos / Aficionados",
+      "contexto": {
+        "descripcion": "Vive en Tenerife, combina trabajo y familia y siente que apenas dispone de tiempo propio.",
+        "situacion_familiar": "Casada, con dos hijos en edad escolar; asume la mayor parte de las tareas de cuidado.",
+        "nivel_socioeconomico": "Medio",
+        "entorno_emocional": "Responsabilidad alta; tiende a ponerse en segundo plano frente a las necesidades de los demás.",
+        "habitos": "Lee por la noche para desconectar; acumula libretas y notas sueltas con ideas que nunca termina."
+      },
+      "motivaciones": [
+        "Reconectar con su creatividad y su mundo interior.",
+        "Recuperar el hábito de escribir que tuvo en la adolescencia.",
+        "Tener un espacio personal que no esté definido por su rol de madre o trabajadora.",
+        "Demostrarse a sí misma que aún puede empezar algo propio."
+      ],
+      "frenos": [
+        "Falta de tiempo real o percibido.",
+        "Miedo a no estar a la altura de lo que imagina como 'ser escritora'.",
+        "Perfeccionismo que la paraliza antes de empezar.",
+        "Sensación de que hay otras prioridades más legítimas que escribir."
+      ],
+      "miedos": [
+        "Que la juzguen como 'poca cosa' o aficionada.",
+        "Que su escritura parezca ingenua o poco interesante.",
+        "Que pasen más años sin haber escrito nada significativo.",
+        "Que cuando por fin se siente a escribir, descubra que 'no vale'."
+      ],
+      "deseos": [
+        "Construir un hábito de escritura sencillo pero constante.",
+        "Terminar por primera vez un relato o proyecto propio.",
+        "Sentirse autorizada para decir en voz alta que escribe.",
+        "Encontrar una pequeña comunidad de personas en su misma situación vital."
+      ],
+      "tono_emocional": [
+        "Cálido",
+        "Introspectivo",
+        "Algo inseguro"
+      ],
+      "frase_arquetipo": "Llevo años queriendo escribir algo, pero nunca encuentro el momento.",
+      "objetivo_narrativo": "Autodescubrimiento y recuperación de la propia voz.",
+      "riesgos": [
+        "Abandonar a la primera dificultad o crítica.",
+        "Confirmar sus propias creencias limitantes si recibe feedback poco empático.",
+        "Convertir la escritura en una obligación más en lugar de un espacio propio.",
+        "Seguir postergando indefinidamente y reforzar la narrativa de 'ya es tarde'."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Pausado, con dudas y reformulaciones.",
+        "tendencias": [
+          "Suaviza sus opiniones con expresiones como 'no sé si tiene sentido lo que digo'.",
+          "Se disculpa antes de mostrar sus textos o de hacer preguntas.",
+          "Cuando se siente escuchada, se permite profundizar y compartir detalles personales."
+        ],
+        "registro": "Cercano, coloquial, respetuoso."
+      },
+      "expectativas": [
+        "Encontrar un entorno donde no se rían ni minimicen su deseo de escribir.",
+        "Recibir pautas claras y realistas que pueda encajar en su vida cotidiana.",
+        "Un acompañamiento amable pero firme que la anime a sostener el hábito.",
+        "Ejercicios concretos que la conecten con emociones y recuerdos propios."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Vive la escritura como un deseo pendiente y un refugio imaginado, más que como una práctica real.",
+        "bloqueos": [
+          "Perfeccionismo que la lleva a abandonar al poco de empezar.",
+          "Sensación de no tener derecho a dedicar tiempo a algo tan 'personal'.",
+          "Vergüenza de compartir sus textos con gente cercana."
+        ],
+        "potencial": "Gran capacidad de observación de lo cotidiano y sensibilidad para captar matices emocionales en relaciones y escenas domésticas."
+      },
+      "scoring_lead": 65,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "SEO local",
+        "IG orgánico",
+        "Meta Ads geolocalizado",
+        "prensa local",
+        "email"
+      ],
+      "lenguaje_emocional_clave": [
+        "acompañamiento",
+        "hábito",
+        "proceso",
+        "lectura crítica",
+        "comunidad"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Online a tu ritmo"
+      ],
+      "cursos_recomendados": [
+        "Curso Anual Creación Literaria",
+        "Taller Relato Breve",
+        "Los Intrusos - Club Social"
+      ],
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar1.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 17,
+            "offset": 934,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 23,
+            "offset": 1199,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 29,
+            "offset": 1466,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 35,
+            "offset": 1753,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 63,
+            "offset": 3082,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar2",
+      "nombre": "Héctor",
+      "edad": 36,
+      "rol": "Guionista freelance o periodista cultural",
+      "segmento_principal": "SEG-02",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Escritores aspirantes / Profesionales",
+      "contexto": {
+        "descripcion": "Vive en la península, encadenando proyectos culturales y periodísticos mientras intenta consolidarse como autor.",
+        "situacion_laboral": "Freelance con ingresos irregulares; combina encargos alimenticios con proyectos personales.",
+        "entorno_cultural": "Conectado a la escena literaria y audiovisual contemporánea; sigue premios, editoriales y tendencias.",
+        "nivel_socioeconomico": "Medio, con cierta inestabilidad típica del trabajo autónomo.",
+        "historial_formativo": "Ha pasado por varios cursos y talleres de escritura, algunos valiosos y otros claramente decepcionantes."
+      },
+      "motivaciones": [
+        "Publicar obras de calidad que le posicionen como autor, no solo como 'lápiz de terceros'.",
+        "Vivir de la escritura de forma más estable y reconocida.",
+        "Perfeccionar su estilo, encontrar una voz propia reconocible.",
+        "Recibir feedback honesto y profundo que le ayude a dar el salto de nivel."
+      ],
+      "frenos": [
+        "Sensación de estancamiento creativo y profesional.",
+        "Saturación de ofertas formativas que venden humo.",
+        "Cansancio ante correcciones superficiales o mecánicas.",
+        "Tendencia a la autocrítica feroz que erosiona su confianza."
+      ],
+      "miedos": [
+        "Convertirse en un eterno aspirante que nunca termina de despegar.",
+        "Quedarse atrapado en encargos alimenticios y no desarrollar obra propia.",
+        "No estar realmente al nivel que cree exigir el mercado literario.",
+        "Desgastarse emocionalmente y acabar cínico y desconectado de la escritura."
+      ],
+      "deseos": [
+        "Consolidar una identidad de autor reconocible en su nicho.",
+        "Escribir y terminar un proyecto largo (novela, guion, libro de crónicas) que sea coherente con su visión.",
+        "Entrar en contacto con mentores y pares que le tomen en serio.",
+        "Ver resultados concretos: publicaciones, premios, contratos."
+      ],
+      "tono_emocional": [
+        "Ambicioso",
+        "Exigente",
+        "Escéptico"
+      ],
+      "frase_arquetipo": "Quiero que alguien me lea de verdad, no solo me corrija.",
+      "objetivo_narrativo": "Consolidar su identidad de autor y su lugar en el ecosistema literario.",
+      "riesgos": [
+        "Volverse definitivamente cínico ante cualquier propuesta formativa.",
+        "Desconectar de lo lúdico y experimental en la escritura.",
+        "Abandonar proyectos personales por exceso de autoexigencia.",
+        "Invertir recursos en cursos que no aportan valor real y quemarse aún más."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Directo y relativamente rápido; va al grano.",
+        "tendencias": [
+          "Formula preguntas incisivas y específicas.",
+          "Cuestiona toda vaguedad o frase motivacional vacía.",
+          "Valora las respuestas estructuradas y con ejemplos concretos."
+        ],
+        "registro": "Profesional, crítico, con un punto irónico si percibe humo."
+      },
+      "expectativas": [
+        "Docentes con trayectoria y autoridad real (experiencia, publicaciones, reconocimiento).",
+        "Correcciones en profundidad, más allá de la gramática superficial.",
+        "Materiales que conecten técnica y oficio: cómo se trabaja en la realidad del sector.",
+        "Espacios donde se hable claro de mercado, edición, agentes, tiempos y frustraciones."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Relación intensa, casi obsesiva, en la que conviven vocación genuina y presión profesional.",
+        "bloqueos": [
+          "Comparación constante con autores de referencia.",
+          "Sensación de estar siempre 'un escalón por debajo'.",
+          "Miedo a dedicar años a proyectos que no encuentren salida."
+        ],
+        "potencial": "Mirada aguda sobre la realidad contemporánea, capacidad crítica y oficio narrativo adquirido a base de práctica profesional."
+      },
+      "scoring_lead": 82,
+      "estado_potencial": "Lead caliente - prioridad alta",
+      "canales_captacion": [
+        "SEO especializado",
+        "IG profesional",
+        "LinkedIn",
+        "Podcast sector",
+        "Referencias profesionales"
+      ],
+      "lenguaje_emocional_clave": [
+        "profesionalizar",
+        "publicación",
+        "mentoría",
+        "feedback experto",
+        "mercado editorial"
+      ],
+      "modalidad_preferida": [
+        "Online en directo",
+        "Presencial"
+      ],
+      "cursos_recomendados": [
+        "Técnicas de la Imaginación",
+        "Monográfico Novela",
+        "Mentoría Individual",
+        "Agencia Literaria AM"
+      ],
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar2.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 17,
+            "offset": 1055,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 29,
+            "offset": 1643,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 35,
+            "offset": 1978,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 63,
+            "offset": 3293,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar3",
+      "nombre": "Clara",
+      "edad": 15,
+      "rol": "Estudiante de secundaria; lectora de fantasía y fanfiction",
+      "segmento_principal": "SEG-03",
+      "bloque_estrategico": "B - EDUCATIVO",
+      "perfil_publico": "Jóvenes (11-17)",
+      "contexto": {
+        "descripcion": "Vive en Tenerife, en un entorno familiar estable que apoya su interés por la lectura y la creatividad.",
+        "situacion_familiar": "Padres presentes, atentos a su educación y a sus intereses culturales.",
+        "entorno_escolar": "Instituto público; buen rendimiento, tímida a la hora de intervenir en clase.",
+        "nivel_socioeconomico": "Medio",
+        "vida_digital": "Muy activa en redes lectoras y comunidades de fanfiction; consume contenido en español e inglés."
+      },
+      "motivaciones": [
+        "Encontrar una comunidad donde compartir sus historias sin sentir vergüenza.",
+        "Mejorar sus fanfics y empezar a crear sus propios mundos originales.",
+        "Sentirse validada en su identidad de 'alguien que escribe'.",
+        "Participar en actividades que se sientan diferentes al instituto."
+      ],
+      "frenos": [
+        "Miedo al juicio de compañeros, docentes e incluso familiares.",
+        "Falta de referentes jóvenes que escriban de forma visible.",
+        "Sensación de que lo que hace es un juego, 'no algo serio'.",
+        "Inseguridad general de la edad, que colorea también la escritura."
+      ],
+      "miedos": [
+        "Hacer el ridículo si alguien lee sus textos en voz alta.",
+        "Recibir burlas o comentarios despectivos.",
+        "Descubrir que 'no es tan buena' como creía.",
+        "Defraudar a sus padres si sus notas bajan por dedicar tiempo a escribir."
+      ],
+      "deseos": [
+        "Ser leída por personas que entiendan el género y la cultura fan.",
+        "Aprender trucos y técnicas de narrativa de manera divertida.",
+        "Subir sus historias sin sentir que se expone demasiado.",
+        "Ver su nombre o sus textos formales en algún tipo de publicación juvenil."
+      ],
+      "tono_emocional": [
+        "Entusiasta",
+        "Curiosa",
+        "Sensible"
+      ],
+      "frase_arquetipo": "Escribo en secreto, pero me encantaría compartirlo.",
+      "objetivo_narrativo": "Experimentar sin miedo y construir una identidad creativa propia.",
+      "riesgos": [
+        "Abandonar al primer comentario negativo o mal gestionado.",
+        "Ocultar su talento por vergüenza o miedo al juicio.",
+        "Quedar atrapada en la idea de que solo vale lo que se viraliza.",
+        "Asociar su valía personal a los likes o al reconocimiento externo."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Rápido cuando se siente cómoda; dubitativo cuando teme ser juzgada.",
+        "tendencias": [
+          "Usa referencias a sagas, fandoms y universos de ficción.",
+          "Alterna expresiones coloquiales con términos muy concretos del género.",
+          "Se disculpa cuando siente que 'se enrolla demasiado'."
+        ],
+        "registro": "Informal, juvenil, con mezcla ocasional de anglicismos (ship, fandom, spoiler, etc.)."
+      },
+      "expectativas": [
+        "Un entorno percibido como seguro y libre de burlas.",
+        "Ejercicios dinámicos, vinculados a mundos y referentes que ya le gustan.",
+        "Una figura adulta que no infantilice su pasión ni la trate como 'una fase'.",
+        "Posibilidad de compartir textos voluntariamente, sin exposición forzada."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "La escritura es su refugio íntimo y un espacio de juego creativo, más libre que el contexto escolar.",
+        "bloqueos": [
+          "Vergüenza y miedo a la mirada externa.",
+          "Tendencia a comparar sus textos con obras publicadas profesionalmente.",
+          "Dudas sobre si lo que hace cuenta como 'escribir de verdad'."
+        ],
+        "potencial": "Gran imaginación, capacidad de absorber estructuras narrativas complejas a través de la lectura intensiva y sensibilidad para el drama y la emoción."
+      },
+      "scoring_lead": 55,
+      "estado_potencial": "Lead frío - nurturing necesario",
+      "canales_captacion": [
+        "TikTok",
+        "Instagram juvenil",
+        "Wattpad",
+        "Bookstagram",
+        "Comunicación a padres"
+      ],
+      "lenguaje_emocional_clave": [
+        "comunidad",
+        "creatividad",
+        "imaginación",
+        "seguro",
+        "divertido"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Híbrido con componente social"
+      ],
+      "cursos_recomendados": [
+        "Jóvenes Escritores Verano 2025",
+        "INICIA Juvenil",
+        "Taller Fantasía y Ciencia Ficción"
+      ],
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar3.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 29,
+            "offset": 1488,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 35,
+            "offset": 1790,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 63,
+            "offset": 3098,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar4",
+      "nombre": "José",
+      "edad": 68,
+      "rol": "Jubilado; exprofesor o exfuncionario",
+      "segmento_principal": "SEG-04",
+      "bloque_estrategico": "D - SOCIAL / HUMANISTA",
+      "perfil_publico": "Mayores / Memorias",
+      "contexto": {
+        "descripcion": "Vive en La Laguna, disfruta de una vida relativamente tranquila tras la jubilación y busca actividades con sentido.",
+        "situacion_familiar": "Padre y abuelo; mantiene un vínculo afectivo estable con su familia.",
+        "historia_laboral": "Trayectoria larga en educación o administración pública, acostumbrado a estructuras y procedimientos.",
+        "entorno_cultural": "Interés por historia, política y memoria; ha sido lector esporádico, no necesariamente 'devorador de libros'.",
+        "nivel_socioeconomico": "Medio"
+      },
+      "motivaciones": [
+        "Dejar un legado escrito que sus hijos y nietos puedan leer.",
+        "Ordenar recuerdos dispersos y darles un hilo de sentido.",
+        "Aprovechar el tiempo de jubilación para algo más que ocio pasivo.",
+        "Reconciliarse con episodios de su vida al narrarlos."
+      ],
+      "frenos": [
+        "Dudas sobre su capacidad para escribir de forma 'correcta'.",
+        "Miedo a la tecnología (plataformas, documentos digitales).",
+        "Creencia de que quizá ya es demasiado tarde para aprender algo así.",
+        "Temor a enfrentarse a recuerdos dolorosos o incómodos."
+      ],
+      "miedos": [
+        "No ser capaz de narrar con claridad y resultar confuso.",
+        "Olvidar detalles que considera importantes.",
+        "Que su familia no lea o no valore lo que escribe.",
+        "Que su historia parezca poco interesante fuera de su círculo cercano."
+      ],
+      "deseos": [
+        "Reconstruir su biografía de manera cronológica o temática.",
+        "Dejar por escrito anécdotas significativas y momentos clave.",
+        "Aprender recursos básicos que le permitan escribir con mayor seguridad.",
+        "Que su texto sea, como mínimo, legible y emotivo para los suyos."
+      ],
+      "tono_emocional": [
+        "Nostálgico",
+        "Reflexivo",
+        "Agradecido"
+      ],
+      "frase_arquetipo": "Quiero escribir mi vida antes de que se me escape.",
+      "objetivo_narrativo": "Reconstituir su biografía y transmitir sentido a través de ella.",
+      "riesgos": [
+        "Bloquearse ante pasajes de la vida que le generan culpa o tristeza.",
+        "Abandonar por frustración si se siente torpe con la escritura o la tecnología.",
+        "Simplificar en exceso por miedo a 'molestar' o remover conflictos familiares.",
+        "Convertir el proyecto en algo tan solemne que le resulte inabarcable."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Pausado, con tendencia a las digresiones.",
+        "tendencias": [
+          "Introduce contextos largos antes de relatar un hecho.",
+          "Agradece explícitamente cada explicación y corrección.",
+          "Pregunta varias veces si lo está haciendo 'bien'."
+        ],
+        "registro": "Educado, respetuoso, levemente formal."
+      },
+      "expectativas": [
+        "Acompañamiento paciente, sin prisas.",
+        "Guías sencillas: esquemas, preguntas detonantes, ejemplos claros.",
+        "Ayuda para estructurar su vida en capítulos o bloques.",
+        "Un clima de respeto hacia su experiencia y su ritmo."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Ve la escritura como un canal para fijar recuerdos y dejar huella, más que como un ejercicio estético.",
+        "bloqueos": [
+          "Miedo a 'no saber escribir bien'.",
+          "Sensación de descontrol ante la cantidad de recuerdos.",
+          "Temor a exponer conflictos familiares pasados."
+        ],
+        "potencial": "Posee una memoria rica en anécdotas y una visión panorámica de varias décadas, lo que puede dar lugar a relatos llenos de contexto y humanidad."
+      },
+      "scoring_lead": 70,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Prensa local",
+        "Radio local",
+        "Colaboración Ayuntamiento",
+        "Centros mayores",
+        "Boca a boca"
+      ],
+      "lenguaje_emocional_clave": [
+        "legado",
+        "memoria",
+        "familia",
+        "testimonio",
+        "vida"
+      ],
+      "modalidad_preferida": [
+        "Presencial adaptado"
+      ],
+      "cursos_recomendados": [
+        "Programa Escribe tus Memorias",
+        "Taller Autobiografía",
+        "Colaboración Ayto La Laguna"
+      ],
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar4.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 17,
+            "offset": 929,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 23,
+            "offset": 1217,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 29,
+            "offset": 1483,
+            "antes": "}",
+            "despues": "]"
+          },
+          {
+            "linea": 35,
+            "offset": 1786,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar5",
+      "nombre": "Marina",
+      "edad": 33,
+      "rol": "Actriz y performer",
+      "segmento_principal": "SEG-01",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Profesionales Creativos (artistas, actores, músicos)",
+      "scoring_lead": 75,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Colaboración espacios culturales",
+        "IG artístico",
+        "Networking teatral",
+        "Festivales"
+      ],
+      "lenguaje_emocional_clave": [
+        "performance",
+        "dramaturgia",
+        "monólogo",
+        "personaje",
+        "escena"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Online en directo"
+      ],
+      "cursos_recomendados": [
+        "Taller Monólogo",
+        "Escritura Escénica",
+        "Dramaturgia Personal"
+      ],
+      "contexto": {
+        "descripcion": "Colabora en proyectos escénicos y performativos, moviéndose entre compañías pequeñas, festivales y espacios alternativos.",
+        "situacion_laboral": "Artista independiente; combina trabajos creativos con otros puntuales para sostenerse económicamente.",
+        "entorno_social": "Rodeada de círculos artísticos, a menudo interdisciplinarios (música, danza, artes visuales).",
+        "nivel_socioeconomico": "Variable; depende de temporadas, proyectos, subvenciones.",
+        "entorno_creativo": "Ensayos, residencias, laboratorios de creación; ambientes donde el cuerpo y la presencia son centrales."
+      },
+      "motivaciones": [
+        "Integrar texto, voz y cuerpo en un lenguaje propio.",
+        "Transformar experiencias escénicas en material literario o performativo escrito.",
+        "Explorar la escritura como otro tipo de espacio escénico.",
+        "Ampliar su discurso más allá del escenario físico."
+      ],
+      "frenos": [
+        "Duda sobre si la escritura es 'realmente su terreno'.",
+        "Sensación de falta de técnica literaria estructurada.",
+        "Incomodidad con metodologías rígidas o demasiado académicas.",
+        "Dificultad para sostener procesos prolongados sin feedback inmediato del público."
+      ],
+      "miedos": [
+        "Sentirse impostora al presentarse como 'escritora'.",
+        "Que su trabajo escrito parezca naïf o pobre frente a su potencia escénica.",
+        "Ser encasillada como 'actriz que escribe' y no como creadora completa.",
+        "Perder frescura y espontaneidad al encajar en estructuras textuales."
+      ],
+      "deseos": [
+        "Encontrar un modo de escribir que respete su relación con el cuerpo.",
+        "Crear piezas híbridas que combinen texto, performance y voz.",
+        "Descubrir una voz escrita que sea igual de viva que su presencia escénica.",
+        "Poder presentar proyectos donde la palabra tenga un papel más central."
+      ],
+      "tono_emocional": [
+        "Energético",
+        "Experimental",
+        "Intuitivo"
+      ],
+      "frase_arquetipo": "Quiero transformar mi experiencia escénica en palabra.",
+      "objetivo_narrativo": "Fusión arte-escritura en una práctica coherente.",
+      "riesgos": [
+        "Abandonar si siente que se le intenta encajar en moldes rígidos.",
+        "Quedarse en la exploración perpetua sin concretar proyectos.",
+        "Desconectarse de la escritura al no recibir el mismo tipo de respuesta que en el escenario.",
+        "Minusvalorar su escritura por compararla con referentes literarios clásicos."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Expresivo, a ratos torrencial; alterna silencios y ráfagas de ideas.",
+        "tendencias": [
+          "Se apoya en metáforas corporales y sensoriales.",
+          "Piensa en términos de escena, imagen, gesto.",
+          "Formula preguntas abiertas más que buscar respuestas cerradas."
+        ],
+        "registro": "Poético, intuitivo, con vocabulario artístico."
+      },
+      "expectativas": [
+        "Métodos de trabajo que integren cuerpo y palabra (escritura en movimiento, voz, improvisación).",
+        "Docentes abiertos a la experimentación, no obsesionados con la forma clásica.",
+        "Espacios para compartir textos performativos o inacabados sin ser penalizada.",
+        "Recursos para convertir intuiciones escénicas en estructuras mínimas de texto."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "La escritura es un territorio nuevo, que percibe como una extensión de su práctica performativa.",
+        "bloqueos": [
+          "Sensación de no tener el 'vocabulario correcto'.",
+          "Miedo a que la página en blanco no reaccione como lo hace un público en directo.",
+          "Resistencia a los ejercicios que percibe como excesivamente intelectuales."
+        ],
+        "potencial": "Capacidad de generar imágenes poderosas y un discurso físicamente encarnado que, trasladado al texto, puede ser muy original y sensorial."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar5.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 63,
+            "offset": 3272,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar6",
+      "nombre": "Álvaro",
+      "edad": 38,
+      "rol": "Responsable de marketing o freelance en comunicación",
+      "segmento_principal": "SEG-01",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Profesionales de Comunicación y Empresa (marketing, turismo, RRPP)",
+      "scoring_lead": 80,
+      "estado_potencial": "Lead caliente - prioridad alta",
+      "canales_captacion": [
+        "LinkedIn",
+        "Networking empresarial",
+        "Eventos B2B",
+        "Webinars profesionales"
+      ],
+      "lenguaje_emocional_clave": [
+        "storytelling",
+        "marca personal",
+        "narrativa corporativa",
+        "persuasión",
+        "contenido"
+      ],
+      "modalidad_preferida": [
+        "Online en directo",
+        "Presencial intensivo"
+      ],
+      "cursos_recomendados": [
+        "Storytelling Corporativo",
+        "Narrativa de Marca",
+        "Escritura Persuasiva"
+      ],
+      "contexto": {
+        "descripcion": "Trabaja con marcas turísticas y proyectos donde los resultados deben ser medibles. El entorno demanda rapidez, claridad estratégica y constante diferenciación.",
+        "situacion_laboral": "Profesional de marketing en agencia o como freelance; maneja campañas, coordina equipos y presenta resultados a clientes exigentes.",
+        "entorno_sectorial": "Competitivo, orientado a métricas; alta presencia de storytelling superficial y contenido despersonalizado.",
+        "nivel_socioeconomico": "Medio-alto",
+        "perfil_profesional": "Dominio de herramientas digitales, analíticas y de gestión; mentalidad orientada a objetivos."
+      },
+      "motivaciones": [
+        "Dominar el storytelling como herramienta estratégica real.",
+        "Crear contenidos que conecten emocionalmente sin perder eficacia comercial.",
+        "Lograr una ventaja competitiva a través de una narrativa más auténtica.",
+        "Entender cómo funciona la emoción en la comunicación para aplicarla con precisión."
+      ],
+      "frenos": [
+        "Desconfianza hacia formaciones demasiado literarias o 'artísticas'.",
+        "Falta de tiempo debido a la presión del trabajo y los plazos.",
+        "Percepción de que muchos cursos carecen de aplicación práctica.",
+        "Escepticismo hacia teorías sin ejemplos concretos ni marco metodológico."
+      ],
+      "miedos": [
+        "Invertir en una formación que no genere impacto medible.",
+        "Perder competitividad si otros profesionales dominan mejor el relato.",
+        "Crear historias bonitas pero inútiles para objetivos comerciales.",
+        "No ser capaz de integrar emoción y estrategia sin sonar falso."
+      ],
+      "deseos": [
+        "Contar historias memorables que diferencien campañas o proyectos.",
+        "Obtener frameworks claros para aplicar storytelling en contextos reales.",
+        "Convertirse en referente narrativo dentro del sector turístico o empresarial.",
+        "Alcanzar un equilibrio entre persuasión emocional y eficacia estratégica."
+      ],
+      "tono_emocional": [
+        "Racional",
+        "Competitivo",
+        "Directo"
+      ],
+      "frase_arquetipo": "No quiero literatura; quiero historias que vendan sin parecerlo.",
+      "objetivo_narrativo": "Conectar emoción y estrategia para aumentar impacto y conversión sin sacrificar autenticidad.",
+      "riesgos": [
+        "Reducir la narrativa a un simple recurso instrumental.",
+        "Impaciencia por obtener resultados inmediatos.",
+        "Bloquearse ante ejercicios introspectivos o poco prácticos.",
+        "Desestimar aspectos más sutiles de la escritura por considerarlos 'no medibles'."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Ágil y pragmático; busca respuestas rápidas y accionables.",
+        "tendencias": [
+          "Pregunta por casos reales y ejemplos aplicados.",
+          "Exige claridad, concisión y utilidad en cada explicación.",
+          "Cuestiona conceptos abstractos sin traducción práctica inmediata."
+        ],
+        "registro": "Técnico, estratégico, orientado al impacto."
+      },
+      "expectativas": [
+        "Frameworks útiles y aplicables a campañas y marcas.",
+        "Ejercicios que permitan convertir mensajes en relatos memorables.",
+        "Ejemplos reales de storytelling en marketing.",
+        "Herramientas para medir impacto emocional y narrativo."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Concibe la escritura como herramienta profesional, no como expresión personal, pero empieza a ver su potencial emocional.",
+        "bloqueos": [
+          "Falta de conexión con ejercicios introspectivos.",
+          "Tendencia a ver únicamente la dimensión estratégica.",
+          "Miedo a sonar demasiado literario o cursi."
+        ],
+        "potencial": "Capacidad para estructurar mensajes con claridad y para detectar patrones narrativos que pueden convertirse en ventajas competitivas."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar6.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar7",
+      "nombre": "Beatriz",
+      "edad": 45,
+      "rol": "Profesora de lengua o animadora cultural",
+      "segmento_principal": "SEG-01",
+      "bloque_estrategico": "A - PROFESIONAL / B - EDUCATIVO",
+      "perfil_publico": "Docentes y Mediadores Culturales (profesores, bibliotecarios, animadores)",
+      "scoring_lead": 78,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Convenios centros educativos",
+        "Formación profesorado",
+        "Redes docentes",
+        "CEP"
+      ],
+      "lenguaje_emocional_clave": [
+        "mediación",
+        "pedagogía",
+        "dinamización",
+        "lectura crítica",
+        "aula"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Híbrido acreditable"
+      ],
+      "cursos_recomendados": [
+        "Escritura Creativa para Docentes",
+        "Taller Animación Lectora",
+        "Formación Profesorado"
+      ],
+      "contexto": {
+        "descripcion": "Docente en instituto público o mediadora cultural en biblioteca. Habituada a gestionar grupos diversos y a trabajar con recursos limitados.",
+        "situacion_laboral": "Estabilidad laboral pero elevada carga administrativa. Contacto diario con jóvenes y adultos con distintos niveles de interés por la lectura.",
+        "entorno_educativo": "Institución pública con escasos recursos para actividades de escritura creativa. Brecha tecnológica e infraestructural.",
+        "nivel_socioeconomico": "Medio",
+        "perfil_profesional": "Vocación pedagógica fuerte; intenta innovar pese a restricciones burocráticas."
+      },
+      "motivaciones": [
+        "Introducir la escritura creativa en el aula de forma significativa.",
+        "Despertar el interés por la literatura en alumnado desmotivado.",
+        "Encontrar herramientas que faciliten dinámicas grupales y participación.",
+        "Fortalecer su propia práctica docente con técnicas narrativas contemporáneas."
+      ],
+      "frenos": [
+        "Falta de recursos homologados y materiales prácticos.",
+        "Currículos rígidos y presión por cumplir programaciones oficiales.",
+        "Poco tiempo para preparar actividades creativas.",
+        "Sensación de que la creatividad no encaja bien en el sistema educativo actual."
+      ],
+      "miedos": [
+        "Que sus alumnos no conecten con las propuestas y se frustren.",
+        "No tener respaldo institucional para actividades innovadoras.",
+        "Que se perciba la escritura creativa como una pérdida de tiempo académico.",
+        "No poder sostener las dinámicas en grupos heterogéneos."
+      ],
+      "deseos": [
+        "Que sus alumnos descubran placer en la escritura.",
+        "Crear talleres que fomenten la expresión personal y colectiva.",
+        "Aplicar storytelling para explicar conceptos lingüísticos o literarios.",
+        "Incorporar nuevas metodologías que hagan el aprendizaje más significativo."
+      ],
+      "tono_emocional": [
+        "Didáctico",
+        "Idealista",
+        "Paciencia firme"
+      ],
+      "frase_arquetipo": "Si mis alumnos disfrutaran escribiendo, leerían más.",
+      "objetivo_narrativo": "Fomentar escritura colectiva y despertar sensibilidad literaria en el entorno educativo.",
+      "riesgos": [
+        "Desgaste emocional por falta de apoyo institucional.",
+        "Aplicar dinámicas demasiado exigentes para grupos poco motivados.",
+        "Desilusión si los resultados no llegan rápido.",
+        "Ceder ante el peso de la burocracia y abandonar propuestas creativas."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Explicativo, pausado pero claro.",
+        "tendencias": [
+          "Incluye ejemplos para asegurarse de que se comprende la idea.",
+          "Utiliza un registro pedagógico, con analogías y recursos didácticos.",
+          "Adapta su discurso al interlocutor, mostrando sensibilidad hacia distintos niveles."
+        ],
+        "registro": "Cercano, profesional, orientado a la comprensión."
+      },
+      "expectativas": [
+        "Materiales aplicables directamente al aula.",
+        "Ejercicios diseñados para grupos numerosos.",
+        "Herramientas para trabajar escritura creativa sin necesidad de gran infraestructura.",
+        "Estrategias para gestionar la motivación del alumnado."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Experimenta la escritura como herramienta pedagógica y como puente entre culturas, edades y lenguajes.",
+        "bloqueos": [
+          "Falta de tiempo para desarrollar proyectos propios.",
+          "Sensación de que su creatividad está subordinada al currículo.",
+          "Miedo a que actividades fallidas desmotiven al alumnado."
+        ],
+        "potencial": "Gran capacidad para crear comunidad, motivar a grupos diversos y generar contextos seguros para explorar la palabra."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar7.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar8",
+      "nombre": "Nico",
+      "edad": 27,
+      "rol": "Creador de contenido y guionista para redes",
+      "segmento_principal": "SEG-02",
+      "bloque_estrategico": "C - DIGITAL / INTERNACIONAL",
+      "perfil_publico": "Creadores Digitales y Comunicadores Online (influencers, podcasters, guionistas web)",
+      "scoring_lead": 85,
+      "estado_potencial": "Lead caliente - prioridad alta",
+      "canales_captacion": [
+        "TikTok profesional",
+        "YouTube",
+        "Podcast creadores",
+        "Comunidades Discord",
+        "Twitter/X"
+      ],
+      "lenguaje_emocional_clave": [
+        "guion digital",
+        "storytelling transmedia",
+        "narrativa viral",
+        "engagement",
+        "audiencia"
+      ],
+      "modalidad_preferida": [
+        "Online en directo",
+        "Campus Digital"
+      ],
+      "cursos_recomendados": [
+        "Guion Digital",
+        "Storytelling para Redes",
+        "Narrativa Transmedia"
+      ],
+      "contexto": {
+        "descripcion": "Vive hiperconectado. Produce vídeos, guiones cortos, hilos, sketches y piezas virales para distintas plataformas. Convive con la presión del algoritmo y la necesidad de mantener la atención.",
+        "situacion_laboral": "Autónomo o empleado en productora digital. Ingresos variables según proyectos, patrocinios y alcance.",
+        "entorno_digital": "Domina formatos audiovisuales, edición rápida, métricas y tendencias. Está acostumbrado a probar ideas y publicar en caliente.",
+        "nivel_socioeconomico": "Medio",
+        "perfil_creativo": "Hábil para comunicar visualmente, con humor y ritmo. Busca profundidad sin perder frescura ni velocidad."
+      },
+      "motivaciones": [
+        "Aprender a escribir guiones más sólidos que conecten emocionalmente.",
+        "Mejorar su capacidad de storytelling para diferenciarse del resto de creadores.",
+        "Dar más peso a lo narrativo y menos a la dependencia del algoritmo.",
+        "Crear contenido que no solo entretenga, sino que también diga algo real."
+      ],
+      "frenos": [
+        "Desconfianza hacia lo académico: teme perder naturalidad.",
+        "Dificultad para sostener ideas largas en un entorno de inmediatez.",
+        "Sensación de que muchos cursos de escritura no entienden el ecosistema digital.",
+        "Poca paciencia para procesos extensos o demasiado teóricos."
+      ],
+      "miedos": [
+        "Perder su estilo fresco y directo al 'estudiar demasiado'.",
+        "No estar a la altura cuando quiere hacer proyectos más grandes.",
+        "Quedarse atrapado en la repetición de fórmulas virales.",
+        "Que su contenido deje de funcionar si intenta profundizar."
+      ],
+      "deseos": [
+        "Construir relatos emocionales en formatos cortos.",
+        "Aprender herramientas de guion que pueda aplicar inmediatamente.",
+        "Encontrar su propia voz en un mar de creadores parecidos.",
+        "Migrar poco a poco hacia piezas más profundas o narrativas largas."
+      ],
+      "tono_emocional": [
+        "Irónico",
+        "Rápido",
+        "Visual"
+      ],
+      "frase_arquetipo": "Quiero que mis vídeos cuenten algo real.",
+      "objetivo_narrativo": "Narrar autenticidad digital sin perder ritmo ni frescura.",
+      "riesgos": [
+        "Impatiencia con procesos que requieren tiempo.",
+        "Reducir el storytelling a trucos o clichés virales.",
+        "Frustrarse si no ve cambios inmediatos en las métricas.",
+        "Pensar que la teoría mata la creatividad y abandonar la formación."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Ágil, con frases cortas. Tiende a saltar entre ideas rápidamente.",
+        "tendencias": [
+          "Humor irónico o autorreferencial.",
+          "Reflejos de cultura meme, referencias visuales o audiovisuales.",
+          "Se expresa mejor con ejemplos concretos que con conceptualizaciones largas."
+        ],
+        "registro": "Casual, directo, urbano, con mezcla de jerga digital."
+      },
+      "expectativas": [
+        "Métodos que traduzcan la teoría a formatos breves (TikTok, Reels, YouTube Shorts).",
+        "Ejemplos aplicables al ecosistema online.",
+        "Técnicas para conectar emocionalmente en menos de 30 segundos.",
+        "Formación sin tecnicismos innecesarios."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Asocia la escritura al guion rápido y funcional, pero empieza a ver que puede ser un espacio de autenticidad y profundidad.",
+        "bloqueos": [
+          "Poca tolerancia a procesos lentos.",
+          "Duda de su capacidad para sostener un arco narrativo complejo.",
+          "Tendencia a priorizar la inmediatez sobre la calidad."
+        ],
+        "potencial": "Gran intuición para ritmo, humor y visualidad; capacidad para conectar con audiencias masivas si se le da un marco narrativo sólido."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar8.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar9",
+      "nombre": "Laura",
+      "edad": 39,
+      "rol": "Psicóloga humanista y terapeuta narrativa",
+      "segmento_principal": "SEG-01",
+      "bloque_estrategico": "D - SOCIAL / HUMANISTA",
+      "perfil_publico": "Psicólogos, Terapeutas y Trabajadores Sociales",
+      "scoring_lead": 72,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Colegios profesionales",
+        "Eventos terapéuticos",
+        "LinkedIn sector sanitario",
+        "Formación continua"
+      ],
+      "lenguaje_emocional_clave": [
+        "terapia narrativa",
+        "bienestar",
+        "resiliencia",
+        "introspección",
+        "herramienta emocional"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Online en directo"
+      ],
+      "cursos_recomendados": [
+        "Escritura y Bienestar Emocional",
+        "Taller Autobiografía Terapéutica",
+        "Memorias"
+      ],
+      "contexto": {
+        "descripcion": "Trabaja en consulta privada y talleres grupales donde utiliza herramientas expresivas. Su práctica integra enfoque humanista, escucha activa y dinámicas de escritura terapéutica.",
+        "situacion_laboral": "Consulta estable, combinando sesiones individuales con grupos de desarrollo personal.",
+        "entorno_profesional": "Acompaña procesos emocionales y transiciones vitales. Está habituada al trabajo con trauma ligero, duelo, ansiedad o bloqueos existenciales.",
+        "nivel_socioeconomico": "Medio",
+        "perfil_personal": "Persona introspectiva, empática, cuidadosa con las palabras y con la ética del acompañamiento."
+      },
+      "motivaciones": [
+        "Integrar la escritura como herramienta de sanación emocional.",
+        "Facilitar que las personas nombren sus vivencias con más precisión.",
+        "Ampliar su repertorio de ejercicios expresivos y narrativos.",
+        "Desarrollar metodologías para talleres de escritura terapéutica."
+      ],
+      "frenos": [
+        "Miedo a que la formación se enfoque demasiado en literatura y no en proceso emocional.",
+        "Rechazo a dinámicas que parezcan competitivas o valoren la escritura por su calidad estética.",
+        "Preocupación por no tener suficiente formación narrativa formal.",
+        "Desconfianza hacia espacios que puedan invalidar el ritmo emocional de los participantes."
+      ],
+      "miedos": [
+        "Reducir la escritura a técnica literaria y desconectarla de la persona.",
+        "Exponer a sus pacientes a ejercicios demasiado confrontativos sin contención.",
+        "No saber traducir conceptos terapéuticos a propuestas narrativas claras.",
+        "Que la escritura acabe siendo un adorno superficial y no un proceso transformador."
+      ],
+      "deseos": [
+        "Aprender estructuras narrativas que ayuden a ordenar la experiencia emocional.",
+        "Descubrir ejercicios que faciliten la expresión de duelos, crisis, reenfoques vitales.",
+        "Conectar escritura y cuerpo desde la escucha interna.",
+        "Diseñar talleres donde la palabra sea un puente hacia la comprensión de uno mismo."
+      ],
+      "tono_emocional": [
+        "Empático",
+        "Pausado",
+        "Introspectivo"
+      ],
+      "frase_arquetipo": "Escribir ayuda a nombrar lo que no sabemos decir.",
+      "objetivo_narrativo": "Facilitar catarsis y comprensión a través de la palabra.",
+      "riesgos": [
+        "Confundir escritura terapéutica con escritura creativa tradicional.",
+        "Topar con metodologías demasiado rígidas o estéticas.",
+        "Saturarse con ejercicios poco sensibles al estado emocional de las personas.",
+        "Sentir que la formación no honra la profundidad de su trabajo."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Sereno, reflexivo; prioriza las pausas y la precisión emocional.",
+        "tendencias": [
+          "Formular preguntas abiertas que invitan a explorar.",
+          "Reformular para asegurar comprensión mutua.",
+          "Nombrar emociones y procesos internos con cuidado lingüístico."
+        ],
+        "registro": "Cálido, profesional, respetuoso."
+      },
+      "expectativas": [
+        "Ejercicios que respeten procesos emocionales diversos.",
+        "Herramientas narrativas integrables en sesiones individuales y grupales.",
+        "Marcos éticos para trabajar palabra y memoria emocional.",
+        "Espacios donde la vulnerabilidad no sea tratada como espectáculo."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Percibe la escritura como acto de autoescucha, de integración y de claridad interna. La utiliza para acompañar procesos.",
+        "bloqueos": [
+          "Miedo a caer en tecnicismos literarios que alejen a las personas.",
+          "Inseguridad sobre su propia 'calidad' como escritora.",
+          "Dificultad para estructurar relatos emocionales complejos sin perder profundidad."
+        ],
+        "potencial": "Habilidad para leer emociones invisibles, generar seguridad y promover escritura introspectiva transformadora."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar9.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar10",
+      "nombre": "Thomas",
+      "edad": 52,
+      "rol": "Turista cultural y viajero frecuente europeo",
+      "segmento_principal": "Expansión Internacional",
+      "bloque_estrategico": "E - CULTURAL / EXPERIENCIAL",
+      "perfil_publico": "Turistas Culturales y Viajeros Creativos",
+      "scoring_lead": 68,
+      "estado_potencial": "Lead frío - nurturing necesario",
+      "canales_captacion": [
+        "Turismo cultural",
+        "Hoteles boutique",
+        "Webtenerife",
+        "Plataformas experiencias",
+        "Tripadvisor"
+      ],
+      "lenguaje_emocional_clave": [
+        "experiencia",
+        "viaje",
+        "inmersión cultural",
+        "autenticidad",
+        "recuerdo"
+      ],
+      "modalidad_preferida": [
+        "Presencial intensivo bilingüe"
+      ],
+      "cursos_recomendados": [
+        "Escribe Tenerife (taller breve)",
+        "Narrativa de Viaje Weekend",
+        "Residencia Literaria"
+      ],
+      "contexto": {
+        "descripcion": "Visitante europeo (generalmente alemán, francés o nórdico) que realiza estancias cortas en Tenerife motivado por el arte, la naturaleza y las experiencias culturales auténticas.",
+        "estancia": "De corta duración (una o dos semanas). Se aloja en hoteles boutique, casas rurales o apartamentos céntricos.",
+        "nivel_socioeconomico": "Medio-alto; educación universitaria; habituado a museos, visitas guiadas y actividades culturales.",
+        "relacion_con_la_isla": "Busca comprender la identidad del lugar más allá del turismo convencional.",
+        "idiomas": "Inglés o español intermedio; a veces dificultades para matices culturales y expresivos."
+      },
+      "motivaciones": [
+        "Vivir una experiencia cultural auténtica que vaya más allá del turismo estándar.",
+        "Conectar con el paisaje, la historia y la gente del lugar mediante la escritura.",
+        "Crear un recuerdo personal y significativo del viaje.",
+        "Explorar la creatividad como forma de introspección durante la estancia."
+      ],
+      "frenos": [
+        "Barreras idiomáticas que dificultan matices literarios.",
+        "Desconocimiento de la propuesta cultural local.",
+        "Miedo a no escribir 'bien' por no dominar el idioma.",
+        "Tiempo limitado debido a la corta estancia."
+      ],
+      "miedos": [
+        "No comprender lo suficiente el contexto cultural para escribir sobre él.",
+        "Producir textos superficiales o estereotipados.",
+        "Sentirse fuera de lugar en un taller dominado por hispanohablantes.",
+        "No poder terminar nada en el tiempo disponible."
+      ],
+      "deseos": [
+        "Capturar la esencia del viaje en palabras auténticas.",
+        "Recibir guía clara sobre cómo transformar experiencias sensoriales en relato.",
+        "Explorar paisajes, mercados, museos y convertirlos en narrativas personales.",
+        "Volver a casa con un texto que represente su vínculo con la isla."
+      ],
+      "tono_emocional": [
+        "Curioso",
+        "Abierto",
+        "Estético"
+      ],
+      "frase_arquetipo": "Quiero escribir algo que me conecte con este lugar.",
+      "objetivo_narrativo": "Crear un relato de viaje que establezca un puente emocional con el territorio y su cultura.",
+      "riesgos": [
+        "Quedar atrapado en estereotipos turísticos.",
+        "Sentirse inseguro al escribir en un idioma que no domina.",
+        "Vivir la experiencia cultural solo desde la superficie.",
+        "Vincular escritura y viaje solo al consumo de actividades."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Pausado y reflexivo; piensa antes de formular ideas.",
+        "tendencias": [
+          "Utiliza comparaciones con su país o con lugares que conoce.",
+          "Pregunta por el significado cultural de palabras o tradiciones.",
+          "Expresa admiración por paisajes, arquitectura y detalles visuales."
+        ],
+        "registro": "Educado, curioso, a veces con pequeñas interferencias idiomáticas."
+      },
+      "expectativas": [
+        "Instrucciones claras y accesibles, con acompañamiento lingüístico.",
+        "Ejercicios centrados en la experiencia sensorial del viaje.",
+        "Actividades que combinen paseo, observación y escritura.",
+        "Un entorno acogedor donde no se sienta turista sino participante."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Escribe ocasionalmente diarios de viaje o notas personales; ve la escritura como memoria emocional.",
+        "bloqueos": [
+          "Inseguridad por el idioma.",
+          "Dificultad para estructurar un texto en poco tiempo.",
+          "Tendencia a escribir desde la descripción superficial más que desde la vivencia interna."
+        ],
+        "potencial": "Sensibilidad estética, capacidad de observación y mirada extranjera capaz de captar detalles que pasan desapercibidos para locales."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar10.json",
+        "normalizacion_delimitadores": [
+          {
+            "linea": 17,
+            "offset": 1123,
+            "antes": "}",
+            "despues": "]"
+          }
+        ],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar11",
+      "nombre": "Valentina",
+      "edad": 34,
+      "rol": "Escritora amateur hispanoamericana (chilena o argentina)",
+      "segmento_principal": "SEG-02",
+      "bloque_estrategico": "C - DIGITAL / INTERNACIONAL",
+      "perfil_publico": "Comunidad Hispanoamericana Online",
+      "scoring_lead": 88,
+      "estado_potencial": "Lead caliente - prioridad alta",
+      "canales_captacion": [
+        "Campus Digital LATAM",
+        "Comunidades escritores hispanos",
+        "Redes literarias LATAM",
+        "Podcast literario"
+      ],
+      "lenguaje_emocional_clave": [
+        "comunidad hispana",
+        "narrativa latinoamericana",
+        "publicación internacional",
+        "mentor",
+        "feedback"
+      ],
+      "modalidad_preferida": [
+        "Online en directo LATAM",
+        "Campus Digital Atlántico"
+      ],
+      "cursos_recomendados": [
+        "Campus Digital Atlántico",
+        "Técnicas Imaginación Online",
+        "Mentoría Internacional"
+      ],
+      "contexto": {
+        "descripcion": "Vive en Chile o Argentina y busca formación literaria de alta calidad sin tener que trasladarse. Ha pasado por talleres locales, pero siente que necesita un salto de nivel.",
+        "situacion_laboral": "Profesional de clase media, combina trabajo con escritura; a veces trabaja en oficina, otras en el ámbito cultural.",
+        "entorno_literario": "Sigue a autores latinoamericanos y españoles; activa en redes literarias y comunidades online.",
+        "nivel_socioeconomico": "Medio",
+        "dificultades_logisticas": "Diferencia horaria, pagos internacionales, adaptación cultural a metodologías españolas."
+      },
+      "motivaciones": [
+        "Acceder a formación literaria rigurosa y reconocida internacionalmente.",
+        "Perfeccionar su estilo y profesionalizar su escritura.",
+        "Encontrar tutores que tomen en serio su proyecto.",
+        "Pertenecer a una comunidad literaria global."
+      ],
+      "frenos": [
+        "Diferencias culturales entre escuelas españolas y latinoamericanas.",
+        "Costes de formación y pagos internacionales.",
+        "Inseguridad sobre si su estilo 'latino' será comprendido o valorado.",
+        "Saturación de talleres televisivos o poco profundos en su entorno local."
+      ],
+      "miedos": [
+        "Que la formación sea demasiado distante o impersonal.",
+        "Sentirse juzgada por su forma de expresarse.",
+        "No encontrar retroalimentación realmente útil.",
+        "Quedar fuera de la comunidad por vivir en otro país."
+      ],
+      "deseos": [
+        "Recibir una mirada profesional sobre sus textos.",
+        "Crear una obra sólida y coherente con su voz latinoamericana.",
+        "Tener acompañamiento que respete sensibilidad y contexto cultural.",
+        "Conectar con otros autores de España y otros países."
+      ],
+      "tono_emocional": [
+        "Cercano",
+        "Exigente",
+        "Emotivo"
+      ],
+      "frase_arquetipo": "Necesito un espacio donde tomen en serio lo que escribo.",
+      "objetivo_narrativo": "Vincularse con una comunidad internacional de autores y afinar su voz propia.",
+      "riesgos": [
+        "Sentirse desplazada por diferencias culturales.",
+        "Frustración si el feedback es demasiado técnico o distante.",
+        "Abandonar si no logra compatibilizar horarios.",
+        "Temer que su identidad literaria no encaje."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Natural, expresivo y emocional sin perder claridad.",
+        "tendencias": [
+          "Habla desde la experiencia personal, con ejemplos vitales.",
+          "Expresa dudas y entusiasmo con la misma intensidad.",
+          "Tiene un sentido muy fino para matices afectivos."
+        ],
+        "registro": "Cálido, latino, con expresiones propias de Chile o Argentina (según el origen)."
+      },
+      "expectativas": [
+        "Feedback profundo pero humano.",
+        "Materiales que respeten diferencias culturales y lingüísticas.",
+        "Espacios donde pueda compartir sin sentir exotización.",
+        "Docentes accesibles y cercanos."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Escribe desde la emoción y desde la experiencia vital. Ha probado talleres antes, pero busca profesionalización real.",
+        "bloqueos": [
+          "Miedo a no estar al nivel del resto.",
+          "Dudas sobre si su tono es demasiado coloquial o demasiado literario.",
+          "Conflictos de horarios y continuidad."
+        ],
+        "potencial": "Voz emotiva, sensibilidad cultural, mirada narrativa rica en oralidad y matices autobiográficos."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar11.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar12",
+      "nombre": "Diego",
+      "edad": 21,
+      "rol": "Estudiante universitario no literario (biología o historia)",
+      "segmento_principal": "Expansión Educativa",
+      "bloque_estrategico": "B - EDUCATIVO",
+      "perfil_publico": "Estudiantes Universitarios (no literarios)",
+      "scoring_lead": 58,
+      "estado_potencial": "Lead frío - nurturing necesario",
+      "canales_captacion": [
+        "Universidad",
+        "Campus universitario",
+        "IG universitario",
+        "Asociaciones estudiantes",
+        "Eventos ULL"
+      ],
+      "lenguaje_emocional_clave": [
+        "divulgación",
+        "expresión académica",
+        "creatividad científica",
+        "pensamiento crítico",
+        "interdisciplinar"
+      ],
+      "modalidad_preferida": [
+        "Presencial universitario",
+        "Online flexible"
+      ],
+      "cursos_recomendados": [
+        "Escritura Creativa para Universitarios",
+        "Narrar la Ciencia",
+        "Taller Ensayo"
+      ],
+      "contexto": {
+        "descripcion": "Estudia una carrera de ciencias o humanidades donde la escritura no es el eje central. Le interesa la divulgación científica o la crónica histórica, pero siente inseguridad respecto a su capacidad literaria.",
+        "situacion_academica": "Alumno aplicado, curioso; obtiene buenas notas en materias teóricas pero se siente torpe al escribir.",
+        "entorno_universitario": "Discursos académicos muy formales; poca oportunidad para desarrollar creatividad.",
+        "nivel_socioeconomico": "Medio",
+        "intereses": "Divulgación científica, historia contemporánea, podcasts, documentales, periodismo explicativo."
+      },
+      "motivaciones": [
+        "Aprender a comunicar ideas complejas de forma clara y emocionante.",
+        "Desarrollar una escritura más humana y menos académica.",
+        "Crear artículos, hilos o contenidos divulgativos.",
+        "Perder el miedo a escribir textos personales."
+      ],
+      "frenos": [
+        "Inseguridad respecto a su 'talento' literario.",
+        "Creencia de que escribir es un don reservado a otros.",
+        "Tendencia a escribir de manera excesivamente técnica o fría.",
+        "Bloqueos al intentar expresar emociones."
+      ],
+      "miedos": [
+        "No estar a la altura de otros compañeros con más experiencia literaria.",
+        "Hacer textos aburridos o demasiado 'de manual'.",
+        "Ser juzgado por intentar algo creativo fuera de su carrera.",
+        "No lograr un estilo propio."
+      ],
+      "deseos": [
+        "Aprender a narrar procesos, hechos y conceptos de forma accesible.",
+        "Ganar confianza para escribir sin sonar impostado.",
+        "Explorar un registro más creativo y cercano.",
+        "Descubrir si tiene una voz narrativa escondida."
+      ],
+      "tono_emocional": [
+        "Racional",
+        "Curioso",
+        "Inseguro"
+      ],
+      "frase_arquetipo": "No soy escritor, pero quiero aprender a contar.",
+      "objetivo_narrativo": "Traducir conocimiento técnico o histórico en relatos humanos relevantes.",
+      "riesgos": [
+        "Aferrarse a la estructura académica y evitar lo emocional.",
+        "Desmotivarse si no ve progreso inmediato.",
+        "Compararse constantemente con autores profesionales.",
+        "Creer que la narrativa no es para él."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Moderado, con titubeos cuando entra en terreno personal.",
+        "tendencias": [
+          "Pide ejemplos prácticos para entender conceptos narrativos.",
+          "Reformula ideas para asegurarse de haberlas comprendido.",
+          "Trata de mantener precisión incluso en contextos creativos."
+        ],
+        "registro": "Científico o académico suavizado hacia lo coloquial."
+      },
+      "expectativas": [
+        "Ejercicios que combinen rigor y creatividad.",
+        "Modelos de escritura divulgativa o narrativa científica.",
+        "Un ambiente donde equivocarse no sea motivo de juicio.",
+        "Guías claras para estructurar textos informativos de manera atractiva."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Ha escrito principalmente informes, trabajos y textos académicos. Intenta cambiar de registro, pero no sabe cómo hacerlo.",
+        "bloqueos": [
+          "Falta de experiencia con narrativas emocionales.",
+          "Miedo a sonar infantil o poco profesional.",
+          "Dificultad para elegir un tono propio entre lo académico y lo creativo."
+        ],
+        "potencial": "Mirada curiosa y rigurosa; capacidad para explicar conceptos complejos si logra incorporar elementos narrativos."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar12.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar13",
+      "nombre": "Amina",
+      "edad": 29,
+      "rol": "Mujer migrante en programa de inserción social",
+      "segmento_principal": "Expansión Social",
+      "bloque_estrategico": "D - SOCIAL / HUMANISTA",
+      "perfil_publico": "Colectivos Sociales y en Riesgo de Exclusión (mujeres, migrantes, jóvenes vulnerables)",
+      "scoring_lead": 45,
+      "estado_potencial": "Lead frío - proyecto subvencionable",
+      "canales_captacion": [
+        "Proyectos institucionales",
+        "Fundaciones",
+        "ONG",
+        "Servicios Sociales",
+        "Subvenciones"
+      ],
+      "lenguaje_emocional_clave": [
+        "inclusión",
+        "empoderamiento",
+        "voz propia",
+        "identidad",
+        "resistencia"
+      ],
+      "modalidad_preferida": [
+        "Presencial adaptado",
+        "Apoyo institucional"
+      ],
+      "cursos_recomendados": [
+        "Programa Escritura e Inclusión",
+        "Taller Identidad y Memoria",
+        "Proyecto Cabildo/Ayto"
+      ],
+      "contexto": {
+        "descripcion": "Participa en un taller subvencionado de escritura dentro de un programa de integración. Ha pasado por procesos migratorios complejos: cambio de país, de idioma y de red de apoyo.",
+        "situacion_personal": "Vive en un entorno modesto; comparte vivienda o convive con familiares. Tiene trabajos temporales o en economía informal.",
+        "situacion_emocional": "Carga con experiencias de duelo migratorio, desarraigo y reconstrucción. Intenta crear una identidad nueva en el país receptor.",
+        "nivel_socioeconomico": "Bajo-medio",
+        "idioma": "Español funcional pero no fluido para matices literarios."
+      },
+      "motivaciones": [
+        "Contar su historia para entenderla y darle sentido.",
+        "Encontrar un espacio seguro para expresarse sin juicio.",
+        "Fortalecer su identidad en un proceso de transición.",
+        "Aprender español desde lo emocional y lo narrativo."
+      ],
+      "frenos": [
+        "Barreras idiomáticas que dificultan matices y metáforas.",
+        "Miedo a exponer experiencias dolorosas o íntimas.",
+        "Desconfianza hacia instituciones por experiencias previas de discriminación.",
+        "Sensación de no tener legitimidad para escribir en un idioma que no es el suyo."
+      ],
+      "miedos": [
+        "Ser juzgada por su acento, su nivel de español o su historia.",
+        "Revivir traumas o situaciones duras al escribir.",
+        "No ser comprendida cultural ni emocionalmente.",
+        "Quedarse fuera del grupo por timidez o diferencia cultural."
+      ],
+      "deseos": [
+        "Reconstruir su identidad a través de la palabra.",
+        "Contar experiencias migratorias desde la dignidad y la valentía.",
+        "Conectar con otras personas en situaciones similares.",
+        "Crear un relato propio que no esté solo marcado por la supervivencia."
+      ],
+      "tono_emocional": [
+        "Reservado",
+        "Valiente",
+        "Profundo"
+      ],
+      "frase_arquetipo": "Contar mi historia me ayuda a entender quién soy.",
+      "objetivo_narrativo": "Reescribir su identidad desde la memoria emocional y la dignidad personal.",
+      "riesgos": [
+        "Bloqueo emocional ante recuerdos traumáticos.",
+        "Silenciar vivencias por miedo a ser juzgada.",
+        "Retraerse si siente que el grupo avanza más rápido.",
+        "Percibir la escritura como un examen lingüístico en vez de un espacio seguro."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Lento y medido; piensa mucho antes de hablar.",
+        "tendencias": [
+          "Habla con frases cortas, evitando exposiciones largas.",
+          "Pide confirmación para asegurarse de haber entendido.",
+          "Agradece cualquier gesto de paciencia o empatía."
+        ],
+        "registro": "Sencillo, directo, con interferencias idiomáticas leves."
+      },
+      "expectativas": [
+        "Un espacio de escucha real donde su historia sea valorada.",
+        "Acompañamiento que respete su ritmo emocional.",
+        "Ayuda para convertir recuerdos en narración sin exponerse de más.",
+        "Correcciones que no invaliden su forma de expresarse."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "La escritura es una herramienta para sanar, comprender y fijar recuerdos. También un puente para aprender el idioma desde dentro.",
+        "bloqueos": [
+          "Vergüenza lingüística.",
+          "Temor a reabrir heridas emocionales.",
+          "Falta de confianza en su voz narrativa."
+        ],
+        "potencial": "Memoria rica en vivencias intensas; mirada resiliente; capacidad para generar relatos auténticos llenos de humanidad."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar13.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar14",
+      "nombre": "Carlos",
+      "edad": 41,
+      "rol": "Periodista, redactor freelance o divulgador cultural",
+      "segmento_principal": "SEG-02",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Periodistas, Cronistas y Divulgadores Científicos",
+      "scoring_lead": 83,
+      "estado_potencial": "Lead caliente - prioridad alta",
+      "canales_captacion": [
+        "LinkedIn periodistas",
+        "Asociaciones profesionales",
+        "Medios locales",
+        "Eventos periodismo",
+        "Twitter/X"
+      ],
+      "lenguaje_emocional_clave": [
+        "crónica",
+        "periodismo narrativo",
+        "no ficción",
+        "investigación",
+        "reportaje"
+      ],
+      "modalidad_preferida": [
+        "Online en directo",
+        "Presencial profesional"
+      ],
+      "cursos_recomendados": [
+        "Periodismo Narrativo",
+        "Crónica y Reportaje",
+        "Escritura Científica con Alma"
+      ],
+      "contexto": {
+        "descripcion": "Trabaja como freelance en medios digitales, revistas culturales y proyectos editoriales. Está acostumbrado a cubrir noticias, entrevistas y reportajes, pero siente el deseo de dar un paso hacia narrativas más profundas.",
+        "situacion_laboral": "Ingresos fluctuantes; depende de encargos, colaboraciones y becas. Mantiene una red de contactos en el ámbito cultural.",
+        "entorno_profesional": "Rodeado de periodistas, escritores, fotógrafos y especialistas en cultura. Observa la precariedad del sector.",
+        "nivel_socioeconomico": "Medio",
+        "presion_profesional": "Produce mucho contenido rápido, poco tiempo para la creación pausada."
+      },
+      "motivaciones": [
+        "Pasar de la información fría al relato con profundidad literaria.",
+        "Desarrollar un estilo personal reconocible.",
+        "Aprender recursos narrativos que potencien la experiencia del lector.",
+        "Encontrar nuevas formas de contar hechos reales sin perder rigor."
+      ],
+      "frenos": [
+        "Falta de tiempo para proyectos literarios largos.",
+        "Dificultad para separar la voz periodística de la voz narrativa.",
+        "Sensación de que todo ya está contado.",
+        "Miedo a sonar artificioso al intentar escribir 'literariamente'."
+      ],
+      "miedos": [
+        "No lograr diferenciarse en un mercado saturado.",
+        "Quedar atrapado en la producción de contenido de baja calidad.",
+        "Perder rigor periodístico por buscar emoción.",
+        "No encontrar una voz propia sólida."
+      ],
+      "deseos": [
+        "Convertir hechos en experiencias narrativas.",
+        "Explorar la crónica, el perfil, la no ficción literaria.",
+        "Construir textos que emocionen sin manipular.",
+        "Acceder a un espacio de mentoría que entienda la frontera entre periodismo y literatura."
+      ],
+      "tono_emocional": [
+        "Observador",
+        "Crítico",
+        "Reflexivo"
+      ],
+      "frase_arquetipo": "La información no basta si no emociona.",
+      "objetivo_narrativo": "Transformar datos, hechos y realidades en relatos humanos con profundidad y claridad.",
+      "riesgos": [
+        "Caer en el exceso de adornos narrativos y perder precisión.",
+        "Desanimarse si su transición literaria no es inmediata.",
+        "Depender demasiado de la técnica y perder frescura.",
+        "Mantener la voz periodística rígida y no explorar lo emocional."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Medido, analítico, con pausas para estructurar ideas.",
+        "tendencias": [
+          "Formula preguntas largas y elaboradas.",
+          "Busca precisión terminológica.",
+          "Contrasta versiones, pide fuentes y referencias."
+        ],
+        "registro": "Profesional, descriptivo, con capacidad para el detalle."
+      },
+      "expectativas": [
+        "Ejercicios que conviertan hechos reales en narrativas humanas.",
+        "Modelos de crónica y no ficción literaria.",
+        "Feedback que afine estilo y estructura sin perder rigor.",
+        "Recursos para equilibrar emoción y objetividad."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Escribe a diario desde un enfoque informativo. Necesita romper la rigidez estructural del periodismo tradicional para encontrar una voz más amplia.",
+        "bloqueos": [
+          "Exceso de objetividad que limita la emoción.",
+          "Duda sobre cuánto de sí mismo puede poner en un texto.",
+          "Tendencia a escribir pensando en plazos y editores."
+        ],
+        "potencial": "Gran capacidad de observación, dominio de estructuras informativas y sensibilidad para captar detalles humanos en lo cotidiano."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar14.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar15",
+      "nombre": "Sofía",
+      "edad": 37,
+      "rol": "Artista visual y fotógrafa conceptual",
+      "segmento_principal": "Expansión Cultural",
+      "bloque_estrategico": "E - CULTURAL / EXPERIENCIAL / A - PROFESIONAL",
+      "perfil_publico": "Artistas Visuales y Fotógrafos",
+      "scoring_lead": 71,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Galerías",
+        "Espacios arte",
+        "Colaboración La Cámara",
+        "Residencias artísticas",
+        "IG artístico"
+      ],
+      "lenguaje_emocional_clave": [
+        "imagen",
+        "narrativa visual",
+        "poética",
+        "texto curatorial",
+        "fotolibro"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Talleres híbridos texto-imagen"
+      ],
+      "cursos_recomendados": [
+        "Narrativas Visuales",
+        "Fotolibro y Palabra",
+        "Texto Curatorial",
+        "Residencia Híbrida"
+      ],
+      "contexto": {
+        "descripcion": "Fotógrafa que expone en espacios locales y proyectos artísticos independientes. Busca ampliar su discurso y dar mayor densidad conceptual a su obra visual mediante la palabra.",
+        "situacion_laboral": "Trabaja como artista independiente y también como fotógrafa por encargo. Alterna proyectos creativos con trabajos comerciales para sostenerse.",
+        "entorno_artistico": "Circula en espacios de arte contemporáneo, galerías pequeñas y residencias. Interactúa con artistas de distintas disciplinas.",
+        "nivel_socioeconomico": "Medio, con fluctuaciones según encargos.",
+        "perfil_creativo": "Orientada a lo visual, intuitiva, silenciosa, reflexiva; su obra es más sensorial que discursiva."
+      },
+      "motivaciones": [
+        "Encontrar un lenguaje verbal que acompañe su obra visual.",
+        "Explorar la escritura como medio conceptual, poético y simbólico.",
+        "Integrar imagen y palabra en proyectos híbridos (fotolibros, instalaciones, textos curatoriales).",
+        "Traducir la mirada en un discurso más consciente y articulado."
+      ],
+      "frenos": [
+        "Siente que la escritura no es 'su territorio'.",
+        "Teme que sus textos suenen torpes comparados con su obra visual.",
+        "Inseguridad ante propuestas literarias más técnicas o estructuradas.",
+        "Dificultad para verbalizar conceptos que en su cabeza son visuales."
+      ],
+      "miedos": [
+        "No encontrar palabras que hagan justicia a sus imágenes.",
+        "Ser percibida como una artista que escribe 'por obligación'.",
+        "Perder la sutileza y la poética que caracteriza su trabajo visual.",
+        "Ser juzgada por su expresividad contenida o minimalista."
+      ],
+      "deseos": [
+        "Construir un discurso poético coherente con su imaginario visual.",
+        "Aprender a escribir textos cortos, curatoriales, introspectivos o evocadores.",
+        "Lograr que la palabra amplíe el significado de sus fotografías.",
+        "Incorporar escritura íntima o reflexiva en sus proyectos artísticos."
+      ],
+      "tono_emocional": [
+        "Silencioso",
+        "Visual",
+        "Poético"
+      ],
+      "frase_arquetipo": "Mis imágenes piden palabras.",
+      "objetivo_narrativo": "Textualizar la mirada: convertir la experiencia visual en un discurso verbal íntimo y simbólico.",
+      "riesgos": [
+        "Imitar discursos curatoriales que no siente propios.",
+        "Forzar la escritura y perder autenticidad.",
+        "Abandonar si percibe demasiada exigencia técnica.",
+        "Ocultar su vulnerabilidad detrás de la estética visual."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Pausado, reflexivo, con silencios largos entre ideas.",
+        "tendencias": [
+          "Habla desde metáforas visuales.",
+          "Usa descripciones sensoriales (luz, textura, silencio).",
+          "Evita discursos excesivamente extensos o retóricos."
+        ],
+        "registro": "Minimalista, contemplativo, sugerente."
+      },
+      "expectativas": [
+        "Ejercicios que conecten palabra e imagen.",
+        "Espacios de creación sin presión técnica.",
+        "Recursos para escribir textos breves y poéticos.",
+        "Acompañamiento que respete su sensibilidad visual."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Concibe la escritura como un territorio desconocido que puede abrir nuevas capas de sentido en su obra.",
+        "bloqueos": [
+          "Dificultad para describir verbalmente lo que para ella es intuitivo.",
+          "Temor a producir textos demasiado explícitos o explicativos.",
+          "Inseguridad ante la idea de que 'no sabe escribir'."
+        ],
+        "potencial": "Gran sensibilidad estética, dominio de la imagen, capacidad de observación y silencios significativos que pueden traducirse en una escritura poética única."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar15.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar16",
+      "nombre": "Lucía",
+      "edad": 46,
+      "rol": "Gestora cultural en biblioteca o museo público",
+      "segmento_principal": "Expansión Institucional",
+      "bloque_estrategico": "A - PROFESIONAL",
+      "perfil_publico": "Instituciones y Sector Público Cultural (museos, bibliotecas, ayuntamientos)",
+      "scoring_lead": 76,
+      "estado_potencial": "Lead tibio - relación B2G",
+      "canales_captacion": [
+        "Convenios institucionales",
+        "Formación pública",
+        "Red bibliotecas",
+        "Eventos culturales",
+        "ICOMOS"
+      ],
+      "lenguaje_emocional_clave": [
+        "mediación cultural",
+        "comunicación institucional",
+        "gestión cultural",
+        "narrativa pública",
+        "comunidad"
+      ],
+      "modalidad_preferida": [
+        "Presencial",
+        "Formación acreditable"
+      ],
+      "cursos_recomendados": [
+        "Comunicación Narrativa Institucional",
+        "Mediación Cultural",
+        "Escritura de Proyectos"
+      ],
+      "contexto": {
+        "descripcion": "Coordina proyectos en instituciones culturales públicas: bibliotecas, museos o centros cívicos. Maneja presupuestos ajustados, trámites administrativos y programación anual.",
+        "situacion_laboral": "Función estable pero envuelta en burocracia. Administra equipos pequeños y colabora con asociaciones, ayuntamientos y colectivos.",
+        "ecosistema": "Sector público con recursos limitados, dependencia de subvenciones y necesidad de justificar cada actividad con informes.",
+        "nivel_socioeconomico": "Medio",
+        "responsabilidades": "Programación cultural, gestión de eventos, relación con proveedores, comunicación institucional y desarrollo de públicos."
+      },
+      "motivaciones": [
+        "Formarse en comunicación narrativa para mejorar la programación cultural.",
+        "Contar la cultura de forma más cercana y significativa.",
+        "Diseñar experiencias que conecten con públicos diversos.",
+        "Comunicar el valor social de la institución."
+      ],
+      "frenos": [
+        "Presupuesto limitado y procesos administrativos lentos.",
+        "Falta de tiempo por carga de trabajo y tareas burocráticas.",
+        "Necesidad de justificar cada acción ante superiores.",
+        "Sensación de que los discursos culturales institucionales suelen ser demasiado fríos."
+      ],
+      "miedos": [
+        "Que la institución pierda relevancia en su comunidad.",
+        "No conectar con públicos jóvenes o minoritarios.",
+        "Quedar atrapada en un lenguaje demasiado formal o técnico.",
+        "Que las actividades culturales no tengan impacto real."
+      ],
+      "deseos": [
+        "Crear relatos que expliquen por qué la cultura importa.",
+        "Reforzar la conexión entre institución y ciudadanía.",
+        "Mejorar la comunicación digital con un lenguaje más humano.",
+        "Diseñar proyectos que generen identidad colectiva."
+      ],
+      "tono_emocional": [
+        "Formal",
+        "Comprometido",
+        "Realista"
+      ],
+      "frase_arquetipo": "La cultura necesita historias que la defiendan.",
+      "objetivo_narrativo": "Traducir gestión cultural en un relato social relevante, humano y accesible.",
+      "riesgos": [
+        "Mantener un lenguaje excesivamente institucional.",
+        "Apostar por propuestas creativas que la burocracia no permite ejecutar.",
+        "Desgastarse emocionalmente ante la falta de apoyo político.",
+        "Quedar atrapada entre expectativa social y limitaciones reales."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Estructurado, metódico y con claridad procesual.",
+        "tendencias": [
+          "Utiliza conceptos como comunidad, impacto, participación.",
+          "Diferencia entre lo ideal y lo posible.",
+          "Formula preguntas prácticas sobre implementación y viabilidad."
+        ],
+        "registro": "Institucional humanizado: profesional, pero con cercanía y vocación pública."
+      },
+      "expectativas": [
+        "Herramientas narrativas aplicables a la comunicación institucional.",
+        "Métodos para traducir programas culturales en relatos atractivos.",
+        "Estrategias para llegar a públicos jóvenes y diversos.",
+        "Ejercicios que no requieran grandes presupuestos."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "Escribe informes, notas de prensa y textos curatoriales breves. Necesita liberar su voz de la rigidez institucional.",
+        "bloqueos": [
+          "Tendencia a sonar demasiado administrativa.",
+          "Dificultad para incorporar emoción sin perder formalidad.",
+          "Conflicto entre creatividad y limitaciones administrativas."
+        ],
+        "potencial": "Capacidad para conectar cultura y ciudadanía; visión estratégica; sensibilidad por el impacto social de la palabra."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar16.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar17",
+      "nombre": "Rafa",
+      "edad": 29,
+      "rol": "Escritor emergente queer",
+      "segmento_principal": "SEG-02",
+      "bloque_estrategico": "D - SOCIAL / HUMANISTA",
+      "perfil_publico": "Colectivos de Diversidad y Comunidad LGTBIQ+",
+      "scoring_lead": 79,
+      "estado_potencial": "Lead tibio - seguimiento activo",
+      "canales_captacion": [
+        "Redes LGTBIQ+",
+        "Eventos Pride",
+        "Espacios queer",
+        "Comunidades literarias diversidad",
+        "IG activista"
+      ],
+      "lenguaje_emocional_clave": [
+        "identidad",
+        "representación",
+        "resistencia",
+        "voz propia",
+        "visibilidad"
+      ],
+      "modalidad_preferida": [
+        "Online en directo",
+        "Presencial espacio seguro"
+      ],
+      "cursos_recomendados": [
+        "Taller Cuerpos que Escriben",
+        "Narrativa Diversidad",
+        "Antología Temática LGTBIQ+"
+      ],
+      "contexto": {
+        "descripcion": "Vive en un entorno urbano con comunidades LGTBIQ+ activas. Está en proceso de explorar identidad, cuerpo y memoria. Participa en colectivos, lecturas públicas, fanzines y espacios seguros.",
+        "situacion_personal": "Ha atravesado conflictos de aceptación familiar o social. Busca espacios donde expresarse sin censura.",
+        "situacion_laboral": "Trabajos temporales o creativos combinados con proyectos artísticos. A veces precario, pero con fuerte impulso creativo.",
+        "nivel_socioeconomico": "Medio-bajo",
+        "marco_cultural": "Referentes queer en literatura, cine y teoría crítica; interés por cuerpos disidentes y narrativas políticas."
+      },
+      "motivaciones": [
+        "Escribir desde el cuerpo, la identidad y la disidencia.",
+        "Encontrar una comunidad donde su voz sea escuchada y no cuestionada.",
+        "Explorar nuevas formas de relato queer, híbrido y experimental.",
+        "Convertir su experiencia en una memoria colectiva compartida."
+      ],
+      "frenos": [
+        "Miedo a ser tokenizado o reducido a su identidad.",
+        "Falta de espacios seguros donde experimentar.",
+        "Contextos literarios que minimizan la escritura queer.",
+        "Heridas emocionales por experiencias pasadas de invisibilización."
+      ],
+      "miedos": [
+        "Que su historia sea simplificada a un cliché.",
+        "Ser usado por instituciones solo como representante simbólico.",
+        "No encontrar un público que comprenda la complejidad de su voz.",
+        "Ser juzgado por escribir desde una experiencia íntima y política."
+      ],
+      "deseos": [
+        "Crear relatos donde la vulnerabilidad sea fuerza.",
+        "Integrar teoría, poesía y experiencia encarnada.",
+        "Escribir desde el orgullo y el dolor sin autocensura.",
+        "Conectarse con lectores que viven experiencias similares."
+      ],
+      "tono_emocional": [
+        "Sensible",
+        "Firme",
+        "Reivindicativo"
+      ],
+      "frase_arquetipo": "Mi historia también merece ser contada.",
+      "objetivo_narrativo": "Representar identidades disidentes y contribuir a la memoria colectiva queer.",
+      "riesgos": [
+        "Autocensura por miedo a incomodar.",
+        "Escritura excesivamente teórica o académica.",
+        "Exposición emocional sin contención.",
+        "Relación conflictiva con espacios normativos."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Intenso, emocional, cargado de matices.",
+        "tendencias": [
+          "Usa referencias queer, culturales y políticas.",
+          "Combina registros poéticos con frases directas.",
+          "Le gusta nombrar el cuerpo, la piel, la mirada, la memoria."
+        ],
+        "registro": "Híbrido entre poesía, activismo y crónica íntima."
+      },
+      "expectativas": [
+        "Espacios seguros donde escribir sin censura.",
+        "Acompañamiento respetuoso a su identidad y vivencias.",
+        "Herramientas para explorar escritura política, corporal y poética.",
+        "Comunidad donde compartir procesos creativos."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "La escritura es un acto de resistencia, memoria y supervivencia. Un lugar donde el cuerpo puede existir sin concesiones.",
+        "bloqueos": [
+          "Heridas por experiencias de silenciamiento.",
+          "Temor a la exposición en textos muy íntimos.",
+          "Dudas sobre cómo unir poesía, política y narrativa."
+        ],
+        "potencial": "Voz poderosa, auténtica, política; capacidad para generar relatos que conmueven y transforman."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar17.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    },
+    {
+      "id_avatar": "avatar18",
+      "nombre": "Ana",
+      "edad": 31,
+      "rol": "Estudiante con discapacidad visual parcial",
+      "segmento_principal": "Expansión Social",
+      "bloque_estrategico": "D - SOCIAL / HUMANISTA",
+      "perfil_publico": "Personas con Discapacidad o Diversidad Funcional",
+      "scoring_lead": 50,
+      "estado_potencial": "Lead frío - proyecto subvencionable",
+      "canales_captacion": [
+        "ONCE",
+        "Plena Inclusión",
+        "Fundaciones discapacidad",
+        "Servicios Sociales",
+        "Subvenciones accesibilidad"
+      ],
+      "lenguaje_emocional_clave": [
+        "accesibilidad",
+        "inclusión",
+        "expresión",
+        "autonomía",
+        "adaptación"
+      ],
+      "modalidad_preferida": [
+        "Presencial adaptado",
+        "Online accesible"
+      ],
+      "cursos_recomendados": [
+        "Taller Inclusivo",
+        "Escritura Accesible",
+        "Proyecto Colaboración ONCE"
+      ],
+      "contexto": {
+        "descripcion": "Participa en proyectos inclusivos y actividades culturales adaptadas. Cuenta con apoyos tecnológicos para la lectura y la escritura, aunque no siempre son suficientes.",
+        "situacion_personal": "Ha tenido que aprender a gestionar su vida cotidiana con una discapacidad visual que limita ciertas experiencias sensoriales, pero que potencia otras.",
+        "situacion_laboral": "En formación o con trabajos esporádicos en el ámbito educativo, cultural o social.",
+        "nivel_socioeconomico": "Medio-bajo",
+        "entorno_social": "Red de amistades reducida pero consistente; valora los espacios donde la accesibilidad no sea una excepción sino la norma."
+      },
+      "motivaciones": [
+        "Expresar su mundo sensorial a través de la palabra.",
+        "Reivindicar la diversidad funcional desde una narrativa propia.",
+        "Crear relatos que desactiven prejuicios y miradas paternalistas.",
+        "Encontrar un espacio creativo adaptado a sus necesidades."
+      ],
+      "frenos": [
+        "Accesibilidad tecnológica insuficiente o inestable.",
+        "Fatiga visual o cognitiva al usar dispositivos.",
+        "Sensación de que su voz puede ser tratada con condescendencia.",
+        "Temor a no poder seguir el ritmo en contextos no inclusivos."
+      ],
+      "miedos": [
+        "Ser reducida a su discapacidad en vez de ser vista como creadora.",
+        "Que sus textos sean interpretados como testimoniales en lugar de literarios.",
+        "Quedar fuera por cuestiones técnicas o de diseño del taller.",
+        "Mostrar demasiado de sus vulnerabilidades y no ser comprendida."
+      ],
+      "deseos": [
+        "Que su experiencia sensorial inspíre una forma única de narrar.",
+        "Desarrollar textos que exploren tacto, sonido, memoria y percepción.",
+        "Aprender estructuras narrativas sin perder su propio enfoque.",
+        "Formar parte de una comunidad donde la diversidad funcional sea bienvenida."
+      ],
+      "tono_emocional": [
+        "Tenaz",
+        "Sincero",
+        "Profundamente perceptivo"
+      ],
+      "frase_arquetipo": "Escribir me hace ver lo que otros no ven.",
+      "objetivo_narrativo": "Reivindicar la experiencia sensorial diversa y convertirla en una voz literaria propia.",
+      "riesgos": [
+        "Sobreesfuerzo tecnológico que cause frustración.",
+        "Relatos centrados solo en la discapacidad por presión externa.",
+        "Desmotivación si no encuentra materiales accesibles.",
+        "Compararse con personas con más facilidad técnica."
+      ],
+      "modo_de_hablar": {
+        "ritmo": "Calmado, reflexivo, atento a los matices.",
+        "tendencias": [
+          "Usa metáforas sensoriales basadas en sonido, tacto o temperatura.",
+          "Prefiere la precisión emocional a la ornamentación literaria.",
+          "Pide claridad en instrucciones y formatos accesibles."
+        ],
+        "registro": "Íntimo, honesto, concreto."
+      },
+      "expectativas": [
+        "Material accesible y adaptable a lectura asistida.",
+        "Respeto por su proceso sin paternalismo.",
+        "Ejercicios que integren percepción sensorial no visual.",
+        "Acompañamiento que valore su mirada única."
+      ],
+      "relacion_con_la_escritura": {
+        "descripcion": "La escritura es su territorio de libertad: le permite expandir percepciones, nombrar sensaciones y construir una identidad más allá de la mirada ajena.",
+        "bloqueos": [
+          "Limitaciones tecnológicas para revisar o editar textos.",
+          "Cansancio derivado de la lectura prolongada.",
+          "Inseguridad por la diferencia entre su experiencia sensorial y la de otros."
+        ],
+        "potencial": "Una sensibilidad perceptiva excepcional; mirada distinta, rica en detalles no visuales; capacidad para construir mundos sensoriales únicos."
+      },
+      "procedencia": {
+        "maestro": "04 Consejo de alumnos/avatares_maestro.json",
+        "individual": "04 Consejo de alumnos/Individuales/avatar18.json",
+        "normalizacion_delimitadores": [],
+        "conflictos": {},
+        "prioridad": "individual para identidad/psicología; conservar conflicto explícito",
+        "naturaleza": "avatar_sintetico_no_persona_validada"
+      }
+    }
+  ],
+  "matriz_conversion": {
+    "descripcion": "Ruta de conversión estándar según análisis de públicos ECCL",
+    "fases": [
+      {
+        "fase": 1,
+        "nombre": "Contenido / Awareness",
+        "objetivo": "Captar atención y generar interés",
+        "acciones": [
+          "SEO",
+          "Contenido blog",
+          "Redes sociales",
+          "Podcast",
+          "Webinars gratuitos"
+        ],
+        "metricas": [
+          "Visitas web",
+          "Seguidores",
+          "Engagement"
+        ]
+      },
+      {
+        "fase": 2,
+        "nombre": "Lead Magnet / Interés",
+        "objetivo": "Capturar datos de contacto",
+        "acciones": [
+          "Descarga guía gratuita",
+          "Webinar registro",
+          "Clase muestra",
+          "Entrevista informativa"
+        ],
+        "metricas": [
+          "Leads captados",
+          "Tasa conversión visita→lead"
+        ]
+      },
+      {
+        "fase": 3,
+        "nombre": "Consideración / Evaluación",
+        "objetivo": "Nutrir lead y generar confianza",
+        "acciones": [
+          "Email nurturing",
+          "Testimonios",
+          "Casos éxito",
+          "FAQs",
+          "Contenido personalizado"
+        ],
+        "metricas": [
+          "Apertura emails",
+          "Engagement contenido",
+          "Scoring lead"
+        ]
+      },
+      {
+        "fase": 4,
+        "nombre": "Decisión / Matrícula",
+        "objetivo": "Convertir lead en alumno",
+        "acciones": [
+          "Oferta específica",
+          "Descuento temporal",
+          "Entrevista personal",
+          "Facilidades pago"
+        ],
+        "metricas": [
+          "Tasa conversión lead→matrícula",
+          "CPA",
+          "Valor vida cliente"
+        ]
+      }
+    ],
+    "metricas_objetivo": {
+      "CPA_objetivo": "15-25 EUR según segmento",
+      "Conv_lead_matricula": "5-10% promedio",
+      "Conv_lead_matricula_alta": "15-20% segmentos calientes (SEG-02)",
+      "Conv_lead_matricula_media": "8-12% segmentos tibios (SEG-01)",
+      "Conv_lead_matricula_baja": "3-5% segmentos fríos (SEG-03, expansión)"
+    }
+  },
+  "recomendaciones_uso": {
+    "para_gpt_asistente": [
+      "Identificar el avatar más cercano al perfil del lead consultado",
+      "Utilizar el lenguaje emocional clave del avatar para personalizar comunicaciones",
+      "Recomendar cursos según modalidad preferida y nivel de scoring",
+      "Adaptar tono y registro según modo_de_hablar del avatar",
+      "Anticipar frenos y miedos para diseñar estrategias de conversión",
+      "Proponer canales de captación específicos según perfil avatar",
+      "Segmentar campañas según bloque estratégico y segmento principal"
+    ],
+    "para_estrategia_comercial": [
+      "Priorizar leads con scoring >80 (avatares 2, 6, 8, 11, 14) - conversión rápida",
+      "Diseñar campañas nurturing para scoring 60-79 (mayoría avatares SEG-01)",
+      "Crear contenido específico por segmento para mejorar conversión",
+      "Desarrollar ofertas B2B para bloque A - PROFESIONAL (avatares 5,6,7,14,16)",
+      "Explorar financiación institucional para bloque D - SOCIAL (avatares 13, 18)",
+      "Internacionalizar con Campus Digital para bloque C (avatares 8, 10, 11)"
+    ],
+    "para_desarrollo_oferta": [
+      "Crear programas certificados para docentes (avatar 7)",
+      "Desarrollar talleres bilingües turismo (avatar 10)",
+      "Diseñar formación corporativa B2B (avatar 6)",
+      "Ampliar programas sociales subvencionables (avatares 13, 18)",
+      "Crear residencias híbridas texto-imagen (avatar 15)",
+      "Desarrollar mentoría profesional internacional (avatares 2, 11, 14)"
+    ]
+  },
+  "campos_complementarios_analisis": {
+    "descripcion": "Campos adicionales integrados desde AnalisisPublico.md para enriquecer perfiles",
+    "campos_nuevos": [
+      "segmento_principal",
+      "bloque_estrategico",
+      "perfil_publico",
+      "scoring_lead",
+      "estado_potencial",
+      "canales_captacion",
+      "lenguaje_emocional_clave",
+      "modalidad_preferida",
+      "cursos_recomendados"
+    ]
+  },
+  "notas_implementacion": {
+    "detalle": "18 fichas individuales integradas. Fuentes originales preservadas, incluidas las mal formadas.",
+    "limites": "Scoring y segmentación históricos; no equivalen a intención de compra real.",
+    "cursos": "Cruzar knowledge/catalogo/cursos_activos.json y verificar vigencia.",
+    "conflictos": "Consultar procedencia por perfil; relaciones multisegmento históricas no se reinterpretan como exclusivas."
+  }
+}

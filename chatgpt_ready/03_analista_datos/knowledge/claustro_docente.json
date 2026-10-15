@@ -1,0 +1,1288 @@
+{
+  "total_docentes": 58,
+  "fecha_corte": "2026-10-14",
+  "estado": "snapshot_historico_no_verificado",
+  "fuente": "knowledge/sources/GPTs/03 Experto de la escuela/docentes.csv",
+  "docentes": [
+    {
+      "id_docente": "DOC-001",
+      "nombre_completo": "Antonia Molinero",
+      "tipo_docente": "Directora y Fundadora",
+      "especialidades": [
+        "Creación Literaria",
+        "Técnicas Creatividad",
+        "Escritura Memorias",
+        "Autoficción"
+      ],
+      "cursos_imparte": [
+        "Curso Creación Literaria",
+        "Iniciación Creación Literaria",
+        "Comunidad Escritores",
+        "Autoficción",
+        "Memorias"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Autora publicada, Agente Literaria",
+      "bio_breve": "Madrid 1964. Directora y fundadora Escuela Literaria desde 2004. Maestra, filóloga, lectora profesional, crítica literaria. Agente Literaria AM. Editora Servicio Editorial Flamboyán. Autora Chinita.",
+      "redes_sociales": "Twitter: @AntoniaMolinero, Instagram: @antonia_molinero",
+      "observaciones": "Responsable principal de oferta académica. Coordinación editorial",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/antonia-molinero",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-002",
+      "nombre_completo": "Coriolano González Montañez",
+      "tipo_docente": "Profesor de la Escuela",
+      "especialidades": [
+        "Poesía",
+        "Haiku"
+      ],
+      "cursos_imparte": [
+        "Poesía"
+      ],
+      "disponibilidad": "Media",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Premio Pedro García Cabrera, Premio Julio Tovar",
+      "bio_breve": "SC Tenerife 1965. Licenciado Filología Hispánica. Profesor Enseñanza Secundaria. Múltiples poemarios publicados. Traducido a varios idiomas. Profesor desde 2005.",
+      "redes_sociales": "",
+      "observaciones": "Profesor desde 2005",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/coriolano-gonzalez-montanez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-003",
+      "nombre_completo": "Miguel Ángel Roldán",
+      "tipo_docente": "Profesor de la Escuela",
+      "especialidades": [
+        "Fotografía",
+        "Fotografía Artística"
+      ],
+      "cursos_imparte": [
+        "Fotografía",
+        "Fotografía RRSS"
+      ],
+      "disponibilidad": "Media",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Múltiples exposiciones: Fotonoviembre, Tenerife Desvelado",
+      "bio_breve": "20 años experiencia en técnicas fotográficas. Formación literaria (autor, actor, director teatro). Fotógrafo oficial Escuela Literaria. Impresor fine art.",
+      "redes_sociales": "",
+      "observaciones": "Fotógrafo oficial de la Escuela",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/miguel-angel-roldan",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-004",
+      "nombre_completo": "Jorge Soriano",
+      "tipo_docente": "Profesor de la Escuela",
+      "especialidades": [
+        "Oratoria",
+        "Habilidades Sociales",
+        "Interpretación Conferencias"
+      ],
+      "cursos_imparte": [
+        "Hablar en Público",
+        "Oratoria"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Intérprete acreditado ONU",
+      "bio_breve": "SC Tenerife 1976. Licenciado Medicina ULL. Máster Interpretación Conferencias. Intérprete freelance 15 años. Facilitador cursos oratoria.",
+      "redes_sociales": "",
+      "observaciones": "Docente Máster Interpretación ULL",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/jorge-soriano",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-005",
+      "nombre_completo": "Iván López",
+      "tipo_docente": "Profesor de la Escuela",
+      "especialidades": [
+        "Cine",
+        "Dirección Cinematográfica",
+        "Guión"
+      ],
+      "cursos_imparte": [
+        "Cine",
+        "Guión de Cine"
+      ],
+      "disponibilidad": "Media",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Primer premio corto documental Caja Canarias 2007",
+      "bio_breve": "Licenciado Filología y CCII. Máster Dirección Cine. Responsable Sección cine Instituto Estudios Hispánicos desde 2003. 20 cortometrajes dirigidos con premios.",
+      "redes_sociales": "",
+      "observaciones": "Responsable sección cine Instituto Estudios Hispánicos",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/ivan-lopez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-006",
+      "nombre_completo": "Lana Corujo",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Ilustración",
+        "Dirección Arte",
+        "Narrativa"
+      ],
+      "cursos_imparte": [
+        "Narrativa"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "5+",
+      "premios_reconocimientos": "Selección Ministerio Cultura Frankfurt 2022, Debut Reservoir Books 2025",
+      "bio_breve": "Lanzarote 1995. Ilustradora y Directora de Arte. Publicó Ropavieja (2021). Debut novela Han Cantado Bingo (Reservoir Books, enero 2025).",
+      "redes_sociales": "",
+      "observaciones": "Joven promesa narrativa",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/lana-corujo",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-007",
+      "nombre_completo": "Inma Luna",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Poesía",
+        "Narrativa",
+        "Talleres Escritura"
+      ],
+      "cursos_imparte": [
+        "Poesía",
+        "Narrativa",
+        "Talleres Escritura"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Traducida a portugués croata italiano",
+      "bio_breve": "Madrid 1966. Poeta y narradora. Triple titulación: Periodismo, Antropología, Arte Dramático. Múltiples publicaciones. Imparte talleres más de 10 años.",
+      "redes_sociales": "Instagram: @inmalunatica",
+      "observaciones": "Imparte talleres desde hace más de 10 años",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/inma-luna",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-008",
+      "nombre_completo": "Paola Tena",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Escritura Creativa",
+        "Microficción",
+        "Relato Breve"
+      ],
+      "cursos_imparte": [
+        "Escritura Creativa",
+        "Microrrelatos"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Autora publicada, Antologadora",
+      "bio_breve": "México 1980. Pediatra, escritora, ilustradora. Imparte talleres escritura creativa. Publicaciones: Las pequeñas cosas, Cordón Colorado, Rosa Mexicano.",
+      "redes_sociales": "",
+      "observaciones": "Disponible para colaboraciones. Especialista en microficción",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/paola-tena",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-009",
+      "nombre_completo": "Teresa Pulido",
+      "tipo_docente": "Coordinadora Club Lectura",
+      "especialidades": [
+        "Dinamización Lectura",
+        "Club de Lectura"
+      ],
+      "cursos_imparte": [
+        "Club de Lectura"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Participante Programas Fomento Lectura HIPATIA",
+      "bio_breve": "Catedrática jubilada Geografía e Historia Enseñanza Secundaria. Dinamizadora de lectura. Ex alumna Escuela Literaria.",
+      "redes_sociales": "",
+      "observaciones": "Coordinadora Club de Lectura",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/teresa-pulido",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-010",
+      "nombre_completo": "Marta Barrio García-Agulló",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Edición",
+        "Narrativa"
+      ],
+      "cursos_imparte": [
+        "Narrativa"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Premio Tusquets, Premio Almudena Grandes, Beca Leonardo",
+      "bio_breve": "New Haven 1986. Editora. Filóloga y especialista en Edición. Novelas: Leña menuda (Premio Tusquets), Los gatos salvajes de Kerguelen.",
+      "redes_sociales": "",
+      "observaciones": "Editora profesional. Premio Tusquets",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/marta-barrio-garcia-agullo",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-011",
+      "nombre_completo": "Covadonga García Fierro",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Poesía",
+        "Narrativa",
+        "Didáctica Literatura"
+      ],
+      "cursos_imparte": [
+        "Poesía",
+        "Literatura"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Premio Internacional Yolanda Sáenz de Tejada, Premio Félix Casanova, Premio Antonio Rumeu de Armas",
+      "bio_breve": "Filóloga hispánica (Premio extraordinario). Doble Máster (Premios extraordinarios). Funcionaria Lengua y Literatura. Múltiples poemarios. Especialista Pino Ojeda.",
+      "redes_sociales": "",
+      "observaciones": "Funcionaria carrera. Doble premio extraordinario",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/covadonga-garcia-fierro",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-012",
+      "nombre_completo": "María Luis Estévez",
+      "tipo_docente": "Coordinadora de la Escuela",
+      "especialidades": [
+        "Coordinación",
+        "Atención Alumnado"
+      ],
+      "cursos_imparte": [
+        "Coordinación administrativa"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "7+",
+      "premios_reconocimientos": "",
+      "bio_breve": "Coordinadora Escuela Literaria desde diciembre 2018. Responsable SIO. Formada en CL 22-23 y Técnicas Imaginación 24-25. Publicada en antologías.",
+      "redes_sociales": "",
+      "observaciones": "Coordinadora principal. Contacto: informacion@escuelaliteraria.com",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/maria-luis-estevez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-013",
+      "nombre_completo": "Sophia Hidalgo Hernández",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Literatura Hispánica",
+        "Teatro",
+        "Creación Literaria"
+      ],
+      "cursos_imparte": [
+        "Creación Literaria"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "5+",
+      "premios_reconocimientos": "Primer Premio XIX Concurso Relato Breve ULL, Premio Premios al Arte 2023",
+      "bio_breve": "Tacoronte 2001. Graduada Español Lengua y Literatura ULL. Máster Literatura Hispánica UNED. Prácticas en Escuela Literaria. Subdirectora revista Cipselas.",
+      "redes_sociales": "",
+      "observaciones": "Joven talento. Realizó prácticas en ECCL",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/maria-luis-estevez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-014",
+      "nombre_completo": "Marcos Dosantos",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Relato Breve"
+      ],
+      "cursos_imparte": [
+        "Relato Breve"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "5+",
+      "premios_reconocimientos": "Autor publicado, Colaborador Cadena SER",
+      "bio_breve": "Puerto de la Cruz 1991. Politólogo y escritor. Formación Hotel Kafka y Escuela Escritores Madrid. Cuadernos del Subtrópico Norte, La mujer volcán (Plaza & Janés).",
+      "redes_sociales": "",
+      "observaciones": "Colabora con Cadena SER",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/marcos-dosantos",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-015",
+      "nombre_completo": "David Guijosa",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Poesía",
+        "Traducción Literaria (Sueco)"
+      ],
+      "cursos_imparte": [
+        "Poesía",
+        "Traducción"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Múltiples poemarios, Traductor literatura sueca",
+      "bio_breve": "Suecia 1981. Licenciado Filología Inglesa y Magisterio. Máster Estudios Norteamericanos. Poeta y traductor del sueco (Tranströmer, etc).",
+      "redes_sociales": "",
+      "observaciones": "Especialista en traducción literaria sueca",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/david-guijosa",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-016",
+      "nombre_completo": "Patri Cámpora",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Fotografía",
+        "Retratos"
+      ],
+      "cursos_imparte": [
+        "Fotografía"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Fotógrafa profesional",
+      "bio_breve": "SC Tenerife 1972. Fotógrafa especializada en retratos y fotografía de hoteles con encanto.",
+      "redes_sociales": "",
+      "observaciones": "Especialista en retratos",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/patri-campora",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-017",
+      "nombre_completo": "Juan Manuel Gil",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Talleres Escritura Creativa"
+      ],
+      "cursos_imparte": [
+        "Talleres Escritura"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Premio Herralde 2016, Premio Biblioteca Breve 2021, finalista Premio Andalucía Crítica",
+      "bio_breve": "Almería 1979. Becario Fundación Antonio Gala. Novelas: Farándula (Premio Herralde), Trigo limpio (Premio Biblioteca Breve). Imparte talleres habitualmente.",
+      "redes_sociales": "",
+      "observaciones": "Premio Herralde. Imparte talleres habitualmente",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/juan-manuel-gil",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-018",
+      "nombre_completo": "Giovanna Rivero",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Ciencia Ficción",
+        "Talleres Online"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Ciencia Ficción"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "25 Secretos Literarios América Latina, Premio Nacional Cuento Franz Tamayo, Premio Internacional Cosecha Eñe",
+      "bio_breve": "Bolivia 1972. Escritora y doctora en literatura hispanoamericana. Múltiples publicaciones. Codirectora Editorial Mantis. Especialista ciencia ficción.",
+      "redes_sociales": "",
+      "observaciones": "Docente universitaria. Codirectora Editorial Mantis",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/giovanna-rivero",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-019",
+      "nombre_completo": "Valeria Correa Fiz",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Poesía",
+        "Escritura Creativa"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Poesía"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Finalista Gabriel García Márquez, Finalista Premio Setenil, Premio Internacional Claudio Rodríguez",
+      "bio_breve": "Rosario, Argentina. Vive en Madrid. La condición animal (Páginas Espuma). Múltiples poemarios premiados. Imparte clases Madrid e Instituto Cervantes Milán.",
+      "redes_sociales": "",
+      "observaciones": "Imparte clases Madrid. Colabora Instituto Cervantes Milán",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/valeria-correa-fiz",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-020",
+      "nombre_completo": "Sergio Barreto",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Poesía",
+        "Narrativa",
+        "Ciencia Ficción"
+      ],
+      "cursos_imparte": [
+        "Poesía",
+        "Narrativa"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Premio Emeterio Gutierrez Albelo, Premio Benito Pérez Armas",
+      "bio_breve": "Tenerife 1984. Múltiples poemarios. Novela Vs. (Premio Benito Pérez Armas). Relatos ciencia ficción. Colabora prensa canaria desde 2005.",
+      "redes_sociales": "",
+      "observaciones": "Colaborador prensa canaria",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/sergio-barreto",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-021",
+      "nombre_completo": "Ángel Vallecillo",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Literatura Naturaleza"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Naturaleza"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Premio Crítica Castilla y León 2018, Premio Miguel Delibes 2006",
+      "bio_breve": "Valladolid 1968. 12 novelas. Escritor de referencia naturaleza Canarias. Representó España en festival novelistas europeos Kiel 2008. Conferencia TEDx.",
+      "redes_sociales": "",
+      "observaciones": "Especialista literatura naturaleza. Ponente TEDx",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/angel-vallecillo",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-022",
+      "nombre_completo": "Olga Díez Fernández",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Diversidad Sexual",
+        "Educación Distancia",
+        "Filología Griega"
+      ],
+      "cursos_imparte": [
+        "Talleres específicos sobre diversidad"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Doctora Filología Griega",
+      "bio_breve": "Doctora Filología Griega. Profesora secundaria especializada educación distancia. Agente zonal igualdad. Activista LGBTI. Vocal Chrysallis Canarias.",
+      "redes_sociales": "",
+      "observaciones": "Especialista diversidad e igualdad",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/olga-diez-fernandez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-023",
+      "nombre_completo": "Olga Merino",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Talleres Escritura"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Talleres Escritura"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "25+",
+      "premios_reconocimientos": "Premio Mario Vargas Llosa NH Relatos, Traducida a varios idiomas",
+      "bio_breve": "Barcelona 1965. Máster Latin American Studies (London). Ha vivido Londres y Moscú. 4 novelas. Profesora Ateneu Barcelonès. Columnista El Periódico.",
+      "redes_sociales": "",
+      "observaciones": "Profesora Ateneu Barcelonès. Columnista El Periódico",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/olga-merino",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-024",
+      "nombre_completo": "José Ovejero",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Poesía",
+        "Ensayo",
+        "Teatro"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Ensayo"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "25+",
+      "premios_reconocimientos": "Premio Anagrama Ensayo, Premio Alfaguara Novela, Premio Setenil, Premio Juan Gil-Albert",
+      "bio_breve": "Ha publicado en todos los géneros. Premio Anagrama ensayo (La ética de la crueldad), Alfaguara novela (La invención del amor). Coordina cultura La Marea.",
+      "redes_sociales": "",
+      "observaciones": "Coordina sección cultura La Marea",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/jose-ovejero",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-025",
+      "nombre_completo": "Yaiza Afonso Higuera",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Periodismo Cultural"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Periodismo"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Premio Festival 3 Orillas mejor publicación Canarias",
+      "bio_breve": "SC Tenerife. Estudió Pedagogía. Articulista opinión, crónicas culturales, entrevistas. Hupalupa (Premio Festival 3 Orillas).",
+      "redes_sociales": "",
+      "observaciones": "Colabora medios comunicación archipiélago",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/yaiza-afonso-higuera",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-026",
+      "nombre_completo": "Jesús Ferrero",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Poesía",
+        "Teatro",
+        "Ensayo"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Ensayo"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "40+",
+      "premios_reconocimientos": "Premio Ciudad Barcelona, Premio Internacional Plaza & Janés, Premio Azorín, Premio Anagrama Ensayo",
+      "bio_breve": "Zamora 1952. Estudió Historia Antigua París. Imparte clases Escuela de Letras Madrid. Más de 30 novelas. Co-guionista Matador (Almodóvar). Múltiples premios.",
+      "redes_sociales": "",
+      "observaciones": "Escritor prolífico. Imparte clases Escuela Letras Madrid",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/jesus-ferrero",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-027",
+      "nombre_completo": "Elsa López",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Poesía",
+        "Narrativa",
+        "Investigación"
+      ],
+      "cursos_imparte": [
+        "Poesía",
+        "Investigación Cultural"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "40+",
+      "premios_reconocimientos": "Premio Internacional Ciudad Melilla, Premio Nacional José Hierro, Premio Ricardo Molina",
+      "bio_breve": "Guinea Ecuatorial 1943. Catedrática y Doctora Filosofía. Presidenta Ateneo La Laguna. Directora Ediciones La Palma. Fundadora Casa Jorós. Directora Fundación Antonio Gala 2002-2006.",
+      "redes_sociales": "",
+      "observaciones": "Presidenta Ateneo La Laguna. Directora Ediciones La Palma",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/elsa-lopez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-028",
+      "nombre_completo": "Marta Sanz",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Poesía",
+        "Ensayo",
+        "Talleres"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Talleres Escritura"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "25+",
+      "premios_reconocimientos": "Premio Herralde 2016, Premio CEGAL 2018, Premio de la Crítica Madrid, múltiples premios",
+      "bio_breve": "Doctora Filología. Múltiples novelas (Farándula Premio Herralde, Los íntimos 2024). Poesía completa Corpórea. Ensayos. Colabora El País y Cadena SER. Docente cursos escritura.",
+      "redes_sociales": "",
+      "observaciones": "Colabora El País y Cadena SER. Docente cursos escritura",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/marta-sanz",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-029",
+      "nombre_completo": "Verónica Alemán",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Periodismo",
+        "Periodismo Cultural",
+        "Corrección"
+      ],
+      "cursos_imparte": [
+        "Periodismo"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "35+",
+      "premios_reconocimientos": "Periodista desde 1989",
+      "bio_breve": "Licenciada Geografía e Historia ULL. Periodista desde 1989. Directora equipo Contextos (periodismo cultural, gabinetes prensa). Correctora profesional.",
+      "redes_sociales": "",
+      "observaciones": "Directora Contextos. Correctora profesional",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/veronica-aleman",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-030",
+      "nombre_completo": "Ana María Correa García",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Escritura Terapéutica",
+        "Biogestalt",
+        "Trabajo Social"
+      ],
+      "cursos_imparte": [
+        "Escritura Terapéutica"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Terapeuta Biogestalt, Miembro titular AETB",
+      "bio_breve": "Caracas 1964. Diplomada Trabajo Social ULL. Terapeuta Biogestalt. Educadora Social. Coordinadora Área Mujer Igualdad Ayto. Tacoronte. 20+ años con mujeres, infancia, adolescentes.",
+      "redes_sociales": "",
+      "observaciones": "Coordinadora Área Mujer Igualdad Tacoronte. Terapeuta",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/ana-maria-correa-garcia",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-031",
+      "nombre_completo": "Maca Martinón",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa"
+      ],
+      "cursos_imparte": [
+        "Narrativa"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Autora publicada",
+      "bio_breve": "La Laguna. Licenciada Filología Hispánica y CCII ULL. Profesora secundaria Lengua y Literatura. Realizó Curso CL en Escuela. Novela La Laguna es ella.",
+      "redes_sociales": "",
+      "observaciones": "Profesora secundaria. Ex alumna Escuela",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/maca-martinon",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-032",
+      "nombre_completo": "Francisco José Pomares Rodríguez",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Periodismo",
+        "Historia",
+        "Edición"
+      ],
+      "cursos_imparte": [
+        "Periodismo",
+        "Best Seller"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "40+",
+      "premios_reconocimientos": "Múltiples premios profesionales: Carballo Cotanda, Víctor Zurita, Parlamento Canarias",
+      "bio_breve": "Madrid 1957. Graduado Historia y Máster Comunicación ULL. Profesor periodismo ULL. Periodista desde 1977. Fundador y director La Opinión Tenerife. Presidente Ediciones Idea (2000+ títulos).",
+      "redes_sociales": "",
+      "observaciones": "Presidente Ediciones Idea. Profesor periodismo ULL. Director MICA",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/francisco-jose-pomares-rodriguez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-033",
+      "nombre_completo": "Cecilia Domínguez Luis",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Poesía",
+        "Narrativa",
+        "Literatura"
+      ],
+      "cursos_imparte": [
+        "Poesía"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "40+",
+      "premios_reconocimientos": "Premio Canarias Literatura 2015",
+      "bio_breve": "La Orotava 1948. Licenciada Filología Hispánica. 17 libros poemas, 6 novelas, 5 libros cuentos. Traducida francés, rumano, alemán. Miembro Academia Canaria Lengua 2011.",
+      "redes_sociales": "",
+      "observaciones": "Premio Canarias Literatura. Miembro Academia Canaria Lengua",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/cecilia-dominguez-luis",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-034",
+      "nombre_completo": "Pablo Fajardo",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Guión Ficción TV",
+        "Guión Cine",
+        "Publicidad"
+      ],
+      "cursos_imparte": [
+        "Guión TV",
+        "Guión Cine"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Guionista series TV nacionales",
+      "bio_breve": "Máster Creatividad Guiones TV (Rey Juan Carlos - Globomedia). Licenciado Historia Arte UCM. Guionista series: Aquí no se fía, Viva la Fiesta, La noche de José Mota, Los hombres de Paco.",
+      "redes_sociales": "",
+      "observaciones": "Guionista series TV. Copy creativo freelance",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/pablo-fajardo",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-035",
+      "nombre_completo": "Mariano Gambín",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa Histórica",
+        "Best Seller"
+      ],
+      "cursos_imparte": [
+        "Best Seller"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Premio Especial Cabildo GC, Premio Rumeu de Armas, Premio Extraordinario Doctorado",
+      "bio_breve": "Abogado y doctor en Historia. Autor 7 libros sobre colonización europea Canarias. Trilogía La Laguna: fenómeno editorial 40.000+ ejemplares vendidos. Novelas históricas.",
+      "redes_sociales": "",
+      "observaciones": "Fenómeno editorial. Especialista narrativa histórica",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/mariano-gambin",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-036",
+      "nombre_completo": "Hugo Clemente",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Gestión Editorial",
+        "Community Manager"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Gestión Editorial"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Autor publicado y traducido",
+      "bio_breve": "Salamanca 1973. Licenciado Psicología Social UCM. Community Manager UNED. Gestor proyectos editoriales. Autor Cuaderno de Agua (traducido inglés). Editor Quantum Prose.",
+      "redes_sociales": "",
+      "observaciones": "Editor Quantum Prose. Community Manager",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/hugo-clemente",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-037",
+      "nombre_completo": "Antonio Herrera",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Guión Cine",
+        "Guión TV"
+      ],
+      "cursos_imparte": [
+        "Guión Cine",
+        "Guión TV"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Guionista serie TV Canaria, Fundador MICA",
+      "bio_breve": "Máster Guión Ficción Cine y TV (Pontificia Salamanca). Guionista Promoción 012. Presidente jurado certamen guiones ULL. Creador MICA (Muestra Internacional Cine Astronómico La Palma desde 2015).",
+      "redes_sociales": "",
+      "observaciones": "Creador y director MICA. Presidente jurado certamen guiones ULL",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/antonio-herrera",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-038",
+      "nombre_completo": "Esteban Gómez",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Publicidad",
+        "Marketing",
+        "Redacción Publicitaria"
+      ],
+      "cursos_imparte": [
+        "Redacción Publicitaria"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "25+",
+      "premios_reconocimientos": "Director creativo ejecutivo agencias nacionales",
+      "bio_breve": "Diplomado Relaciones Laborales ULL. Doble Máster (Relaciones Industriales, Marketing). Director creativo ejecutivo BSB - Cordiant. Estrategias para grandes marcas.",
+      "redes_sociales": "",
+      "observaciones": "Director creativo ejecutivo. Ponente jornadas diseño",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/esteban-gomez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-039",
+      "nombre_completo": "Diego Betancor",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Cine",
+        "Dirección",
+        "Guión"
+      ],
+      "cursos_imparte": [
+        "Cine",
+        "Dirección"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Fundador Festival Ateneo Coste Cero, Director largometraje",
+      "bio_breve": "La Laguna 1989. Formación Orson the Kid desde los 12. Fundador Gofiator Pictures 2002. Creador Festival Ateneo Coste Cero 2007. Licenciado Comunicación Audiovisual UCM.",
+      "redes_sociales": "",
+      "observaciones": "Fundador productora y festival. Múltiples cortometrajes premiados",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/diego-betancor",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-040",
+      "nombre_completo": "Roy Galán",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Crítica Cultural",
+        "Pensamiento Género"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Crítica Social"
+      ],
+      "disponibilidad": "Alta",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "10+",
+      "premios_reconocimientos": "Premio Krámpack 2019, Premio Menina 2022",
+      "bio_breve": "Licenciado Derecho ULL. 6 libros Penguin Random House. Colabora La Sexta, RNE, Radio 3, GQ, Esquire. Estudiante Grado Filosofía ULL. Ex profesor adjunto Escuela.",
+      "redes_sociales": "",
+      "observaciones": "Ex profesor adjunto Escuela. Colabora medios nacionales",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/roy-galan",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-041",
+      "nombre_completo": "Eduardo García Rojas",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Periodismo Cultural",
+        "Guión Cine"
+      ],
+      "cursos_imparte": [
+        "Periodismo",
+        "Guión"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "30+",
+      "premios_reconocimientos": "Director agencia, Responsable prensa SILA",
+      "bio_breve": "Redactor cultura La Gaceta, El Día, Diario de Avisos (jefe Sociedad Cultura). Director Ideapress. Coordina El Perseguidor (Diario Avisos). Editor blog El Escobillón. Guionista cine.",
+      "redes_sociales": "",
+      "observaciones": "Director agencia Ideapress. Guionista",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/eduardo-garcia-rojas",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-042",
+      "nombre_completo": "Alby Ojeda",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa Interactiva Videojuegos",
+        "Inteligencia Artificial",
+        "Guión"
+      ],
+      "cursos_imparte": [
+        "Narrativa Videojuegos",
+        "IA para Escritores"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Diseñador narrativo senior, Creador Cervantes (asistente LLM)",
+      "bio_breve": "Las Palmas 1979. Diseñador narrativo senior. Trabajó cine, TV, publicidad. Especializado narrativa interactiva videojuegos desde 2009. Explora IA y chatbots desde 2017. Creador Cervantes. Academia Skip Intro.",
+      "redes_sociales": "",
+      "observaciones": "Especialista IA para escritores. Ponente TEDx. Director Academia Skip Intro",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/alby-ojeda",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-043",
+      "nombre_completo": "Jorge Eduardo Benavides",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Narrativa",
+        "Talleres Escritura Creativa",
+        "Formación Novelistas"
+      ],
+      "cursos_imparte": [
+        "Narrativa",
+        "Talleres Avanzados"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "30+",
+      "premios_reconocimientos": "Premio Julio Ramón Ribeyro",
+      "bio_breve": "Arequipa, Perú 1964. Estudió Derecho. Fundó taller Entrelíneas en Tenerife 1991-2002. Múltiples novelas. Dirige Centro Formación Novelistas. Ha impartido en Harvard, Brown, Ginebra, Viena, París.",
+      "redes_sociales": "",
+      "observaciones": "Director Centro Formación Novelistas. Colabora El País",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/jorge-eduardo-benavides",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-044",
+      "nombre_completo": "María Gutiérrez",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Narrativa",
+        "Poesía",
+        "Activismo Social",
+        "Talleres Lectura"
+      ],
+      "cursos_imparte": [
+        "Talleres Lectura",
+        "Narrativa"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "20+",
+      "premios_reconocimientos": "Premio 8 marzo SC Tenerife 2017, Ciudadana Ilustre Vista Alegre Argentina",
+      "bio_breve": "Maestra, narradora, poeta, activista. Milita asociaciones. Miembro Colectivo Harimaguada. Dirige taller Librería Mujeres Canarias. Traducida a varios idiomas. Múltiples publicaciones y premios.",
+      "redes_sociales": "",
+      "observaciones": "Activista social. Dirige taller Librería Mujeres Canarias",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/maria-gutierrez",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-045",
+      "nombre_completo": "Jesús Olmo",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Guión Cine",
+        "Análisis Cinematográfico",
+        "Fotografía",
+        "Videoarte"
+      ],
+      "cursos_imparte": [
+        "Guión Cine",
+        "Análisis Cinematográfico"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "25+",
+      "premios_reconocimientos": "Co-guionista Esposados (nominado Oscar), 28 Weeks Later",
+      "bio_breve": "Madrid 1970. Estudió CCII UCM y TAI. Diplomatura profesor creación literaria. Co-guionista cortometrajes premiados. Novelas juveniles SM y Edebé. Guionista 28 Weeks Later. Profesor guión Escuela.",
+      "redes_sociales": "",
+      "observaciones": "Co-guionista nominado Oscar. Profesor guión y análisis cinematográfico",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores/jesus-olmo",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-046",
+      "nombre_completo": "Jorge Vedovelli",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Literatura Infantil y Juvenil"
+      ],
+      "cursos_imparte": [
+        "Lit Infantil y Juvenil"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Autor publicado literatura infantil",
+      "bio_breve": "SC Tenerife 1969. Escritor. Formación en ECCL (CL, Relato Breve, Liberación Recursos). Autor cuentos infantiles: Recuerdas, Mis amigos me llaman Santi (IASS-Cabildo 2011), Somnium (Universo de letras 2022).",
+      "redes_sociales": "",
+      "observaciones": "Formado en ECCL. Colaborador proyectos sociales",
+      "url_canonica": "CONSULTAR",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-047",
+      "nombre_completo": "Víctor Conde",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Relato Fantástico y Ciencia Ficción"
+      ],
+      "cursos_imparte": [
+        "Relato Fantástico y CF"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Galardonado Minotauro y Random House",
+      "bio_breve": "Autor galardonado especializado en literatura fantástica y ciencia ficción. Experto en género fantástico.",
+      "redes_sociales": "",
+      "observaciones": "Experto literatura fantástica",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/curso-relato-fantastico-ciencia-ficcion",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-048",
+      "nombre_completo": "Kim Eddy",
+      "tipo_docente": "Profesora Invitada (posible)",
+      "especialidades": [
+        "Traducción Literaria"
+      ],
+      "cursos_imparte": [
+        "Traducción Literaria"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Traductora profesional",
+      "bio_breve": "Traductora. Posible participación en sesión 10 del curso Traducción Literaria.",
+      "redes_sociales": "",
+      "observaciones": "Colaboradora puntual",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/traduccion-literaria",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-049",
+      "nombre_completo": "Cándida Carballo",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Periodismo - Entrevista"
+      ],
+      "cursos_imparte": [
+        "Periodismo Práctico"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "35+",
+      "premios_reconocimientos": "Periodista desde 1989. Subdirectora",
+      "bio_breve": "Licenciada Filología Hispánica. Periodista desde 1989. Redactora fundadora La Gaceta Canarias. Subdirectora 1999. Redactora-jefe Diario de Avisos.",
+      "redes_sociales": "",
+      "observaciones": "Periodista veterana. Especialista entrevista",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/periodismo-practico",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-050",
+      "nombre_completo": "Daniel Millet",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Periodismo - Reportaje"
+      ],
+      "cursos_imparte": [
+        "Periodismo Práctico"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Periodista 15+ años, Corresponsal Londres",
+      "bio_breve": "SC Tenerife. 15+ años medios comunicación. Radio Club Tenerife, El Día, Diario Avisos, La Gaceta, La Opinión. Corresponsal Londres. Guionista 4 documentales.",
+      "redes_sociales": "",
+      "observaciones": "Corresponsal internacional. Guionista documental",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/periodismo-practico",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-051",
+      "nombre_completo": "Carlos Castañosa",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Microrrelatos"
+      ],
+      "cursos_imparte": [
+        "Buenos y Breves"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista microrrelatos",
+      "bio_breve": "Especialista en microrrelatos. Alternativa a Roy Galán en taller Buenos y Breves.",
+      "redes_sociales": "",
+      "observaciones": "Especialista microrrelatos",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/buenos-breves",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-052",
+      "nombre_completo": "Alberto Mora",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Nuevas Tecnologías",
+        "Blog",
+        "Webs",
+        "RRSS"
+      ],
+      "cursos_imparte": [
+        "Nuevas Tecnologías Escritor"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista tecnología digital",
+      "bio_breve": "Especialista en blog, webs y redes sociales para escritores.",
+      "redes_sociales": "",
+      "observaciones": "Experto digital para escritores",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/nuevas-tecnologias-escritor",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-053",
+      "nombre_completo": "Esteban Navarro",
+      "tipo_docente": "Profesor Invitado / Escritor",
+      "especialidades": [
+        "Nuevas Tecnologías",
+        "Narrativa",
+        "Ebooks"
+      ],
+      "cursos_imparte": [
+        "Nuevas Tecnologías Escritor"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "15+",
+      "premios_reconocimientos": "Ganador I Certamen Novela La Balsa de Piedra 2011",
+      "bio_breve": "Escritor. Ganador I Certamen Novela La Balsa de Piedra 2011 (El buen padre). Especialista en ebooks para escritores (videoconferencia).",
+      "redes_sociales": "",
+      "observaciones": "Ganador certamen novela. Experto ebooks",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/nuevas-tecnologias-escritor",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-054",
+      "nombre_completo": "Rachel Bels",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Literatura Romántica",
+        "Literatura Erótica",
+        "Best Seller"
+      ],
+      "cursos_imparte": [
+        "Best Seller"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista género romántico y erótico",
+      "bio_breve": "Especialista en literatura romántica y erótica. Profesora día 4 del curso Best Seller.",
+      "redes_sociales": "",
+      "observaciones": "Experta género romántico y erótico",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/best-seller",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-055",
+      "nombre_completo": "Ana González Duque",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Literatura Juvenil",
+        "Marketing para Escritores",
+        "Best Seller"
+      ],
+      "cursos_imparte": [
+        "Best Seller"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista LIJ y marketing",
+      "bio_breve": "Especialista en Literatura Juvenil y Marketing para Escritores. Profesora día 3 del curso Best Seller.",
+      "redes_sociales": "",
+      "observaciones": "Experta LIJ y marketing literario",
+      "url_canonica": "https://www.escuelaliteraria.com/producto/best-seller",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-056",
+      "nombre_completo": "María José Alemán",
+      "tipo_docente": "Profesora Invitada",
+      "especialidades": [
+        "Aforismos"
+      ],
+      "cursos_imparte": [
+        "Taller Aforismos"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista aforismos",
+      "bio_breve": "Especialista en aforismos. Impartió taller El Aforismo y los tres o cuatro cuerpos. Instrucciones para pelar una cebolla en Festival Índice 2019.",
+      "redes_sociales": "",
+      "observaciones": "Impartió taller Festival Índice 2019",
+      "url_canonica": "https://www.escuelaliteraria.com/colaboraciones",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOC-057",
+      "nombre_completo": "Antonio López Ortega",
+      "tipo_docente": "Profesor Invitado",
+      "especialidades": [
+        "Minirrelato"
+      ],
+      "cursos_imparte": [
+        "Taller Minirrelato"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "Especialista minirrelato",
+      "bio_breve": "Especialista en minirrelato. Impartió taller El Arte del Minirrelato en Festival Índice 2019.",
+      "redes_sociales": "",
+      "observaciones": "Impartió taller Festival Índice 2019",
+      "url_canonica": "https://www.escuelaliteraria.com/colaboraciones",
+      "vigencia": "historico_no_verificado"
+    },
+    {
+      "id_docente": "DOCENTE-INVITADO",
+      "nombre_completo": "CONSULTAR WEB",
+      "tipo_docente": "Profesor Invitado Genérico",
+      "especialidades": [
+        "CONSULTAR"
+      ],
+      "cursos_imparte": [
+        "CONSULTAR"
+      ],
+      "disponibilidad": "Consultar",
+      "tarifa_estimada": "CONSULTAR",
+      "experiencia_anos": "CONSULTAR",
+      "premios_reconocimientos": "",
+      "bio_breve": "Para cursos sin profesor asignado específico. Consultar web o contactar escuela.",
+      "redes_sociales": "",
+      "observaciones": "Categoría genérica para profesores por confirmar",
+      "url_canonica": "https://www.escuelaliteraria.com/profesores",
+      "vigencia": "historico_no_verificado"
+    }
+  ]
+}
