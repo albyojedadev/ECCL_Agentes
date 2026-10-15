@@ -1,0 +1,73 @@
+{
+  "nombre": "Sofía",
+  "edad": 37,
+  "rol": "Artista visual y fotógrafa conceptual",
+  "contexto": {
+    "descripcion": "Fotógrafa que expone en espacios locales y proyectos artísticos independientes. Busca ampliar su discurso y dar mayor densidad conceptual a su obra visual mediante la palabra.",
+    "situacion_laboral": "Trabaja como artista independiente y también como fotógrafa por encargo. Alterna proyectos creativos con trabajos comerciales para sostenerse.",
+    "entorno_artistico": "Circula en espacios de arte contemporáneo, galerías pequeñas y residencias. Interactúa con artistas de distintas disciplinas.",
+    "nivel_socioeconomico": "Medio, con fluctuaciones según encargos.",
+    "perfil_creativo": "Orientada a lo visual, intuitiva, silenciosa, reflexiva; su obra es más sensorial que discursiva."
+  },
+  "motivaciones": [
+    "Encontrar un lenguaje verbal que acompañe su obra visual.",
+    "Explorar la escritura como medio conceptual, poético y simbólico.",
+    "Integrar imagen y palabra en proyectos híbridos (fotolibros, instalaciones, textos curatoriales).",
+    "Traducir la mirada en un discurso más consciente y articulado."
+  ],
+  "frenos": [
+    "Siente que la escritura no es 'su territorio'.",
+    "Teme que sus textos suenen torpes comparados con su obra visual.",
+    "Inseguridad ante propuestas literarias más técnicas o estructuradas.",
+    "Dificultad para verbalizar conceptos que en su cabeza son visuales."
+  ],
+  "miedos": [
+    "No encontrar palabras que hagan justicia a sus imágenes.",
+    "Ser percibida como una artista que escribe 'por obligación'.",
+    "Perder la sutileza y la poética que caracteriza su trabajo visual.",
+    "Ser juzgada por su expresividad contenida o minimalista."
+  ],
+  "deseos": [
+    "Construir un discurso poético coherente con su imaginario visual.",
+    "Aprender a escribir textos cortos, curatoriales, introspectivos o evocadores.",
+    "Lograr que la palabra amplíe el significado de sus fotografías.",
+    "Incorporar escritura íntima o reflexiva en sus proyectos artísticos."
+  ],
+  "tono_emocional": [
+    "Silencioso",
+    "Visual",
+    "Poético"
+  ],
+  "frase_arquetipo": "Mis imágenes piden palabras.",
+  "objetivo_narrativo": "Textualizar la mirada: convertir la experiencia visual en un discurso verbal íntimo y simbólico.",
+  "riesgos": [
+    "Imitar discursos curatoriales que no siente propios.",
+    "Forzar la escritura y perder autenticidad.",
+    "Abandonar si percibe demasiada exigencia técnica.",
+    "Ocultar su vulnerabilidad detrás de la estética visual."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Pausado, reflexivo, con silencios largos entre ideas.",
+    "tendencias": [
+      "Habla desde metáforas visuales.",
+      "Usa descripciones sensoriales (luz, textura, silencio).",
+      "Evita discursos excesivamente extensos o retóricos."
+    ],
+    "registro": "Minimalista, contemplativo, sugerente."
+  },
+  "expectativas": [
+    "Ejercicios que conecten palabra e imagen.",
+    "Espacios de creación sin presión técnica.",
+    "Recursos para escribir textos breves y poéticos.",
+    "Acompañamiento que respete su sensibilidad visual."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Concibe la escritura como un territorio desconocido que puede abrir nuevas capas de sentido en su obra.",
+    "bloqueos": [
+      "Dificultad para describir verbalmente lo que para ella es intuitivo.",
+      "Temor a producir textos demasiado explícitos o explicativos.",
+      "Inseguridad ante la idea de que 'no sabe escribir'."
+    ],
+    "potencial": "Gran sensibilidad estética, dominio de la imagen, capacidad de observación y silencios significativos que pueden traducirse en una escritura poética única."
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Suite de Agentes ECCL"
+  short_description: "Configura y coordina la suite completa de la Escuela."
+  default_prompt: "Presenta la Suite ECCL y ayúdame a elegir el agente adecuado."
+  brand_color: "#C2593F"
+policy:
+  allow_implicit_invocation: true

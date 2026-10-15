@@ -1,0 +1,312 @@
+{
+  "bloque_3": [
+    {
+      "id": "ejemplo_11",
+      "informe_interno": {
+        "alumno": "Valeria",
+        "titulo_ejercicio": "Las manos",
+        "consigna": "Escribir una escena donde un rasgo físico revele el conflicto interno de un personaje.",
+        "genero_tecnica": "Escena focalizada en detalle corporal",
+        "extension": "260 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "El rasgo está: las manos temblorosas de la madre.",
+          "faltas": "El conflicto interno se dice, pero no se muestra."
+        },
+        "voz_del_alumno": {
+          "tipo": "melancólica suave",
+          "presencia": "media-alta",
+          "honestidad": "media",
+          "riesgo_emocional": "medio",
+          "notas": "Tiene una voz armónica pero demasiado prudente."
+        },
+        "estructura_interna": {
+          "conflicto": "enunciado, no encarnado",
+          "subconflictos": "irrelevantes",
+          "puentes": "insuficientes",
+          "movimiento": "ligero",
+          "final": "correcto, algo débil"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "buen detalle de las manos",
+          "abstraccion": "moderada",
+          "lectura": "Falta escena que sostenga el gesto."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "medio-bajo",
+          "exposicion": "moderada",
+          "vinculo": "cuidado pero tímido"
+        },
+        "riesgo": {
+          "emocional": "medio",
+          "formal": "medio",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Detalle corporal potente",
+          "Frases limpias",
+          "Mirada delicada"
+        ],
+        "areas_crecimiento": [
+          "Transformar el conflicto dicho en conflicto visto",
+          "Profundizar emocionalmente sin caer en dramatismo",
+          "Añadir una microacción significativa"
+        ],
+        "potencial_alumno": "Tiene una sensibilidad madura y elegante.",
+        "recomendaciones": [
+          "Mostrar qué provocan esas manos en la narradora",
+          "Crear una microescena que sostenga el gesto",
+          "Cerrar con un detalle, no con una frase abstracta"
+        ]
+      },
+      "comentario_antonia": "Valeria…\n\nQué bien miras. Las manos temblorosas son un punto precioso desde el que empezar. Tienen algo frágil que tú ves con mucha ternura.\n\nPero te quedas un poco en el decir. Me falta la parte vivida. Qué te pasa a ti cuando ves esas manos. Qué se mueve dentro de ti.\n\nEse gesto tiene fuerza. Si lo llevas a una microescena —un objeto que cae, una pausa, una frase que la madre no dice— la pieza se abrirá mucho.\n\nTienes una voz muy delicada. Atrévete a entrar un poco más."
+    },
+
+    {
+      "id": "ejemplo_12",
+      "informe_interno": {
+        "alumno": "Gabriel",
+        "titulo_ejercicio": "La noche del balcón",
+        "consigna": "Narrar un recuerdo inquietante sin recurrir a elementos sobrenaturales.",
+        "genero_tecnica": "Autoficción con tensión",
+        "extension": "480 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "Logra inquietud sin elementos fantásticos.",
+          "faltas": "El final cierra con una frase efectista y explicativa."
+        },
+        "voz_del_alumno": {
+          "tipo": "seca, contenida",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "medio",
+          "notas": "Voz fuerte, muy estable."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "coherentes",
+          "puentes": "bien resueltos",
+          "movimiento": "creciente y tenso",
+          "final": "excesivamente explícito"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "excelentes",
+          "abstraccion": "mínima",
+          "lectura": "Muy visual, ritmo tenso."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "alto",
+          "exposicion": "alta",
+          "vinculo": "auténtico y maduro"
+        },
+        "riesgo": {
+          "emocional": "medio-alto",
+          "formal": "alto",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Gran manejo de la tensión",
+          "Imágenes poderosas",
+          "Escena bien sostenida"
+        ],
+        "areas_crecimiento": [
+          "Contener el final",
+          "Evitar explicaciones que matan el clima",
+          "Confiar en la atmósfera creada"
+        ],
+        "potencial_alumno": "Tiene una voz literaria sólida y muy interesante.",
+        "recomendaciones": [
+          "Eliminar o reducir la última frase",
+          "Cerrar con una imagen que mantenga la inquietud",
+          "Permitir que el lector complete la interpretación"
+        ]
+      },
+      "comentario_antonia": "Gabriel…\n\nQué bien manejas la inquietud. La escena del balcón se siente de verdad: la luz, el silencio, el aire frío… todo está ahí.\n\nSolo te pido que no expliques al final lo que ya estaba tan bien sugerido. El clima que creaste era perfecto. Y la última frase lo reduce.\n\nCierra con una imagen. Una sombra, un ruido, una respiración. Eso es más que suficiente.\n\nTienes una voz muy potente. Confía en ella."
+    },
+
+    {
+      "id": "ejemplo_13",
+      "informe_interno": {
+        "alumno": "Claudia",
+        "titulo_ejercicio": "Menú del día",
+        "consigna": "Escribir una escena banal que revele un conflicto interno sin nombrarlo.",
+        "genero_tecnica": "Narrativa de lo cotidiano",
+        "extension": "310 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "La banalidad está bien explotada; la escena revela algo sin decirlo.",
+          "faltas": "El conflicto interno se percibe, pero podría clarificarse con un segundo gesto."
+        },
+        "voz_del_alumno": {
+          "tipo": "cansada, lúcida",
+          "presencia": "media-alta",
+          "honestidad": "media",
+          "riesgo_emocional": "medio",
+          "notas": "Tiene una voz muy personal, un poco seca pero muy real."
+        },
+        "estructura_interna": {
+          "conflicto": "implícito",
+          "subconflictos": "sutiles",
+          "puentes": "coherentes",
+          "movimiento": "muy leve pero eficaz",
+          "final": "casi perfecto"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "muy buenos",
+          "abstraccion": "mínima",
+          "lectura": "Escena clara, gesto significativo muy bien elegido."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "medio",
+          "exposicion": "media",
+          "vinculo": "auténtico pero muy reservado"
+        },
+        "riesgo": {
+          "emocional": "medio",
+          "formal": "medio",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Excelente manejo de lo cotidiano",
+          "Gesto sutil pero fuerte",
+          "Buen oído narrativo"
+        ],
+        "areas_crecimiento": [
+          "Añadir un segundo gesto para reforzar el conflicto",
+          "Dar un matiz más emocional al cierre"
+        ],
+        "potencial_alumno": "Tiene un estilo limpio y muy contemporáneo.",
+        "recomendaciones": [
+          "Agregar una microacción al final",
+          "Reforzar la implicación emocional del narrador",
+          "Mantener la sobriedad: es su punto fuerte"
+        ]
+      },
+      "comentario_antonia": "Claudia…\n\nQué bien sabes mirar lo pequeño. El menú del día, la bandeja, el gesto mínimo… todo está tan bien puesto que duele un poco, y eso es muy bueno.\n\nSolo te falta un gesto más. Uno pequeño, casi invisible, que deje aún más claro lo que el personaje no dice.\n\nTienes una lucidez preciosa. Y una voz que no hace ruido pero se queda. Eso es muy difícil de conseguir.\n\nSigue por ahí. Estás muy cerca de algo grande."
+    },
+
+    {
+      "id": "ejemplo_14",
+      "informe_interno": {
+        "alumno": "Rocío",
+        "titulo_ejercicio": "A través del cristal",
+        "consigna": "Describir una escena desde el otro lado de un umbral físico.",
+        "genero_tecnica": "Descripción con separación simbólica",
+        "extension": "360 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "El cristal funciona como metáfora de distancia emocional.",
+          "faltas": "El texto podría arriesgar más en la emoción del narrador."
+        },
+        "voz_del_alumno": {
+          "tipo": "suave, protectora",
+          "presencia": "media",
+          "honestidad": "media-baja",
+          "riesgo_emocional": "bajo",
+          "notas": "La voz se refugia en la descripción."
+        },
+        "estructura_interna": {
+          "conflicto": "claro pero tímidamente expuesto",
+          "subconflictos": "mínimos pero útiles",
+          "puentes": "funcionales",
+          "movimiento": "ordenado",
+          "final": "correcto pero poco arriesgado"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "buenos",
+          "abstraccion": "moderada",
+          "lectura": "Falta una emoción nítida."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "débil",
+          "exposicion": "baja",
+          "vinculo": "guardado"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "alto",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Metáfora clara",
+          "Buen control del lenguaje",
+          "Estructura limpia"
+        ],
+        "areas_crecimiento": [
+          "Arriesgar emocionalmente",
+          "Mostrar qué le duele al narrador",
+          "Profundizar el vínculo con la escena"
+        ],
+        "potencial_alumno": "Tiene técnica fuerte; debe abrir la emoción.",
+        "recomendaciones": [
+          "Añadir una frase de vulnerabilidad",
+          "Crear un gesto propio del narrador",
+          "Dejar ver una sombra emocional"
+        ]
+      },
+      "comentario_antonia": "Rocío…\n\nQué bonita es la idea del cristal. Funciona muy bien como símbolo de distancia. Estás ahí, pero sin entrar del todo.\n\nY justo eso te pediría: que entres un poquito más. No hace falta mucho. Una frase, una grieta, un momento en el que el narrador diga —aunque sea sin decirlo— qué le duele o qué teme.\n\nTienes un dominio técnico estupendo. Ahora toca abrir un poco la emoción.\n\nCon una línea más valiente, este texto sería precioso."
+    },
+
+    {
+      "id": "ejemplo_15",
+      "informe_interno": {
+        "alumno": "Miguel",
+        "titulo_ejercicio": "Lo que no dijimos",
+        "consigna": "Escribir un diálogo donde lo importante sea lo que no se dice.",
+        "genero_tecnica": "Diálogo subtextual",
+        "extension": "415 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "El subtexto está bien construido.",
+          "faltas": "A veces el silencio se nota demasiado 'fabricado'."
+        },
+        "voz_del_alumno": {
+          "tipo": "seria, contenida",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Muy buena intuición dramática."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "relevantes",
+          "puentes": "coherentes",
+          "movimiento": "sutil pero eficaz",
+          "final": "muy bueno"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "suficientes",
+          "abstraccion": "baja",
+          "lectura": "Subtexto sólido, silencios bien usados."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "alto",
+          "exposicion": "media",
+          "vinculo": "real, orgánico"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "medio-alto",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Gran oído para el diálogo",
+          "Silencios bien marcados",
+          "Conflicto muy verosímil"
+        ],
+        "areas_crecimiento": [
+          "Naturalizar algunos silencios",
+          "Reducir énfasis artificial",
+          "Aflojar un poco la tensión fabricada"
+        ],
+        "potencial_alumno": "Muy buena intuición dramática; enorme potencial.",
+        "recomendaciones": [
+          "Reescribir dos silencios demasiado evidentes",
+          "Añadir una micro-acción para dar naturalidad",
+          "Confiar más en la sutileza del subtexto"
+        ]
+      },
+      "comentario_antonia": "Miguel…\n\nTienes un oído magnífico. Los silencios que construyes tienen fuerza, de verdad. Se siente lo que no se dice, que era justo lo que pedía el ejercicio.\n\nSolo te diría que algunos de esos silencios se notan demasiado fabricados. Como si quisieras subrayar algo que ya estaba claro. Confiar un poquito más en el diálogo real te va a ayudar mucho.\n\nUna micro-acción —un gesto con una taza, una mirada, un movimiento mínimo— puede darle todavía más vida.\n\nTienes muchísimo talento para esto. Sigue."
+    }
+  ]
+}

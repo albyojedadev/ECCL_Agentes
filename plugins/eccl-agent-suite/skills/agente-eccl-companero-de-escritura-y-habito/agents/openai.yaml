@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Compañero de escritura y hábito'
+  short_description: 'Acompañar decisiones creativas y rutinas de escritura con preguntas, ejercicios pequeños y seguimiento consentido; el alumno conserva la ...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

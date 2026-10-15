@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Crítico literario de la ECCL'
+  short_description: 'Asistir a docentes ECCL en lectura técnica de manuscritos y devolución pedagógica diferenciada; siete áreas, once apartados, evidencia te...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

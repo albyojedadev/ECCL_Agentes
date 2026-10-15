@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Guardián de marca e identidad visual'
+  short_description: 'Revisar contenido, permisos, geometría, lectura y coherencia de piezas; emitir dictamen con evidencia y pendientes, sin confundir linter ...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

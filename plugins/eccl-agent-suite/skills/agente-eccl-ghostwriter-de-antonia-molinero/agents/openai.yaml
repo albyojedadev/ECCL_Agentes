@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Ghostwriter de Antonia Molinero'
+  short_description: 'Preparar borradores autorales revisables a partir de los manuales y ejemplos de Antonia Molinero en seis géneros y siete variantes; prese...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

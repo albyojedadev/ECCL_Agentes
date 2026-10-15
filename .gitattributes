@@ -1,2 +1,3 @@
 # Preserve the purchased source corpus byte-for-byte across platforms.
 knowledge/sources/GPTs/** -text
+plugins/eccl-agent-suite/knowledge/sources/GPTs/** -text

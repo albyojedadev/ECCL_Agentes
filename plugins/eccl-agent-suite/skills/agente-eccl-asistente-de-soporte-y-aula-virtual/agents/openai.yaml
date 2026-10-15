@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Asistente de soporte y aula virtual'
+  short_description: 'Guiar diagnóstico de acceso, clases, grabaciones, tareas y cobros con instrucciones reversibles y cierre confirmado; no prometer recupera...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,305 @@
+{
+  "bloque_1": [
+    {
+      "id": "ejemplo_01",
+      "informe_interno": {
+        "alumno": "María",
+        "titulo_ejercicio": "Mi lugar del mundo",
+        "consigna": "Describir un lugar físico que active la memoria emocional y permita ver el correlato subjetivo del narrador.",
+        "genero_tecnica": "Autoficción",
+        "extension": "350 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "El lugar está descrito con precisión atmosférica: humedad, luz, olor.",
+          "faltas": "No aparece el correlato subjetivo de forma clara; se limita a descripción sensorial sin impacto emocional explícito."
+        },
+        "voz_del_alumno": {
+          "tipo": "observadora tímida",
+          "presencia": "protegida",
+          "honestidad": "media",
+          "riesgo_emocional": "bajo",
+          "notas": "Parece mirar el lugar desde fuera sin implicarse."
+        },
+        "estructura_interna": {
+          "conflicto": "difuso",
+          "subconflictos": "no relevantes",
+          "puentes": "ausentes",
+          "movimiento": "estático",
+          "final": "débil, descriptivo, sin cierre emocional"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "sí: piedras, marea, olor del algarrobo",
+          "abstraccion": "alta en la segunda mitad",
+          "lectura": "Descripción rica pero sin gesto que encarne la experiencia."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "ausente",
+          "exposicion": "baja",
+          "vinculo": "más documental que personal"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "medio",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Muy buena sensibilidad sensorial",
+          "Frases limpias",
+          "Capacidad atmosférica notable"
+        ],
+        "areas_crecimiento": [
+          "Conectar el lugar con lo que le pasa al narrador",
+          "Añadir un gesto significativo",
+          "Construir un cierre con sentido"
+        ],
+        "potencial_alumno": "Mirada fina, podría desarrollar una voz íntima si se expone más.",
+        "recomendaciones": [
+          "Incluir un recuerdo preciso activado por el lugar",
+          "Reescribir el final desde una emoción mínima",
+          "Añadir un gesto propio del narrador"
+        ]
+      },
+      "comentario_antonia": "María…\n\nHas descrito este lugar con una delicadeza preciosa. Se nota tu sensibilidad hacia la luz, hacia los olores, hacia esa forma tranquila en la que las cosas respiran cuando las miras con atención.\n\nPero aquí te escondes un poco. El sitio está, sí, pero tú no acabas de aparecer. Me falta un gesto, uno solo, que nos diga por qué este lugar te importa. Puede ser una imagen breve, un recuerdo que se te enciende, incluso una pequeña incomodidad. Algo tuyo.\n\nEl texto tiene una atmósfera hermosa, pero necesita que te acerques un poco más. Una escena concreta, aunque sea mínima, haría que todo se encendiera.\n\nTienes una mirada muy fina. Cuídala. Y atrévete a entrar."
+    },
+    {
+      "id": "ejemplo_02",
+      "informe_interno": {
+        "alumno": "Raúl",
+        "titulo_ejercicio": "Personaje observado",
+        "consigna": "Seguir a un personaje real y construir una escena narrativa a partir de un gesto significativo.",
+        "genero_tecnica": "Técnicas de la imaginación",
+        "extension": "240 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "Hay un personaje claro: el hombre del paraguas verde.",
+          "faltas": "No hay gesto significativo; sólo descripción del recorrido."
+        },
+        "voz_del_alumno": {
+          "tipo": "irónica leve",
+          "presencia": "medio",
+          "honestidad": "media",
+          "riesgo_emocional": "bajo",
+          "notas": "Mira de lejos; observa pero no conecta."
+        },
+        "estructura_interna": {
+          "conflicto": "ausente",
+          "subconflictos": "no aplicable",
+          "puentes": "no necesarios",
+          "movimiento": "lineal sin transformación",
+          "final": "abrupto y sin lectura emocional"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "pocos",
+          "abstraccion": "moderada",
+          "lectura": "Necesita un gesto que defina al personaje."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "débil",
+          "exposicion": "baja",
+          "vinculo": "observación distante"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "bajo",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Buen ojo para detalles humorísticos",
+          "Capacidad de síntesis"
+        ],
+        "areas_crecimiento": [
+          "Introducir un gesto crucial",
+          "Conectar la voz del narrador con el personaje",
+          "Crear una mínima tensión narrativa"
+        ],
+        "potencial_alumno": "Tiene una ironía natural que puede convertirse en estilo propio.",
+        "recomendaciones": [
+          "Elegir un gesto que condense la escena",
+          "Ampliar una mirada emocional del narrador",
+          "Buscar un final más resonante"
+        ]
+      },
+      "comentario_antonia": "Raúl,\n\nEl hombre del paraguas verde tiene algo, sí. Lo ves con humor, con esa ironía ligera que te sale sola y que es tuya, no la pierdas.\n\nPero necesito un gesto. Uno. Algo que haga que este personaje deje de ser un recorrido y se vuelva alguien. Cómo coloca el paraguas, cómo mira, qué hace con las manos… Ese detalle es el que sostiene el texto.\n\nTú estás aquí, pero desde lejos. Acércate un poco. Mira qué te pasa a ti con ese hombre.\n\nTienes una mirada divertida y muy tuya. Aprovecha eso. Escribe desde ahí."
+    },
+    {
+      "id": "ejemplo_03",
+      "informe_interno": {
+        "alumno": "Sara",
+        "titulo_ejercicio": "La llave",
+        "consigna": "Escribir a partir de un objeto que active memoria emocional.",
+        "genero_tecnica": "Autoficción",
+        "extension": "410 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "El objeto está muy bien integrado; activa una escena infantil intensa.",
+          "faltas": "El cierre sobre-explica la emoción."
+        },
+        "voz_del_alumno": {
+          "tipo": "tierna y dura",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Voz potente; necesita contención en el final."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "bien integrados",
+          "puentes": "presentes",
+          "movimiento": "creciente",
+          "final": "explicativo"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "excelentes",
+          "abstraccion": "mínima",
+          "lectura": "Muy encarnado; gran fuerza sensorial."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "fuerte",
+          "exposicion": "alta",
+          "vinculo": "muy íntimo"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "medio",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Escena muy viva",
+          "Gran manejo del ritmo emocional",
+          "Objeto bien elegido"
+        ],
+        "areas_crecimiento": [
+          "Contener el final",
+          "Evitar explicaciones redundantes",
+          "Confiar más en la escena"
+        ],
+        "potencial_alumno": "Tiene una voz poderosa, profunda y lúcida.",
+        "recomendaciones": [
+          "Eliminar el último párrafo",
+          "Cerrar con un gesto, no con una explicación",
+          "Confiar en el peso emocional de la escena"
+        ]
+      },
+      "comentario_antonia": "Sara…\n\nQué fuerza tiene este texto. Hay momentos en los que la escena respira sola, como si la hubieras vivido hace un minuto. La llave funciona maravillosamente como detonante: abre y duele a la vez.\n\nSolo te pido una cosa: no expliques al final lo que ya estaba tan bien contado. El último párrafo te sobra. Y lo digo porque lo demás está muy vivo. Confía en esa escena; ya dice todo.\n\nTienes una voz preciosa, muy tuya, tierna y dura a la vez. Cuando encuentres el punto exacto de contención, vas a escribir cosas muy grandes.\n\nSigue así. Vas por un camino precioso."
+    },
+    {
+      "id": "ejemplo_04",
+      "informe_interno": {
+        "alumno": "Jordi",
+        "titulo_ejercicio": "Fronterizo",
+        "consigna": "Explorar un conflicto interior a través de una metáfora espacial.",
+        "genero_tecnica": "Autoficción / ensayo narrativo",
+        "extension": "500 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "Buena metáfora inicial (la carretera que divide el barrio).",
+          "faltas": "No hay puente entre el conflicto espacial y el conflicto personal."
+        },
+        "voz_del_alumno": {
+          "tipo": "reflexiva",
+          "presencia": "media",
+          "honestidad": "media",
+          "riesgo_emocional": "bajo",
+          "notas": "Se protege en la reflexión."
+        },
+        "estructura_interna": {
+          "conflicto": "doble pero no unido",
+          "subconflictos": "no integrados",
+          "puentes": "ausentes",
+          "movimiento": "cerebral, no emocional",
+          "final": "conceptual"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "mínimos",
+          "abstraccion": "alta",
+          "lectura": "Habla de ideas en vez de escenas."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "débil",
+          "exposicion": "baja",
+          "vinculo": "intelectual, no emocional"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "medio",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Buena intuición simbólica",
+          "Lenguaje claro"
+        ],
+        "areas_crecimiento": [
+          "Unir los dos conflictos",
+          "Añadir un gesto o una escena",
+          "Reducir abstracción"
+        ],
+        "potencial_alumno": "Tiene inteligencia narrativa; debe bajar al cuerpo.",
+        "recomendaciones": [
+          "Incluir una escena vivida junto a la carretera",
+          "Explicar qué te pasa a ti con esa frontera",
+          "Reescribir el final desde un gesto"
+        ]
+      },
+      "comentario_antonia": "Jordi,\n\nLa metáfora de la carretera es muy buena. Tiene fuerza y podría sostener un texto precioso.\n\nPero te quedas en la idea. Me falta a ti ahí. Qué pasó contigo en esa carretera. Qué gesto, qué escena, qué momento hizo que esa línea se volviera una frontera también para ti.\n\nAhora mismo son dos textos: uno espacial y otro personal. Necesitan un puente.\n\nTienes mucha inteligencia narrativa. Bájala un poco al cuerpo. Y verás cómo aparece algo tuyo muy interesante."
+    },
+    {
+      "id": "ejemplo_05",
+      "informe_interno": {
+        "alumno": "Lucía",
+        "titulo_ejercicio": "Ventana",
+        "consigna": "Escribir desde el punto de vista de un objeto observado.",
+        "genero_tecnica": "Técnicas de la imaginación",
+        "extension": "230 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "La ventana tiene voz propia, muy original.",
+          "faltas": "Falta un pequeño conflicto o tensión."
+        },
+        "voz_del_alumno": {
+          "tipo": "lúdica y melancólica",
+          "presencia": "alta",
+          "honestidad": "media",
+          "riesgo_emocional": "medio",
+          "notas": "Muy buena intuición expresiva."
+        },
+        "estructura_interna": {
+          "conflicto": "mínimo",
+          "subconflictos": "no aplicables",
+          "puentes": "coherentes",
+          "movimiento": "circular",
+          "final": "bonito pero suave"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "buenos",
+          "abstraccion": "baja",
+          "lectura": "Muy visual"
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "ligero",
+          "exposicion": "media",
+          "vinculo": "lúdico"
+        },
+        "riesgo": {
+          "emocional": "medio",
+          "formal": "alto",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Gran imaginación",
+          "Voz muy fresca",
+          "Idea resuelta"
+        ],
+        "areas_crecimiento": [
+          "Añadir un pequeño conflicto",
+          "Profundizar un poco más en la voz del objeto"
+        ],
+        "potencial_alumno": "Tiene frescura creativa; puede explorar más profundidad emocional.",
+        "recomendaciones": [
+          "Agregar una escena donde la ventana desee o tema algo",
+          "Cargar un poco más el final"
+        ]
+      },
+      "comentario_antonia": "Lucía…\n\nQué voz tan bonita tiene tu ventana. Juguetona, un poco triste, y muy tuya.\n\nSolo echo en falta un mínimo conflicto. Algo que esa ventana quiera, o tema, o espere. Ese deseo —aunque sea pequeño— haría que la pieza respirara aún más.\n\nTienes una imaginación preciosa. Si le añades un poquito de emoción, vas a escribir cosas muy interesantes.\n\nSigue por ahí."
+    }
+  ]
+}

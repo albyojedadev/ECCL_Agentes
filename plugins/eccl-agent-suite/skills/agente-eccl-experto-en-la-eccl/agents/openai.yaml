@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Experto en la ECCL y apoyo a dirección'
+  short_description: 'Mentor de dirección ECCL y consulta del corpus académico e institucional. Estructura decisiones A/B, oferta, operaciones, campañas, finan...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,345 @@
+{
+  "fecha": "2026-10-14",
+  "reparaciones": [
+    {
+      "tipo": "curso_aridad",
+      "linea": 11,
+      "id": "IMAG-PUB",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "Del 6 mayo al 24 junio",
+      "fila_original": [
+        "IMAG-PUB",
+        "Taller de Imaginación Publicitaria",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "16",
+        "500",
+        "500",
+        "Antonia Molinero, Jesús Olmo",
+        "",
+        "",
+        "",
+        "Del 6 mayo al 24 junio",
+        "CONSULTAR",
+        "Creativos de agencias",
+        "MÍNIMO 6",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/taller-imaginacion-publicitaria",
+        "Técnicas de Imaginación para agencias. Ampliable. Disponible para una sola agencia"
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 28,
+      "id": "GUION-COMIC",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "A partir del 1 marzo",
+      "fila_original": [
+        "GUION-COMIC",
+        "Taller de Guion de Cómic",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "CONSULTAR",
+        "150",
+        "150",
+        "CONSULTAR WEB",
+        "",
+        "",
+        "",
+        "A partir del 1 marzo",
+        "CONSULTAR",
+        "A partir de 14 años",
+        "LIMITADAS",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/taller-guion-comic",
+        ""
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 33,
+      "id": "VIDEOJUEGOS",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "A partir del 15 mayo",
+      "fila_original": [
+        "VIDEOJUEGOS",
+        "Taller Escribir Jugando: Introducción Guion Videojuegos",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "CONSULTAR",
+        "150",
+        "220",
+        "CONSULTAR WEB",
+        "",
+        "",
+        "",
+        "A partir del 15 mayo",
+        "CONSULTAR",
+        "A partir de 16 años",
+        "LIMITADAS",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/taller-guion-videojuegos",
+        "Aconsejable traer portátil. Precio variable entre fuentes"
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 37,
+      "id": "ESCRIT-TERAP2",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "A partir del 12 marzo",
+      "fila_original": [
+        "ESCRIT-TERAP2",
+        "Escritura Terapéutica II",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "CONSULTAR",
+        "200",
+        "200",
+        "CONSULTAR WEB",
+        "",
+        "",
+        "",
+        "A partir del 12 marzo",
+        "CONSULTAR",
+        "Alumnos Escritura Terapéutica I",
+        "LIMITADAS",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/escritura-terapeutica-ii",
+        ""
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 38,
+      "id": "MITOS",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "A partir del 12 marzo",
+      "fila_original": [
+        "MITOS",
+        "Mitos Leyendas y Cuentos de Hadas",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "CONSULTAR",
+        "240",
+        "240",
+        "CONSULTAR WEB",
+        "",
+        "",
+        "",
+        "A partir del 12 marzo",
+        "CONSULTAR",
+        "General",
+        "LIMITADAS",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/mitos-leyendas-cuentos-hadas",
+        "10 temas según programa"
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 42,
+      "id": "MICRO-VIAJE",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "Del 29 marzo al 31 mayo",
+      "fila_original": [
+        "MICRO-VIAJE",
+        "Microrrelatos - Literatura de Viajes",
+        "CONSULTAR WEB",
+        "Otros Cursos",
+        "CONSULTAR",
+        "80",
+        "100",
+        "Samir Delgado, Acerina Cruz, David Guijosa",
+        "",
+        "",
+        "",
+        "Del 29 marzo al 31 mayo",
+        "Miércoles 18:30h-20h (1a: 18:30h-20:30h)",
+        "General con contacto realidad turística",
+        "CONSULTAR",
+        "Consultar",
+        "https://www.escuelaliteraria.com/producto/microrrelatos-literatura-viajes",
+        "10 sesiones. 80€ alumnos actuales, 100€ otros"
+      ]
+    },
+    {
+      "tipo": "curso_aridad",
+      "linea": 45,
+      "id": "POESIA-ACT",
+      "decision": "periodo adicional conservado en periodo_textual; horario y cola realineados",
+      "periodo_textual": "Del 31 enero al 6 marzo",
+      "fila_original": [
+        "POESIA-ACT",
+        "Poesía Actual",
+        "Presencial/Online Live",
+        "Otros Cursos",
+        "9",
+        "200",
+        "200",
+        "CONSULTAR WEB",
+        "",
+        "",
+        "",
+        "Del 31 enero al 6 marzo",
+        "Miércoles 19h-20:30h",
+        "A partir de 18 años",
+        "CONSULTAR",
+        "Matrícula 1 diciembre",
+        "https://www.escuelaliteraria.com/producto/poesia-actual",
+        "Los lugares insospechados. 6 sesiones"
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar1",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar1.json",
+      "cambios": [
+        {
+          "linea": 17,
+          "offset": 934,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 23,
+          "offset": 1199,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 29,
+          "offset": 1466,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 35,
+          "offset": 1753,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 63,
+          "offset": 3082,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar2",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar2.json",
+      "cambios": [
+        {
+          "linea": 17,
+          "offset": 1055,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 29,
+          "offset": 1643,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 35,
+          "offset": 1978,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 63,
+          "offset": 3293,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar3",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar3.json",
+      "cambios": [
+        {
+          "linea": 29,
+          "offset": 1488,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 35,
+          "offset": 1790,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 63,
+          "offset": 3098,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar4",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar4.json",
+      "cambios": [
+        {
+          "linea": 17,
+          "offset": 929,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 23,
+          "offset": 1217,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 29,
+          "offset": 1483,
+          "antes": "}",
+          "despues": "]"
+        },
+        {
+          "linea": 35,
+          "offset": 1786,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar5",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar5.json",
+      "cambios": [
+        {
+          "linea": 63,
+          "offset": 3272,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    },
+    {
+      "tipo": "avatar_delimitadores",
+      "id": "avatar10",
+      "fuente": "04 Consejo de alumnos/Individuales/avatar10.json",
+      "cambios": [
+        {
+          "linea": 17,
+          "offset": 1123,
+          "antes": "}",
+          "despues": "]"
+        }
+      ]
+    }
+  ],
+  "regla": "No se alteraron fuentes originales. Datos ambiguos conservados con estado, nunca inventados."
+}

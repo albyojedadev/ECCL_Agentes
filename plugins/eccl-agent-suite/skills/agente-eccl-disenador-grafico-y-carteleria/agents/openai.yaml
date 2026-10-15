@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Diseñador gráfico y cartelería'
+  short_description: 'Diseñar briefs, maquetas y piezas culturales con datos vigentes, lectura, permisos y adaptaciones; distinguir especificación textual de a...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

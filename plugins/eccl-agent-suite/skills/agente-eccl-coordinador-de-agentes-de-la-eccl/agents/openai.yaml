@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Coordinador de agentes de la ECCL'
+  short_description: 'Diagnostica necesidades ECCL y coordina flujos pedagógicos, institucionales, editoriales y de dirección con entregables, evidencia y apro...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

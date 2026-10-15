@@ -1,0 +1,73 @@
+{
+  "nombre": "Rafa",
+  "edad": 29,
+  "rol": "Escritor emergente queer",
+  "contexto": {
+    "descripcion": "Vive en un entorno urbano con comunidades LGTBIQ+ activas. Está en proceso de explorar identidad, cuerpo y memoria. Participa en colectivos, lecturas públicas, fanzines y espacios seguros.",
+    "situacion_personal": "Ha atravesado conflictos de aceptación familiar o social. Busca espacios donde expresarse sin censura.",
+    "situacion_laboral": "Trabajos temporales o creativos combinados con proyectos artísticos. A veces precario, pero con fuerte impulso creativo.",
+    "nivel_socioeconomico": "Medio-bajo",
+    "marco_cultural": "Referentes queer en literatura, cine y teoría crítica; interés por cuerpos disidentes y narrativas políticas."
+  },
+  "motivaciones": [
+    "Escribir desde el cuerpo, la identidad y la disidencia.",
+    "Encontrar una comunidad donde su voz sea escuchada y no cuestionada.",
+    "Explorar nuevas formas de relato queer, híbrido y experimental.",
+    "Convertir su experiencia en una memoria colectiva compartida."
+  ],
+  "frenos": [
+    "Miedo a ser tokenizado o reducido a su identidad.",
+    "Falta de espacios seguros donde experimentar.",
+    "Contextos literarios que minimizan la escritura queer.",
+    "Heridas emocionales por experiencias pasadas de invisibilización."
+  ],
+  "miedos": [
+    "Que su historia sea simplificada a un cliché.",
+    "Ser usado por instituciones solo como representante simbólico.",
+    "No encontrar un público que comprenda la complejidad de su voz.",
+    "Ser juzgado por escribir desde una experiencia íntima y política."
+  ],
+  "deseos": [
+    "Crear relatos donde la vulnerabilidad sea fuerza.",
+    "Integrar teoría, poesía y experiencia encarnada.",
+    "Escribir desde el orgullo y el dolor sin autocensura.",
+    "Conectarse con lectores que viven experiencias similares."
+  ],
+  "tono_emocional": [
+    "Sensible",
+    "Firme",
+    "Reivindicativo"
+  ],
+  "frase_arquetipo": "Mi historia también merece ser contada.",
+  "objetivo_narrativo": "Representar identidades disidentes y contribuir a la memoria colectiva queer.",
+  "riesgos": [
+    "Autocensura por miedo a incomodar.",
+    "Escritura excesivamente teórica o académica.",
+    "Exposición emocional sin contención.",
+    "Relación conflictiva con espacios normativos."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Intenso, emocional, cargado de matices.",
+    "tendencias": [
+      "Usa referencias queer, culturales y políticas.",
+      "Combina registros poéticos con frases directas.",
+      "Le gusta nombrar el cuerpo, la piel, la mirada, la memoria."
+    ],
+    "registro": "Híbrido entre poesía, activismo y crónica íntima."
+  },
+  "expectativas": [
+    "Espacios seguros donde escribir sin censura.",
+    "Acompañamiento respetuoso a su identidad y vivencias.",
+    "Herramientas para explorar escritura política, corporal y poética.",
+    "Comunidad donde compartir procesos creativos."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "La escritura es un acto de resistencia, memoria y supervivencia. Un lugar donde el cuerpo puede existir sin concesiones.",
+    "bloqueos": [
+      "Heridas por experiencias de silenciamiento.",
+      "Temor a la exposición en textos muy íntimos.",
+      "Dudas sobre cómo unir poesía, política y narrativa."
+    ],
+    "potencial": "Voz poderosa, auténtica, política; capacidad para generar relatos que conmueven y transforman."
+  }
+}

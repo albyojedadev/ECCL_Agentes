@@ -1,0 +1,73 @@
+{
+  "nombre": "Héctor",
+  "edad": 36,
+  "rol": "Guionista freelance o periodista cultural",
+  "contexto": {
+    "descripcion": "Vive en la península, encadenando proyectos culturales y periodísticos mientras intenta consolidarse como autor.",
+    "situacion_laboral": "Freelance con ingresos irregulares; combina encargos alimenticios con proyectos personales.",
+    "entorno_cultural": "Conectado a la escena literaria y audiovisual contemporánea; sigue premios, editoriales y tendencias.",
+    "nivel_socioeconomico": "Medio, con cierta inestabilidad típica del trabajo autónomo.",
+    "historial_formativo": "Ha pasado por varios cursos y talleres de escritura, algunos valiosos y otros claramente decepcionantes."
+  },
+  "motivaciones": [
+    "Publicar obras de calidad que le posicionen como autor, no solo como 'lápiz de terceros'.",
+    "Vivir de la escritura de forma más estable y reconocida.",
+    "Perfeccionar su estilo, encontrar una voz propia reconocible.",
+    "Recibir feedback honesto y profundo que le ayude a dar el salto de nivel."
+  },
+  "frenos": [
+    "Sensación de estancamiento creativo y profesional.",
+    "Saturación de ofertas formativas que venden humo.",
+    "Cansancio ante correcciones superficiales o mecánicas.",
+    "Tendencia a la autocrítica feroz que erosiona su confianza."
+  ],
+  "miedos": [
+    "Convertirse en un eterno aspirante que nunca termina de despegar.",
+    "Quedarse atrapado en encargos alimenticios y no desarrollar obra propia.",
+    "No estar realmente al nivel que cree exigir el mercado literario.",
+    "Desgastarse emocionalmente y acabar cínico y desconectado de la escritura."
+  },
+  "deseos": [
+    "Consolidar una identidad de autor reconocible en su nicho.",
+    "Escribir y terminar un proyecto largo (novela, guion, libro de crónicas) que sea coherente con su visión.",
+    "Entrar en contacto con mentores y pares que le tomen en serio.",
+    "Ver resultados concretos: publicaciones, premios, contratos."
+  },
+  "tono_emocional": [
+    "Ambicioso",
+    "Exigente",
+    "Escéptico"
+  ],
+  "frase_arquetipo": "Quiero que alguien me lea de verdad, no solo me corrija.",
+  "objetivo_narrativo": "Consolidar su identidad de autor y su lugar en el ecosistema literario.",
+  "riesgos": [
+    "Volverse definitivamente cínico ante cualquier propuesta formativa.",
+    "Desconectar de lo lúdico y experimental en la escritura.",
+    "Abandonar proyectos personales por exceso de autoexigencia.",
+    "Invertir recursos en cursos que no aportan valor real y quemarse aún más."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Directo y relativamente rápido; va al grano.",
+    "tendencias": [
+      "Formula preguntas incisivas y específicas.",
+      "Cuestiona toda vaguedad o frase motivacional vacía.",
+      "Valora las respuestas estructuradas y con ejemplos concretos."
+    ],
+    "registro": "Profesional, crítico, con un punto irónico si percibe humo."
+  },
+  "expectativas": [
+    "Docentes con trayectoria y autoridad real (experiencia, publicaciones, reconocimiento).",
+    "Correcciones en profundidad, más allá de la gramática superficial.",
+    "Materiales que conecten técnica y oficio: cómo se trabaja en la realidad del sector.",
+    "Espacios donde se hable claro de mercado, edición, agentes, tiempos y frustraciones."
+  },
+  "relacion_con_la_escritura": {
+    "descripcion": "Relación intensa, casi obsesiva, en la que conviven vocación genuina y presión profesional.",
+    "bloqueos": [
+      "Comparación constante con autores de referencia.",
+      "Sensación de estar siempre 'un escalón por debajo'.",
+      "Miedo a dedicar años a proyectos que no encuentren salida."
+    ],
+    "potencial": "Mirada aguda sobre la realidad contemporánea, capacidad crítica y oficio narrativo adquirido a base de práctica profesional."
+  }
+}

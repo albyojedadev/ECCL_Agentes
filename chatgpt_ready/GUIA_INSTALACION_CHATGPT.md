@@ -1,7 +1,9 @@
-# 🚀 Guía de Instalación de Asistentes en ChatGPT (Paso a Paso)
+# Guía heredada para reconstruir Custom GPTs manualmente
 ### Escuela Canaria de Creación Literaria (ECCL)
 
-Esta carpeta contiene todo lo necesario para crear o actualizar los **17 asistentes de la Escuela** en tu cuenta de ChatGPT (ChatGPT Plus, Team o Enterprise) en menos de 2 minutos por asistente.
+Esta carpeta es un respaldo para crear o actualizar manualmente los **17 Custom GPTs históricos**. No es la vía recomendada para instalar el sistema actual de agentes y skills.
+
+Para instalar toda la suite como un único plugin sincronizado desde GitHub, use la guía principal `docs/INSTALACION.md` del repositorio.
 
 ---
 

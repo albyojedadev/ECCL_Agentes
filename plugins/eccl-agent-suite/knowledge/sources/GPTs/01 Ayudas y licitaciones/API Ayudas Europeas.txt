@@ -1,0 +1,109 @@
+openapi: 3.1.0
+info:
+  title: Buscador de Ayudas Europeas - Audiovisual y Videojuegos
+  description: Consulta convocatorias europeas activas o cerradas de financiación relacionadas con videojuegos, medios digitales, producción audiovisual y contenidos culturales. Basado en la API del Funding & Tenders Portal de la Comisión Europea.
+  version: 1.1.0
+
+servers:
+  - url: https://ec.europa.eu/info/funding-tenders/opportunities/data
+    description: Portal oficial de financiación europea
+
+paths:
+  /programmes/search:
+    get:
+      operationId: searchEUGrants
+      summary: Buscar convocatorias europeas por palabra clave, estado o programa.
+      parameters:
+        - name: searchText
+          in: query
+          required: true
+          description: Palabra clave (ej. "videojuegos", "audiovisual", "XR", "media")
+          schema:
+            type: string
+        - name: programme
+          in: query
+          required: false
+          description: Código de programa europeo (ej. CREA, HORIZON, DIGITAL)
+          schema:
+            type: string
+        - name: status
+          in: query
+          required: false
+          description: Estado de la convocatoria (OPEN, CLOSED)
+          schema:
+            type: string
+            enum: [OPEN, CLOSED]
+        - name: country
+          in: query
+          required: false
+          description: Código del país para filtrar convocatorias elegibles (ej. ES)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Lista de convocatorias encontradas
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  calls:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                        title:
+                          type: string
+                        openingDate:
+                          type: string
+                        deadlineDate:
+                          type: string
+                        status:
+                          type: string
+                        programme:
+                          type: string
+                        topic:
+                          type: string
+                        url:
+                          type: string
+                          example: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2024-VG
+
+  /programme/calls/{id}:
+    get:
+      operationId: getEUGrantDetails
+      summary: Obtener información detallada de una convocatoria por ID.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID del tópico de convocatoria (ej. CREA-MEDIA-2024-VG)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detalle de la convocatoria europea
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: string
+                  title:
+                    type: string
+                  description:
+                    type: string
+                  openingDate:
+                    type: string
+                  deadlineDate:
+                    type: string
+                  programme:
+                    type: string
+                  url:
+                    type: string
+                    example: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2024-VG
+
+components:
+  schemas: {}

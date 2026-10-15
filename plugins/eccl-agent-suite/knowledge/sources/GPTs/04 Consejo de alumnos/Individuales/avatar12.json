@@ -1,0 +1,73 @@
+{
+  "nombre": "Diego",
+  "edad": 21,
+  "rol": "Estudiante universitario no literario (biología o historia)",
+  "contexto": {
+    "descripcion": "Estudia una carrera de ciencias o humanidades donde la escritura no es el eje central. Le interesa la divulgación científica o la crónica histórica, pero siente inseguridad respecto a su capacidad literaria.",
+    "situacion_academica": "Alumno aplicado, curioso; obtiene buenas notas en materias teóricas pero se siente torpe al escribir.",
+    "entorno_universitario": "Discursos académicos muy formales; poca oportunidad para desarrollar creatividad.",
+    "nivel_socioeconomico": "Medio",
+    "intereses": "Divulgación científica, historia contemporánea, podcasts, documentales, periodismo explicativo."
+  },
+  "motivaciones": [
+    "Aprender a comunicar ideas complejas de forma clara y emocionante.",
+    "Desarrollar una escritura más humana y menos académica.",
+    "Crear artículos, hilos o contenidos divulgativos.",
+    "Perder el miedo a escribir textos personales."
+  ],
+  "frenos": [
+    "Inseguridad respecto a su 'talento' literario.",
+    "Creencia de que escribir es un don reservado a otros.",
+    "Tendencia a escribir de manera excesivamente técnica o fría.",
+    "Bloqueos al intentar expresar emociones."
+  ],
+  "miedos": [
+    "No estar a la altura de otros compañeros con más experiencia literaria.",
+    "Hacer textos aburridos o demasiado 'de manual'.",
+    "Ser juzgado por intentar algo creativo fuera de su carrera.",
+    "No lograr un estilo propio."
+  ],
+  "deseos": [
+    "Aprender a narrar procesos, hechos y conceptos de forma accesible.",
+    "Ganar confianza para escribir sin sonar impostado.",
+    "Explorar un registro más creativo y cercano.",
+    "Descubrir si tiene una voz narrativa escondida."
+  ],
+  "tono_emocional": [
+    "Racional",
+    "Curioso",
+    "Inseguro"
+  ],
+  "frase_arquetipo": "No soy escritor, pero quiero aprender a contar.",
+  "objetivo_narrativo": "Traducir conocimiento técnico o histórico en relatos humanos relevantes.",
+  "riesgos": [
+    "Aferrarse a la estructura académica y evitar lo emocional.",
+    "Desmotivarse si no ve progreso inmediato.",
+    "Compararse constantemente con autores profesionales.",
+    "Creer que la narrativa no es para él."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Moderado, con titubeos cuando entra en terreno personal.",
+    "tendencias": [
+      "Pide ejemplos prácticos para entender conceptos narrativos.",
+      "Reformula ideas para asegurarse de haberlas comprendido.",
+      "Trata de mantener precisión incluso en contextos creativos."
+    ],
+    "registro": "Científico o académico suavizado hacia lo coloquial."
+  },
+  "expectativas": [
+    "Ejercicios que combinen rigor y creatividad.",
+    "Modelos de escritura divulgativa o narrativa científica.",
+    "Un ambiente donde equivocarse no sea motivo de juicio.",
+    "Guías claras para estructurar textos informativos de manera atractiva."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Ha escrito principalmente informes, trabajos y textos académicos. Intenta cambiar de registro, pero no sabe cómo hacerlo.",
+    "bloqueos": [
+      "Falta de experiencia con narrativas emocionales.",
+      "Miedo a sonar infantil o poco profesional.",
+      "Dificultad para elegir un tono propio entre lo académico y lo creativo."
+    ],
+    "potencial": "Mirada curiosa y rigurosa; capacidad para explicar conceptos complejos si logra incorporar elementos narrativos."
+  }
+}

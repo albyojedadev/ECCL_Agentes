@@ -1,0 +1,73 @@
+{
+  "nombre": "Carlos",
+  "edad": 41,
+  "rol": "Periodista, redactor freelance o divulgador cultural",
+  "contexto": {
+    "descripcion": "Trabaja como freelance en medios digitales, revistas culturales y proyectos editoriales. Está acostumbrado a cubrir noticias, entrevistas y reportajes, pero siente el deseo de dar un paso hacia narrativas más profundas.",
+    "situacion_laboral": "Ingresos fluctuantes; depende de encargos, colaboraciones y becas. Mantiene una red de contactos en el ámbito cultural.",
+    "entorno_profesional": "Rodeado de periodistas, escritores, fotógrafos y especialistas en cultura. Observa la precariedad del sector.",
+    "nivel_socioeconomico": "Medio",
+    "presion_profesional": "Produce mucho contenido rápido, poco tiempo para la creación pausada."
+  },
+  "motivaciones": [
+    "Pasar de la información fría al relato con profundidad literaria.",
+    "Desarrollar un estilo personal reconocible.",
+    "Aprender recursos narrativos que potencien la experiencia del lector.",
+    "Encontrar nuevas formas de contar hechos reales sin perder rigor."
+  ],
+  "frenos": [
+    "Falta de tiempo para proyectos literarios largos.",
+    "Dificultad para separar la voz periodística de la voz narrativa.",
+    "Sensación de que todo ya está contado.",
+    "Miedo a sonar artificioso al intentar escribir 'literariamente'."
+  ],
+  "miedos": [
+    "No lograr diferenciarse en un mercado saturado.",
+    "Quedar atrapado en la producción de contenido de baja calidad.",
+    "Perder rigor periodístico por buscar emoción.",
+    "No encontrar una voz propia sólida."
+  ],
+  "deseos": [
+    "Convertir hechos en experiencias narrativas.",
+    "Explorar la crónica, el perfil, la no ficción literaria.",
+    "Construir textos que emocionen sin manipular.",
+    "Acceder a un espacio de mentoría que entienda la frontera entre periodismo y literatura."
+  ],
+  "tono_emocional": [
+    "Observador",
+    "Crítico",
+    "Reflexivo"
+  ],
+  "frase_arquetipo": "La información no basta si no emociona.",
+  "objetivo_narrativo": "Transformar datos, hechos y realidades en relatos humanos con profundidad y claridad.",
+  "riesgos": [
+    "Caer en el exceso de adornos narrativos y perder precisión.",
+    "Desanimarse si su transición literaria no es inmediata.",
+    "Depender demasiado de la técnica y perder frescura.",
+    "Mantener la voz periodística rígida y no explorar lo emocional."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Medido, analítico, con pausas para estructurar ideas.",
+    "tendencias": [
+      "Formula preguntas largas y elaboradas.",
+      "Busca precisión terminológica.",
+      "Contrasta versiones, pide fuentes y referencias."
+    ],
+    "registro": "Profesional, descriptivo, con capacidad para el detalle."
+  },
+  "expectativas": [
+    "Ejercicios que conviertan hechos reales en narrativas humanas.",
+    "Modelos de crónica y no ficción literaria.",
+    "Feedback que afine estilo y estructura sin perder rigor.",
+    "Recursos para equilibrar emoción y objetividad."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Escribe a diario desde un enfoque informativo. Necesita romper la rigidez estructural del periodismo tradicional para encontrar una voz más amplia.",
+    "bloqueos": [
+      "Exceso de objetividad que limita la emoción.",
+      "Duda sobre cuánto de sí mismo puede poner en un texto.",
+      "Tendencia a escribir pensando en plazos y editores."
+    ],
+    "potencial": "Gran capacidad de observación, dominio de estructuras informativas y sensibilidad para captar detalles humanos en lo cotidiano."
+  }
+}

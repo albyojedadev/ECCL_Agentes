@@ -1,0 +1,310 @@
+{
+  "bloque_4": [
+    {
+      "id": "ejemplo_16",
+      "informe_interno": {
+        "alumno": "Nadia",
+        "titulo_ejercicio": "La primera caída",
+        "consigna": "Narrar un recuerdo físico con impacto emocional contenido.",
+        "genero_tecnica": "Autoficción corporal",
+        "extension": "540 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "El recuerdo está vivo, con detalles corporales fuertes.",
+          "faltas": "El impacto emocional se verbaliza demasiado en el cierre."
+        },
+        "voz_del_alumno": {
+          "tipo": "viva, sensible",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Voz muy auténtica; a veces sobre-explica."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "integrados",
+          "puentes": "funcionales",
+          "movimiento": "creciente",
+          "final": "demasiado explícito"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "excelentes (piedra, rodilla, respiración cortada)",
+          "abstraccion": "moderada en el cierre",
+          "lectura": "Muy encarnado hasta la última parte."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "alto",
+          "exposicion": "alta",
+          "vinculo": "emocionalmente fuerte"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "medio",
+          "tematico": "alto"
+        },
+        "fortalezas": [
+          "Gran manejo del cuerpo",
+          "Escena vívida",
+          "Memoria emocional auténtica"
+        ],
+        "areas_crecimiento": [
+          "Evitar explicar el significado al final",
+          "Confiar más en la potencia de la escena"
+        ],
+        "potencial_alumno": "Tiene una voz muy fuerte; podría escribir narrativa íntima de gran nivel.",
+        "recomendaciones": [
+          "Cortar la explicación final",
+          "Cerrar con la respiración o el gesto inicial",
+          "Mantener la contención emocional"
+        ]
+      },
+      "comentario_antonia": "Nadia…\n\nQué bien escribes el cuerpo. La caída, la piedra, la rodilla, esa respiración cortada… es una escena preciosa y muy de verdad.\n\nSolo te pediría una cosa: no expliques al final lo que la escena ya había contado tan bien. Tu texto funciona por lo físico, por lo inmediato. Cuando lo conviertes en reflexión, pierde un poco de fuerza.\n\nCierra con un gesto. Con el aire que te faltó, con la sangre, con la mirada hacia el suelo. Eso basta.\n\nTienes una voz muy potente. Deja que hable sola."
+    },
+
+    {
+      "id": "ejemplo_17",
+      "informe_interno": {
+        "alumno": "Óscar",
+        "titulo_ejercicio": "Mi vecino",
+        "consigna": "Describir una figura cotidiana con un matiz narrativo significativo.",
+        "genero_tecnica": "Observación realista",
+        "extension": "270 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "La figura del vecino está clara.",
+          "faltas": "No aparece el matiz narrativo; falta tensión interna."
+        },
+        "voz_del_alumno": {
+          "tipo": "correcta pero plana",
+          "presencia": "baja",
+          "honestidad": "media-baja",
+          "riesgo_emocional": "muy bajo",
+          "notas": "Suena a ejercicio sin implicación."
+        },
+        "estructura_interna": {
+          "conflicto": "ausente",
+          "subconflictos": "no aplicables",
+          "puentes": "innecesarios",
+          "movimiento": "estático",
+          "final": "neutral, sin resonancia"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "correctos pero genéricos",
+          "abstraccion": "moderada",
+          "lectura": "Falta un gesto que lo haga único."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "mínimo",
+          "exposicion": "baja",
+          "vinculo": "distante"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "bajo",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Descripciones limpias",
+          "Buen orden narrativo"
+        ],
+        "areas_crecimiento": [
+          "Añadir un matiz emocional",
+          "Elegir un gesto significativo",
+          "Construir una tensión mínima"
+        ],
+        "potencial_alumno": "Tiene solidez técnica; necesita entrar más en la emoción.",
+        "recomendaciones": [
+          "Elegir un gesto de ese vecino que te afecte",
+          "Crear un conflicto aunque sea pequeño",
+          "Vincularte tú al personaje"
+        ]
+      },
+      "comentario_antonia": "Óscar,\n\nEl vecino está, sí. Lo ves con claridad y lo cuentas bien. Pero falta algo tuyo. Un gesto, una emoción, una incomodidad. Algo que haga que este hombre sea más que una figura de relleno.\n\nEl ejercicio pedía un matiz narrativo. Un pequeño movimiento interno. Y tú te has quedado en la superficie.\n\nTienes mucha limpieza al escribir. Ahora toca entrar un poquito más.\n\nCon un gesto bien elegido, este texto respiraría mucho más."
+    },
+
+    {
+      "id": "ejemplo_18",
+      "informe_interno": {
+        "alumno": "Inés",
+        "titulo_ejercicio": "Las cosas que guardo",
+        "consigna": "Escribir desde un objeto personal que active memoria pero sin caer en sentimentalismo.",
+        "genero_tecnica": "Autoficción con objeto simbólico",
+        "extension": "620 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "El objeto (un ticket de autobús) es excelente y simbólico.",
+          "faltas": "Cae en sentimentalismo explícito en la segunda mitad."
+        },
+        "voz_del_alumno": {
+          "tipo": "emocional, abierta",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Voz muy viva pero sin contención."
+        },
+        "estructura_interna": {
+          "conflicto": "claro pero expuesto con exceso",
+          "subconflictos": "demasiado dramáticos",
+          "puentes": "coherentes pero recargados",
+          "movimiento": "intenso pero desbordado",
+          "final": "sentimental"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "muy buenos en la primera mitad",
+          "abstraccion": "alta en la segunda",
+          "lectura": "Se rompe la contención emocional."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "muy fuerte",
+          "exposicion": "alta",
+          "vinculo": "auténtico"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "medio",
+          "tematico": "alto"
+        },
+        "fortalezas": [
+          "Objeto muy bien elegido",
+          "Primera mitad impecable",
+          "Voz intensa"
+        ],
+        "areas_crecimiento": [
+          "Reducir sentimentalismo",
+          "Volver al gesto del objeto",
+          "Contener la emoción"
+        ],
+        "potencial_alumno": "Tiene una voz muy potente cuando se contiene.",
+        "recomendaciones": [
+          "Reescribir la segunda mitad con más contención",
+          "Apostar por la fuerza simbólica del ticket",
+          "Cerrar con una imagen, no con emoción explicada"
+        ]
+      },
+      "comentario_antonia": "Inés…\n\nQué buen objeto elegiste. Ese ticket tiene una fuerza simbólica preciosa, y la primera parte del texto es magnífica.\n\nPero luego te me vas un poco hacia el sentimentalismo. Es normal: el objeto te toca. Pero el texto tenía más fuerza cuando lo dejabas hablar solo.\n\nVuelve al ticket. A su olor, a su color, a cómo lo guardaste. Ahí está todo.\n\nTienes una voz muy viva. Si la contienes un poquito, puede ser increíble."
+    },
+
+    {
+      "id": "ejemplo_19",
+      "informe_interno": {
+        "alumno": "Daniel",
+        "titulo_ejercicio": "Cosas que dice mi madre",
+        "consigna": "Construir un texto a partir de frases reales de un familiar, evitando caricatura y sentimentalismo.",
+        "genero_tecnica": "Autoficción dialogada",
+        "extension": "350 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "Las frases de la madre son vivas y muy verosímiles.",
+          "faltas": "Falta una capa emocional del narrador."
+        },
+        "voz_del_alumno": {
+          "tipo": "luminosa, algo infantil",
+          "presencia": "media",
+          "honestidad": "media",
+          "riesgo_emocional": "bajo",
+          "notas": "Se apoya demasiado en la figura materna."
+        },
+        "estructura_interna": {
+          "conflicto": "ligero pero claro",
+          "subconflictos": "no necesarios",
+          "puentes": "coherentes",
+          "movimiento": "suave",
+          "final": "bonito pero liviano"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "muy buenos (frases, tics verbales)",
+          "abstraccion": "baja",
+          "lectura": "El texto es cálido pero poco profundo."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "débil",
+          "exposicion": "baja",
+          "vinculo": "demasiado protegido"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "medio",
+          "tematico": "medio-bajo"
+        },
+        "fortalezas": [
+          "Muy buen oído",
+          "Frases vivas",
+          "Ritmo cálido"
+        ],
+        "areas_crecimiento": [
+          "Aparecer más tú",
+          "Dar más profundidad al vínculo",
+          "Incorporar una sombra emocional"
+        ],
+        "potencial_alumno": "Tiene oído fino; necesita profundidad.",
+        "recomendaciones": [
+          "Añadir un gesto propio del narrador",
+          "Profundizar en lo que siente al escuchar esas frases",
+          "Reescribir el cierre desde una emoción más madura"
+        ]
+      },
+      "comentario_antonia": "Daniel…\n\nTu madre está tan bien puesta que casi la oigo. Tienes un oído precioso para esos giros, esas frases que solo pueden salir de ella.\n\nPero te echo un poco de menos a ti. Dime qué te pasa cuando oyes eso. ¿Te enternece? ¿Te incomoda? ¿Te enfada? ¿Te da risa?\n\nEl ejercicio pedía esa capa emocional, y tú te quedas un poco escondido.\n\nTienes mucho talento para escuchar. Ahora solo falta que te escuches a ti también."
+    },
+
+    {
+      "id": "ejemplo_20",
+      "informe_interno": {
+        "alumno": "Amaia",
+        "titulo_ejercicio": "El camino de tierra",
+        "consigna": "Crear una escena simbólica donde un desplazamiento físico refleje un cambio interno.",
+        "genero_tecnica": "Metáfora espacial / escena simbólica",
+        "extension": "710 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "La metáfora del camino es sólida.",
+          "faltas": "El cambio interno se verbaliza demasiado en dos tramos."
+        },
+        "voz_del_alumno": {
+          "tipo": "grave, introspectiva",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Muy buena voz; precisa contención."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "presentes y funcionales",
+          "puentes": "consistentes",
+          "movimiento": "fluido",
+          "final": "potente pero ligeramente explicado"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "muy buenos",
+          "abstraccion": "moderada",
+          "lectura": "La simbología funciona, pero sobra explicación."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "alto",
+          "exposicion": "alta",
+          "vinculo": "auténtico"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "alto",
+          "tematico": "alto"
+        },
+        "fortalezas": [
+          "Metáfora sólida",
+          "Escena viva",
+          "Voz profunda"
+        ],
+        "areas_crecimiento": [
+          "Contener la explicación del cambio interno",
+          "Permitir que el símbolo hable solo"
+        ],
+        "potencial_alumno": "Tiene voz literaria muy madura.",
+        "recomendaciones": [
+          "Cortar dos frases explicativas del final",
+          "Cerrar con un gesto físico",
+          "Mantener la fuerza simbólica sin verbalizarla"
+        ]
+      },
+      "comentario_antonia": "Amaia…\n\nEl camino está muy bien escrito. Muy. Tiene ese polvo, esa luz, esa sensación de tránsito que tú sabes poner tan bien.\n\nSolo te diría una cosa: no expliques el cambio. Déjalo estar. Está clarísimo en la escena. Cuando lo dices, se achica.\n\nCierra con un gesto: el pie que avanza, el polvo que se levanta, la sombra que cambia. Eso basta.\n\nTienes una voz profunda y hermosa. Confía en ella."
+    }
+  ]
+}

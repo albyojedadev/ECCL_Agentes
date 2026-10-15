@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Asesor documental de propiedad intelectual'
+  short_description: 'Apoyar preparación y revisión documental de derechos editoriales, representación, datos e imagen; señalar riesgos y pendientes sin garant...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

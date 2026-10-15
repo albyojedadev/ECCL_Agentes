@@ -1,0 +1,73 @@
+{
+  "nombre": "Lucía",
+  "edad": 46,
+  "rol": "Gestora cultural en biblioteca o museo público",
+  "contexto": {
+    "descripcion": "Coordina proyectos en instituciones culturales públicas: bibliotecas, museos o centros cívicos. Maneja presupuestos ajustados, trámites administrativos y programación anual.",
+    "situacion_laboral": "Función estable pero envuelta en burocracia. Administra equipos pequeños y colabora con asociaciones, ayuntamientos y colectivos.",
+    "ecosistema": "Sector público con recursos limitados, dependencia de subvenciones y necesidad de justificar cada actividad con informes.",
+    "nivel_socioeconomico": "Medio",
+    "responsabilidades": "Programación cultural, gestión de eventos, relación con proveedores, comunicación institucional y desarrollo de públicos."
+  },
+  "motivaciones": [
+    "Formarse en comunicación narrativa para mejorar la programación cultural.",
+    "Contar la cultura de forma más cercana y significativa.",
+    "Diseñar experiencias que conecten con públicos diversos.",
+    "Comunicar el valor social de la institución."
+  ],
+  "frenos": [
+    "Presupuesto limitado y procesos administrativos lentos.",
+    "Falta de tiempo por carga de trabajo y tareas burocráticas.",
+    "Necesidad de justificar cada acción ante superiores.",
+    "Sensación de que los discursos culturales institucionales suelen ser demasiado fríos."
+  ],
+  "miedos": [
+    "Que la institución pierda relevancia en su comunidad.",
+    "No conectar con públicos jóvenes o minoritarios.",
+    "Quedar atrapada en un lenguaje demasiado formal o técnico.",
+    "Que las actividades culturales no tengan impacto real."
+  ],
+  "deseos": [
+    "Crear relatos que expliquen por qué la cultura importa.",
+    "Reforzar la conexión entre institución y ciudadanía.",
+    "Mejorar la comunicación digital con un lenguaje más humano.",
+    "Diseñar proyectos que generen identidad colectiva."
+  ],
+  "tono_emocional": [
+    "Formal",
+    "Comprometido",
+    "Realista"
+  ],
+  "frase_arquetipo": "La cultura necesita historias que la defiendan.",
+  "objetivo_narrativo": "Traducir gestión cultural en un relato social relevante, humano y accesible.",
+  "riesgos": [
+    "Mantener un lenguaje excesivamente institucional.",
+    "Apostar por propuestas creativas que la burocracia no permite ejecutar.",
+    "Desgastarse emocionalmente ante la falta de apoyo político.",
+    "Quedar atrapada entre expectativa social y limitaciones reales."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Estructurado, metódico y con claridad procesual.",
+    "tendencias": [
+      "Utiliza conceptos como comunidad, impacto, participación.",
+      "Diferencia entre lo ideal y lo posible.",
+      "Formula preguntas prácticas sobre implementación y viabilidad."
+    ],
+    "registro": "Institucional humanizado: profesional, pero con cercanía y vocación pública."
+  },
+  "expectativas": [
+    "Herramientas narrativas aplicables a la comunicación institucional.",
+    "Métodos para traducir programas culturales en relatos atractivos.",
+    "Estrategias para llegar a públicos jóvenes y diversos.",
+    "Ejercicios que no requieran grandes presupuestos."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Escribe informes, notas de prensa y textos curatoriales breves. Necesita liberar su voz de la rigidez institucional.",
+    "bloqueos": [
+      "Tendencia a sonar demasiado administrativa.",
+      "Dificultad para incorporar emoción sin perder formalidad.",
+      "Conflicto entre creatividad y limitaciones administrativas."
+    ],
+    "potencial": "Capacidad para conectar cultura y ciudadanía; visión estratégica; sensibilidad por el impacto social de la palabra."
+  }
+}

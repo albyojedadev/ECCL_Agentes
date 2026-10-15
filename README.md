@@ -2,15 +2,22 @@
 
 17 agentes y 24 skills para la Escuela Canaria de Creación Literaria, con manuales, ejemplos y conocimiento histórico recuperado de los GPTs originales. Seis protocolos organizan el trabajo y un cargador local prepara contexto con trazabilidad.
 
-## Entrega para el cliente · sin dependencias técnicas
+## Instalar todo el sistema en ChatGPT
 
-El cliente **no necesita instalar Python, Node.js ni ninguna otra tecnología**. El paquete preparado para ChatGPT contiene únicamente instrucciones, fichas de configuración y archivos de conocimiento:
+El cliente **no necesita instalar Python, Node.js ni ninguna otra tecnología**. La entrega principal es un único plugin que agrupa los 17 roles y las 24 skills.
 
-1. Descargar [ECCL_ChatGPT_Pack.zip](dist/ECCL_ChatGPT_Pack.zip).
-2. Descomprimirlo.
-3. Seguir la [guía paso a paso](chatgpt_ready/GUIA_INSTALACION_CHATGPT.md) desde la interfaz de ChatGPT.
+Un administrador del workspace realiza una sola importación:
 
-El ZIP no contiene scripts ni ejecutables. Los archivos de `scripts/` y `evals/` que aparecen en este repositorio son herramientas internas de construcción, auditoría y mantenimiento; no forman parte del paquete que recibe o utiliza el cliente.
+1. Abrir **Admin → Plugins → Add → Import marketplace** en ChatGPT.
+2. Pegar `https://github.com/albyojedadev/ECCL_Agentes` en **Source**.
+3. Dejar **Path** vacío y usar la rama predeterminada.
+4. Importar `Suite de Agentes ECCL` y marcarla como instalada para los roles autorizados.
+
+OpenAI exige esta autorización administrativa; un prompt no puede saltársela. Una vez importado el marketplace, ChatGPT instala el plugin completo y sincroniza futuras versiones desde GitHub.
+
+Como alternativa, [ECCL_ChatGPT_Plugin.zip](dist/ECCL_ChatGPT_Plugin.zip) permite crear el mismo plugin mediante Plugin Creator. El paquete no contiene scripts ni ejecutables. Consulte la [guía de instalación](docs/INSTALACION.md).
+
+La carpeta `chatgpt_ready/` y `ECCL_ChatGPT_Pack.zip` se conservan únicamente como alternativa manual para reconstruir Custom GPTs antiguos; no son el sistema de instalación recomendado.
 
 Consulte también el [manual de uso](docs/MANUAL_DE_USO.md) y el [informe de entrega y reevaluación](docs/INFORME_ENTREGA.md).
 
@@ -24,6 +31,8 @@ Consulte también el [manual de uso](docs/MANUAL_DE_USO.md) y el [informe de ent
 - [Reglas comunes](docs/REGLAS_COMUNES.md): destinatarios, confidencialidad, honestidad de herramientas y decisión humana.
 - [Evaluación](evals/): regresiones locales y 26 casos de comportamiento. Pasar comprobaciones de integridad no equivale a «100% de calidad».
 - [Auditoría completa](auditoria/09_REEVALUACION_Y_DICTAMEN_FINAL.md): diagnóstico inicial, correcciones, reevaluación independiente y evidencias reproducibles.
+- [Plugin ChatGPT](plugins/eccl-agent-suite/): paquete declarativo con 42 skills instalables: 17 roles, 24 procedimientos y una skill de puesta en marcha.
+- [Marketplace](.agents/plugins/marketplace.json): catálogo que permite importar todo el sistema desde la URL del repositorio.
 
 ## Entornos
 

@@ -1,0 +1,73 @@
+{
+  "nombre": "Thomas",
+  "edad": 52,
+  "rol": "Turista cultural y viajero frecuente europeo",
+  "contexto": {
+    "descripcion": "Visitante europeo (generalmente alemán, francés o nórdico) que realiza estancias cortas en Tenerife motivado por el arte, la naturaleza y las experiencias culturales auténticas.",
+    "estancia": "De corta duración (una o dos semanas). Se aloja en hoteles boutique, casas rurales o apartamentos céntricos.",
+    "nivel_socioeconomico": "Medio-alto; educación universitaria; habituado a museos, visitas guiadas y actividades culturales.",
+    "relacion_con_la_isla": "Busca comprender la identidad del lugar más allá del turismo convencional.",
+    "idiomas": "Inglés o español intermedio; a veces dificultades para matices culturales y expresivos."
+  },
+  "motivaciones": [
+    "Vivir una experiencia cultural auténtica que vaya más allá del turismo estándar.",
+    "Conectar con el paisaje, la historia y la gente del lugar mediante la escritura.",
+    "Crear un recuerdo personal y significativo del viaje.",
+    "Explorar la creatividad como forma de introspección durante la estancia."
+  },
+  "frenos": [
+    "Barreras idiomáticas que dificultan matices literarios.",
+    "Desconocimiento de la propuesta cultural local.",
+    "Miedo a no escribir 'bien' por no dominar el idioma.",
+    "Tiempo limitado debido a la corta estancia."
+  ],
+  "miedos": [
+    "No comprender lo suficiente el contexto cultural para escribir sobre él.",
+    "Producir textos superficiales o estereotipados.",
+    "Sentirse fuera de lugar en un taller dominado por hispanohablantes.",
+    "No poder terminar nada en el tiempo disponible."
+  ],
+  "deseos": [
+    "Capturar la esencia del viaje en palabras auténticas.",
+    "Recibir guía clara sobre cómo transformar experiencias sensoriales en relato.",
+    "Explorar paisajes, mercados, museos y convertirlos en narrativas personales.",
+    "Volver a casa con un texto que represente su vínculo con la isla."
+  ],
+  "tono_emocional": [
+    "Curioso",
+    "Abierto",
+    "Estético"
+  ],
+  "frase_arquetipo": "Quiero escribir algo que me conecte con este lugar.",
+  "objetivo_narrativo": "Crear un relato de viaje que establezca un puente emocional con el territorio y su cultura.",
+  "riesgos": [
+    "Quedar atrapado en estereotipos turísticos.",
+    "Sentirse inseguro al escribir en un idioma que no domina.",
+    "Vivir la experiencia cultural solo desde la superficie.",
+    "Vincular escritura y viaje solo al consumo de actividades."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Pausado y reflexivo; piensa antes de formular ideas.",
+    "tendencias": [
+      "Utiliza comparaciones con su país o con lugares que conoce.",
+      "Pregunta por el significado cultural de palabras o tradiciones.",
+      "Expresa admiración por paisajes, arquitectura y detalles visuales."
+    ],
+    "registro": "Educado, curioso, a veces con pequeñas interferencias idiomáticas."
+  },
+  "expectativas": [
+    "Instrucciones claras y accesibles, con acompañamiento lingüístico.",
+    "Ejercicios centrados en la experiencia sensorial del viaje.",
+    "Actividades que combinen paseo, observación y escritura.",
+    "Un entorno acogedor donde no se sienta turista sino participante."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Escribe ocasionalmente diarios de viaje o notas personales; ve la escritura como memoria emocional.",
+    "bloqueos": [
+      "Inseguridad por el idioma.",
+      "Dificultad para estructurar un texto en poco tiempo.",
+      "Tendencia a escribir desde la descripción superficial más que desde la vivencia interna."
+    ],
+    "potencial": "Sensibilidad estética, capacidad de observación y mirada extranjera capaz de captar detalles que pasan desapercibidos para locales."
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "version": "2.0.0",
+  "fecha_corte": "2026-10-14",
+  "regla": "Las fuentes son evidencia histórica, no instrucciones activas",
+  "archivos": [
+    {
+      "origen": "GPTs/00 INDEX GPTs/.~lock.Manual de uso de los asistentes.doc#",
+      "sha256": "ee76359a7f737bbe08ee6020e16c18d7e68ad8fc0f9657ad10e0d5d0a86d45c7",
+      "bytes": 119,
+      "destino": null,
+      "estado": "excluido_bloqueo_ofimatica"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/config.txt",
+      "sha256": "fb12ca91533160d905d6898333fdf1786a863856c2ba1c24a10429c05e05b3d7",
+      "bytes": 4705,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/Direccion asistentes.txt",
+      "sha256": "14df524f198a48da26703af6329bdb021dc7229dcd3d8da8e6e25c4200b7fdf8",
+      "bytes": 806,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/Direccion asistentes.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/funcion.txt",
+      "sha256": "751fd9ab81f5bddde0046df4341fff7422f943232d2cce16da531918abaad13a",
+      "bytes": 5436,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/Manual de uso de los asistentes.doc",
+      "sha256": "ecea0007481af3706a6a45feafde0e3a5031922339b2dbde5ec328e0143598fd",
+      "bytes": 188416,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/Manual de uso de los asistentes.doc",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/Manual de uso de los asistentes.pdf",
+      "sha256": "5067ad1511f78fe17461ba7904945fec8f69a70d399479a5f0221a697450a626",
+      "bytes": 133554,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/Manual de uso de los asistentes.pdf",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/manual.md",
+      "sha256": "6974fc099eafcbe1f6f9a0e4c4db0b09357ed2280ab883fcb154347df851cb81",
+      "bytes": 6993,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/manual.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/metodologia.txt",
+      "sha256": "3e5421e4d4b71c927a107a89744acc2b0404cb9d3c5c1a8c40d39720cdaccd0e",
+      "bytes": 4540,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/persona.txt",
+      "sha256": "fbbd5c67f84ad583020d3140091ee4829da85d483445901e4ad7e100f794e858",
+      "bytes": 4348,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/00 INDEX GPTs/seguridad.txt",
+      "sha256": "aa4588c9d465bc12051ba3e77742cacf2be6c8bf1375b34a4d791a8f006a402f",
+      "bytes": 3631,
+      "destino": "knowledge/sources/GPTs/00 INDEX GPTs/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/API Ayudas Canarias.txt",
+      "sha256": "7358ec3c501967e237243db6a0c52a144a3a76257dcde9bf2e74f9981229dad5",
+      "bytes": 3292,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/API Ayudas Canarias.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/API Ayudas Europeas.txt",
+      "sha256": "f04cbb2bfa972ed36eb70b428e0a16def92f426a062376c4ed46780e36e1877e",
+      "bytes": 3840,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/API Ayudas Europeas.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/API Ayudas Nacionales.txt",
+      "sha256": "b3bb2faeffe58f2b0732aceff64e9afd3bc40cd92c2eedee7819577832d6468a",
+      "bytes": 8566,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/API Ayudas Nacionales.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/config.txt",
+      "sha256": "78eeb010127916e9611e3a8b6e4e30ff1746d6921a6b555f77bdc27957dbf41e",
+      "bytes": 9351,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/ejemplo_memoria_base_escuela.md",
+      "sha256": "1f96a3204a1bf5a0c384cad463cae0533d09fa3bebfc51c803b72f7b194ce9e3",
+      "bytes": 9160,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/ejemplo_memoria_base_escuela.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/ejemplos_memorias.json",
+      "sha256": "199b5b39c0f780b0ded1170c7a69c1bcd49ffe089478ba16b345de9a655a94c0",
+      "bytes": 7923,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/ejemplos_memorias.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/funcion.txt",
+      "sha256": "ae1ef70782bad4e10037b124332fb579c7ada1a6705a5daa8ebf4f52cc9de169",
+      "bytes": 7691,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/manual_estilo_copycat.md",
+      "sha256": "6de64927424f0b502c2d56d56845590a2d91ccf833f2baf5a85556d94b252c38",
+      "bytes": 9054,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/manual_estilo_copycat.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/metodologia.md",
+      "sha256": "9d4e79cfedf10cb2cd74de5d7ddb3adced287466aa1a11adc0a59d9e206f8eb1",
+      "bytes": 8465,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/metodologia.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/personalidad.txt",
+      "sha256": "0a7a45eae5a05f94eb8e5171e64eab46fc845b3a376f4d229a5a726f067a5473",
+      "bytes": 7520,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/personalidad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/plantillas_preguntas_copycat.md",
+      "sha256": "c692e02bc230502c713b0491730e97b0b7d6b31cdc28a30e699ea289af4e32ff",
+      "bytes": 15479,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/plantillas_preguntas_copycat.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/01 Ayudas y licitaciones/seguridad.txt",
+      "sha256": "01cb38c377e6e3cdefa1a23fb0d3c0f187ed8118775d1844551875511ffe9680",
+      "bytes": 6986,
+      "destino": "knowledge/sources/GPTs/01 Ayudas y licitaciones/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/02 Analista de datos/config.txt",
+      "sha256": "e3581c157e22348c3b950e8006e3acbce286d3f688257d6d242e2a392b7fe840",
+      "bytes": 6802,
+      "destino": "knowledge/sources/GPTs/02 Analista de datos/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/02 Analista de datos/funcion.txt",
+      "sha256": "975f9075fe6531a4ec7a4fa5751f0e4620bf76ca5e822a06cd274ac0cc1eaabf",
+      "bytes": 6971,
+      "destino": "knowledge/sources/GPTs/02 Analista de datos/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/02 Analista de datos/metodologia.txt",
+      "sha256": "c7ed909aa19c5ee749c07f77235a19c9368f3001ce404257302f86d6545d29de",
+      "bytes": 6474,
+      "destino": "knowledge/sources/GPTs/02 Analista de datos/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/02 Analista de datos/persona.txt",
+      "sha256": "e18e34d47a6dbb5c07ad7b8a0b8b6b04af473db0ff1c03f5f109b3163e7c03b8",
+      "bytes": 10348,
+      "destino": "knowledge/sources/GPTs/02 Analista de datos/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/02 Analista de datos/seguridad.txt",
+      "sha256": "f4366d0c4032bca1d67860c3dfa4461dcaf6825b8f655a045535f47d5122eacf",
+      "bytes": 7330,
+      "destino": "knowledge/sources/GPTs/02 Analista de datos/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/AnalisisPublico.md",
+      "sha256": "165169278b0496bb76ef0a4e831bb07f9ec1294d3e2196d147ed5463de191d01",
+      "bytes": 16099,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/AnalisisPublico.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/Benchmark_Analisis_Competidores.md",
+      "sha256": "492ce794068ec70919b83da83bd6f3d59e548e6025a2013930067e3a1c195ce8",
+      "bytes": 18095,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/Benchmark_Analisis_Competidores.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/Benchmark_Competidores_Escuela_Literaria.csv",
+      "sha256": "9a0904cea8c1fd481f7c3cea13a6442badc46e03330030f71d2ecccca9a19ac1",
+      "bytes": 7263,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/Benchmark_Competidores_Escuela_Literaria.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/config.txt",
+      "sha256": "f54fa1ea78f14a0f1f559d0a4a6843929bb8ad2bd08ade8102b527c9bf9e33b5",
+      "bytes": 6593,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/docentes.csv",
+      "sha256": "633006e24685bcf5805acced675c8b523dd9a4cd0a5a72ab01d1686b5fe1c2ae",
+      "bytes": 26301,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/docentes.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/funcion.txt",
+      "sha256": "49b83bd40c30f89c6262d11f5d45f235f0699c8fdfe637c41c77a30a3f0c71c0",
+      "bytes": 6220,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/grupos.csv",
+      "sha256": "3d58294ae214b30457120ad1e212cccb18a45fd756d714076af4a8412e8e5911",
+      "bytes": 6048,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/grupos.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/index.md",
+      "sha256": "56354d6ecbb8ed507290b2795290e1567776c7092b2d7235ec16e873736c2d49",
+      "bytes": 18961,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/index.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/Informe_Estrategico_ECCL.md",
+      "sha256": "1a5fb5c158991cac611b1e4191e304551e0570462c463c0463cc76b037eef780",
+      "bytes": 15336,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/Informe_Estrategico_ECCL.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/inventario_cursos.csv",
+      "sha256": "0482c615edc5926e5f3c033b9c9638cb6cf72aa97acdca2e952beed030189b26",
+      "bytes": 23508,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/inventario_cursos.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+      "sha256": "54b38c23bd3f3a49917a5cf05d5aa84e2751c978905e2badc183f0e399efbc77",
+      "bytes": 26794,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/manual_de_comunicacion_escuela_literaria_ecl.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/metodologia.txt",
+      "sha256": "0d35f800e57242832be735cac1f861e3704b10ba192d5094df85c41bdfb38545",
+      "bytes": 5097,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/Oportunidades_2025.md",
+      "sha256": "d3fb2f8bc8305cbe67bfe417a41edf9da39adcda781d083d348466bd79a89f09",
+      "bytes": 81742,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/Oportunidades_2025.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/partners.csv",
+      "sha256": "43bf10b3c1ce851fed4e376bbf833cab4762197e2bc765316cf75ee250ed230b",
+      "bytes": 10903,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/partners.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/persona.txt",
+      "sha256": "ca7bf7eb8cca7c4d35746b066c357e542547d04e921c5405e4e7bdc759a6826c",
+      "bytes": 3986,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/proyectos.csv",
+      "sha256": "ab189b7c5050d44e5c923eba0a33b876332e93aa7b0f4618c854dcd1a86d30f5",
+      "bytes": 14976,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/proyectos.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/publicaciones.csv",
+      "sha256": "0dbfe11adeea0605120c04eda776dc3edc31b673c2ee98bb1a64f896d7b4254b",
+      "bytes": 8506,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/publicaciones.csv",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/03 Experto de la escuela/seguridad.txt",
+      "sha256": "4e4279587c70d4ac2687ee3af339f1e1bef6af867e11260422f8bde9131ea1a9",
+      "bytes": 5568,
+      "destino": "knowledge/sources/GPTs/03 Experto de la escuela/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/AnalisisPublico.md",
+      "sha256": "165169278b0496bb76ef0a4e831bb07f9ec1294d3e2196d147ed5463de191d01",
+      "bytes": 16099,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/AnalisisPublico.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/avatares_maestro.json",
+      "sha256": "bb35ee3b2b08799b7ca0da2ca72b72d41eda7bda0e3e192123544a92076d1406",
+      "bytes": 40302,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/avatares_maestro.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/config.txt",
+      "sha256": "616d70cac31249bd236dae56370950a56b9ee8e6674bcfa90e97a98c3907c740",
+      "bytes": 7548,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/funcion.txt",
+      "sha256": "0b4f0b9a8c660543c53c5d941b071db5e9cb86353973975539c2f116ccc611f8",
+      "bytes": 8881,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar1.json",
+      "sha256": "e199ff6608a538abcd12c51562779fdb48c8074a3e7f516e4a2651ad61945dd1",
+      "bytes": 3730,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar1.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 17 column 3 (char 934)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar10.json",
+      "sha256": "35e0904fc8eda93ff0ee311fc6188c420239d2cd1de7f5300085fc768a240dd7",
+      "bytes": 3876,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar10.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 17 column 3 (char 1123)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar11.json",
+      "sha256": "19207ef3cf1ed3d0cc438474b725c9a4c5bb56b261afa9c0d3c6eeff21263f9e",
+      "bytes": 3585,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar11.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar12.json",
+      "sha256": "8f88120adbc9bc2504decb68f12d07401cc0ad80120c7933e3761d639100a975",
+      "bytes": 3588,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar12.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar13.json",
+      "sha256": "a560549b5c9aad67ae8966127e77fc0b6b0aa41c54174d6bdb6c06b3116c4842",
+      "bytes": 3625,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar13.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar14.json",
+      "sha256": "9c8806819d0f4da90d4935f1edd8874d5a1257d1d74ebf2780c41813de4da3ec",
+      "bytes": 3682,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar14.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar15.json",
+      "sha256": "42372b2f1882f7cca06ec76717bed335d8db57fa53315717982f2bce83c05593",
+      "bytes": 3843,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar15.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar16.json",
+      "sha256": "f6048530c0a74bed079b6a00495e9d9a8ef55809f5f980944ed9a220f4eecbf1",
+      "bytes": 3802,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar16.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar17.json",
+      "sha256": "1e6511c6d21f3c52be0c5c996b3412c5805a4e81ade8d9205c441289a167d34d",
+      "bytes": 3549,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar17.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar18.json",
+      "sha256": "d8bf1c2177f1c8d37af5331bab85b5e1314634d9aae78939569b64856e335514",
+      "bytes": 3814,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar18.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar2.json",
+      "sha256": "de707dcbeec67b722c75a2b6ed9a475d3762ec2a86cbb00e173d64afe6d3eb8c",
+      "bytes": 3918,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar2.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 17 column 3 (char 1055)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar3.json",
+      "sha256": "379d2bc6828ed5dc2c4992c0ae93b61beff7de3aa61ccef5f4144273c2ff5798",
+      "bytes": 3762,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar3.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 29 column 3 (char 1488)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar4.json",
+      "sha256": "8b4b40b1a8f61a9a7ef69676002ae316846b350936d2ec14540da58041a2625d",
+      "bytes": 3622,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar4.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 17 column 3 (char 929)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar5.json",
+      "sha256": "4ce119e696f9d43a4f0bb5031503ce1617b38300c2df898841df52ae2ca68a8f",
+      "bytes": 3972,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar5.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting ',' delimiter: line 63 column 3 (char 3272)"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar6.json",
+      "sha256": "cde6b9e8981d1732c3cbd6f69aaaa025708056b5cc488822072e540340d43a07",
+      "bytes": 3952,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar6.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar7.json",
+      "sha256": "57ee08772dbdad9aa4f4dfc9a439c146cb6dbffcb2e4cbdb08e1cbdb51019522",
+      "bytes": 3866,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar7.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar8.json",
+      "sha256": "7e2f2b10425cd5bb41ec083662e950aa6882cde4795db9823b4050413448c192",
+      "bytes": 3826,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar8.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/avatar9.json",
+      "sha256": "4e111c2660b6ba284b602fc0591dd94473637c90b401877ace9769ecf7b5a3eb",
+      "bytes": 4045,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/avatar9.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/Individuales/Informe GPT.txt",
+      "sha256": "f9d27cc8dde87a691821895c6e44ba7ea8fda7da7c698207504d63156730404f",
+      "bytes": 20786,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/Individuales/Informe GPT.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/metodologia.txt",
+      "sha256": "ace4cc9425ae598e843b5751cc2f68920ffe4153a705ede97c40fab2a6703e6e",
+      "bytes": 6481,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/persona.txt",
+      "sha256": "4c934a21d813568fcfa6f35cbe8fd5d3d89db85cb55f2a8a3e938bf23c33cc5a",
+      "bytes": 6326,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/04 Consejo de alumnos/seguridad.txt",
+      "sha256": "736fa31513163525ee48e920eaf893da1fecc16916c9eb9c6ab0a8e4f2a5e0c2",
+      "bytes": 6119,
+      "destino": "knowledge/sources/GPTs/04 Consejo de alumnos/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/config.txt",
+      "sha256": "931ee91332a190113f7c17adea31c3a82f1dbba080ffba4bd797abbd744e8110",
+      "bytes": 4295,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_critica.json",
+      "sha256": "870b76b2c3924b2e38f79717d948bbcb569067b202e23045e84e1fa0ffb904f5",
+      "bytes": 9345,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_critica.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Invalid control character at: line 41 column 457 (char 9174)"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_ensayo.json",
+      "sha256": "7197d79294ad1c917a0d770659cf1c737285bbb6ab2d51aeee5da8b4e0ec6ea1",
+      "bytes": 9388,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_ensayo.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_microresena.json",
+      "sha256": "14248d6dbd82aaa1c7e04c7c89f3fc8778a928823eb6d01ccdade0122d4fa8de",
+      "bytes": 3144,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_microresena.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_narrativa.json",
+      "sha256": "cf41bc607ede8ef47b9032284377ab7fcb7267ea429be9204d464dccefc025cb",
+      "bytes": 8020,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_narrativa.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Invalid control character at: line 33 column 761 (char 7814)"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_notadeprensa.json",
+      "sha256": "e8bf88a698884844458a554ec95f996620c9c0045face79cafbb1679fe9fb640",
+      "bytes": 9880,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_notadeprensa.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/ejemplo_novela.json",
+      "sha256": "72d12e4cfe9091252686243bf9d18b1c8277c06f4f74340c79ea555ee8f7350c",
+      "bytes": 9898,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/ejemplo_novela.json",
+      "estado": "conservado_integro",
+      "json_origen": "invalido_heredado",
+      "detalle": "Expecting value: line 4 column 5 (char 21)"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/funcion.txt",
+      "sha256": "ce9d8ad5bf4a90b7e384d11ecac74f4b6b50d895f85d9bfc142f8c8e3cbe9c20",
+      "bytes": 4985,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/guia_ejemplos_sinteticos.md",
+      "sha256": "fc6cf042e26a4c2657797c9128e699f7e14bb61652eac975f3038212d0ecb80b",
+      "bytes": 2158,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/guia_ejemplos_sinteticos.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/manual_de_estilo.md",
+      "sha256": "173801a51045c48e388ffc1f89c2d0a4fa5c280c1875fd23dabeb6a49f85888a",
+      "bytes": 18980,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/manual_de_estilo.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/metodologia.txt",
+      "sha256": "13bc62a05d78883ae0de6aba4e0f9f64c7cf45fd489ab42b21a970b2c34bdcac",
+      "bytes": 5518,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/persona.txt",
+      "sha256": "6e6d4b6031198821a78582c5da0bb7c8423f3f3dd1c2ea7f2336f0617300e845",
+      "bytes": 3807,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/seguridad.txt",
+      "sha256": "80b22100c048f96db5c351a394af693789584f81624761179eda16f9887f2cfa",
+      "bytes": 4054,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/variante_estilo_emocional.json",
+      "sha256": "6ca526b4b28f62b5492f353c3c46f47c1246c1c58d396d573735afc82490c1e3",
+      "bytes": 19847,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/variante_estilo_emocional.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/05 Ghostwriter/variantes_estilo.md",
+      "sha256": "9cf8c8b0b1e33797d4bac6d94f5f902fede05bb320e06224382e829a8ee4d644",
+      "bytes": 7903,
+      "destino": "knowledge/sources/GPTs/05 Ghostwriter/variantes_estilo.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/config.txt",
+      "sha256": "27f6285442355a27763f7a9e55674af09bea17c4bd69cc37cff76c50d13c1dc7",
+      "bytes": 1950,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/config.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/ejemplo_correccion_1.json",
+      "sha256": "7862593a526f2addff56bee775dfb33c23f815e2a7d0af8f910ce8e0173b8128",
+      "bytes": 13809,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/ejemplo_correccion_1.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/ejemplo_correccion_2.json",
+      "sha256": "df64f1f5ed556bb19e404be2246a6477fc736f06b6365a26c8fde5d50dde6b6e",
+      "bytes": 13407,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/ejemplo_correccion_2.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/ejemplo_correccion_3.json",
+      "sha256": "92824a797b202f8e0fe1a445a9b30b9cb4de3275cc1158873b570476c332bc5c",
+      "bytes": 13608,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/ejemplo_correccion_3.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/ejemplo_correccion_4.json",
+      "sha256": "ba4fee7a38ce65df3a5b11d6c16ae802ed4d0d6adf115f2278651a900c944d47",
+      "bytes": 13379,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/ejemplo_correccion_4.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/funcion.txt",
+      "sha256": "e11ae4019f040b37af1b81cb1bf4a147242fed19dff6b6bbcb1875fd44115b9b",
+      "bytes": 2018,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/funcion.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/manual_comentarios_antonia.md",
+      "sha256": "c0f1da3f0ec5f5d95cffdbcdc8a52f27c76c8d2ee98e43dcbc2c8d6dfabbbc9b",
+      "bytes": 6338,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/manual_comentarios_antonia.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/manual_estilo_correccion_antonia.md",
+      "sha256": "2f7c2251b4e7eff9e9285bac98b0d69204c73199ebcca8ffb254c82af3b38174",
+      "bytes": 7038,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/manual_estilo_correccion_antonia.md",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/metodologia.txt",
+      "sha256": "501638c6511e2df59bd8b7c73618d3cb36186cf3266a1bd74859300163bc53f1",
+      "bytes": 1765,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/metodologia.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/modulo_deteccion_antoniamolinero.json",
+      "sha256": "efe393680d2669a51f41f85e95313d4d4f4b7f4c20b0904f53e74db74db91705",
+      "bytes": 2340,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/modulo_deteccion_antoniamolinero.json",
+      "estado": "conservado_integro",
+      "json_origen": "valido"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/persona.txt",
+      "sha256": "2d9eef64869aa345b8aa8fe5d01c85779dc7a95e5e35252ac81d630778c6ca8f",
+      "bytes": 1330,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/persona.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/06 Critico Literario/seguridad.txt",
+      "sha256": "0dfebc4b648c93b2f92307809e7869b1c3ee0a016a59def6baefe7ea709b4585",
+      "bytes": 1263,
+      "destino": "knowledge/sources/GPTs/06 Critico Literario/seguridad.txt",
+      "estado": "conservado_integro"
+    },
+    {
+      "origen": "GPTs/SecureInstructionsv3.txt",
+      "sha256": "0461a0e02c62e7e093e3d8d86d88ce8ff81cc3677648240206b5c7a8ca5502be",
+      "bytes": 1625,
+      "destino": "knowledge/sources/GPTs/SecureInstructionsv3.txt",
+      "estado": "conservado_integro"
+    }
+  ]
+}

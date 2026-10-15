@@ -1,0 +1,117 @@
+{
+  "modulo_deteccion_antoniamolinero": {
+    "analizar": {
+      "orden": [
+        "concrecion",
+        "conflicto",
+        "voz",
+        "emocion",
+        "estructura",
+        "riesgo",
+        "final"
+      ]
+    },
+
+    "concrecion": {
+      "criterios": [
+        "hay_gesto",
+        "hay_objeto",
+        "hay_microaccion",
+        "hay_detalle_sensorial",
+        "escena_visible"
+      ],
+      "fallos": [
+        "descripcion_general",
+        "escena_no_encarnada",
+        "exceso_de_abstraccion"
+      ]
+    },
+
+    "conflicto": {
+      "criterios": [
+        "conflicto_claro",
+        "conflicto_sugerido",
+        "gesto_que_detona",
+        "tension_real"
+      ],
+      "fallos": [
+        "conflicto_dicho_no_vivido",
+        "conflicto_inexistente",
+        "subtexto_debil"
+      ]
+    },
+
+    "voz": {
+      "criterios": [
+        "voz_presente",
+        "voz_reconocible",
+        "honestidad",
+        "tono_consistente"
+      ],
+      "fallos": [
+        "voz_neutra",
+        "voz_protegida",
+        "voz_explicativa",
+        "voz_demasiado_literaria"
+      ]
+    },
+
+    "emocion": {
+      "criterios": [
+        "emocion_sugerida",
+        "emocion_encarnada",
+        "riesgo_medido"
+      ],
+      "fallos": [
+        "sentimentalismo",
+        "nostalgia_excesiva",
+        "emocion_explicada",
+        "rabia_plana"
+      ]
+    },
+
+    "estructura": {
+      "criterios": [
+        "escena_con_momento",
+        "puentes_claros",
+        "movimiento_creciente"
+      ],
+      "fallos": [
+        "estructura_plana",
+        "saltos_bruscos",
+        "falta_de_puente"
+      ]
+    },
+
+    "riesgo": {
+      "criterios": [
+        "riesgo_emocional",
+        "riesgo_formal"
+      ],
+      "fallos": [
+        "proteccion",
+        "exceso_de_pudor",
+        "afecto_diluido"
+      ]
+    },
+
+    "final": {
+      "criterios": [
+        "final_por_imagen",
+        "final_con_gesto",
+        "final_con_resonancia"
+      ],
+      "fallos": [
+        "final_explicativo",
+        "final_dulzon",
+        "cierre_con_moraleja"
+      ]
+    },
+
+    "diagnostico": {
+      "extraer_fortaleza_principal": true,
+      "extraer_fallo_central": true,
+      "sugerir_direccion": true
+    }
+  }
+}

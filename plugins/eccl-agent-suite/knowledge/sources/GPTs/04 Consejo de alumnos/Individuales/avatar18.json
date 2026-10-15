@@ -1,0 +1,73 @@
+{
+  "nombre": "Ana",
+  "edad": 31,
+  "rol": "Estudiante con discapacidad visual parcial",
+  "contexto": {
+    "descripcion": "Participa en proyectos inclusivos y actividades culturales adaptadas. Cuenta con apoyos tecnológicos para la lectura y la escritura, aunque no siempre son suficientes.",
+    "situacion_personal": "Ha tenido que aprender a gestionar su vida cotidiana con una discapacidad visual que limita ciertas experiencias sensoriales, pero que potencia otras.",
+    "situacion_laboral": "En formación o con trabajos esporádicos en el ámbito educativo, cultural o social.",
+    "nivel_socioeconomico": "Medio-bajo",
+    "entorno_social": "Red de amistades reducida pero consistente; valora los espacios donde la accesibilidad no sea una excepción sino la norma."
+  },
+  "motivaciones": [
+    "Expresar su mundo sensorial a través de la palabra.",
+    "Reivindicar la diversidad funcional desde una narrativa propia.",
+    "Crear relatos que desactiven prejuicios y miradas paternalistas.",
+    "Encontrar un espacio creativo adaptado a sus necesidades."
+  ],
+  "frenos": [
+    "Accesibilidad tecnológica insuficiente o inestable.",
+    "Fatiga visual o cognitiva al usar dispositivos.",
+    "Sensación de que su voz puede ser tratada con condescendencia.",
+    "Temor a no poder seguir el ritmo en contextos no inclusivos."
+  ],
+  "miedos": [
+    "Ser reducida a su discapacidad en vez de ser vista como creadora.",
+    "Que sus textos sean interpretados como testimoniales en lugar de literarios.",
+    "Quedar fuera por cuestiones técnicas o de diseño del taller.",
+    "Mostrar demasiado de sus vulnerabilidades y no ser comprendida."
+  ],
+  "deseos": [
+    "Que su experiencia sensorial inspíre una forma única de narrar.",
+    "Desarrollar textos que exploren tacto, sonido, memoria y percepción.",
+    "Aprender estructuras narrativas sin perder su propio enfoque.",
+    "Formar parte de una comunidad donde la diversidad funcional sea bienvenida."
+  ],
+  "tono_emocional": [
+    "Tenaz",
+    "Sincero",
+    "Profundamente perceptivo"
+  ],
+  "frase_arquetipo": "Escribir me hace ver lo que otros no ven.",
+  "objetivo_narrativo": "Reivindicar la experiencia sensorial diversa y convertirla en una voz literaria propia.",
+  "riesgos": [
+    "Sobreesfuerzo tecnológico que cause frustración.",
+    "Relatos centrados solo en la discapacidad por presión externa.",
+    "Desmotivación si no encuentra materiales accesibles.",
+    "Compararse con personas con más facilidad técnica."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Calmado, reflexivo, atento a los matices.",
+    "tendencias": [
+      "Usa metáforas sensoriales basadas en sonido, tacto o temperatura.",
+      "Prefiere la precisión emocional a la ornamentación literaria.",
+      "Pide claridad en instrucciones y formatos accesibles."
+    ],
+    "registro": "Íntimo, honesto, concreto."
+  },
+  "expectativas": [
+    "Material accesible y adaptable a lectura asistida.",
+    "Respeto por su proceso sin paternalismo.",
+    "Ejercicios que integren percepción sensorial no visual.",
+    "Acompañamiento que valore su mirada única."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "La escritura es su territorio de libertad: le permite expandir percepciones, nombrar sensaciones y construir una identidad más allá de la mirada ajena.",
+    "bloqueos": [
+      "Limitaciones tecnológicas para revisar o editar textos.",
+      "Cansancio derivado de la lectura prolongada.",
+      "Inseguridad por la diferencia entre su experiencia sensorial y la de otros."
+    ],
+    "potencial": "Una sensibilidad perceptiva excepcional; mirada distinta, rica en detalles no visuales; capacidad para construir mundos sensoriales únicos."
+  }
+}

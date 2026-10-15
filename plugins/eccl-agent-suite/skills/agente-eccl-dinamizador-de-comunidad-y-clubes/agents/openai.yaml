@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Dinamizador de comunidad y clubes'
+  short_description: 'Preparar ciclos de escritura, clubes y boletines con participación voluntaria, moderación y permisos; no atribuir comunidad activa, coord...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

@@ -1,15 +1,27 @@
 # Instalación y carga
 
-## ChatGPT · recorrido del cliente sin instalaciones
+## ChatGPT Workspace · instalación completa desde GitHub
 
-El cliente no necesita instalar Python, Node.js, una terminal ni ningún programa auxiliar.
+El cliente no necesita instalar Python, Node.js, una terminal ni ningún programa auxiliar. Un administrador del workspace realiza una sola importación autorizada:
 
-1. Descargar `dist/ECCL_ChatGPT_Pack.zip` desde el repositorio.
-2. Descomprimir el archivo.
-3. Abrir `chatgpt_ready/GUIA_INSTALACION_CHATGPT.md`.
-4. Crear o actualizar los asistentes desde la interfaz de ChatGPT siguiendo las fichas incluidas.
+1. Abrir **Admin → Plugins**.
+2. Seleccionar **Add → Import marketplace**.
+3. Introducir `https://github.com/albyojedadev/ECCL_Agentes` como **Source**.
+4. Dejar **Path** vacío y usar la rama predeterminada.
+5. Seleccionar **Import marketplace** y autorizar el acceso a GitHub cuando ChatGPT lo solicite.
+6. Abrir `Suite de Agentes ECCL` y configurar su política de instalación para los roles autorizados.
 
-El paquete descargable contiene exclusivamente documentos de configuración y archivos de conocimiento. No contiene scripts ni ejecutables.
+El marketplace contiene un solo plugin. Ese plugin instala 42 skills: 17 roles ECCL, 24 procedimientos y la puesta en marcha que coordina el conjunto. La sincronización posterior se realiza desde el mismo repositorio.
+
+Por seguridad, ChatGPT no permite que un prompt instale un plugin o conceda permisos sin intervención del propietario o administrador. El paso anterior es la autorización mínima exigida por la plataforma.
+
+## Alternativa mediante Plugin Creator
+
+`dist/ECCL_ChatGPT_Plugin.zip` contiene el mismo plugin en formato portable. Puede entregarse a Plugin Creator para crear un plugin privado en la cuenta o workspace autenticado. El ZIP no contiene Python, scripts ni ejecutables.
+
+## Alternativa heredada · Custom GPTs manuales
+
+`chatgpt_ready/` y `dist/ECCL_ChatGPT_Pack.zip` permiten reconstruir los antiguos Custom GPTs mediante copia y carga manual. Se conservan como respaldo, pero no equivalen a instalar el sistema de agentes y skills.
 
 ## Copia local comprobada · solo para mantenimiento técnico
 

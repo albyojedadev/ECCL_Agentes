@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "eccl-agent-suite",
+  "version": "3.0.0",
+  "description": "Sistema completo de agentes, habilidades, protocolos y conocimiento de la Escuela Canaria de Creación Literaria.",
+  "author": {
+    "name": "Escuela Canaria de Creación Literaria",
+    "email": "info@escuelaliteraria.com",
+    "url": "https://www.escuelaliteraria.com/"
+  },
+  "homepage": "https://www.escuelaliteraria.com/",
+  "repository": "https://github.com/albyojedadev/ECCL_Agentes",
+  "license": "Proprietary",
+  "keywords": [
+    "escritura creativa",
+    "educacion literaria",
+    "critica literaria",
+    "gestion cultural",
+    "subvenciones",
+    "edicion"
+  ],
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/eccl-onboarding/SKILL.md",
+      "interface": {
+        "displayName": "Suite de Agentes ECCL",
+        "shortDescription": "Agentes y skills de la ECCL",
+        "longDescription": "Coordina 17 especialidades y 24 procedimientos de la Escuela Canaria de Creación Literaria para tareas pedagógicas, editoriales, institucionales, de comunicación, diseño y gestión cultural.",
+        "developerName": "Escuela Canaria de Creación Literaria",
+        "category": "Education",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": [
+          "Ayúdame a elegir y aplicar el agente ECCL adecuado.",
+          "Coordina una tarea de la Escuela con las skills instaladas.",
+          "Muéstrame las especialidades disponibles en la suite ECCL."
+        ]
+      }
+    }
+  }
+}

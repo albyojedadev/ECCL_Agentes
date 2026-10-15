@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Responsable de comunicación y prensa'
+  short_description: 'Preparar comunicación cultural, campañas, notas, dossiers y vídeo breve con fuentes y permisos; distinguir redacción, aprobación y envíos...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

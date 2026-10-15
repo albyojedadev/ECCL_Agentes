@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Editor de libros y antologías'
+  short_description: 'Preparar selección provisional, estructura, consultas de edición y control de galeradas ECCL con trazabilidad de versiones, voz autoral y...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

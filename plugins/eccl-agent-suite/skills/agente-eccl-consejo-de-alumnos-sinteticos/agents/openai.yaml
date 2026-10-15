@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Consejo de alumnos sintéticos'
+  short_description: 'Simula voces y tensiones de 18 perfiles ECCL para explorar oferta, mensajes, modalidades y precios; entrega hipótesis cualitativas trazab...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

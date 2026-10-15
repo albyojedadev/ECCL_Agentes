@@ -1,0 +1,87 @@
+openapi: 3.1.0
+info:
+  title: Buscador Ayudas Cultura Canarias
+  description: Permite buscar ayudas relacionadas con la Cultura publicadas en el portal de Datos Abiertos del Gobierno de Canarias, usando la API CKAN del catálogo general.
+  version: 1.0.0
+servers:
+  - url: https://datos.canarias.es/catalogos/general/api/action
+    description: API CKAN de datos abiertos del Gobierno de Canarias
+paths:
+  /package_search:
+    get:
+      operationId: buscarAyudasCultura
+      summary: Buscar ayudas relacionadas con Cultura
+      description: |
+        Usa el motor de búsqueda de CKAN para consultar recursos relacionados con ayudas culturales. Permite pasar un término de búsqueda libre como "ayudas cultura", y filtra los datasets relacionados.
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: Término de búsqueda, por ejemplo "cultura" o "ayudas cultura"
+          schema:
+            type: string
+        - name: start
+          in: query
+          required: false
+          description: Índice de inicio para paginación (por defecto 0)
+          schema:
+            type: integer
+            default: 0
+        - name: rows
+          in: query
+          required: false
+          description: Número de resultados a devolver (por defecto 10)
+          schema:
+            type: integer
+            default: 10
+        - name: sort
+          in: query
+          required: false
+          description: Orden de resultados. Por ejemplo, "metadata_modified desc"
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Resultados de búsqueda de datasets
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  help:
+                    type: string
+                  success:
+                    type: boolean
+                  result:
+                    type: object
+                    properties:
+                      count:
+                        type: integer
+                      results:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            title:
+                              type: string
+                            name:
+                              type: string
+                            notes:
+                              type: string
+                            metadata_created:
+                              type: string
+                            metadata_modified:
+                              type: string
+                            url:
+                              type: string
+                            resources:
+                              type: array
+                              items:
+                                type: object
+                                properties:
+                                  url:
+                                    type: string
+                                  format:
+                                    type: string
+                                  name:
+                                    type: string

@@ -1,0 +1,73 @@
+{
+  "nombre": "Laura",
+  "edad": 39,
+  "rol": "Psicóloga humanista y terapeuta narrativa",
+  "contexto": {
+    "descripcion": "Trabaja en consulta privada y talleres grupales donde utiliza herramientas expresivas. Su práctica integra enfoque humanista, escucha activa y dinámicas de escritura terapéutica.",
+    "situacion_laboral": "Consulta estable, combinando sesiones individuales con grupos de desarrollo personal.",
+    "entorno_profesional": "Acompaña procesos emocionales y transiciones vitales. Está habituada al trabajo con trauma ligero, duelo, ansiedad o bloqueos existenciales.",
+    "nivel_socioeconomico": "Medio",
+    "perfil_personal": "Persona introspectiva, empática, cuidadosa con las palabras y con la ética del acompañamiento."
+  },
+  "motivaciones": [
+    "Integrar la escritura como herramienta de sanación emocional.",
+    "Facilitar que las personas nombren sus vivencias con más precisión.",
+    "Ampliar su repertorio de ejercicios expresivos y narrativos.",
+    "Desarrollar metodologías para talleres de escritura terapéutica."
+  ],
+  "frenos": [
+    "Miedo a que la formación se enfoque demasiado en literatura y no en proceso emocional.",
+    "Rechazo a dinámicas que parezcan competitivas o valoren la escritura por su calidad estética.",
+    "Preocupación por no tener suficiente formación narrativa formal.",
+    "Desconfianza hacia espacios que puedan invalidar el ritmo emocional de los participantes."
+  ],
+  "miedos": [
+    "Reducir la escritura a técnica literaria y desconectarla de la persona.",
+    "Exponer a sus pacientes a ejercicios demasiado confrontativos sin contención.",
+    "No saber traducir conceptos terapéuticos a propuestas narrativas claras.",
+    "Que la escritura acabe siendo un adorno superficial y no un proceso transformador."
+  ],
+  "deseos": [
+    "Aprender estructuras narrativas que ayuden a ordenar la experiencia emocional.",
+    "Descubrir ejercicios que faciliten la expresión de duelos, crisis, reenfoques vitales.",
+    "Conectar escritura y cuerpo desde la escucha interna.",
+    "Diseñar talleres donde la palabra sea un puente hacia la comprensión de uno mismo."
+  ],
+  "tono_emocional": [
+    "Empático",
+    "Pausado",
+    "Introspectivo"
+  ],
+  "frase_arquetipo": "Escribir ayuda a nombrar lo que no sabemos decir.",
+  "objetivo_narrativo": "Facilitar catarsis y comprensión a través de la palabra.",
+  "riesgos": [
+    "Confundir escritura terapéutica con escritura creativa tradicional.",
+    "Topar con metodologías demasiado rígidas o estéticas.",
+    "Saturarse con ejercicios poco sensibles al estado emocional de las personas.",
+    "Sentir que la formación no honra la profundidad de su trabajo."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Sereno, reflexivo; prioriza las pausas y la precisión emocional.",
+    "tendencias": [
+      "Formular preguntas abiertas que invitan a explorar.",
+      "Reformular para asegurar comprensión mutua.",
+      "Nombrar emociones y procesos internos con cuidado lingüístico."
+    ],
+    "registro": "Cálido, profesional, respetuoso."
+  },
+  "expectativas": [
+    "Ejercicios que respeten procesos emocionales diversos.",
+    "Herramientas narrativas integrables en sesiones individuales y grupales.",
+    "Marcos éticos para trabajar palabra y memoria emocional.",
+    "Espacios donde la vulnerabilidad no sea tratada como espectáculo."
+  ],
+  "relacion_con_la_escritura": {
+    "descripcion": "Percibe la escritura como acto de autoescucha, de integración y de claridad interna. La utiliza para acompañar procesos.",
+    "bloqueos": [
+      "Miedo a caer en tecnicismos literarios que alejen a las personas.",
+      "Inseguridad sobre su propia 'calidad' como escritora.",
+      "Dificultad para estructurar relatos emocionales complejos sin perder profundidad."
+    ],
+    "potencial": "Habilidad para leer emociones invisibles, generar seguridad y promover escritura introspectiva transformadora."
+  }
+}

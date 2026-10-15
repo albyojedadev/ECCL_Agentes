@@ -1,0 +1,145 @@
+{
+  "ejemplos_memorias": [
+    {
+      "id": "ejemplo_escolar_01",
+      "titulo": "Caminos de Lectura",
+      "tipo_proyecto": "Escolar – ESO y Bachillerato",
+      "descripcion_sintetica": "Proyecto de dinamización lectora y producción de textos breves para alumnado de ESO y Bachillerato, centrado en la lectura en voz alta, el análisis de modelos literarios y la escritura acompañada. Incluye sesiones con profesorado, un itinerario de talleres con alumnado y un producto final en forma de microantología digital.",
+      "estructura": {
+        "presentacion": "El proyecto 'Caminos de Lectura' se plantea como un itinerario práctico para reforzar la competencia lectora y la producción textual del alumnado. Combina sesiones de análisis de textos breves, dinámicas de lectura en voz alta y ejercicios de escritura guiada.",
+        "justificacion": "Los centros educativos manifiestan la necesidad de reforzar el hábito lector mediante propuestas estructuradas, acompañamiento profesional y herramientas que integren lectura y escritura en una secuencia progresiva.",
+        "objetivos": [
+          "Fomentar la lectura de textos breves de diversos géneros.",
+          "Fortalecer la capacidad de análisis y comentario literario.",
+          "Acompañar al alumnado en la producción de textos propios."
+        ],
+        "metodologia": "Taller de lectura y escritura estructurado en fases: lectura de modelos, análisis colectivo, escritura guiada, revisión y lectura en voz alta.",
+        "desarrollo": {
+          "profesorado": [
+            "Sesión 1: Introducción y planificación",
+            "Sesión 2: Estrategias de lectura breve y escritura guiada"
+          ],
+          "alumnado": [
+            "Sesión I: Lectura inicial y detonante",
+            "Sesión II: Escritura guiada de texto breve",
+            "Sesión III: Revisión y ampliación",
+            "Sesión IV: Edición y preparación del producto final"
+          ]
+        },
+        "producto_final": "Microantología digital del grupo, presentada en el centro educativo.",
+        "evaluacion": {
+          "criterios": [
+            "Grado de participación en actividades",
+            "Calidad y coherencia de los textos",
+            "Implicación del profesorado"
+          ],
+          "indicadores": [
+            "Número de textos finalizados",
+            "Evidencias de lectura en voz alta",
+            "Valoración del profesorado"
+          ]
+        },
+        "duracion": "6 semanas"
+      }
+    },
+    {
+      "id": "ejemplo_profesorado_01",
+      "titulo": "Escribir en el Aula",
+      "tipo_proyecto": "Formación de profesorado",
+      "descripcion_sintetica": "Programa formativo para profesorado centrado en estrategias de escritura creativa, lectura breve y acompañamiento al alumnado. Incluye sesiones teórico-prácticas y un módulo de diseño de actividades transferibles al aula.",
+      "estructura": {
+        "presentacion": "El programa 'Escribir en el Aula' ofrece al profesorado herramientas prácticas para integrar la escritura creativa en distintas áreas del currículo.",
+        "justificacion": "El profesorado demanda formación específica en técnicas de escritura guiada, lectura de modelos breves y acompañamiento en procesos de reescritura.",
+        "objetivos": [
+          "Dotar al profesorado de estrategias aplicables en el aula.",
+          "Promover la integración de la escritura en proyectos de centro.",
+          "Desarrollar una secuencia didáctica transferible."
+        ],
+        "metodologia": "Enfoque teórico-práctico basado en análisis de modelos, ejercicios breves y diseño de actividades replicables.",
+        "desarrollo": {
+          "sesiones": [
+            "Sesión 1: Fundamentación y lectura de modelos",
+            "Sesión 2: Escritura breve y retos creativos",
+            "Sesión 3: Revisión y acompañamiento",
+            "Sesión 4: Diseño de actividades aplicables al aula"
+          ]
+        },
+        "producto_final": "Diseño de una actividad de escritura transferible al aula.",
+        "evaluacion": {
+          "criterios": [
+            "Participación en sesiones",
+            "Calidad de la actividad diseñada",
+            "Coherencia curricular"
+          ]
+        },
+        "duracion": "20 horas"
+      }
+    },
+    {
+      "id": "ejemplo_cultural_01",
+      "titulo": "Voces del Barrio",
+      "tipo_proyecto": "Cultural comunitario",
+      "descripcion_sintetica": "Proyecto cultural dirigido a jóvenes y adultos en bibliotecas o casas de la cultura, centrado en talleres de escritura y lectura pública. Promueve la participación comunitaria y la creación de textos breves que reflejen experiencias locales.",
+      "estructura": {
+        "presentacion": "‘Voces del Barrio’ propone un ciclo de talleres en espacios culturales que fomentan la participación ciudadana mediante escritura creativa y lectura compartida.",
+        "justificacion": "Los espacios culturales demandan iniciativas que fortalezcan la participación de la comunidad y la producción cultural de proximidad.",
+        "objetivos": [
+          "Crear un espacio de encuentro en torno a la escritura.",
+          "Fomentar la lectura pública y la escucha activa.",
+          "Generar un producto cultural vinculado al territorio."
+        ],
+        "metodologia": "Taller progresivo basado en modelos breves, escritura acompañada y sesiones de lectura en voz alta.",
+        "desarrollo": {
+          "sesiones": [
+            "Sesión 1: Lectura de modelos y escritura inicial",
+            "Sesión 2: Desarrollo del texto",
+            "Sesión 3: Revisión colectiva",
+            "Sesión 4: Ensayo de lectura pública"
+          ]
+        },
+        "producto_final": "Recital comunitario y publicación digital de textos.",
+        "evaluacion": {
+          "criterios": [
+            "Participación en sesiones",
+            "Calidad y coherencia de las producciones",
+            "Implicación en la lectura pública"
+          ]
+        },
+        "duracion": "4 semanas"
+      }
+    },
+    {
+      "id": "ejemplo_virtual_01",
+      "titulo": "Escritura en Pantalla",
+      "tipo_proyecto": "Aula virtual / formación online",
+      "descripcion_sintetica": "Programa online centrado en escritura creativa, lecturas guiadas y tutorías breves mediante plataforma digital. Diseñado para participantes de distintas islas.",
+      "estructura": {
+        "presentacion": "‘Escritura en Pantalla’ es un programa virtual que facilita experiencias de creación literaria para personas de cualquier isla, combinando videosesiones en directo y tareas asincrónicas.",
+        "justificacion": "La modalidad virtual permite superar barreras geográficas y ampliar la oferta formativa en creación literaria.",
+        "objetivos": [
+          "Facilitar un espacio virtual de creación literaria.",
+          "Fomentar la escritura frecuente mediante retos semanales.",
+          "Acompañar procesos individuales de escritura."
+        ],
+        "metodologia": "Sesiones online en directo + tareas asincrónicas + acompañamiento mediante plataforma.",
+        "desarrollo": {
+          "sesiones": [
+            "Encuentro 1: Lectura breve y propuesta de escritura",
+            "Tarea 1: Primera versión del texto",
+            "Encuentro 2: Revisión en directo",
+            "Tarea 2: Reescritura y envío final"
+          ]
+        },
+        "producto_final": "Dossier digital con textos revisados.",
+        "evaluacion": {
+          "criterios": [
+            "Entrega de tareas",
+            "Participación en encuentros",
+            "Calidad de la versión revisada"
+          ]
+        },
+        "duracion": "3 semanas"
+      }
+    }
+  ]
+}

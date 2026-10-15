@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Analista de datos culturales y educativos'
+  short_description: 'Limpia, cruza y analiza datos culturales, académicos, económicos y digitales ECCL; documenta calidad, benchmarking, impacto, caja y escen...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

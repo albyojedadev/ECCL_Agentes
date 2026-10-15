@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Analista de subvenciones y licitaciones'
+  short_description: 'Analiza bases, encaje y documentación de ayudas/licitaciones culturales; redacta memorias con voz técnico-pedagógica ECCL y prepara banco...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

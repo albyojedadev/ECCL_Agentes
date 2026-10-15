@@ -1,0 +1,309 @@
+{
+  "bloque_2": [
+    {
+      "id": "ejemplo_06",
+      "informe_interno": {
+        "alumno": "Ismael",
+        "titulo_ejercicio": "El gesto que lo cambia todo",
+        "consigna": "Construir una escena cuyo centro sea un gesto mínimo que altere el ambiente narrativo.",
+        "genero_tecnica": "Escena narrativa",
+        "extension": "380 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "El gesto existe: la mujer toca la taza antes de hablar.",
+          "faltas": "El gesto no altera nada; no tiene consecuencia emocional o narrativa."
+        },
+        "voz_del_alumno": {
+          "tipo": "contenida",
+          "presencia": "media",
+          "honestidad": "media",
+          "riesgo_emocional": "bajo",
+          "notas": "Se intuye emoción pero no se expresa."
+        },
+        "estructura_interna": {
+          "conflicto": "débil",
+          "subconflictos": "irrelevantes",
+          "puentes": "presentes pero superficiales",
+          "movimiento": "mínimo",
+          "final": "previsible"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "correctos",
+          "abstraccion": "moderada",
+          "lectura": "Escena visible pero sin profundidad interna."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "ligero",
+          "exposicion": "baja",
+          "vinculo": "más técnico que emocional"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "medio",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Escena clara",
+          "Buen dominio del diálogo",
+          "Ritmo contenido"
+        ],
+        "areas_crecimiento": [
+          "Dar peso al gesto",
+          "Explorar la emoción oculta",
+          "Crear un cambio interno en el narrador"
+        ],
+        "potencial_alumno": "Tiene precisión narrativa; necesita entrar más en la emoción.",
+        "recomendaciones": [
+          "Reescribir la escena desde lo que cambia cuando ella toca la taza",
+          "Añadir un pensamiento o una emoción emergente",
+          "Construir un cierre menos previsible"
+        ]
+      },
+      "comentario_antonia": "Ismael,\n\nLa escena está bien armada y se lee con limpieza. Tienes una manera clara de narrar, sin ruidos, y eso siempre ayuda.\n\nPero el gesto… tenía que mover algo. Y aquí no mueve nada. La mujer toca la taza, sí, pero no se altera el ambiente, ni ella, ni tú, ni el que la mira.\n\nBusca qué pasa ahí dentro. Ese gesto puede abrir una grieta pequeña, una incomodidad, un recuerdo, una duda.\n\nTienes mano para la escena. Ahora solo falta que te atrevas a entrar un poco más en lo que duele o incomoda.\n\nAhí está tu texto."
+    },
+    {
+      "id": "ejemplo_07",
+      "informe_interno": {
+        "alumno": "Sofía",
+        "titulo_ejercicio": "Retrato de infancia",
+        "consigna": "Escribir una escena infantil desde la mirada adulta que recuerda.",
+        "genero_tecnica": "Autoficción",
+        "extension": "520 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "El retrato es claro, emocional y preciso.",
+          "faltas": "Hay un exceso de nostalgia que suaviza demasiado el conflicto."
+        },
+        "voz_del_alumno": {
+          "tipo": "nostálgica y luminosa",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "medio-alto",
+          "notas": "Voz muy bella; necesita contención en lo sentimental."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "bien usados",
+          "puentes": "consistentes",
+          "movimiento": "creciente",
+          "final": "emocional pero un poco dulce de más"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "muy buenos",
+          "abstraccion": "mínima",
+          "lectura": "Escena vívida y poderosa."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "fuerte",
+          "exposicion": "alta",
+          "vinculo": "auténtico"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "medio",
+          "tematico": "alto"
+        },
+        "fortalezas": [
+          "Detalle emocional precioso",
+          "Escena viva y honesta",
+          "Gran ritmo"
+        ],
+        "areas_crecimiento": [
+          "Bajar la nostalgia",
+          "Evitar dulcificar el conflicto",
+          "Sostener la escena sin sentimentalismo"
+        ],
+        "potencial_alumno": "Voz muy prometedora, llena de luz y precisión emocional.",
+        "recomendaciones": [
+          "Reescribir el final sin azúcar",
+          "Añadir una sombra o tensión para equilibrar",
+          "Confiar más en la fuerza de la escena"
+        ]
+      },
+      "comentario_antonia": "Sofía…\n\nQué bien recuerdas. Hay algo en ti que ilumina la infancia sin idealizarla del todo, pero todavía un poquito, ¿eh?\n\nLa escena tiene un brillo precioso. Se nota que viviste eso con fuerza. Pero el final te queda demasiado dulce. Como si quisieras proteger a la niña que fuiste.\n\nDéjala respirar. Déjala ser. También hay una sombra ahí que le daría más peso a todo.\n\nTienes una voz luminosa y muy honesta. Si le quitas un poquito de azúcar al cierre, vas a conseguir un texto formidable."
+    },
+    {
+      "id": "ejemplo_08",
+      "informe_interno": {
+        "alumno": "Tomás",
+        "titulo_ejercicio": "La mujer del autobús",
+        "consigna": "Describir un personaje real y añadir una capa emocional propia del narrador.",
+        "genero_tecnica": "Observación de personaje",
+        "extension": "290 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "La mujer está descrita con claridad.",
+          "faltas": "No aparece la capa emocional del narrador."
+        },
+        "voz_del_alumno": {
+          "tipo": "analítica",
+          "presencia": "media-baja",
+          "honestidad": "baja",
+          "riesgo_emocional": "muy bajo",
+          "notas": "Evita decir qué le pasa a él."
+        },
+        "estructura_interna": {
+          "conflicto": "ausente",
+          "subconflictos": "no aplicables",
+          "puentes": "no necesarios",
+          "movimiento": "estático",
+          "final": "meramente observacional"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "buenos",
+          "abstraccion": "media",
+          "lectura": "El personaje está visible; el narrador, no."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "ausente",
+          "exposicion": "baja",
+          "vinculo": "técnico"
+        },
+        "riesgo": {
+          "emocional": "bajo",
+          "formal": "medio",
+          "tematico": "bajo"
+        },
+        "fortalezas": [
+          "Observación precisa",
+          "Buen ritmo",
+          "Descripciones limpias"
+        ],
+        "areas_crecimiento": [
+          "Aparecer tú",
+          "Añadir emoción o una reacción interna",
+          "Crear tensión entre lo que ves y lo que sientes"
+        ],
+        "potencial_alumno": "Tiene buen ojo; debe aprender a implicarse.",
+        "recomendaciones": [
+          "Incluir una emoción pequeña: incomodidad, ternura, extrañeza",
+          "Crear una frase de vinculación",
+          "Reescribir el cierre desde ti"
+        ]
+      },
+      "comentario_antonia": "Tomás,\n\nLa mujer del autobús está muy bien vista. La describes con una precisión que se agradece, clara, sin exageraciones.\n\nPero tú no estás. Y te necesito a ti. No para que hables de ti, sino para que me digas qué te pasa cuando miras a esa mujer. Una incomodidad, una ternura, una sospecha… algo.\n\nEl ejercicio pedía esa capa emocional. Y tú la esquivas.\n\nTienes un ojo finísimo para observar. Ahora te toca entrar un poco más en lo que te mueve por dentro."
+    },
+    {
+      "id": "ejemplo_09",
+      "informe_interno": {
+        "alumno": "Helena",
+        "titulo_ejercicio": "La casa del padre",
+        "consigna": "Explorar un espacio íntimo con una carga simbólica clara.",
+        "genero_tecnica": "Autoficción simbólica",
+        "extension": "630 palabras",
+        "cumplimiento_consigna": {
+          "eval": "alto",
+          "fortalezas": "La casa tiene un valor simbólico evidente.",
+          "faltas": "El texto se extiende más de lo necesario explicando la misma emoción."
+        },
+        "voz_del_alumno": {
+          "tipo": "grave, contenida",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "alto",
+          "notas": "Voz muy sólida, muy literaria."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "pertinentes",
+          "puentes": "coherentes",
+          "movimiento": "creciente",
+          "final": "demasiado explicativo, resta fuerza"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "excelentes",
+          "abstraccion": "moderada",
+          "lectura": "Muy encarnado hasta el final."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "muy fuerte",
+          "exposicion": "alta",
+          "vinculo": "intenso"
+        },
+        "riesgo": {
+          "emocional": "alto",
+          "formal": "alto",
+          "tematico": "alto"
+        },
+        "fortalezas": [
+          "Gran potencia simbólica",
+          "Imágenes muy claras",
+          "Voz profunda"
+        ],
+        "areas_crecimiento": [
+          "Reducir explicaciones",
+          "Dejar que la escena hable sola",
+          "Contener el cierre"
+        ],
+        "potencial_alumno": "Muy alta capacidad literaria; voz madura.",
+        "recomendaciones": [
+          "Cortar el último tercio del final",
+          "Dejar una imagen en vez de una explicación",
+          "Confiar en la fuerza simbólica del espacio"
+        ]
+      },
+      "comentario_antonia": "Helena…\n\nQué texto tan hondo. La casa está viva, llena de memoria, de sombras, de una fuerza que atraviesa todo lo que cuentas.\n\nSolo te pediría contención en el final. Explicas lo que ya se estaba entendiendo. Y tu texto no necesita eso. La casa habla sola.\n\nSi dejas una imagen final —una esquina, una luz, un objeto— el cierre va a tener un impacto muchísimo mayor.\n\nTienes una voz muy seria y muy hermosa. No la cargues. Déjala respirar."
+    },
+    {
+      "id": "ejemplo_10",
+      "informe_interno": {
+        "alumno": "Álvaro",
+        "titulo_ejercicio": "Mi enemigo",
+        "consigna": "Describir un antagonista real o simbólico sin caer en caricatura.",
+        "genero_tecnica": "Autoficción temática",
+        "extension": "310 palabras",
+        "cumplimiento_consigna": {
+          "eval": "parcial",
+          "fortalezas": "La figura del enemigo está clara.",
+          "faltas": "Cae en caricatura; falta matiz y profundidad."
+        },
+        "voz_del_alumno": {
+          "tipo": "enfadada, rápida",
+          "presencia": "alta",
+          "honestidad": "alta",
+          "riesgo_emocional": "medio",
+          "notas": "La voz es potente pero poco matizada."
+        },
+        "estructura_interna": {
+          "conflicto": "claro",
+          "subconflictos": "no integrados",
+          "puentes": "básicos",
+          "movimiento": "rápido, sin profundidad",
+          "final": "efectista"
+        },
+        "concrecion_vs_abstraccion": {
+          "detalles_concretos": "escasos",
+          "abstraccion": "alta",
+          "lectura": "Mucho discurso, poca escena."
+        },
+        "relacion_texto_autor": {
+          "correlato_subjetivo": "medio",
+          "exposicion": "media",
+          "vinculo": "muy emocional pero poco elaborado"
+        },
+        "riesgo": {
+          "emocional": "medio",
+          "formal": "bajo",
+          "tematico": "medio"
+        },
+        "fortalezas": [
+          "Energía",
+          "Ritmo rápido",
+          "Potencia verbal"
+        ],
+        "areas_crecimiento": [
+          "Matizar al antagonista",
+          "Construir una escena",
+          "Evitar caricatura"
+        ],
+        "potencial_alumno": "Tiene energía literaria; necesita profundidad.",
+        "recomendaciones": [
+          "Crear un gesto concreto del enemigo",
+          "Añadir un matiz que humanice la figura",
+          "Reescribir el final desde menos rabia y más precisión"
+        ]
+      },
+      "comentario_antonia": "Álvaro…\n\nQué energía tienes. Eso es tuyo, y es bueno. Pero aquí te pasas un poquito de velocidad y de rabia, ¿eh?\n\nEl enemigo te sale muy plano. Y tú puedes mucho más. Dale un gesto real. Algo que haya hecho, una frase, un movimiento que te hiera o te incomode de verdad. Sin eso, se queda en caricatura.\n\nCuando bajes un poquito la velocidad y afines la puntería, vas a conseguir un texto con mucha fuerza.\n\nTu voz tiene fuego. Solo falta dirigirlo."
+    }
+  ]
+}

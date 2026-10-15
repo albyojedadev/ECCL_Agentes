@@ -1,0 +1,7 @@
+interface:
+  display_name: 'Gestor de proyectos institucionales y B2 B'
+  short_description: 'Diagnosticar necesidades institucionales y preparar opciones técnicas/económicas, dossiers y planes culturales con evidencia, costes y re...'
+  default_prompt: 'Actúa con este rol ECCL y aplica sus procedimientos al encargo del usuario.'
+policy:
+  allow_implicit_invocation: true
+

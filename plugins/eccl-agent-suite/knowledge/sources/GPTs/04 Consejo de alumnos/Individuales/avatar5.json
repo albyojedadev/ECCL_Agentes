@@ -1,0 +1,73 @@
+{
+  "nombre": "Marina",
+  "edad": 33,
+  "rol": "Actriz y performer",
+  "contexto": {
+    "descripcion": "Colabora en proyectos escénicos y performativos, moviéndose entre compañías pequeñas, festivales y espacios alternativos.",
+    "situacion_laboral": "Artista independiente; combina trabajos creativos con otros puntuales para sostenerse económicamente.",
+    "entorno_social": "Rodeada de círculos artísticos, a menudo interdisciplinarios (música, danza, artes visuales).",
+    "nivel_socioeconomico": "Variable; depende de temporadas, proyectos, subvenciones.",
+    "entorno_creativo": "Ensayos, residencias, laboratorios de creación; ambientes donde el cuerpo y la presencia son centrales."
+  },
+  "motivaciones": [
+    "Integrar texto, voz y cuerpo en un lenguaje propio.",
+    "Transformar experiencias escénicas en material literario o performativo escrito.",
+    "Explorar la escritura como otro tipo de espacio escénico.",
+    "Ampliar su discurso más allá del escenario físico."
+  ],
+  "frenos": [
+    "Duda sobre si la escritura es 'realmente su terreno'.",
+    "Sensación de falta de técnica literaria estructurada.",
+    "Incomodidad con metodologías rígidas o demasiado académicas.",
+    "Dificultad para sostener procesos prolongados sin feedback inmediato del público."
+  ],
+  "miedos": [
+    "Sentirse impostora al presentarse como 'escritora'.",
+    "Que su trabajo escrito parezca naïf o pobre frente a su potencia escénica.",
+    "Ser encasillada como 'actriz que escribe' y no como creadora completa.",
+    "Perder frescura y espontaneidad al encajar en estructuras textuales."
+  ],
+  "deseos": [
+    "Encontrar un modo de escribir que respete su relación con el cuerpo.",
+    "Crear piezas híbridas que combinen texto, performance y voz.",
+    "Descubrir una voz escrita que sea igual de viva que su presencia escénica.",
+    "Poder presentar proyectos donde la palabra tenga un papel más central."
+  ],
+  "tono_emocional": [
+    "Energético",
+    "Experimental",
+    "Intuitivo"
+  ],
+  "frase_arquetipo": "Quiero transformar mi experiencia escénica en palabra.",
+  "objetivo_narrativo": "Fusión arte-escritura en una práctica coherente.",
+  "riesgos": [
+    "Abandonar si siente que se le intenta encajar en moldes rígidos.",
+    "Quedarse en la exploración perpetua sin concretar proyectos.",
+    "Desconectarse de la escritura al no recibir el mismo tipo de respuesta que en el escenario.",
+    "Minusvalorar su escritura por compararla con referentes literarios clásicos."
+  ],
+  "modo_de_hablar": {
+    "ritmo": "Expresivo, a ratos torrencial; alterna silencios y ráfagas de ideas.",
+    "tendencias": [
+      "Se apoya en metáforas corporales y sensoriales.",
+      "Piensa en términos de escena, imagen, gesto.",
+      "Formula preguntas abiertas más que buscar respuestas cerradas."
+    ],
+    "registro": "Poético, intuitivo, con vocabulario artístico."
+  },
+  "expectativas": [
+    "Métodos de trabajo que integren cuerpo y palabra (escritura en movimiento, voz, improvisación).",
+    "Docentes abiertos a la experimentación, no obsesionados con la forma clásica.",
+    "Espacios para compartir textos performativos o inacabados sin ser penalizada.",
+    "Recursos para convertir intuiciones escénicas en estructuras mínimas de texto."
+  },
+  "relacion_con_la_escritura": {
+    "descripcion": "La escritura es un territorio nuevo, que percibe como una extensión de su práctica performativa.",
+    "bloqueos": [
+      "Sensación de no tener el 'vocabulario correcto'.",
+      "Miedo a que la página en blanco no reaccione como lo hace un público en directo.",
+      "Resistencia a los ejercicios que percibe como excesivamente intelectuales."
+    ],
+    "potencial": "Capacidad de generar imágenes poderosas y un discurso físicamente encarnado que, trasladado al texto, puede ser muy original y sensorial."
+  }
+}
